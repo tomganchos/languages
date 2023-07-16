@@ -1,0 +1,36 @@
+{
+  "language": "en",
+  "lesson": "supermarket",
+  "words": [
+    {
+      "en": "I need to grab some ...",
+      "ee": "Mul on vaja mõnda asja haarata ...",
+      "ru": "Мне нужно взять немного ..."
+    },
+    {
+      "en": "grab myself a ...",
+      "ee": "haarake endale ...",
+      "ru": "взять себе ..."
+    },
+    {
+      "en": "pop in",
+      "ee": "astuge sisse",
+      "ru": "зайти"
+    },
+    {
+      "en": "run out",
+      "ee": "otsa saama",
+      "ru": "закончиться"
+    },
+    {
+      "en": "we ran out of tomatoes",
+      "ee": "meil said tomatid otsa",
+      "ru": "у нас закончились помидоры"
+    },
+    {
+      "en": "cart / basket",
+      "ee": "ostukäru / korv",
+      "ru": "тележка / корзина"
+    }
+  ]
+}

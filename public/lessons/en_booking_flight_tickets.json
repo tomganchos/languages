@@ -1,0 +1,193 @@
+{
+  "language": "en",
+  "lesson": "Booking flight tickets",
+  "date": "2023-07-11",
+  "words": [
+    {
+      "en": "to make a reservation",
+      "ee": "broneerima",
+      "ru": "сделать бронирование",
+      "en_t": "tuː meɪk ə ˌrɛzərˈveɪʃən"
+    },
+    {
+      "en": "to book a flight",
+      "ee": "lendu broneerima",
+      "ru": "забронировать рейс",
+      "en_t": "tuː bʊk ə flaɪt"
+    },
+    {
+      "en": "taxi fare",
+      "ee": "taksosõit",
+      "ru": "такси-тариф",
+      "en_t": "ˈtæksi fɛr"
+    },
+    {
+      "en": "bus fare",
+      "ee": "bussisõit",
+      "ru": "автобусный тариф",
+      "en_t": "bʌs fɛr"
+    },
+    {
+      "en": "airfare",
+      "ee": "lennupilet",
+      "ru": "авиабилет",
+      "en_t": "ˈɛrˌfɛər"
+    },
+    {
+      "en": "parcels / goods / packages",
+      "ee": "paketid / kaubad",
+      "ru": "посылки / товары / пакеты",
+      "en_t": "ˈpɑrsəlz / ɡʊdz / ˈpækɪdʒɪz"
+    },
+    {
+      "en": "pilot / copilot",
+      "ee": "piloot / kaaspiloot",
+      "ru": "пилот / второй пилот",
+      "en_t": "ˈpaɪlət / ˈkoʊpaɪlət"
+    },
+    {
+      "en": "cabin crew / steward",
+      "ee": "pardameeskond / stjuuard",
+      "ru": "бортперсонал / стюард(есса)",
+      "en_t": "ˈkæbɪn kru / ˈstuərd"
+    },
+    {
+      "en": "domestically or internationally",
+      "ee": "riigisiseselt või rahvusvaheliselt",
+      "ru": "внутри страны или за границей",
+      "en_t": "dəˈmɛstɪkli ɔr ˌɪntərˈnæʃənəli"
+    },
+    {
+      "en": "abroad / travel abroad",
+      "ee": "välismaal / välismaale reisima",
+      "ru": "за границу / путешествовать за границу",
+      "en_t": "əˈbrɔd / ˈtrævəl əˈbrɔd"
+    },
+    {
+      "en": "welcome on board (ship, plane)",
+      "ee": "teretulemast pardale (laev, lennuk)",
+      "ru": "добро пожаловать на борт (судна, самолета)",
+      "en_t": "ˈwɛlkəm ɒn bɔrd"
+    },
+    {
+      "en": "honeymoon",
+      "ee": "mesinädalad",
+      "ru": "медовый месяц",
+      "en_t": "ˈhʌnimuːn"
+    },
+    {
+      "en": "without layover",
+      "ee": "ümberistumiseta",
+      "ru": "без пересадки",
+      "en_t": "wɪˈðaʊt ˈleɪˌoʊvər"
+    },
+    {
+      "en": "to miss a flight",
+      "ee": "lend maha magama",
+      "ru": "пропустить рейс",
+      "en_t": "tuː mɪs ə flaɪt"
+    },
+    {
+      "en": "to pack a suitcase",
+      "ee": "kohver pakkima",
+      "ru": "упаковать чемодан",
+      "en_t": "tuː pæk ə ˈsuːtkeɪs"
+    },
+    {
+      "en": "to carry-on bag",
+      "ee": "käekott",
+      "ru": "сумка на ручной клади",
+      "en_t": "tuː ˈkæri-ɒn bæɡ"
+    },
+    {
+      "en": "to travel light",
+      "ee": "kerget reisima",
+      "ru": "путешествовать с небольшим багажом",
+      "en_t": "tuː ˈtrævəl laɪt"
+    },
+    {
+      "en": "to travel solo",
+      "ee": "üksinda reisima",
+      "ru": "путешествовать одному",
+      "en_t": "tuː ˈtrævəl ˈsoʊloʊ"
+    },
+    {
+      "en": "fin",
+      "ee": "uim",
+      "ru": "плавник",
+      "en_t": "fɪn"
+    },
+    {
+      "en": "tail",
+      "ee": "saba",
+      "ru": "хвост",
+      "en_t": "teɪl"
+    },
+    {
+      "en": "tailplane",
+      "ee": "sabaosa",
+      "ru": "стабилизатор",
+      "en_t": "ˈteɪlpleɪn"
+    },
+    {
+      "en": "hold",
+      "ee": "pagasiruum",
+      "ru": "грузовой отсек",
+      "en_t": "hoʊld"
+    },
+    {
+      "en": "wing",
+      "ee": "tiib",
+      "ru": "крыло",
+      "en_t": "wɪŋ"
+    },
+    {
+      "en": "cabin",
+      "ee": "kabiin",
+      "ru": "салон (самолета, корабля)",
+      "en_t": "ˈkæbɪn"
+    },
+    {
+      "en": "fuselage",
+      "ee": "kest",
+      "ru": "фюзеляж",
+      "en_t": "ˈfjuːzəˌlɑʒ"
+    },
+    {
+      "en": "jet engine",
+      "ee": "tuumakütusega lennukimootor",
+      "ru": "реактивный двигатель",
+      "en_t": "ʤɛt ˈɛndʒɪn"
+    },
+    {
+      "en": "flight desk",
+      "ee": "lennujuhtimiskeskus",
+      "ru": "диспетчерская служба",
+      "en_t": "flaɪt dɛsk"
+    },
+    {
+      "en": "nose",
+      "ee": "nina",
+      "ru": "нос",
+      "en_t": "noʊz"
+    },
+    {
+      "en": "undercarriage",
+      "ee": "stardivõll",
+      "ru": "шасси",
+      "en_t": "ˈʌndərˌkærɪʤ"
+    },
+    {
+      "en": "to head / heading",
+      "ee": "suunda võtma / suund",
+      "ru": "направляться / направление",
+      "en_t": "tuː hɛd / ˈhɛdɪŋ"
+    },
+    {
+      "en": "air pumps",
+      "ee": "õhupumbad",
+      "ru": "воздушные насосы",
+      "en_t": "ɛr pʌmps"
+    }
+  ]
+}

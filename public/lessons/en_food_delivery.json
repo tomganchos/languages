@@ -1,0 +1,121 @@
+{
+    "language": "en",
+    "lesson": "food delivery",
+    "words": [
+        {
+            "en": "pick up order",
+            "ee": "telli kättesaamine",
+            "ru": "забрать заказ"
+        },
+        {
+            "en": "delivery",
+            "ee": "kohaletoimetamine",
+            "ru": "доставка"
+        },
+        {
+            "en": "your doorstep",
+            "ee": "sinu ukse ette",
+            "ru": "прямо до вашей двери"
+        },
+        {
+            "en": "for here or to go",
+            "ee": "siia või kaasa",
+            "ru": "здесь или с собой"
+        },
+        {
+            "en": "could I have ..",
+            "ee": "kas ma saaksin ..",
+            "ru": "могу я получить .."
+        },
+        {
+            "en": "I would like to have ..",
+            "ee": "ma tahaksin ..",
+            "ru": "я бы хотел .."
+        },
+        {
+            "en": "I'll have ..",
+            "ee": "ma võtan ..",
+            "ru": "я возьму .."
+        },
+        {
+            "en": "could I get ..",
+            "ee": "kas ma saaksin ..",
+            "ru": "могу я взять .."
+        },
+        {
+            "en": "what is the name for it?",
+            "ee": "mis nimi sellel on?",
+            "ru": "как это называется?"
+        },
+        {
+            "en": "what is your favourite doneness?",
+            "ee": "mis on teie lemmik küpsusaste?",
+            "ru": "какую степень прожарки вы предпочитаете?"
+        },
+        {
+            "en": "special diet need?",
+            "ee": "on vaja eritoidukorda?",
+            "ru": "вам нужна специальная диета?"
+        },
+        {
+            "en": "please call me when you pull in",
+            "ee": "palun helista mulle, kui sa saabud",
+            "ru": "позвоните мне, когда приедете"
+        },
+        {
+            "en": "here you are / here you go",
+            "ee": "palun väga / siin see on",
+            "ru": "вот, пожалуйста"
+        },
+        {
+            "en": "advantages",
+            "ee": "eelised",
+            "ru": "преимущества"
+        },
+        {
+            "en": "disadvantages",
+            "ee": "puudused",
+            "ru": "недостатки"
+        },
+        {
+            "en": "delivery fees",
+            "ee": "kohaletoimetamise tasud",
+            "ru": "плата за доставку"
+        },
+        {
+            "en": "file a complaint / raise a complaint",
+            "ee": "esita kaebus",
+            "ru": "подать жалобу"
+        },
+        {
+            "en": "refund",
+            "ee": "tagasimakse",
+            "ru": "возврат денег"
+        },
+        {
+            "en": "I have never got refund",
+            "ee": "mul ei ole kunagi raha tagastatud",
+            "ru": "я никогда не получал возврата денег"
+        },
+        {
+            "en": "portion",
+            "ee": "portsjon",
+            "ru": "порция"
+        },
+        {
+            "en": "go dutch",
+            "ee": "maksame igaüks oma eest",
+            "ru": "платить поровну"
+        },
+        {
+            "en": "what is the special for today?",
+            "ee": "mis on tänane eripakkumine?",
+            "ru": "что в меню дня?"
+        },
+        {
+            "en": "deferred time",
+            "ee": "edasilükatud aeg",
+            "ru": "отложенное время"
+        }
+    ]
+}

@@ -1,0 +1,427 @@
+{
+  "language": "en",
+  "lesson": "clothes",
+  "date": "2023-06-19",
+  "words": [
+    {
+      "en": "to try on",
+      "ee": "selga proovima",
+      "ru": "примерить",
+      "en_t": "tuː traɪ ɒn"
+    },
+    {
+      "en": "to try it on / try the dress on",
+      "ee": "proovi seda selga / proovi kleiti selga",
+      "ru": "примерить это / примерить платье",
+      "en_t": "tuː traɪ ɪt ɒn / traɪ ðə drɛs ɒn"
+    },
+    {
+      "en": "I fit into this dress",
+      "ee": "ma mahun sellesse kleiti",
+      "ru": "я влезаю в это платье",
+      "en_t": "aɪ fɪt ˈɪntu ðɪs drɛs"
+    },
+    {
+      "en": "this dress fits me",
+      "ee": "see kleit sobib mulle",
+      "ru": "это платье мне подходит",
+      "en_t": "ðɪs drɛs fɪts miː"
+    },
+    {
+      "en": "this work fits / suits me",
+      "ee": "see töö sobib mulle",
+      "ru": "эта работа мне подходит",
+      "en_t": "ðɪs wɜrk fɪts / suts miː"
+    },
+    {
+      "en": "to get dressed",
+      "ee": "riietuma",
+      "ru": "одеться",
+      "en_t": "tuː gɛt drɛst"
+    },
+    {
+      "en": "to get undressed",
+      "ee": "lahti riietuma",
+      "ru": "раздеться",
+      "en_t": "tuː gɛt ʌnˈdrɛst"
+    },
+    {
+      "en": "to put on",
+      "ee": "selga panema",
+      "ru": "надеть",
+      "en_t": "tuː pʊt ɒn"
+    },
+    {
+      "en": "to take off",
+      "ee": "ära võtma",
+      "ru": "снять",
+      "en_t": "tuː teɪk ɒf"
+    },
+    {
+      "en": "to zip up",
+      "ee": "lukk üles tõmbama",
+      "ru": "застегнуть на молнию",
+      "en_t": "tuː zɪp ʌp"
+    },
+    {
+      "en": "to button up",
+      "ee": "nööpima",
+      "ru": "застегнуть на пуговицы",
+      "en_t": "tuː ˈbʌtn ʌp"
+    },
+    {
+      "en": "to do up",
+      "ee": "kinnitama",
+      "ru": "застегивать",
+      "en_t": "tuː duː ʌp"
+    },
+    {
+      "en": "zipper",
+      "ee": "lukk",
+      "ru": "молния",
+      "en_t": "ˈzɪpər"
+    },
+    {
+      "en": "to dress up",
+      "ee": "end üles lööma",
+      "ru": "наряжаться",
+      "en_t": "tuː drɛs ʌp"
+    },
+    {
+      "en": "to dress down",
+      "ee": "riietuma vabamalt",
+      "ru": "одеваться непринужденно",
+      "en_t": "tuː drɛs daʊn"
+    },
+    {
+      "en": "to dress up like a ...",
+      "ee": "riietuma nagu ...",
+      "ru": "одеться как ...",
+      "en_t": "tuː drɛs ʌp laɪk ə"
+    },
+    {
+      "en": "to bundle up",
+      "ee": "end soojalt riidesse panema",
+      "ru": "тепло одеться",
+      "en_t": "tuː ˈbʌndl ʌp"
+    },
+    {
+      "en": "to strip down",
+      "ee": "ala kiskuma",
+      "ru": "раздеться",
+      "en_t": "tuː strɪp daʊn"
+    },
+    {
+      "en": "stripper",
+      "ee": "strippar",
+      "ru": "стриптизерка",
+      "en_t": "ˈstrɪpər"
+    },
+    {
+      "en": "shoes laces",
+      "ee": "kingapaelad",
+      "ru": "шнурки для обуви",
+      "en_t": "ʃuːz ˈleɪsɪz"
+    },
+    {
+      "en": "to lace up",
+      "ee": "paelad kinni siduma",
+      "ru": "завязать шнурки",
+      "en_t": "tuː leɪs ʌp"
+    },
+    {
+      "en": "to slip on",
+      "ee": "jalanõusse libistama",
+      "ru": "надеть на ногу",
+      "en_t": "tuː slɪp ɒn"
+    },
+    {
+      "en": "to slip off",
+      "ee": "jalast libistama",
+      "ru": "снять с ноги",
+      "en_t": "tuː slɪp ɒf"
+    },
+    {
+      "en": "to kick off",
+      "ee": "jalast lööma",
+      "ru": "сбросить",
+      "en_t": "tuː kɪk ɒf"
+    },
+    {
+      "en": "loose dress",
+      "ee": "lõdvalt istuv kleit",
+      "ru": "свободное платье",
+      "en_t": "luːs drɛs"
+    },
+    {
+      "en": "we need to go to tailor",
+      "ee": "me peame minema rätsepa juurde",
+      "ru": "нам нужно идти к портному",
+      "en_t": "wiː niːd tuː ɡoʊ tuː ˈteɪlər"
+    },
+    {
+      "en": "he takes in the dress",
+      "ee": "ta võtab kleidi sisse",
+      "ru": "он ушивает платье",
+      "en_t": "hiː teɪks ɪn ðə drɛs"
+    },
+    {
+      "en": "tight dress",
+      "ee": "kitsas kleit",
+      "ru": "тесное платье",
+      "en_t": "taɪt drɛs"
+    },
+    {
+      "en": "he lets the dress out",
+      "ee": "ta laseb kleidi välja",
+      "ru": "он распускает платье",
+      "en_t": "hiː lɛts ðə drɛs aʊt"
+    },
+    {
+      "en": "the laundry",
+      "ee": "pesu",
+      "ru": "белье",
+      "en_t": "ðə ˈlɔndri"
+    },
+    {
+      "en": "to the laundry",
+      "ee": "pesu juurde",
+      "ru": "к белью",
+      "en_t": "tuː ðə ˈlɔndri"
+    },
+    {
+      "en": "to hang up the laundry",
+      "ee": "riputama pesu üles",
+      "ru": "вешать белье",
+      "en_t": "tuː hæŋ ʌp ðə ˈlɔndri"
+    },
+    {
+      "en": "hanger",
+      "ee": "riidepuu",
+      "ru": "вешалка",
+      "en_t": "ˈhæŋər"
+    },
+    {
+      "en": "wardrobe",
+      "ee": "garderoob",
+      "ru": "шкаф для одежды",
+      "en_t": "ˈwɔrˌdroʊb"
+    },
+    {
+      "en": "hook for clothes",
+      "ee": "konks riiete jaoks",
+      "ru": "крючок для одежды",
+      "en_t": "hʊk fɔr kloʊðz"
+    },
+    {
+      "en": "v neck t-shirt",
+      "ee": "v-kaelusega t-särk",
+      "ru": "футболка с V-образным вырезом",
+      "en_t": "viː nɛk tiː ʃɜrt"
+    },
+    {
+      "en": "crew neck t-shirt",
+      "ee": "ringkaelusega t-särk",
+      "ru": "футболка с круглым вырезом",
+      "en_t": "kruː nɛk tiː ʃɜrt"
+    },
+    {
+      "en": "tank top",
+      "ee": "topsisärk",
+      "ru": "майка",
+      "en_t": "tæŋk tɒp"
+    },
+    {
+      "en": "spaghetti tank top",
+      "ee": "spagetirihmadega topsisärk",
+      "ru": "майка на тонких бретелях",
+      "en_t": "spəˈɡɛti tæŋk tɒp"
+    },
+    {
+      "en": "crop top",
+      "ee": "lühike topp",
+      "ru": "короткая майка",
+      "en_t": "krɒp tɒp"
+    },
+    {
+      "en": "ripped pants",
+      "ee": "rebenenud püksid",
+      "ru": "рваные брюки",
+      "en_t": "rɪpt pænts"
+    },
+    {
+      "en": "tight pants",
+      "ee": "kitsad püksid",
+      "ru": "тесные брюки",
+      "en_t": "taɪt pænts"
+    },
+    {
+      "en": "cargo pants",
+      "ee": "lastipüksid",
+      "ru": "карго брюки",
+      "en_t": "ˈkɑrɡoʊ pænts"
+    },
+    {
+      "en": "suit pants",
+      "ee": "ülikonnapüksid",
+      "ru": "брюки костюма",
+      "en_t": "sut pænts"
+    },
+    {
+      "en": "puffy jacket",
+      "ee": "põuejakk",
+      "ru": "пуховик",
+      "en_t": "ˈpʌfi ˈdʒækət"
+    },
+    {
+      "en": "puffy vest",
+      "ee": "põuetopp",
+      "ru": "пуховый жилет",
+      "en_t": "ˈpʌfi vɛst"
+    },
+    {
+      "en": "varsity vest",
+      "ee": "koolivest",
+      "ru": "жилет с логотипом университета",
+      "en_t": "ˈvɑrsɪti vɛst"
+    },
+    {
+      "en": "motorcycle jacket",
+      "ee": "mootorratturite jakk",
+      "ru": "кожаная куртка мотоциклиста",
+      "en_t": "ˈmoʊtərˌsaɪkəl ˈdʒækət"
+    },
+    {
+      "en": "navy coat",
+      "ee": "laevastiku mantel",
+      "ru": "пальто флота",
+      "en_t": "ˈneɪvi koʊt"
+    },
+    {
+      "en": "pea coat",
+      "ee": "mõõgiküti mantel",
+      "ru": "пилотка",
+      "en_t": "piː koʊt"
+    },
+    {
+      "en": "plaid shirt",
+      "ee": "tartanruuduline särk",
+      "ru": "рубашка в клетку",
+      "en_t": "plæd ʃɜrt"
+    },
+    {
+      "en": "plain shirt",
+      "ee": "ühevärviline särk",
+      "ru": "однотонная рубашка",
+      "en_t": "pleɪn ʃɜrt"
+    },
+    {
+      "en": "evening gown",
+      "ee": "õhtukleit",
+      "ru": "вечернее платье",
+      "en_t": "ˈivnɪŋ ɡaʊn"
+    },
+    {
+      "en": "tuxedo",
+      "ee": "smoking",
+      "ru": "смокинг",
+      "en_t": "tʌkˈsiːdoʊ"
+    },
+    {
+      "en": "turtleneck",
+      "ee": "kõrge kaelusega pluus",
+      "ru": "водолазка",
+      "en_t": "ˈtɜrtəlˌnɛk"
+    },
+    {
+      "en": "blazer",
+      "ee": "pintsak",
+      "ru": "блейзер",
+      "en_t": "ˈbleɪzər"
+    },
+    {
+      "en": "windbreaker (jacket)",
+      "ee": "tuulejope",
+      "ru": "ветровка",
+      "en_t": "ˈwɪndˌbreɪkər ˈdʒækət"
+    },
+    {
+      "en": "sneakers",
+      "ee": "tennised",
+      "ru": "кроссовки",
+      "en_t": "ˈsnikərz"
+    },
+    {
+      "en": "combat boots",
+      "ee": "lahingusaapad",
+      "ru": "боевые ботинки",
+      "en_t": "ˈkɑmbæt buːts"
+    },
+    {
+      "en": "pump shoes",
+      "ee": "kõrge kontsaga kingad",
+      "ru": "туфли на высоком каблуке",
+      "en_t": "pʌmp ʃuz"
+    },
+    {
+      "en": "flip-flops",
+      "ee": "plätud",
+      "ru": "шлепанцы",
+      "en_t": "flɪp flɑps"
+    },
+    {
+      "en": "hoodie",
+      "ee": "kapuutsiga sviiter",
+      "ru": "худи",
+      "en_t": "ˈhʊdi"
+    },
+    {
+      "en": "polo t-shirt",
+      "ee": "polosärk",
+      "ru": "поло",
+      "en_t": "ˈpoʊloʊ tiː ʃɜrt"
+    },
+    {
+      "en": "fabric",
+      "ee": "kangas",
+      "ru": "ткань",
+      "en_t": "ˈfæbrɪk"
+    },
+    {
+      "en": "cotton",
+      "ee": "puuvill",
+      "ru": "хлопок",
+      "en_t": "ˈkɑtən"
+    },
+    {
+      "en": "polyester",
+      "ee": "polüester",
+      "ru": "полиэстер",
+      "en_t": "pɒˈlɪɛstər"
+    },
+    {
+      "en": "wool",
+      "ee": "vill",
+      "ru": "шерсть",
+      "en_t": "wʊl"
+    },
+    {
+      "en": "silk",
+      "ee": "siid",
+      "ru": "шелк",
+      "en_t": "sɪlk"
+    },
+    {
+      "en": "linen",
+      "ee": "linane",
+      "ru": "лен",
+      "en_t": "ˈlɪnɪn"
+    },
+    {
+      "en": "to wear in",
+      "ee": "sisse kandma",
+      "ru": "прогуливать (одежду)",
+      "en_t": "tuː wɛr ɪn"
+    }
+  ]
+}

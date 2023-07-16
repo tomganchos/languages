@@ -1,0 +1,22 @@
+[
+  {
+    "ee": "Tere hommikust",
+    "ru": "Доброе утро",
+    "lesson": 1
+  },
+  {
+    "ee": "Tere päevast",
+    "ru": "Добрый день",
+    "lesson": 1
+  },
+  {
+    "ee": "Tere õhtust",
+    "ru": "Добрый вечер",
+    "lesson": 1
+  },
+  {
+    "ee": "Nägemiseni",
+    "ru": "До встречи",
+    "lesson": 1
+  }
+]
