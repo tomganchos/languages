@@ -2,6 +2,7 @@
   <header class="header">
     <h1>Languages</h1>
     <SettingsIcon
+        v-if="currentPage === 'Cards'"
         class="settings"
         @click="$emit('settingsClicked')"
     />
@@ -14,6 +15,11 @@ import SettingsIcon from './icons/SettingsIcon.vue'
 export default {
   name: 'Header',
   components: {SettingsIcon},
+  computed: {
+    currentPage() {
+      return this.$route.name
+    }
+  }
 }
 </script>
 

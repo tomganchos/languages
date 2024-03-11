@@ -67,6 +67,9 @@ export default {
   font-size: 20px;
   margin: 0;
 }
+.grammar-body p {
+  margin: 0;
+}
 .grammar-body pre {
   display: flex;
   width: max-content;

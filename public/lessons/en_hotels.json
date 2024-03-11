@@ -1,0 +1,421 @@
+{
+  "lesson": "Hotels",
+  "date": "2023-07-18",
+  "language": "en",
+  "words": [
+    {
+      "en": "king-size bed",
+      "en_t": "kɪŋ-saɪz bɛd",
+      "ru": "кровать king-size",
+      "ee": "kingsize-voodi"
+    },
+    {
+      "en": "queen size bed",
+      "en_t": "kwiːn saɪz bɛd",
+      "ru": "кровать queen size",
+      "ee": "queen-size voodi"
+    },
+    {
+      "en": "single bed",
+      "en_t": "ˈsɪŋɡl bɛd",
+      "ru": "односпальная кровать",
+      "ee": "üheinimesevoodi"
+    },
+    {
+      "en": "sofa bed/pull-out couch",
+      "en_t": "ˈsəʊfə bɛd / pʊl-aʊt kaʊtʃ",
+      "ru": "диван-кровать",
+      "ee": "diivanvoodi / väljatõmmatav diivan"
+    },
+    {
+      "en": "pull out sofa",
+      "en_t": "pʊl aʊt ˈsəʊfə",
+      "ru": "выдвижной диван",
+      "ee": "väljatõmmatav diivan"
+    },
+    {
+      "en": "vacancy/vacant",
+      "en_t": "ˈveɪkənsi / ˈveɪkənt",
+      "ru": "свободный номер",
+      "ee": "vaba tuba"
+    },
+    {
+      "en": "single room",
+      "en_t": "ˈsɪŋɡl ruːm",
+      "ru": "одноместный номер",
+      "ee": "ühekohaline tuba"
+    },
+    {
+      "en": "double room",
+      "en_t": "ˈdʌbl ruːm",
+      "ru": "двухместный номер",
+      "ee": "kahekohaline tuba"
+    },
+    {
+      "en": "suite",
+      "en_t": "swiːt",
+      "ru": "люкс",
+      "ee": "sviit"
+    },
+    {
+      "en": "adjoining room",
+      "en_t": "əˈdʒɔɪnɪŋ ruːm",
+      "ru": "смежный номер",
+      "ee": "ühendatud tuba"
+    },
+    {
+      "en": "ac",
+      "en_t": "eɪ siː",
+      "ru": "кондиционер",
+      "ee": "õhukonditsioneer"
+    },
+    {
+      "en": "heating",
+      "en_t": "ˈhiːtɪŋ",
+      "ru": "отопление",
+      "ee": "küte"
+    },
+    {
+      "en": "bathroom",
+      "en_t": "ˈbɑːθruːm",
+      "ru": "ванная комната",
+      "ee": "vannituba"
+    },
+    {
+      "en": "internet access",
+      "en_t": "ˈɪntərnɛt ˈæksɛs",
+      "ru": "доступ в интернет",
+      "ee": "internetiühendus"
+    },
+    {
+      "en": "fan",
+      "en_t": "fæn",
+      "ru": "вентилятор",
+      "ee": "ventilaator"
+    },
+    {
+      "en": "patio",
+      "en_t": "ˈpætiəʊ",
+      "ru": "патио",
+      "ee": "terrass"
+    },
+    {
+      "en": "smoke free",
+      "en_t": "sməʊk friː",
+      "ru": "некурящий",
+      "ee": "suitsetamisvaba"
+    },
+    {
+      "en": "complimentary",
+      "en_t": "ˌkɒmplɪˈmɛntəri",
+      "ru": "бесплатный (входит в стоимость)",
+      "ee": "tasuta"
+    },
+    {
+      "en": "bathtub",
+      "en_t": "ˈbɑːθtʌb",
+      "ru": "ванна",
+      "ee": "vann"
+    },
+    {
+      "en": "shower",
+      "en_t": "ˈʃaʊər",
+      "ru": "душ",
+      "ee": "dušš"
+    },
+    {
+      "en": "towel",
+      "en_t": "taʊəl",
+      "ru": "полотенце",
+      "ee": "rätik"
+    },
+    {
+      "en": "robes",
+      "en_t": "roʊbz",
+      "ru": "халаты",
+      "ee": "homikud"
+    },
+    {
+      "en": "toiletries",
+      "en_t": "ˈtɔɪlətriːz",
+      "ru": "туалетные принадлежности",
+      "ee": "hügieenitarbed"
+    },
+    {
+      "en": "hairdryer",
+      "en_t": "ˈheərˌdraɪər",
+      "ru": "фен",
+      "ee": "föön"
+    },
+    {
+      "en": "lamp",
+      "en_t": "læmp",
+      "ru": "лампа",
+      "ee": "lamp"
+    },
+    {
+      "en": "executive desk",
+      "en_t": "ɪɡˈzɛkjətɪv dɛsk",
+      "ru": "письменный стол руководителя",
+      "ee": "tippjuhi laud"
+    },
+    {
+      "en": "kitchenette",
+      "en_t": "ˌkɪtʃɪˈnɛt",
+      "ru": "мини-кухня",
+      "ee": "miniköök"
+    },
+    {
+      "en": "coffee machine",
+      "en_t": "ˈkɒfi məˈʃiːn",
+      "ru": "кофеварка",
+      "ee": "kohvimasin"
+    },
+    {
+      "en": "room service",
+      "en_t": "ruːm ˈsɜːrvɪs",
+      "ru": "обслуживание в номере (еда)",
+      "ee": "toateenindus"
+    },
+    {
+      "en": "turndown service",
+      "en_t": "ˈtɜːndaʊn ˈsɜːrvɪs",
+      "ru": "обслуживание в номере (постельное)",
+      "ee": "õhtune koristus"
+    },
+    {
+      "en": "safe",
+      "en_t": "seɪf",
+      "ru": "сейф",
+      "ee": "seif"
+    },
+    {
+      "en": "armchair",
+      "en_t": "ˈɑːmˌtʃɛər",
+      "ru": "кресло",
+      "ee": "tool"
+    },
+    {
+      "en": "linens",
+      "en_t": "ˈlaɪnənz",
+      "ru": "постельные принадлежности",
+      "ee": "voodipesu"
+    },
+    {
+      "en": "pillow case",
+      "en_t": "ˈpɪloʊ keɪs",
+      "ru": "наволочка",
+      "ee": "padjapüür"
+    },
+    {
+      "en": "iron and ironing board",
+      "en_t": "ˈaɪərn ænd ˈaɪərnɪŋ bɔːrd",
+      "ru": "утюг и гладильная доска",
+      "ee": "triikraud ja triikimislaud"
+    },
+    {
+      "en": "private jacuzzi",
+      "en_t": "ˈpraɪvət dʒəˈkuːzi",
+      "ru": "частный джакузи",
+      "ee": "privaatne mullivann"
+    },
+    {
+      "en": "bar",
+      "en_t": "bɑːr",
+      "ru": "бар",
+      "ee": "baar"
+    },
+    {
+      "en": "airport shuttle",
+      "en_t": "ˈɛərˌpɔrt ˈʃʌtəl",
+      "ru": "трансфер из аэропорта",
+      "ee": "lennujaama transfeer"
+    },
+    {
+      "en": "parking",
+      "en_t": "ˈpɑːrkɪŋ",
+      "ru": "парковка",
+      "ee": "parkimine"
+    },
+    {
+      "en": "fitness and workout",
+      "en_t": "ˈfɪtnɪs ænd ˈwɜːrkˌaʊt",
+      "ru": "фитнес и тренировки",
+      "ee": "fitness ja treening"
+    },
+    {
+      "en": "swimming pool",
+      "en_t": "ˈswɪmɪŋ puːl",
+      "ru": "бассейн",
+      "ee": "ujula"
+    },
+    {
+      "en": "spa",
+      "en_t": "spɑː",
+      "ru": "спа",
+      "ee": "spa"
+    },
+    {
+      "en": "laundry",
+      "en_t": "ˈlɔːndri",
+      "ru": "прачечная",
+      "ee": "pesumaja"
+    },
+    {
+      "en": "dry cleaning",
+      "en_t": "draɪ ˈkliːnɪŋ",
+      "ru": "химчистка",
+      "ee": "keemiline puhastus"
+    },
+    {
+      "en": "business center",
+      "en_t": "ˈbɪznɪs ˈsɛntər",
+      "ru": "бизнес-центр",
+      "ee": "ärakeskus"
+    },
+    {
+      "en": "pets allowed",
+      "en_t": "pɛts əˈlaʊd",
+      "ru": "разрешены домашние животные",
+      "ee": "lemmikloomad on lubatud"
+    },
+    {
+      "en": "reception",
+      "en_t": "rɪˈsɛpʃən",
+      "ru": "ресепшн",
+      "ee": "vastuvõtt"
+    },
+    {
+      "en": "lobby",
+      "en_t": "ˈlɑːbi",
+      "ru": "лоунж",
+      "ee": "fuajee"
+    },
+    {
+      "en": "meeting room",
+      "en_t": "ˈmiːtɪŋ ruːm",
+      "ru": "конференц-зал",
+      "ee": "koosolekuruum"
+    },
+    {
+      "en": "manager",
+      "en_t": "ˈmænɪdʒər",
+      "ru": "менеджер",
+      "ee": "juht"
+    },
+    {
+      "en": "receptionist",
+      "en_t": "rɪˈsɛpʃənɪst",
+      "ru": "администратор",
+      "ee": "administraator"
+    },
+    {
+      "en": "concierge",
+      "en_t": "ˌkɒnˈsjɛərʒ",
+      "ru": "консьерж",
+      "ee": "külaliste teenindaja"
+    },
+    {
+      "en": "bellboy",
+      "en_t": "ˈbɛlˌbɔɪ",
+      "ru": "портье",
+      "ee": "pageja"
+    },
+    {
+      "en": "housekeeping",
+      "en_t": "ˈhaʊsˌkiːpɪŋ",
+      "ru": "горничная",
+      "ee": "majapidamine"
+    },
+    {
+      "en": "valet",
+      "en_t": "væˈleɪ",
+      "ru": "швейцар",
+      "ee": "autoabiline"
+    },
+    {
+      "en": "wedding party",
+      "en_t": "ˈwɛdɪŋ ˈpɑːrti",
+      "ru": "свадебное торжество",
+      "ee": "pulmapeo"
+    },
+    {
+      "en": "Bed and Breakfast",
+      "en_t": "bɛd ænd ˈbrɛkfəst",
+      "ru": "ночлег и завтрак",
+      "ee": "öömaja ja hommikusöök"
+    },
+    {
+      "en": "amenities",
+      "en_t": "əˈmiːnɪtiz",
+      "ru": "удобства",
+      "ee": "mugavused"
+    },
+    {
+      "en": "brochures",
+      "en_t": "ˈbroʊʃərz",
+      "ru": "брошюры",
+      "ee": "brošüürid"
+    },
+    {
+      "en": "damage charge",
+      "en_t": "ˈdæmɪdʒ tʃɑːrdʒ",
+      "ru": "штраф за ущерб",
+      "ee": "kahjutasu"
+    },
+    {
+      "en": "ice machine",
+      "en_t": "aɪs məˈʃiːn",
+      "ru": "ледогенератор",
+      "ee": "jäämasin"
+    },
+    {
+      "en": "indoor pool",
+      "en_t": "ˈɪnˌdɔːr puːl",
+      "ru": "крытый бассейн",
+      "ee": "sisemine bassein"
+    },
+    {
+      "en": "late charge",
+      "en_t": "leɪt tʃɑːrdʒ",
+      "ru": "плата за опоздание",
+      "ee": "hiline tasu"
+    },
+    {
+      "en": "maximum capacity",
+      "en_t": "ˈmæksɪməm kəˈpæsəti",
+      "ru": "максимальная вместимость",
+      "ee": "maksimaalne mahutavus"
+    },
+    {
+      "en": "pay-per-view movie",
+      "en_t": "peɪ-pər-vjuː ˈmuːvi",
+      "ru": "фильм по заказу",
+      "ee": "tellimusteenusena film"
+    },
+    {
+      "en": "vending machine",
+      "en_t": "ˈvɛndɪŋ məˈʃiːn",
+      "ru": "автомат с продуктами",
+      "ee": "müügiautomaat"
+    },
+    {
+      "en": "wake up call",
+      "en_t": "weɪk ʌp kɔːl",
+      "ru": "подъёмный вызов",
+      "ee": "äratuskõne"
+    },
+    {
+      "en": "luxury",
+      "en_t": "ˈlʌkʃəri",
+      "ru": "роскошь",
+      "ee": "luksus"
+    },
+    {
+      "en": "open buffet",
+      "en_t": "ˈoʊpən bʊˈfeɪ",
+      "ru": "шведский стол",
+      "ee": "rootsi laud"
+    }
+  ]
+}

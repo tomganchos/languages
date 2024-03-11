@@ -14,6 +14,11 @@
       <button class="red" @click="dontKnow" :disabled="newCards.length === 0">Не знаю</button>
       <button @click="known" :disabled="newCards.length === 0">Дальше</button>
     </div>
+    <div v-if="isFinished" class="finished">
+      <p>Ты выучил все слова!</p>
+      <p>Можешь <button @click="reset">начать заново</button> или добавить новые слова в настройках</p>
+
+    </div>
   </div>
 </template>
 
@@ -36,6 +41,8 @@ export default {
   },
   computed: {
     currentCard() {
+      console.log('currentCard: %o', this.data)
+      this.fromNewCardsFromCards()
       if (this.data.length === 0) {
         return {
           ru: "Выберите уроки в настройках",
@@ -48,14 +55,7 @@ export default {
   },
   watch: {
     data (newValue, oldValue) {
-      if (JSON.stringify(newValue) !== JSON.stringify(oldValue)) {
-        this.newCards = newValue.map(card => {
-          return {
-            ...card,
-            isKnown: null
-          }
-        })
-      }
+
     }
   },
   methods: {
@@ -68,7 +68,11 @@ export default {
       if (this.currentIndex < this.newCards.length - 1) {
         this.currentIndex++
         while (this.newCards[this.currentIndex].isKnown) {
-          this.currentIndex++
+          if (this.currentIndex < this.newCards.length - 1) {
+            this.currentIndex++
+          } else {
+            this.currentIndex = 0
+          }
         }
       } else {
         this.currentIndex = 0 // Если мы на последней карточке, возвращаемся к первой
@@ -93,6 +97,26 @@ export default {
     toggleTranslation () {
       this.showTranslation = !this.showTranslation
     },
+    fromNewCardsFromCards () {
+      if (this.data.length !== this.newCards.length) {
+        this.newCards = this.data.map(card => {
+          return {
+            ...card,
+            isKnown: null
+          }
+        })
+      }
+    },
+    reset () {
+      this.newCards = this.data.map(card => {
+        return {
+          ...card,
+          isKnown: null
+        }
+      })
+      this.isFinished = false
+      this.currentIndex = 0
+    }
   }
 }
 </script>

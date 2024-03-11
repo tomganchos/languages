@@ -1,0 +1,187 @@
+{
+  "lesson": "Travel",
+  "date": "2023-07-27",
+  "language": "en",
+  "words": [
+    {
+      "en": "itinerary",
+      "en_t": "/aɪˈtɪnəreri/",
+      "ru": "маршрут",
+      "ee": "marsruut"
+    },
+    {
+      "en": "beaten path",
+      "en_t": "/ˈbiːtən pæθ/",
+      "ru": "избитый путь",
+      "ee": "käidud tee"
+    },
+    {
+      "en": "the hidden gem",
+      "en_t": "/ðə ˈhɪdən dʒɛm/",
+      "ru": "скрытая жемчужина",
+      "ee": "peidetud pärl"
+    },
+    {
+      "en": "whirlwind trip",
+      "en_t": "/ˈhwɜːrlwɪnd trɪp/",
+      "ru": "бурное путешествие",
+      "ee": "tormine reis"
+    },
+    {
+      "en": "to strike up a conversation",
+      "en_t": "/tə straɪk ʌp ə ˌkɒnvərˈseɪʃən/",
+      "ru": "завести разговор",
+      "ee": "vestlust alustama",
+      "ee_da": "vestlust alustada",
+      "ee_mina": "ma alustan vestlust"
+    },
+    {
+      "en": "extraordinary",
+      "en_t": "/ɪkˈstrɔːrdɪˌnɛri/",
+      "ru": "экстраординарный",
+      "ee": "erakordne"
+    },
+    {
+      "en": "R&R (rest and recreation)",
+      "en_t": "/ˈɑːr ænd ˈɑːr/",
+      "ru": "отдых и развлечения",
+      "ee": "puhkus ja lõõgastus"
+    },
+    {
+      "en": "to adapt",
+      "en_t": "/əˈdæpt/",
+      "ru": "адаптироваться",
+      "ee": "kohanema",
+      "ee_da": "kohaneda",
+      "ee_mina": "ma kohanen"
+    },
+    {
+      "en": "to acclimate",
+      "en_t": "/ˈæklɪˌmeɪt/",
+      "ru": "акклиматизироваться",
+      "ee": "aklimatiseeruma",
+      "ee_da": "aklimatiseeruda",
+      "ee_mina": "ma aklimatiseerun"
+    },
+    {
+      "en": "culture shock",
+      "en_t": "/ˈkʌltʃər ʃɒk/",
+      "ru": "культурный шок",
+      "ee": "kultuurišokk"
+    },
+    {
+      "en": "reverse culture shock",
+      "en_t": "/rɪˈvɜːrs ˈkʌltʃər ʃɒk/",
+      "ru": "обратный культурный шок",
+      "ee": "tagurpidi kultuurišokk"
+    },
+    {
+      "en": "to unleash myself",
+      "en_t": "/tʊ ʌnˈliːʃ maɪˈsɛlf/",
+      "ru": "освободить себя",
+      "ee": "vabastama ennast",
+      "ee_da": "vabastada ennast",
+      "ee_mina": "ma vabastan ennast"
+    },
+    {
+      "en": "to grasp a language",
+      "en_t": "/tʊ grɑːsp ə ˈlæŋɡwɪdʒ/",
+      "ru": "усвоить язык",
+      "ee": "õppima keelt",
+      "ee_da": "õppida keelt",
+      "ee_mina": "ma õpin keelt"
+    },
+    {
+      "en": "to seclude yourself",
+      "en_t": "/tʊ sɪˈkluːd jɔːˈsɛlf/",
+      "ru": "уединиться",
+      "ee": "eraldama ennast",
+      "ee_da": "eraldada ennast",
+      "ee_mina": "ma eraldan ennast"
+    },
+    {
+      "en": "as time grows on",
+      "en_t": "/æz taɪm grəʊz ɒn/",
+      "ru": "с течением времени",
+      "ee": "ajapikku"
+    },
+    {
+      "en": "we start to blossom",
+      "en_t": "/wiː stɑːrt tʊ ˈblɒsəm/",
+      "ru": "мы начинаем расцветать",
+      "ee": "me hakkame õitsema"
+    },
+    {
+      "en": "tacky souvenirs",
+      "en_t": "/ˈtæki suːvəˈnɪərz/",
+      "ru": "дешевые сувениры",
+      "ee": "odavad suveniirid"
+    },
+    {
+      "en": "lantern",
+      "en_t": "/ˈlæntərn/",
+      "ru": "фонарь",
+      "ee": "latern"
+    },
+    {
+      "en": "to cherish",
+      "en_t": "/ˈtʃɛrɪʃ/",
+      "ru": "лелеять",
+      "ee": "hoidma",
+      "ee_da": "hoida",
+      "ee_mina": "ma hoian"
+    },
+    {
+      "en": "keepsakes",
+      "en_t": "/ˈkiːpseɪks/",
+      "ru": "сувениры",
+      "ee": "mälestusesemed"
+    },
+    {
+      "en": "to see off",
+      "en_t": "/tʊ siː ɒf/",
+      "ru": "провожать",
+      "ee": "ära saatma",
+      "ee_da": "ära saata",
+      "ee_mina": "ma saadan ära"
+    },
+    {
+      "en": "to drop off",
+      "en_t": "/tʊ drɒp ɒf/",
+      "ru": "высадить",
+      "ee": "maha jätma",
+      "ee_da": "maha jätta",
+      "ee_mina": "ma jätan maha"
+    },
+    {
+      "en": "spur of the moment",
+      "en_t": "/spɜːr ɒv ðə ˈmoʊmənt/",
+      "ru": "внезапное решение",
+      "ee": "hetkeotsus"
+    },
+    {
+      "en": "how to get to ...?",
+      "en_t": "/haʊ tʊ gɛt tuː ...?/",
+      "ru": "как добраться до ...?",
+      "ee": "kuidas jõuda ...?"
+    },
+    {
+      "en": "how far is it to ...?",
+      "en_t": "/haʊ fɑːr ɪz ɪt tʊ ...?/",
+      "ru": "как далеко до ...?",
+      "ee": "kui kaugel on ...?"
+    },
+    {
+      "en": "where is the closest ...?",
+      "en_t": "/wɛər ɪz ðə ˈkloʊsɪst ...?/",
+      "ru": "где ближайший ...?",
+      "ee": "kus on lähim ...?"
+    },
+    {
+      "en": "unemployed man",
+      "en_t": "/ˌʌnɪmˈplɔɪd mæn/",
+      "ru": "безработный мужчина",
+      "ee": "töötu mees"
+    }
+  ]
+}

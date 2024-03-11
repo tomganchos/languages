@@ -1,6 +1,6 @@
 {
   "language": "en",
-  "lesson": "Booking flight tickets",
+  "lesson": "Flights",
   "date": "2023-07-11",
   "words": [
     {
@@ -30,7 +30,7 @@
     {
       "en": "airfare",
       "ee": "lennupilet",
-      "ru": "авиабилет",
+      "ru": "авиа тариф",
       "en_t": "ˈɛrˌfɛər"
     },
     {
@@ -162,7 +162,7 @@
     {
       "en": "flight desk",
       "ee": "lennujuhtimiskeskus",
-      "ru": "диспетчерская служба",
+      "ru": "кабина пилотов",
       "en_t": "flaɪt dɛsk"
     },
     {
@@ -186,8 +186,140 @@
     {
       "en": "air pumps",
       "ee": "õhupumbad",
-      "ru": "воздушные насосы",
+      "ru": "воздушные ямы",
       "en_t": "ɛr pʌmps"
+    },
+    {
+      "en": "to take a cart",
+      "en_t": "tuː teɪk ə kɑːrt",
+      "ru": "взять тележку",
+      "ee": "võta korv"
+    },
+    {
+      "en": "to drop off your bags on the cart",
+      "en_t": "tuː drɒp ɔːf jɔːr bæɡz ɒn ðə kɑːrt",
+      "ru": "положить сумки на тележку",
+      "ee": "pane oma kotid korvi"
+    },
+    {
+      "en": "check in",
+      "en_t": "tʃɛk ɪn",
+      "ru": "регистрация на рейс",
+      "ee": "registreerimine"
+    },
+    {
+      "en": "place your suitcases on the scale",
+      "en_t": "pleɪs jɔːr ˈsuːtkəsɪz ɒn ðə skeɪl",
+      "ru": "положите свои чемоданы на весы",
+      "ee": "pane oma kohvrid kaalule"
+    },
+    {
+      "en": "boarding pass",
+      "en_t": "ˈbɔːrdɪŋ pɑːs",
+      "ru": "посадочный талон",
+      "ee": "pardakaart"
+    },
+    {
+      "en": "duty free",
+      "en_t": "ˈdjuːti friː",
+      "ru": "беспошлинный",
+      "ee": "maksuvaba"
+    },
+    {
+      "en": "business lounge",
+      "en_t": "ˈbɪznɪs laʊndʒ",
+      "ru": "бизнес-зал",
+      "ee": "ärilounge"
+    },
+    {
+      "en": "the amenities",
+      "en_t": "ðiː əˈmiːnətiz",
+      "ru": "удобства",
+      "ee": "mugavused"
+    },
+    {
+      "en": "moving walkway",
+      "en_t": "ˈmuːvɪŋ ˈwɔːkweɪ",
+      "ru": "подвижная дорожка",
+      "ee": "liikuv teerada"
+    },
+    {
+      "en": "security check",
+      "en_t": "sɪˈkjʊərəti tʃɛk",
+      "ru": "проверка безопасности",
+      "ee": "turvakontroll"
+    },
+    {
+      "en": "pat check",
+      "en_t": "pæt tʃɛk",
+      "ru": "осмотр",
+      "ee": "läbivaatus"
+    },
+    {
+      "en": "to step through the scanner",
+      "en_t": "tuː stɛp θruː ðə ˈskænər",
+      "ru": "пройти через сканер",
+      "ee": "läbima skanneri"
+    },
+    {
+      "en": "long haul flight",
+      "en_t": "lɒŋ hɔːl flaɪt",
+      "ru": "длительный перелет",
+      "ee": "pikk lend"
+    },
+    {
+      "en": "transatlantic flight",
+      "en_t": "trænzətˈlæntɪk flaɪt",
+      "ru": "трансатлантический рейс",
+      "ee": "üle-Atlandi lend"
+    },
+    {
+      "en": "red eye flight",
+      "en_t": "rɛd aɪ flaɪt",
+      "ru": "ночной рейс",
+      "ee": "öine lend"
+    },
+    {
+      "en": "in couch class",
+      "en_t": "ɪn kuːtʃ klɑːs",
+      "ru": "в эконом-классе",
+      "ee": "turistiklassis"
+    },
+    {
+      "en": "wider seats",
+      "en_t": "ˈwaɪdər siːts",
+      "ru": "широкие сиденья",
+      "ee": "laiemad istmed"
+    },
+    {
+      "en": "I am off to",
+      "en_t": "aɪ æm ɒf tuː",
+      "ru": "я отправляюсь в",
+      "ee": "olen teel"
+    },
+    {
+      "en": "the baggage claim",
+      "en_t": "ðə ˈbæɡɪdʒ kleɪm",
+      "ru": "место выдачи багажа",
+      "ee": "pagasi väljastus"
+    },
+    {
+      "en": "all set",
+      "en_t": "ɔːl sɛt",
+      "ru": "всё готово",
+      "ee": "kõik valmis"
+    },
+    {
+      "en": "to activate the roaming",
+      "en_t": "tuː ˈæktɪveɪt ðə ˈrəʊmɪŋ",
+      "ru": "включить роуминг",
+      "ee": "roamingu sisse lülitama"
+    },
+    {
+      "en": "fluid leak",
+      "en_t": "ˈfluːɪd liːk",
+      "ru": "утечка жидкости",
+      "ee": "vedeliku leke"
     }
   ]
 }

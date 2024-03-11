@@ -1,13 +1,33 @@
 {
   "lessons": [
-    "en_clothes.json",
+    "en_spring.json",
+    "en_cooking.json",
+    "en_just_words.json",
+    "en_describing_food.json",
     "en_food_delivery.json",
-    "en_online_shopping.json",
     "en_supermarket.json",
+    "en_clothes.json",
+    "en_online_shopping.json",
     "en_idioms.json",
-    "en_booking_flight_tickets.json"
+    "en_flights.json",
+    "en_hotels.json",
+    "en_travel.json",
+    "ee_tere.json",
+    "en_business.json",
+    "en_catan.json",
+    "en_catan_tournament.json"
   ],
   "grammar": [
+    {
+      "title": "Present Simple",
+        "language": "en",
+        "link": "en_present_simple.html"
+    },
+    {
+      "title": "Past Simple",
+        "language": "en",
+        "link": "en_past_simple.html"
+    },
     {
       "title": "Past Continuous",
       "language": "en",

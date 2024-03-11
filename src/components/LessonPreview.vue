@@ -73,10 +73,13 @@ header h1 {
   font-size: 24px;
 }
 ul {
-  height: 100%;
+  height: 0;
   margin: 24px 0 0;
   overflow: auto;
   padding: 0;
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
 }
 li {
   display: flex;

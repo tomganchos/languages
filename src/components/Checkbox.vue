@@ -4,8 +4,8 @@
     <div class="left-block">
       <input type="checkbox" :id="label" :checked="modelValue" @change="updateValue">
       <label :for="label">
-        <span>{{ label }}</span>
-        {{ lesson.date ? `(${lesson.date})` : '' }}
+        <span class="label">{{ label }}</span>
+        <span class="date">{{ lesson.date ? `${lesson.date}` : '' }}</span>
       </label>
     </div>
     <div class="right-block">
@@ -83,8 +83,17 @@ export default {
   width: 18px;
   margin: 0 8px 0 0;
 }
-.left-block label span {
+.left-block label {
+  display: flex;
+  align-items: center;
+}
+.left-block label .label {
   font-weight: 500;
+}
+.left-block label .date {
+  color: #ccc;
+  font-size: 80%;
+  margin-left: 8px;
 }
 .right-block svg {
   height: 24px;

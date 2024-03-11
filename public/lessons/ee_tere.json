@@ -1,0 +1,504 @@
+{
+  "lesson": "Tere!",
+  "language": "ee",
+  "words": [
+    {
+      "en": "Good morning",
+      "en_t": "ˈɡʊd ˈmɔːrnɪŋ",
+      "ru": "Доброе утро",
+      "ee": "Tere hommikust"
+    },
+    {
+      "en": "Good day",
+      "en_t": "ɡʊd deɪ",
+      "ru": "Добрый день",
+      "ee": "Tere päevast"
+    },
+    {
+      "en": "Good evening",
+      "en_t": "ˈɡʊd ˈiːvnɪŋ",
+      "ru": "Добрый вечер",
+      "ee": "Tere õhtust"
+    },
+    {
+      "en": "Goodbye",
+      "en_t": "ɡʊdˈbaɪ",
+      "ru": "До свидания",
+      "ee": "Head aega"
+    },
+    {
+      "en": "See you",
+      "en_t": "siː juː",
+      "ru": "До встречи",
+      "ee": "Nägemiseni"
+    },
+    {
+      "en": "See you",
+      "en_t": "siː juː",
+      "ru": "До встречи",
+      "ee": "Nägemist"
+    },
+    {
+      "en": "All the best",
+      "en_t": "ɔːl ðə bɛst",
+      "ru": "Всего наилучшего",
+      "ee": "Kõike head"
+    },
+    {
+      "en": "Until we hear from you",
+      "en_t": "ˌʌnˈtɪl wiː hɪr frʌm juː",
+      "ru": "До связи",
+      "ee": "Kuulmiseni"
+    },
+    {
+      "en": "Until tomorrow",
+      "en_t": "ˌʌnˈtɪl təˈmɒroʊ",
+      "ru": "До завтра",
+      "ee": "Homseni"
+    },
+    {
+      "en": "Good evening",
+      "en_t": "ˈɡʊd ˈiːvnɪŋ",
+      "ru": "Добрый вечер",
+      "ee": "Head õhtut"
+    },
+    {
+      "en": "Monday",
+      "en_t": "ˈmʌndeɪ",
+      "ru": "Понедельник",
+      "ee": "Esmaspäev"
+    },
+    {
+      "en": "Tuesday",
+      "en_t": "ˈtjuːzdeɪ",
+      "ru": "Вторник",
+      "ee": "Teisipäev"
+    },
+    {
+      "en": "Wednesday",
+      "en_t": "ˈwɛnzdeɪ",
+      "ru": "Среда",
+      "ee": "Kolmapäev"
+    },
+    {
+      "en": "Thursday",
+      "en_t": "ˈθɜːrzdeɪ",
+      "ru": "Четверг",
+      "ee": "Neljapäev"
+    },
+    {
+      "en": "Friday",
+      "en_t": "ˈfraɪdeɪ",
+      "ru": "Пятница",
+      "ee": "Reede"
+    },
+    {
+      "en": "Saturday",
+      "en_t": "ˈsætərdeɪ",
+      "ru": "Суббота",
+      "ee": "Laupäev"
+    },
+    {
+      "en": "Sunday",
+      "en_t": "ˈsʌndeɪ",
+      "ru": "Воскресенье",
+      "ee": "Pühapäev"
+    },
+    {
+      "en": "January",
+      "en_t": "dʒəˈnjuːˌeri",
+      "ru": "Январь",
+      "ee": "Jaanuar"
+    },
+    {
+      "en": "February",
+      "en_t": "ˈfɛbrʊˌeri",
+      "ru": "Февраль",
+      "ee": "Veebruar"
+    },
+    {
+      "en": "March",
+      "en_t": "mɑːrtʃ",
+      "ru": "Март",
+      "ee": "Märts"
+    },
+    {
+      "en": "April",
+      "en_t": "ˈeɪprəl",
+      "ru": "Апрель",
+      "ee": "Aprill"
+    },
+    {
+      "en": "May",
+      "en_t": "meɪ",
+      "ru": "Май",
+      "ee": "Mai"
+    },
+    {
+      "en": "June",
+      "en_t": "dʒuːn",
+      "ru": "Июнь",
+      "ee": "Juuni"
+    },
+    {
+      "en": "July",
+      "en_t": "dʒʊˈlaɪ",
+      "ru": "Июль",
+      "ee": "Juuli"
+    },
+    {
+      "en": "August",
+      "en_t": "əˈɡʌst",
+      "ru": "Август",
+      "ee": "August"
+    },
+    {
+      "en": "September",
+      "en_t": "sɛpˈtɛmbər",
+      "ru": "Сентябрь",
+      "ee": "September"
+    },
+    {
+      "en": "October",
+      "en_t": "ɒkˈtoʊbər",
+      "ru": "Октябрь",
+      "ee": "Oktoober"
+    },
+    {
+      "en": "November",
+      "en_t": "noʊˈvɛmbər",
+      "ru": "Ноябрь",
+      "ee": "November"
+    },
+    {
+      "en": "December",
+      "en_t": "dɪˈsɛmbər",
+      "ru": "Декабрь",
+      "ee": "Detsember"
+    },
+    {
+      "en": "Come here",
+      "en_t": "kʌm ˈhɪr",
+      "ru": "Приди сюда",
+      "ee": "Tule siia"
+    },
+    {
+      "en": "I'll be right there",
+      "en_t": "aɪl bi raɪt ðɛr",
+      "ru": "Я сейчас приду",
+      "ee": "Kohe tulen"
+    },
+    {
+      "en": "Sit, please",
+      "en_t": "sɪt pliːz",
+      "ru": "Садись, пожалуйста",
+      "ee": "Istu, palun"
+    },
+    {
+      "en": "Where should I sit?",
+      "en_t": "wɛər ʃʊd aɪ sɪt?",
+      "ru": "Где мне сесть?",
+      "ee": "Kuhu ma istun?"
+    },
+    {
+      "en": "Call me then",
+      "en_t": "kɔːl miː ðɛn",
+      "ru": "Тогда позвони мне",
+      "ee": "Helista siis mulle"
+    },
+    {
+      "en": "Alright, I will call",
+      "en_t": "ɔːlˈraɪt, aɪ wɪl kɔːl",
+      "ru": "Хорошо, я позвоню",
+      "ee": "Olgu, helistan"
+    },
+    {
+      "en": "Drink more coffee",
+      "en_t": "drɪŋk mɔːr ˈkɒfi",
+      "ru": "Пей еще кофе",
+      "ee": "Joo veel kohvi"
+    },
+    {
+      "en": "No, thank you. I don't want anymore",
+      "en_t": "noʊ, θæŋk juː. aɪ doʊnt wɒnt ˌænɪˈmɔːr",
+      "ru": "Нет, спасибо. Я больше не хочу",
+      "ee": "Ei, aitäh. Ma rohkem ei taha"
+    },
+    {
+      "en": "Please don't do it like that",
+      "en_t": "pliːz doʊnt duː ɪt laɪk ðæt",
+      "ru": "Пожалуйста, не делай так",
+      "ee": "Palun ära tee niimoodi"
+    },
+    {
+      "en": "Sorry! I won't do it anymore",
+      "en_t": "ˈsɑːri! aɪ woʊnt duː ɪt ˌænɪˈmɔːr",
+      "ru": "Прошу прощения! Я больше так не буду делать",
+      "ee": "Vabandust! Ma enam ei tee"
+    },
+    {
+      "en": "Don't eat chocolate",
+      "en_t": "doʊnt it ˈʧɑːklət",
+      "ru": "Не ешь шоколад",
+      "ee": "Ära söö šokolaadi"
+    },
+    {
+      "en": "Eat a banana instead",
+      "en_t": "it ə bəˈnænə ɪnˈstɛd",
+      "ru": "Лучше съешь банан",
+      "ee": "Söö parem banaani"
+    },
+    {
+      "en": "I don't want to",
+      "en_t": "aɪ doʊnt wɒnt tuː",
+      "ru": "Я не хочу",
+      "ee": "Ma ei taha"
+    },
+    {
+      "en": "I eat",
+      "en_t": "aɪ it",
+      "ru": "Я ем",
+      "ee": "Ma söön"
+    },
+    {
+      "en": "I drink",
+      "en_t": "aɪ drɪŋk",
+      "ru": "Я пью",
+      "ee": "Ma joon"
+    },
+    {
+      "en": "I sit",
+      "en_t": "aɪ sɪt",
+      "ru": "Я сижу",
+      "ee": "Ma istun"
+    },
+    {
+      "en": "Eat",
+      "en_t": "it",
+      "ru": "Ешь",
+      "ee": "Söö"
+    },
+    {
+      "en": "Drink",
+      "en_t": "drɪŋk",
+      "ru": "Пей",
+      "ee": "Joo"
+    },
+    {
+      "en": "Sit",
+      "en_t": "sɪt",
+      "ru": "Сиди",
+      "ee": "Istu"
+    },
+    {
+      "en": "Don't eat",
+      "en_t": "doʊnt it",
+      "ru": "Не ешь",
+      "ee": "Ära söö"
+    },
+    {
+      "en": "I don't eat",
+      "en_t": "aɪ doʊnt it",
+      "ru": "Я не ем",
+      "ee": "Ma ei söö"
+    },
+    {
+      "en": "Tomorrow",
+      "en_t": "təˈmɒroʊ",
+      "ru": "Завтра",
+      "ee": "Homme"
+    },
+    {
+      "en": "Please",
+      "en_t": "pliːz",
+      "ru": "Пожалуйста",
+      "ee": "Palun"
+    },
+    {
+      "en": "Thank you",
+      "en_t": "ˈθæŋk juː",
+      "ru": "Спасибо",
+      "ee": "Aitäh/Tänan"
+    },
+    {
+      "en": "Thank you very much",
+      "en_t": "ˈθæŋk juː vɛriː ˈmʌʧ",
+      "ru": "Большое спасибо",
+      "ee": "Suur tänu"
+    },
+    {
+      "en": "I'm sorry, please excuse me",
+      "en_t": "aɪm ˈsɒriː, pliːz ɪkˈskjuːz miː",
+      "ru": "Прошу прощения",
+      "ee": "Palun vabandust"
+    },
+    {
+      "en": "It's nothing",
+      "en_t": "ɪts ˈnʌθɪŋ",
+      "ru": "Ничего страшного",
+      "ee": "Pole midagi"
+    },
+    {
+      "en": "Sorry",
+      "en_t": "ˈsɒriː",
+      "ru": "Извините",
+      "ee": "Vabandust"
+    },
+    {
+      "en": "It's okay",
+      "en_t": "ɪts oʊˈkeɪ",
+      "ru": "Всё в порядке",
+      "ee": "Pole viga"
+    },
+    {
+      "en": "Mistake",
+      "en_t": "mɪˈsteɪk",
+      "ru": "Ошибка",
+      "ee": "Viga"
+    },
+    {
+      "en": "Forgive me",
+      "en_t": "fərˈgɪv miː",
+      "ru": "Прости меня",
+      "ee": "Anna andeks"
+    },
+    {
+      "en": "It's fine",
+      "en_t": "ɪts faɪn",
+      "ru": "Всё хорошо",
+      "ee": "Pole hullu"
+    },
+    {
+      "en": "What time is it?",
+      "en_t": "wɒt taɪm ɪz ɪt?",
+      "ru": "Сколько времени?",
+      "ee": "Mis kell on?"
+    },
+    {
+      "en": "It's one o'clock",
+      "en_t": "ɪts wʌn əˈklɒk",
+      "ru": "Час ночи",
+      "ee": "Kell on üks"
+    },
+    {
+      "en": "It's already seven",
+      "en_t": "ɪts əˈlrediː ˈsɛvən",
+      "ru": "Уже семь часов",
+      "ee": "Kell on juba seitse"
+    },
+    {
+      "en": "How much is the time?",
+      "en_t": "haʊ mʌʧ ɪz ðə taɪm?",
+      "ru": "Сколько времени?",
+      "ee": "Kui palju kell on?"
+    },
+    {
+      "en": "It's half past six",
+      "en_t": "ɪts hɑːf pɑːst sɪks",
+      "ru": "Половина седьмого",
+      "ee": "Kell on pool seitse"
+    },
+    {
+      "en": "One moment, I'll check right away, it's a quarter to three",
+      "en_t": "wʌn ˈmoʊmənt, aɪl ʧɛk raɪt əˈweɪ, ɪts ə ˈkwɔːrtər tʊ θriː",
+      "ru": "Один момент, сейчас проверю, без четверти три",
+      "ee": "Üks hetk, ma kohe vaatan, veerand kolm"
+    },
+    {
+      "en": "Help! It's already quarter to twelve",
+      "en_t": "hɛlp! ɪts əˈlrediː ˈkwɔːrtər tʊ twɛlv",
+      "ru": "Боже! Уже без четверти двенадцать",
+      "ee": "Appi! Kell on juba kolmveerand kaksteist"
+    },
+    {
+      "en": "One",
+      "en_t": "wʌn",
+      "ru": "Один",
+      "ee": "Üks"
+    },
+    {
+      "en": "Two",
+      "en_t": "tuː",
+      "ru": "Два",
+      "ee": "Kaks"
+    },
+    {
+      "en": "Three",
+      "en_t": "θriː",
+      "ru": "Три",
+      "ee": "Kolm"
+    },
+    {
+      "en": "Four",
+      "en_t": "fɔːr",
+      "ru": "Четыре",
+      "ee": "Neli"
+    },
+    {
+      "en": "Five",
+      "en_t": "faɪv",
+      "ru": "Пять",
+      "ee": "Viis"
+    },
+    {
+      "en": "Six",
+      "en_t": "sɪks",
+      "ru": "Шесть",
+      "ee": "Kuus"
+    },
+    {
+      "en": "Seven",
+      "en_t": "ˈsɛvən",
+      "ru": "Семь",
+      "ee": "Seitse"
+    },
+    {
+      "en": "Eight",
+      "en_t": "eɪt",
+      "ru": "Восемь",
+      "ee": "Kaheksa"
+    },
+    {
+      "en": "Nine",
+      "en_t": "naɪn",
+      "ru": "Девять",
+      "ee": "Üheksa"
+    },
+    {
+      "en": "Ten",
+      "en_t": "tɛn",
+      "ru": "Десять",
+      "ee": "Kümme"
+    },
+    {
+      "en": "Eleven",
+      "en_t": "ɪˈlɛvən",
+      "ru": "Одиннадцать",
+      "ee": "Üksteist"
+    },
+    {
+      "en": "Twelve",
+      "en_t": "twɛlv",
+      "ru": "Двенадцать",
+      "ee": "Kaksteist"
+    },
+    {
+      "en": "Quarter",
+      "en_t": "ˈkwɔːrtər",
+      "ru": "Четверть",
+      "ee": "Veerand"
+    },
+    {
+      "en": "Half",
+      "en_t": "hɑːf",
+      "ru": "Половина",
+      "ee": "Pool"
+    },
+    {
+      "en": "Three quarters",
+      "en_t": "θriː ˈkwɔːrtərz",
+      "ru": "Три четверти",
+      "ee": "Kolmveerand"
+    }
+  ]
+}

@@ -30,11 +30,15 @@ export default {
     return {
       lessons: [],
       grammarList: [],
+      allWords: [],
       showSettings: false,
       selectedLessons: [],
     }
   },
   computed: {
+    currentRoute() {
+      return this.$route.name
+    },
     cards() {
       console.log('cards computed: %o', this.cards)
       return this.selectedLessons.flatMap(lesson => {
@@ -58,18 +62,25 @@ export default {
         return this.cards
       } else if (this.$route.name === 'Grammar') {
         return this.grammarList
+      } else if (this.$route.name === 'Search') {
+        return this.allWords
       } else {
         return []
       }
     }
   },
   created() {
-    fetch('./lessons.json')
+    fetch(`./lessons.json?${Math.random()}`)
         .then(response => response.json())
         .then(data => {
           this.loadLessons(data.lessons)
           this.loadGrammar(data.grammar)
         });
+  },
+  watch: {
+    currentRoute () {
+      this.showSettings = false
+    }
   },
   methods: {
     updateLessons(selectedLessons) {
@@ -92,6 +103,7 @@ export default {
             .then(lessonData => {
               lessons.push(lessonData)
               this.lessons = lessons
+              this.setAllWords()
               const savedLessons = JSON.parse(localStorage.getItem('lessons')) || []
               this.selectedLessons = lessons.filter(lesson => savedLessons.includes(lesson.lesson))
               this.shuffleCards()
@@ -113,6 +125,23 @@ export default {
             });
       });
       this.grammarList = grammarList
+    },
+    setAllWords () {
+      this.allWords = this.lessons.flatMap(lesson => {
+        const lessonName = lesson.lesson
+        const lessonLanguage = lesson.language
+
+        return lesson.words.map(word => {
+          return {
+            lesson: lessonName,
+            language: lessonLanguage,
+            en: word.en,
+            ee: word.ee,
+            ru: word.ru,
+            en_t: word.en_t
+          }
+        })
+      })
     }
   }
 }

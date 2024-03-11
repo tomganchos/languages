@@ -1,0 +1,117 @@
+{
+  "lesson": "Describing food",
+  "date": "2023-05-19",
+  "language": "en",
+  "words": [
+    {
+      "en": "bitter",
+      "en_t": "ˈbɪtər",
+      "ru": "горький",
+      "ee": "mõru"
+    },
+    {
+      "en": "bland",
+      "en_t": "blænd",
+      "ru": "невыразительный (о вкусе)",
+      "ee": "mahe"
+    },
+    {
+      "en": "chewy",
+      "en_t": "ˈtʃuːi",
+      "ru": "жевательный",
+      "ee": "närtsuv"
+    },
+    {
+      "en": "creamy",
+      "en_t": "ˈkriːmi",
+      "ru": "кремовый",
+      "ee": "koorene"
+    },
+    {
+      "en": "crispy",
+      "en_t": "ˈkrɪspi",
+      "ru": "хрустящий",
+      "ee": "krõbe"
+    },
+    {
+      "en": "brittle",
+      "en_t": "ˈbrɪtl",
+      "ru": "ломкий",
+      "ee": "krõbe"
+    },
+    {
+      "en": "crumbly",
+      "en_t": "ˈkrʌmbl̩i",
+      "ru": "крошащийся",
+      "ee": "purunev"
+    },
+    {
+      "en": "to crumble",
+      "en_t": "ˈkrʌmbl̩",
+      "ru": "крошиться",
+      "ee": "purunema",
+      "ee_da": "puruneb",
+      "ee_mina": "mina purunen"
+    },
+    {
+      "en": "crumbs",
+      "en_t": "krʌmz",
+      "ru": "крошки",
+      "ee": "purukoor"
+    },
+    {
+      "en": "crunchy",
+      "en_t": "ˈkrʌntʃi",
+      "ru": "хрустящий",
+      "ee": "krõmpsuv"
+    },
+    {
+      "en": "delicious",
+      "en_t": "dɪˈlɪʃəs",
+      "ru": "вкусный",
+      "ee": "maitsv"
+    },
+    {
+      "en": "appetizer",
+      "en_t": "ˈæpɪtaɪzər",
+      "ru": "закуска",
+      "ee": "eelseisukoht"
+    },
+    {
+      "en": "the main course",
+      "en_t": "ðə meɪn kɔːrs",
+      "ru": "основное блюдо",
+      "ee": "pearoog"
+    },
+    {
+      "en": "dry",
+      "en_t": "draɪ",
+      "ru": "сухой",
+      "ee": "kuiv"
+    },
+    {
+      "en": "fresh",
+      "en_t": "freʃ",
+      "ru": "свежий",
+      "ee": "värske"
+    },
+    {
+      "en": "preserved",
+      "en_t": "prɪˈzɜːvd",
+      "ru": "консервированный",
+      "ee": "konserveeritud"
+    },
+    {
+      "en": "pod",
+      "en_t": "pɒd",
+      "ru": "стручок (семян)",
+      "ee": "kaun"
+    },
+    {
+      "en": "seed vessel",
+      "en_t": "siːd ˈvɛsəl",
+      "ru": "семенная оболочка",
+      "ee": "seemneümbris"
+    }
+  ]
+}

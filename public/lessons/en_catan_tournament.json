@@ -1,0 +1,862 @@
+{
+ "lesson": "Catan Tournament Rules",
+ "language": "en",
+ "words": [
+  {
+   "en": "to gather",
+   "ru": "собирать"
+  },
+  {
+   "en": "Players of Catan gather!",
+   "ru": "Игроки Катана собираются вместе!"
+  },
+  {
+   "en": "registration fee",
+   "ru": "регистрационный взнос"
+  },
+  {
+   "en": "mandatory",
+   "ru": "обязательный"
+  },
+  {
+   "en": "accomodation deals",
+   "ru": "предложения по размещению"
+  },
+  {
+   "en": "venue",
+   "ru": "место встречи\/проведения"
+  },
+  {
+   "en": "participants",
+   "ru": "участники"
+  },
+  {
+   "en": "to compete",
+   "ru": "участвовать\/соревноваться"
+  },
+  {
+   "en": "to attend",
+   "ru": "присутствовать\/посещать"
+  },
+  {
+   "en": "to refund",
+   "ru": "возвращать (деньги)"
+  },
+  {
+   "en": "to issue",
+   "ru": "выдавать"
+  },
+  {
+   "en": "Catan tournament rules",
+   "ru": "правила турнира Катан"
+  },
+  {
+   "en": "round",
+   "ru": "тур\/раунд"
+  },
+  {
+   "en": "match",
+   "ru": "матч"
+  },
+  {
+   "en": "board",
+   "ru": "игровая доска"
+  },
+  {
+   "en": "approximately",
+   "ru": "примерно"
+  },
+  {
+   "en": "starting villages",
+   "ru": "стартовые деревни"
+  },
+  {
+   "en": "pick (first pick of colour)",
+   "ru": "выбор"
+  },
+  {
+   "en": "ranking",
+   "ru": "рейтинг"
+  },
+  {
+   "en": "the player's score",
+   "ru": "счет игрока"
+  },
+  {
+   "en": "to determine",
+   "ru": "определять\/устанавливать"
+  },
+  {
+   "en": "complete the game",
+   "ru": "завершить игру"
+  },
+  {
+   "en": "game report sheet or record sheet",
+   "ru": "протокол игры"
+  },
+  {
+   "en": "fill in the game report sheet",
+   "ru": "заполнить протокол"
+  },
+  {
+   "en": "to confirm",
+   "ru": "подтверждать"
+  },
+  {
+   "en": "organizers's table",
+   "ru": "стол организаторов"
+  },
+  {
+   "en": "hold (held)",
+   "ru": "проводить (проводился)"
+  },
+  {
+   "en": "Conversation in another language are considered a violation",
+   "ru": "разговор на другом языке считается нарушением"
+  },
+  {
+   "en": "dealing out",
+   "ru": "раздача (карт)"
+  },
+  {
+   "en": "taking in resources and devepopment cards",
+   "ru": "получение ресурсов и карт развития"
+  },
+  {
+   "en": "banker",
+   "ru": "банкир"
+  },
+  {
+   "en": "game's length",
+   "ru": "продолжительность игры"
+  },
+  {
+   "en": "take turns",
+   "ru": "делать ходы"
+  },
+  {
+   "en": "unnecessary procrastination",
+   "ru": "ненужная прокрастинация"
+  },
+  {
+   "en": "dice",
+   "ru": "кубики"
+  },
+  {
+   "en": "land on an uneven surface",
+   "ru": "приземлиться на неровную поверхность"
+  },
+  {
+   "en": "re-roll",
+   "ru": "перекидывать (кубики)"
+  },
+  {
+   "en": "verbal agreements are not binding",
+   "ru": "устные соглашения не имеют обязательной силы"
+  },
+  {
+   "en": "physically influencing opponents",
+   "ru": "физическое воздействие на противников"
+  },
+  {
+   "en": "spectators",
+   "ru": "зрители"
+  },
+  {
+   "en": "to interact",
+   "ru": "взаимодействовать"
+  },
+  {
+   "en": "referee",
+   "ru": "судья"
+  },
+  {
+   "en": "to prohibit",
+   "ru": "запретить\/запрещать"
+  },
+  {
+   "en": "placement",
+   "ru": "место в турнирной таблице"
+  },
+  {
+   "en": "seeding\/seed",
+   "ru": "предварительный рейтинг (фора)"
+  },
+  {
+   "en": "to earn",
+   "ru": "набрать\/заработать (очки)"
+  },
+  {
+   "en": "to apply",
+   "ru": "применять\/относиться (к кому-то)"
+  },
+  {
+   "en": "regardless",
+   "ru": "независимо"
+  },
+  {
+   "en": "Catan Code of Conduct",
+   "ru": "Кодекс поведения Катан"
+  },
+  {
+   "en": "outcome of a game",
+   "ru": "результат игры"
+  },
+  {
+   "en": "unfair",
+   "ru": "несправедливый"
+  },
+  {
+   "en": "to submitte",
+   "ru": "представлять на рассмотрение"
+  },
+  {
+   "en": "protest",
+   "ru": "протест"
+  },
+  {
+   "en": "to permite",
+   "ru": "разрешать"
+  },
+  {
+   "en": "to alter",
+   "ru": "изменять"
+  },
+  {
+   "en": "unwilling",
+   "ru": "нежелающий"
+  },
+  {
+   "en": "to violate",
+   "ru": "нарушать"
+  },
+  {
+   "en": "players engaging in abusive play",
+   "ru": "игроки, участвующие в оскорбительной игре"
+  },
+  {
+   "en": "abusive play",
+   "ru": "оскорбительная игра"
+  },
+  {
+   "en": "players intentionally causing or promoting another player to win",
+   "ru": "игроки, намернно побуждающие или продвигающие другого игрока к победе"
+  },
+  {
+   "en": "disqualification",
+   "ru": "дисквалификация"
+  },
+  {
+   "en": "poor game-play",
+   "ru": "плохая игра"
+  },
+  {
+   "en": "justification",
+   "ru": "основание"
+  },
+  {
+   "en": "collude strictly in service",
+   "ru": "сговариваться"
+  },
+  {
+   "en": "advance mutual position in the game",
+   "ru": "продвигать взаимные позиции в игре"
+  },
+  {
+   "en": "mutual",
+   "ru": "общий\/взаимный"
+  },
+  {
+   "en": "frustrating",
+   "ru": "разочаровывающий"
+  },
+  {
+   "en": "collusion",
+   "ru": "сговор"
+  },
+  {
+   "en": "discouraged",
+   "ru": "обескураженный\/озадаченный"
+  },
+  {
+   "en": "served with a warning",
+   "ru": "вручаеся с предупреждением"
+  },
+  {
+   "en": "to enforce",
+   "ru": "принуждать\/обеспечивать"
+  },
+  {
+   "en": "timed turn length is limited to three minutes",
+   "ru": "время хода ограничено 3 минутами"
+  },
+  {
+   "en": "encourage",
+   "ru": "стимулировать\/содействовать"
+  },
+  {
+   "en": "Preliminary round",
+   "ru": "Предварительный раунд"
+  },
+  {
+   "en": "Semi-Final round",
+   "ru": "Полуфинал"
+  },
+  {
+   "en": "Final round",
+   "ru": "Финал"
+  },
+  {
+   "en": "attendees",
+   "ru": "участники"
+  },
+  {
+   "en": "valid",
+   "ru": "действительный"
+  },
+  {
+   "en": "to attempt",
+   "ru": "пытаться\/стремиться"
+  },
+  {
+   "en": "previous matches",
+   "ru": "предыдущие матчи"
+  },
+  {
+   "en": "select colour",
+   "ru": "выбрать цвет"
+  },
+  {
+   "en": "chart determines",
+   "ru": "таблица определяет"
+  },
+  {
+   "en": "the game board layout is confirmed",
+   "ru": "раскалдка игрового поля потверждена"
+  },
+  {
+   "en": "qualifier champion",
+   "ru": "чемпион отборочного тура"
+  },
+  {
+   "en": "was a tie",
+   "ru": "была ничья"
+  },
+  {
+   "en": "lots are dawn",
+   "ru": "жребий разыгран"
+  },
+  {
+   "en": "persistant",
+   "ru": "постоянный"
+  },
+  {
+   "en": "retailer may host",
+   "ru": "продавец может проводить (игры)"
+  },
+  {
+   "en": "score",
+   "ru": "счет"
+  },
+  {
+   "en": "multi-day convention",
+   "ru": "многодневное соглашение"
+  },
+  {
+   "en": "tiebreaker",
+   "ru": "действия, если есть ничья"
+  },
+  {
+   "en": "tie",
+   "ru": "ничья"
+  },
+  {
+   "en": "calculate",
+   "ru": "подсчитать (очки)"
+  },
+  {
+   "en": "VPs",
+   "ru": "победные очки"
+  },
+  {
+   "en": "shuffling",
+   "ru": "перетасовки (с картами)"
+  },
+  {
+   "en": "stealing",
+   "ru": "воровство"
+  },
+  {
+   "en": "to define",
+   "ru": "определять"
+  },
+  {
+   "en": "recieve used cards",
+   "ru": "получать использованные карты"
+  },
+  {
+   "en": "distribute new recource cards",
+   "ru": "распределять\/раздавать новые карты ресурсов"
+  },
+  {
+   "en": "agreement",
+   "ru": "соглашение"
+  },
+  {
+   "en": "to void",
+   "ru": "аннулировать"
+  },
+  {
+   "en": "to elect",
+   "ru": "избирать"
+  },
+  {
+   "en": "judge",
+   "ru": "судья"
+  },
+  {
+   "en": "automatically handle",
+   "ru": "автоматически обрабатывать"
+  },
+  {
+   "en": "newly-obtained",
+   "ru": "вновь полученные"
+  },
+  {
+   "en": "the player forfeits the opportunity",
+   "ru": "игрок лишается возможности"
+  },
+  {
+   "en": "verifying",
+   "ru": "проверка"
+  },
+  {
+   "en": "to verify",
+   "ru": "проверить"
+  },
+  {
+   "en": "to notify",
+   "ru": "уведомить"
+  },
+  {
+   "en": "cource of game",
+   "ru": "ход игры"
+  },
+  {
+   "en": "log events",
+   "ru": "журнал событий"
+  },
+  {
+   "en": "swapp",
+   "ru": "обмен"
+  },
+  {
+   "en": "to swap",
+   "ru": "менять"
+  },
+  {
+   "en": "conduct",
+   "ru": "поведение"
+  },
+  {
+   "en": "invitees",
+   "ru": "приглашенные"
+  },
+  {
+   "en": "courtesy",
+   "ru": "вежливость"
+  },
+  {
+   "en": "fair play",
+   "ru": "честная игра"
+  },
+  {
+   "en": "to exhibit",
+   "ru": "проявлять качества"
+  },
+  {
+   "en": "disrupt",
+   "ru": "нарушать"
+  },
+  {
+   "en": "to harm",
+   "ru": "наносить ущерб\/вред"
+  },
+  {
+   "en": "bring substantive harm",
+   "ru": "причинять существенный вред"
+  },
+  {
+   "en": "to contest",
+   "ru": "оспаривать\/отстаивать"
+  },
+  {
+   "en": "to dilute",
+   "ru": "ослаблять\/разжижать"
+  },
+  {
+   "en": "to misappropriate",
+   "ru": "незаконно присваивать"
+  },
+  {
+   "en": "intellectual property",
+   "ru": "интекллектуальная собственность"
+  },
+  {
+   "en": "responsible for ensuring",
+   "ru": "ответственность за обеспечение"
+  },
+  {
+   "en": "to abide",
+   "ru": "соблюдать"
+  },
+  {
+   "en": "respectful",
+   "ru": "уважительная (игра)"
+  },
+  {
+   "en": "contractors",
+   "ru": "подрядчики"
+  },
+  {
+   "en": "vendors",
+   "ru": "продавцы"
+  },
+  {
+   "en": "harassment",
+   "ru": "домогательство"
+  },
+  {
+   "en": "intimidation or threats",
+   "ru": "запугивания или угрозы"
+  },
+  {
+   "en": "inappropriate disruption of events",
+   "ru": "неуместные срывы мероприятий"
+  },
+  {
+   "en": "hurtful language",
+   "ru": "оскорбительные выражения"
+  },
+  {
+   "en": "physical assault of any type",
+   "ru": "физическое насилие любого типа"
+  },
+  {
+   "en": "unwanted sexual attention",
+   "ru": "нежелательное сексуальное внимание"
+  },
+  {
+   "en": "bullying",
+   "ru": "издевательства"
+  },
+  {
+   "en": "stalking",
+   "ru": "преследование"
+  },
+  {
+   "en": "race or ethnicity",
+   "ru": "расовая или этническая принадлежность"
+  },
+  {
+   "en": "gender identity",
+   "ru": "гендерная идентичность"
+  },
+  {
+   "en": "disability",
+   "ru": "инвалидность"
+  },
+  {
+   "en": "enforcement",
+   "ru": "правоприменение"
+  },
+  {
+   "en": "rules that occasionally cause confusion",
+   "ru": "правила, которые иногда вызывают путаницу"
+  },
+  {
+   "en": "clarifications",
+   "ru": "уточнения"
+  },
+  {
+   "en": "to upgrade a settlement to a city",
+   "ru": "улучшить поселение до города"
+  },
+  {
+   "en": "player's supply",
+   "ru": "запас (фигурок) игрока"
+  },
+  {
+   "en": "to place in the building spot",
+   "ru": "разместить в месте строительства"
+  },
+  {
+   "en": "immidiately reveal",
+   "ru": "немедленно раскрыть"
+  },
+  {
+   "en": "distinction",
+   "ru": "разница"
+  },
+  {
+   "en": "thade phase",
+   "ru": "фаза торговли\/обмена"
+  },
+  {
+   "en": "building phase\/action",
+   "ru": "фаза строительства"
+  },
+  {
+   "en": "harbor",
+   "ru": "гавань"
+  },
+  {
+   "en": "stock",
+   "ru": "запас (карт)"
+  },
+  {
+   "en": "hand out",
+   "ru": "раздать (карты)"
+  },
+  {
+   "en": "assuming",
+   "ru": "при условии"
+  },
+  {
+   "en": "\"grace period\"",
+   "ru": "льготный период (когда нельзя ставить разбойника игроку, потому что у него мало очков)"
+  },
+  {
+   "en": "active player",
+   "ru": "игрок чей ход"
+  },
+  {
+   "en": "to draw a resource card",
+   "ru": "взять карту ресурсов"
+  },
+  {
+   "en": "reposition",
+   "ru": "изменить положение (фигурки)"
+  },
+  {
+   "en": "player instigates a trade",
+   "ru": "игрок инициирует обмен"
+  },
+  {
+   "en": "action is over",
+   "ru": "действие заканчивается"
+  },
+  {
+   "en": "wheat",
+   "ru": "пшеница"
+  },
+  {
+   "en": "settlers ",
+   "ru": "поселенцы"
+  },
+  {
+   "en": "game components",
+   "ru": "компоненты игры"
+  },
+  {
+   "en": "terrain hexes",
+   "ru": "гексы местности"
+  },
+  {
+   "en": "tile(s)",
+   "ru": "плитки"
+  },
+  {
+   "en": "circular number tokens",
+   "ru": "круглые жетоны с номерами"
+  },
+  {
+   "en": "brick",
+   "ru": "кирпич"
+  },
+  {
+   "en": "grain",
+   "ru": "зерно"
+  },
+  {
+   "en": "lumber",
+   "ru": "лесоматериал"
+  },
+  {
+   "en": "ore",
+   "ru": "руда (камни)"
+  },
+  {
+   "en": "wool",
+   "ru": "шерсть"
+  },
+  {
+   "en": "\"Building costs\" cards",
+   "ru": "карты с подсказкой по ценам"
+  },
+  {
+   "en": "Shaped like churches",
+   "ru": "в форме церквей (города)"
+  },
+  {
+   "en": "Shaped like houses",
+   "ru": "в форме домов (поселения)"
+  },
+  {
+   "en": "Shaped like bars",
+   "ru": "в форме брусков (дороги)"
+  },
+  {
+   "en": "assemble the frame",
+   "ru": "соберите раму"
+  },
+  {
+   "en": "odds for the Dice Rolls",
+   "ru": "шансы на броски костей"
+  },
+  {
+   "en": "hills produce brick",
+   "ru": "холмы производят кирпич"
+  },
+  {
+   "en": "forest produces lumber",
+   "ru": "лес производит лесоматериал"
+  },
+  {
+   "en": "muntains produce ore",
+   "ru": "горы производят руду (камень)"
+  },
+  {
+   "en": "fields produce grain",
+   "ru": "поля производят зерно"
+  },
+  {
+   "en": "pasture produces wool",
+   "ru": "пастбище производит шерсть"
+  },
+  {
+   "en": "place your settlements",
+   "ru": "разместите ваши поселения"
+  },
+  {
+   "en": "sort the resource cards",
+   "ru": "отсортируйте карты ресурсов"
+  },
+  {
+   "en": "stack(s)",
+   "ru": "стопка(и)"
+  },
+  {
+   "en": "put them face up",
+   "ru": "положите их лицевой стороной вверх"
+  },
+  {
+   "en": "shuffle cards",
+   "ru": "перемешайте карты"
+  },
+  {
+   "en": "place them face down",
+   "ru": "положите их лицевой стороной вниз"
+  },
+  {
+   "en": "unoccupied",
+   "ru": "незанятый"
+  },
+  {
+   "en": "occupied",
+   "ru": "занятый"
+  },
+  {
+   "en": "maritime trade",
+   "ru": "торговля через гавани"
+  },
+  {
+   "en": "advanced players",
+   "ru": "продвинутые игроки"
+  },
+  {
+   "en": "intersection",
+   "ru": "перекресток"
+  },
+  {
+   "en": "to gain",
+   "ru": "получить"
+  },
+  {
+   "en": "domestic trade",
+   "ru": "внутренняя торговля"
+  },
+  {
+   "en": "you are willing to trade",
+   "ru": "вы готовы торговать"
+  },
+  {
+   "en": "counter offers",
+   "ru": "встречные предложения"
+  },
+  {
+   "en": "4 identical resource cards",
+   "ru": "4 одинаковых ресурса"
+  },
+  {
+   "en": "favorable",
+   "ru": "благоприятно"
+  },
+  {
+   "en": "expand your road network",
+   "ru": "расширяйте свою дорожную сеть"
+  },
+  {
+   "en": "to build, you must pay",
+   "ru": "чтобы строить вы должны заплатить"
+  },
+  {
+   "en": "appropriate",
+   "ru": "соответствующий"
+  },
+  {
+   "en": "pool",
+   "ru": "фонд (фигурок)"
+  },
+  {
+   "en": "forks",
+   "ru": "развилки дорог"
+  },
+  {
+   "en": "adjacent intersections are vacant",
+   "ru": "соседние перекрестки свободны"
+  },
+  {
+   "en": "each settlement is worth 1 VP",
+   "ru": "каждое поселение соит 1 ПО"
+  },
+  {
+   "en": "acquire ",
+   "ru": "приобретать"
+  },
+  {
+   "en": "draw the top card from the deck",
+   "ru": "вытянуть верхнюю карту из колоды"
+  },
+  {
+   "en": "can't anticipate your play",
+   "ru": "не могут предвидеть вашу игру"
+  },
+  {
+   "en": "rounded down ",
+   "ru": "округлять в меньшую сторону"
+  },
+  {
+   "en": "proceed as follows",
+   "ru": "действуйте следующим образом"
+  },
+  {
+   "en": "progress card",
+   "ru": "карта прогресса"
+  },
+  {
+   "en": "toss it in the box",
+   "ru": "бросьте в коробку"
+  }
+ ]
+}

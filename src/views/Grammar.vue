@@ -1,7 +1,7 @@
 <template>
   <div class="grammar-view">
     <div
-        v-for="grammarItem in dataToComponent"
+        v-for="grammarItem in data"
         class="item"
         @click="showGrammar(grammarItem)"
     >
@@ -28,7 +28,7 @@ import GrammarPreview from "../components/GrammarPreview.vue";
 export default {
   name: "Grammar",
   components: {GrammarPreview, EstonianFlag, EnglishFlag},
-  props: ['dataToComponent'],
+  props: ['data'],
   data () {
     return {
       showPreview: false,

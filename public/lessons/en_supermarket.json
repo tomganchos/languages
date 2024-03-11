@@ -1,36 +1,331 @@
 {
+  "lesson": "Supermarket",
+  "date": "2023-06-08",
   "language": "en",
-  "lesson": "supermarket",
   "words": [
     {
-      "en": "I need to grab some ...",
-      "ee": "Mul on vaja mõnda asja haarata ...",
-      "ru": "Мне нужно взять немного ..."
+      "en": "grocery store",
+      "en_t": "ˈɡroʊsəri stɔːr",
+      "ru": "продуктовый магазин",
+      "ee": "toidupood"
     },
     {
-      "en": "grab myself a ...",
-      "ee": "haarake endale ...",
-      "ru": "взять себе ..."
+      "en": "I need to grab some groceries",
+      "en_t": "aɪ nid tuː ɡræb sʌm ˈɡroʊsəriz",
+      "ru": "Мне нужно купить продуктов",
+      "ee": "Mul on vaja toidukraami haarata"
     },
     {
-      "en": "pop in",
-      "ee": "astuge sisse",
-      "ru": "зайти"
+      "en": "to grab myself a",
+      "en_t": "tuː ɡræb maɪˈsɛlf ə",
+      "ru": "взять себе",
+      "ee": "haarata endale"
     },
     {
-      "en": "run out",
-      "ee": "otsa saama",
-      "ru": "закончиться"
+      "en": "to pop in",
+      "en_t": "tuː pɒp ɪn",
+      "ru": "заглянуть",
+      "ee": "kiikama"
+    },
+    {
+      "en": "to go fast",
+      "en_t": "tuː ɡoʊ fæst",
+      "ru": "быстро идти",
+      "ee": "kiiresti minema"
+    },
+    {
+      "en": "to run out",
+      "en_t": "tuː rʌn aʊt",
+      "ru": "исчерпаться",
+      "ee": "otsa saama"
     },
     {
       "en": "we ran out of tomatoes",
-      "ee": "meil said tomatid otsa",
-      "ru": "у нас закончились помидоры"
+      "en_t": "wiː ræn aʊt əv təˈmeɪtoʊz",
+      "ru": "у нас закончились помидоры",
+      "ee": "meil said tomatid otsa"
     },
     {
-      "en": "cart / basket",
-      "ee": "ostukäru / korv",
-      "ru": "тележка / корзина"
+      "en": "cart/basket",
+      "en_t": "kɑːrt ˈbæskɪt",
+      "ru": "тележка/корзина",
+      "ee": "ostukäru/ostukorv"
+    },
+    {
+      "en": "aisle",
+      "en_t": "aɪl",
+      "ru": "проход",
+      "ee": "koridor"
+    },
+    {
+      "en": "aisle seat",
+      "en_t": "aɪl siːt",
+      "ru": "место у прохода",
+      "ee": "koridori istekoht"
+    },
+    {
+      "en": "selection",
+      "en_t": "sɪˈlɛkʃən",
+      "ru": "выбор",
+      "ee": "valik"
+    },
+    {
+      "en": "wild caught fish",
+      "en_t": "waɪld kɔt fɪʃ",
+      "ru": "рыба дикого лова",
+      "ee": "looduslikult püütud kala"
+    },
+    {
+      "en": "farm raised fish",
+      "en_t": "fɑːrm reɪzd fɪʃ",
+      "ru": "рыба с фермы",
+      "ee": "kasvatatud kala"
+    },
+    {
+      "en": "produce section",
+      "en_t": "ˈprɑːdjuːs ˈsɛkʃən",
+      "ru": "отдел овощей и фруктов",
+      "ee": "puu- ja köögiviljade osakond"
+    },
+    {
+      "en": "cereal section",
+      "en_t": "ˈsɪriəl ˈsɛkʃən",
+      "ru": "отдел хлопьев",
+      "ee": "teraviljatoodete osakond"
+    },
+    {
+      "en": "dairy section",
+      "en_t": "ˈdɛri ˈsɛkʃən",
+      "ru": "отдел молочных продуктов",
+      "ee": "piimatoodete osakond"
+    },
+    {
+      "en": "the liquor section",
+      "en_t": "ðə ˈlɪkər ˈsɛkʃən",
+      "ru": "раздел алкогольных напитков",
+      "ee": "alkohoolsete jookide osakond"
+    },
+    {
+      "en": "booze",
+      "en_t": "buːz",
+      "ru": "алкоголь",
+      "ee": "kange jook"
+    },
+    {
+      "en": "bakery section",
+      "en_t": "ˈbeɪkəri ˈsɛkʃən",
+      "ru": "отдел хлебобулочных изделий",
+      "ee": "pagaritoodete osakond"
+    },
+    {
+      "en": "deli section",
+      "en_t": "ˈdɛli ˈsɛkʃən",
+      "ru": "отдел кулинарии",
+      "ee": "delikatesside osakond"
+    },
+    {
+      "en": "frozen section",
+      "en_t": "ˈfroʊzn ˈsɛkʃən",
+      "ru": "замороженный раздел",
+      "ee": "külmutatud osakond"
+    },
+    {
+      "en": "snack section",
+      "en_t": "snæk ˈsɛkʃən",
+      "ru": "раздел снеков",
+      "ee": "suupisteosakond"
+    },
+    {
+      "en": "bulk section",
+      "en_t": "bʌlk ˈsɛkʃən",
+      "ru": "раздел сыпучих товаров",
+      "ee": "jahvatatud toidu osakond"
+    },
+    {
+      "en": "pets section",
+      "en_t": "pɛts ˈsɛkʃən",
+      "ru": "раздел для животных",
+      "ee": "lemmikloomade osakond"
+    },
+    {
+      "en": "cleaning supplies section",
+      "en_t": "ˈklinɪŋ səˈplaɪz ˈsɛkʃən",
+      "ru": "раздел с моющими средствами",
+      "ee": "puhastusvahendite osakond"
+    },
+    {
+      "en": "single ones / bagged ones",
+      "en_t": "ˈsɪŋɡəl wʌnz / bæɡd wʌnz",
+      "ru": "одиночные / упакованные",
+      "ee": "üksikud / kotikestes"
+    },
+    {
+      "en": "on sale / for sale",
+      "en_t": "ɒn seɪl / fɔr seɪl",
+      "ru": "на распродаже / в продаже",
+      "ee": "soodushinnaga / müügiks"
+    },
+    {
+      "en": "there is so many to choose from",
+      "en_t": "ðɛr ɪz soʊ ˈmɛni tuː tʃuːz frɒm",
+      "ru": "там так много вариантов для выбора",
+      "ee": "on nii palju valikuid, mille vahel valida"
+    },
+    {
+      "en": "sparkling water / soda",
+      "en_t": "ˈspɑrk.lɪŋ ˈwɔː.t̬ɚ / ˈsoʊ.də",
+      "ru": "газированная вода / содовая",
+      "ee": "gaseeritud vesi / sooda"
+    },
+    {
+      "en": "to splurge",
+      "en_t": "tuː splɜːrdʒ",
+      "ru": "расточаться",
+      "ee": "rahaga priisuma"
+    },
+    {
+      "en": "less your spendings",
+      "en_t": "lɛs jɔr ˈspɛndɪŋz",
+      "ru": "меньше ваших трат",
+      "ee": "vähem kulutusi"
+    },
+    {
+      "en": "cashier",
+      "en_t": "kæˈʃɪr",
+      "ru": "кассир",
+      "ee": "kassapidaja"
+    },
+    {
+      "en": "conveyor belt",
+      "en_t": "kənˈveɪər bɛlt",
+      "ru": "конвейерная лента",
+      "ee": "konveierilind"
+    },
+    {
+      "en": "would you go old school or pay by card",
+      "en_t": "wʊd jʊ ɡoʊ oʊld skul ɔr peɪ baɪ kɑrd",
+      "ru": "вы бы пошли по старинке или заплатили бы картой",
+      "ee": "kas te läheksite vanakooli või maksaksite kaardiga"
+    },
+    {
+      "en": "to tap to pay",
+      "en_t": "tuː tæp tuː peɪ",
+      "ru": "оплатить прикосновением",
+      "ee": "puudutamisega maksmine"
+    },
+    {
+      "en": "to check out",
+      "en_t": "tuː tʃɛk aʊt",
+      "ru": "выписаться",
+      "ee": "välja registreeruma"
+    },
+    {
+      "en": "receipt",
+      "en_t": "rɪˈsiːt",
+      "ru": "чек",
+      "ee": "kviitung"
+    },
+    {
+      "en": "to take an item back",
+      "en_t": "tuː teɪk ən ˈaɪtəm bæk",
+      "ru": "вернуть товар",
+      "ee": "kauba tagastamine"
+    },
+    {
+      "en": "price tag",
+      "en_t": "praɪs tæɡ",
+      "ru": "ценник",
+      "ee": "hinnasilt"
+    },
+    {
+      "en": "outdoor market",
+      "en_t": "ˈaʊtˌdɔr ˈmɑrkɪt",
+      "ru": "рынок на свежем воздухе",
+      "ee": "väljas turg"
+    },
+    {
+      "en": "sold out",
+      "en_t": "soʊld aʊt",
+      "ru": "распродано",
+      "ee": "läbi müüdud"
+    },
+    {
+      "en": "the oranges were sold out",
+      "en_t": "ði ˈɔrɪndʒɪz wər soʊld aʊt",
+      "ru": "апельсины были распроданы",
+      "ee": "apelsinid olid läbi müüdud"
+    },
+    {
+      "en": "to shop around",
+      "en_t": "tuː ʃɒp əˈraʊnd",
+      "ru": "побродить по магазинам",
+      "ee": "poes ringi vaatama"
+    },
+    {
+      "en": "to pick out",
+      "en_t": "tuː pɪk aʊt",
+      "ru": "выбирать",
+      "ee": "valima"
+    },
+    {
+      "en": "to pick up",
+      "en_t": "tuː pɪk ʌp",
+      "ru": "забирать",
+      "ee": "ümber võtma"
+    },
+    {
+      "en": "to jam goes with toast",
+      "en_t": "tuː ʤæm ɡoʊz wɪð toʊst",
+      "ru": "джем подходит к тостам",
+      "ee": "moos sobib röstsaiale"
+    },
+    {
+      "en": "I'll go with these shoes",
+      "en_t": "aɪl ɡoʊ wɪð ðiz ʃuz",
+      "ru": "я возьму эти туфли",
+      "ee": "ma valin need kingad"
+    },
+    {
+      "en": "high price",
+      "en_t": "haɪ praɪs",
+      "ru": "высокая цена",
+      "ee": "kõrge hind"
+    },
+    {
+      "en": "double the price",
+      "en_t": "ˈdʌbəl ði praɪs",
+      "ru": "удвоить цену",
+      "ee": "kahekordistama hind"
+    },
+    {
+      "en": "to cost me an arm and a leg",
+      "en_t": "tuː kɒst mi ən ɑrm ənd ə lɛɡ",
+      "ru": "стоить мне целое состояние",
+      "ee": "maksma mulle käe ja jala"
+    },
+    {
+      "en": "self-service checkout",
+      "en_t": "sɛlf ˈsɜːrvɪs ˈʧɛkaʊt",
+      "ru": "самообслуживание на кассе",
+      "ee": "iseteeninduskassad"
+    },
+    {
+      "en": "barcode",
+      "en_t": "ˈbɑːrkoʊd",
+      "ru": "штрих-код",
+      "ee": "vöötkood"
+    },
+    {
+      "en": "bad behavior",
+      "en_t": "bæd bɪˈheɪvjər",
+      "ru": "плохое поведение",
+      "ee": "halb käitumine"
+    },
+    {
+      "en": "don't give a good welcome to the buyers",
+      "en_t": "doʊnt ɡɪv ə ɡʊd ˈwɛlkəm tu ðə ˈbaɪərz",
+      "ru": "не приветствовать покупателей",
+      "ee": "ei tee ostjatele head vastuvõttu"
     }
   ]
 }

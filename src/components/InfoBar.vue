@@ -118,5 +118,6 @@ export default {
   justify-content: space-between;
   font-size: 12px;
   padding: 4px 16px;
+  color: #4caf50;
 }
 </style>

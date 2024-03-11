@@ -1,0 +1,71 @@
+{
+  "lesson": "First impression",
+  "date": "2023-06-01",
+  "language": "en",
+  "words": [
+    {
+      "en": "She/he is not my cup of tea",
+      "en_t": "/ʃiː/hiː ɪz nɒt maɪ kʌp ɒv tiː/",
+      "ru": "Он/она мне не нравится (буквально: Он/она не мой чашка чая)",
+      "ee": "Ta pole minu tassike teed"
+    },
+    {
+      "en": "to come across",
+      "en_t": "/tuː kʌm əˈkrɒs/",
+      "ru": "натолкнуться, встретить",
+      "ee": "kokku juhtuma",
+      "ee_da": "juhtuda kokku",
+      "ee_mina": "juhtun kokku"
+    },
+    {
+      "en": "to get to know someone",
+      "en_t": "/tuː gɛt tuː noʊ ˈsʌmwʌn/",
+      "ru": "познакомиться с кем-то",
+      "ee": "tutvuma kellegagi",
+      "ee_da": "tutvuda kellegagi",
+      "ee_mina": "tutvun kellegagi"
+    },
+    {
+      "en": "to make a snap judgement",
+      "en_t": "/tuː meɪk ə snæp ˈdʒʌdʒmənt/",
+      "ru": "сделать поспешное заключение",
+      "ee": "teha kiire otsus",
+      "ee_da": "teha kiiret otsust",
+      "ee_mina": "teen kiire otsuse"
+    },
+    {
+      "en": "to warm to someone",
+      "en_t": "/tuː wɔːrm tuː ˈsʌmwʌn/",
+      "ru": "проникнуться симпатией к кому-то",
+      "ee": "soojenema kellegi suhtes",
+      "ee_da": "soojeneda kellegi suhtes",
+      "ee_mina": "soojenen kellegi suhtes"
+    },
+    {
+      "en": "to shake someone's hand",
+      "en_t": "/tuː ʃeɪk ˈsʌmwʌnz hænd/",
+      "ru": "пожать кому-то руку",
+      "ee": "kätt suruma kellegagi",
+      "ee_da": "suruda kätt kellegagi",
+      "ee_mina": "surun kätt kellegagi"
+    },
+    {
+      "en": "eye contact",
+      "en_t": "/aɪ ˈkɒntækt/",
+      "ru": "взгляд, контакт глазами",
+      "ee": "silmside"
+    },
+    {
+      "en": "facial expression",
+      "en_t": "/ˈfeɪʃəl ɪkˈsprɛʃən/",
+      "ru": "выражение лица",
+      "ee": "näoilme"
+    },
+    {
+      "en": "firm handshake",
+      "en_t": "/fɜːrm ˈhændʃeɪk/",
+      "ru": "твердое рукопожатие",
+      "ee": "kindel käepigistus"
+    }
+  ]
+}

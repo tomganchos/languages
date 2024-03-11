@@ -1,0 +1,491 @@
+{
+  "lesson": "Cooking",
+  "date": "2023-05-11",
+  "language": "en",
+  "words": [
+    {
+      "en": "to pour",
+      "en_t": "pɔr",
+      "ru": "наливать",
+      "ee": "valama",
+      "ee_da": "valada",
+      "ee_mina": "valan"
+    },
+    {
+      "en": "to sip",
+      "en_t": "sɪp",
+      "ru": "пить глотками",
+      "ee": "õgima",
+      "ee_da": "õgida",
+      "ee_mina": "õgin"
+    },
+    {
+      "en": "to toast",
+      "en_t": "toʊst",
+      "ru": "тостить",
+      "ee": "röstima",
+      "ee_da": "röstida",
+      "ee_mina": "röstin"
+    },
+    {
+      "en": "to spread",
+      "en_t": "sprɛd",
+      "ru": "намазывать",
+      "ee": "määrima",
+      "ee_da": "määrida",
+      "ee_mina": "määrin"
+    },
+    {
+      "en": "to squeeze",
+      "en_t": "skwiz",
+      "ru": "выжимать",
+      "ee": "pigistama",
+      "ee_da": "pigistada",
+      "ee_mina": "pigistan"
+    },
+    {
+      "en": "to break",
+      "en_t": "breɪk",
+      "ru": "ломать",
+      "ee": "murdma",
+      "ee_da": "murdma",
+      "ee_mina": "murdan"
+    },
+    {
+      "en": "to weigh",
+      "en_t": "weɪ",
+      "ru": "взвешивать",
+      "ee": "kaaluma",
+      "ee_da": "kaaluda",
+      "ee_mina": "kaalun"
+    },
+    {
+      "en": "to measure",
+      "en_t": "ˈmɛʒər",
+      "ru": "измерять",
+      "ee": "mõõtma",
+      "ee_da": "mõõta",
+      "ee_mina": "mõõdan"
+    },
+    {
+      "en": "to mix",
+      "en_t": "mɪks",
+      "ru": "смешивать",
+      "ee": "segama",
+      "ee_da": "segada",
+      "ee_mina": "segin"
+    },
+    {
+      "en": "to make",
+      "en_t": "meɪk",
+      "ru": "делать",
+      "ee": "tegema",
+      "ee_da": "teha",
+      "ee_mina": "teen"
+    },
+    {
+      "en": "to layer",
+      "en_t": "ˈleɪər",
+      "ru": "укладывать слоями",
+      "ee": "korrutama",
+      "ee_da": "korrutada",
+      "ee_mina": "korrutan"
+    },
+    {
+      "en": "to peel",
+      "en_t": "pil",
+      "ru": "очищать",
+      "ee": "koorima",
+      "ee_da": "koorida",
+      "ee_mina": "koorin"
+    },
+    {
+      "en": "to dice",
+      "en_t": "daɪs",
+      "ru": "резать кубиками",
+      "ee": "kuubikuteks lõikama",
+      "ee_da": "kuubikuteks lõigata",
+      "ee_mina": "kuubikuteks lõikan"
+    },
+    {
+      "en": "to dip",
+      "en_t": "dɪp",
+      "ru": "макать",
+      "ee": "kastma",
+      "ee_da": "kasta",
+      "ee_mina": "kastan"
+    },
+    {
+      "en": "to crush",
+      "en_t": "krʌʃ",
+      "ru": "раздавливать",
+      "ee": "purustama",
+      "ee_da": "purustada",
+      "ee_mina": "purustan"
+    },
+    {
+      "en": "to prepare",
+      "en_t": "prɪˈpɛr",
+      "ru": "приготовить",
+      "ee": "valmistama",
+      "ee_da": "valmistada",
+      "ee_mina": "valmistan"
+    },
+    {
+      "en": "to sprinkle",
+      "en_t": "ˈsprɪŋkl̩",
+      "ru": "посыпать",
+      "ee": "puistama",
+      "ee_da": "puista",
+      "ee_mina": "puistan"
+    },
+    {
+      "en": "to decorate",
+      "en_t": "ˈdɛkəˌreɪt",
+      "ru": "украшать",
+      "ee": "kaunistama",
+      "ee_da": "kaunistada",
+      "ee_mina": "kaunistan"
+    },
+    {
+      "en": "to flip",
+      "en_t": "flɪp",
+      "ru": "переворачивать",
+      "ee": "pöörama",
+      "ee_da": "pöörata",
+      "ee_mina": "pööran"
+    },
+    {
+      "en": "to microwave",
+      "en_t": "ˈmaɪkroʊˌweɪv",
+      "ru": "разогревать в микроволновке",
+      "ee": "mikrolaineahjus soojendama",
+      "ee_da": "mikrolaineahjus soojendada",
+      "ee_mina": "mikrolaineahjus soojendan"
+    },
+    {
+      "en": "to refrigerate",
+      "en_t": "rɪˈfrɪdʒəˌreɪt",
+      "ru": "хранить в холодильнике",
+      "ee": "külmkapis hoidma",
+      "ee_da": "külmkapis hoida",
+      "ee_mina": "külmkapis hoian"
+    },
+    {
+      "en": "to freeze",
+      "en_t": "friːz",
+      "ru": "замораживать",
+      "ee": "külmutama",
+      "ee_da": "külmutada",
+      "ee_mina": "külmutan"
+    },
+    {
+      "en": "to blend",
+      "en_t": "blɛnd",
+      "ru": "смешивать (взбивать)",
+      "ee": "segama",
+      "ee_da": "segada",
+      "ee_mina": "segin"
+    },
+    {
+      "en": "to heat",
+      "en_t": "hit",
+      "ru": "нагревать",
+      "ee": "kuumutama",
+      "ee_da": "kuumutada",
+      "ee_mina": "kuumutan"
+    },
+    {
+      "en": "to heat the oven",
+      "en_t": "hit ði ˈʌvən",
+      "ru": "разогревать духовку",
+      "ee": "ahju soojendama",
+      "ee_da": "ahju soojendada",
+      "ee_mina": "ahju soojendan"
+    },
+    {
+      "en": "to roast",
+      "en_t": "roʊst",
+      "ru": "жарить",
+      "ee": "röstima",
+      "ee_da": "röstida",
+      "ee_mina": "röstin"
+    },
+    {
+      "en": "to sharpen",
+      "en_t": "ˈʃɑːrpn̩",
+      "ru": "точить",
+      "ee": "teritama",
+      "ee_da": "teritada",
+      "ee_mina": "teritan"
+    },
+    {
+      "en": "to cut",
+      "en_t": "kʌt",
+      "ru": "резать",
+      "ee": "lõikama",
+      "ee_da": "lõigata",
+      "ee_mina": "lõikan"
+    },
+    {
+      "en": "to sift",
+      "en_t": "sɪft",
+      "ru": "просеивать",
+      "ee": "sõeluma",
+      "ee_da": "sõeluda",
+      "ee_mina": "sõelen"
+    },
+    {
+      "en": "to sift the flour",
+      "en_t": "sɪft ði flaʊər",
+      "ru": "просеивать муку",
+      "ee": "jahu sõeluma",
+      "ee_da": "jahu sõeluda",
+      "ee_mina": "jahu sõelen"
+    },
+    {
+      "en": "to roll",
+      "en_t": "roʊl",
+      "ru": "катать (тесто)",
+      "ee": "rullima",
+      "ee_da": "rullida",
+      "ee_mina": "rullin"
+    },
+    {
+      "en": "to roll the dough",
+      "en_t": "roʊl ði doʊ",
+      "ru": "раскатывать тесто",
+      "ee": "tainast rullima",
+      "ee_da": "tainast rullida",
+      "ee_mina": "tainast rullin"
+    },
+    {
+      "en": "to toss",
+      "en_t": "tɒs",
+      "ru": "переворачивать",
+      "ee": "loopima",
+      "ee_da": "loopida",
+      "ee_mina": "loopin"
+    },
+    {
+      "en": "to grate",
+      "en_t": "ɡreɪt",
+      "ru": "тереть (на терке)",
+      "ee": "riivima",
+      "ee_da": "riivida",
+      "ee_mina": "riivin"
+    },
+    {
+      "en": "to top",
+      "en_t": "tɒp",
+      "ru": "украшать (верхним слоем)",
+      "ee": "peale panema",
+      "ee_da": "peale panema",
+      "ee_mina": "panen peale"
+    },
+    {
+      "en": "to bake",
+      "en_t": "beɪk",
+      "ru": "печь (выпекать)",
+      "ee": "küpsetama",
+      "ee_da": "küpsetada",
+      "ee_mina": "küpsetan"
+    },
+    {
+      "en": "to cool down",
+      "en_t": "kuːl daʊn",
+      "ru": "охлаждать",
+      "ee": "jahutama",
+      "ee_da": "jahutada",
+      "ee_mina": "jahutan"
+    },
+    {
+      "en": "to carve",
+      "en_t": "kɑːrv",
+      "ru": "нарезать (мясо)",
+      "ee": "lõikama (liha)",
+      "ee_da": "lõikama (liha)",
+      "ee_mina": "lõikan (liha)"
+    },
+    {
+      "en": "to mash",
+      "en_t": "mæʃ",
+      "ru": "размешивать в пюре",
+      "ee": "püreestama",
+      "ee_da": "püreestada",
+      "ee_mina": "püreestan"
+    },
+    {
+      "en": "to tenderize",
+      "en_t": "ˈtɛndərɪz",
+      "ru": "размягчать",
+      "ee": "pehmendama",
+      "ee_da": "pehmendada",
+      "ee_mina": "pehmendan"
+    },
+    {
+      "en": "meat tenderizer",
+      "en_t": "mit ˈtɛndəraɪzər",
+      "ru": "молоток для мяса",
+      "ee": "liha pehmendaja"
+    },
+    {
+      "en": "to barbecue",
+      "en_t": "ˈbɑːrbɪkjuː",
+      "ru": "готовить на гриле",
+      "ee": "grillima",
+      "ee_da": "grillida",
+      "ee_mina": "grillin"
+    },
+    {
+      "en": "to simmer",
+      "en_t": "ˈsɪmər",
+      "ru": "тушить (на медленном огне)",
+      "ee": "pada sees podisema",
+      "ee_da": "pada sees podisema",
+      "ee_mina": "pada sees podisen"
+    },
+    {
+      "en": "to melt",
+      "en_t": "mɛlt",
+      "ru": "таять, плавить",
+      "ee": "sulatama",
+      "ee_da": "sulatada",
+      "ee_mina": "sulatan"
+    },
+    {
+      "en": "frying pot",
+      "en_t": "ˈfraɪɪŋ pɒt",
+      "ru": "сковородка",
+      "ee": "praepann"
+    },
+    {
+      "en": "to fry",
+      "en_t": "fraɪ",
+      "ru": "жарить",
+      "ee": "praadima",
+      "ee_da": "praadida",
+      "ee_mina": "praadin"
+    },
+    {
+      "en": "to scramble eggs",
+      "en_t": "skræmbl ɛɡz",
+      "ru": "взбивать яйца",
+      "ee": "munaputru segama",
+      "ee_da": "munaputru segada",
+      "ee_mina": "munaputru segan"
+    },
+    {
+      "en": "to saute",
+      "en_t": "soʊˈteɪ",
+      "ru": "тушить (на сковороде с маслом)",
+      "ee": "pada peal kuumutama",
+      "ee_da": "pada peal kuumutada",
+      "ee_mina": "pada peal kuumutan"
+    },
+    {
+      "en": "to boil",
+      "en_t": "bɔɪl",
+      "ru": "кипятить",
+      "ee": "keetma",
+      "ee_da": "keeta",
+      "ee_mina": "keedan"
+    },
+    {
+      "en": "to slice",
+      "en_t": "slaɪs",
+      "ru": "нарезать ломтиками",
+      "ee": "viilutama",
+      "ee_da": "viilutada",
+      "ee_mina": "viilutan"
+    },
+    {
+      "en": "to stir",
+      "en_t": "stɜːr",
+      "ru": "перемешивать",
+      "ee": "segama",
+      "ee_da": "segada",
+      "ee_mina": "segin"
+    },
+    {
+      "en": "to taste",
+      "en_t": "teɪst",
+      "ru": "пробовать (на вкус)",
+      "ee": "maitsma",
+      "ee_da": "maitsma",
+      "ee_mina": "maitsen"
+    },
+    {
+      "en": "to light the stove",
+      "en_t": "laɪt ðə stoʊv",
+      "ru": "зажигать плиту",
+      "ee": "pliiti süütama",
+      "ee_da": "pliiti süütada",
+      "ee_mina": "pliiti süütan"
+    },
+    {
+      "en": "to cover",
+      "en_t": "ˈkʌvər",
+      "ru": "покрывать",
+      "ee": "katma",
+      "ee_da": "katta",
+      "ee_mina": "katan"
+    },
+    {
+      "en": "to steam",
+      "en_t": "stim",
+      "ru": "готовить на пару",
+      "ee": "aurutama",
+      "ee_da": "aurutada",
+      "ee_mina": "aurutan"
+    },
+    {
+      "en": "to whisk",
+      "en_t": "wɪsk",
+      "ru": "взбивать",
+      "ee": "vispeldama",
+      "ee_da": "vispeldada",
+      "ee_mina": "vispeldan"
+    },
+    {
+      "en": "to chop",
+      "en_t": "tʃɒp",
+      "ru": "рубить",
+      "ee": "hakkima",
+      "ee_da": "hakkida",
+      "ee_mina": "mina hakkan"
+    },
+    {
+      "en": "to drain the pasta",
+      "en_t": "dreɪn ðə ˈpɑːstə",
+      "ru": "слить воду с пасты",
+      "ee": "nõrutama pastast",
+      "ee_da": "nõruta pastast",
+      "ee_mina": "mina nõrutan pastast"
+    },
+    {
+      "en": "to rinse",
+      "en_t": "rɪns",
+      "ru": "промыть (водой)",
+      "ee": "lööma, loputama",
+      "ee_da": "löö loputa",
+      "ee_mina": "mina loputan"
+    },
+    {
+      "en": "to uncork",
+      "en_t": "ʌnˈkɔːk",
+      "ru": "вытаскивать пробку",
+      "ee": "korgist välja võtma",
+      "ee_da": "korgista välja",
+      "ee_mina": "mina korgistan välja"
+    },
+    {
+      "en": "to serve",
+      "en_t": "sɜːv",
+      "ru": "подавать (блюдо)",
+      "ee": "serveerima",
+      "ee_da": "serveeri",
+      "ee_mina": "mina serveerin"
+    }
+  ]
+}

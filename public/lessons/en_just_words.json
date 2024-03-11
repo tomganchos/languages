@@ -1,0 +1,1017 @@
+{
+  "lesson": "Just words",
+  "date": "2023-05-19",
+  "language": "en",
+  "words": [
+    {
+      "en": "to revise",
+      "en_t": "rɪˈvaɪz",
+      "ru": "пересматривать",
+      "ee": "üle vaatama",
+      "ee_da": "üle vaadata",
+      "ee_mina": "ma vaatan üle"
+    },
+    {
+      "en": "to establish",
+      "en_t": "ɪˈstæblɪʃ",
+      "ru": "устанавливать",
+      "ee": "asutama",
+      "ee_da": "asutada",
+      "ee_mina": "ma asutan"
+    },
+    {
+      "en": "to obey",
+      "en_t": "oʊˈbeɪ",
+      "ru": "подчиняться",
+      "ee": "alluma",
+      "ee_da": "alluda",
+      "ee_mina": "ma allun"
+    },
+    {
+      "en": "to acquire",
+      "en_t": "əˈkwaɪər",
+      "ru": "приобретать",
+      "ee": "omandama",
+      "ee_da": "omandada",
+      "ee_mina": "ma omandan"
+    },
+    {
+      "en": "to elect",
+      "en_t": "ɪˈlɛkt",
+      "ru": "избирать",
+      "ee": "valima",
+      "ee_da": "valida",
+      "ee_mina": "ma valin"
+    },
+    {
+      "en": "corresponding",
+      "en_t": "ˌkɔrəˈspɑndɪŋ",
+      "ru": "соответствующий",
+      "ee": "vastav"
+    },
+    {
+      "en": "adjacent",
+      "en_t": "əˈdʒeɪsənt",
+      "ru": "примыкающий",
+      "ee": "kõrvalasuva"
+    },
+    {
+      "en": "seaworthy",
+      "en_t": "ˈsiwˌwɜrði",
+      "ru": "годный для плавания",
+      "ee": "merekindel"
+    },
+    {
+      "en": "rapid",
+      "en_t": "ˈræpɪd",
+      "ru": "быстрый",
+      "ee": "kiire"
+    },
+    {
+      "en": "maritime",
+      "en_t": "ˈmærəˌtaɪm",
+      "ru": "морской",
+      "ee": "merenduslik"
+    },
+    {
+      "en": "starry",
+      "en_t": "ˈstæri",
+      "ru": "звездный",
+      "ee": "täheiline"
+    },
+    {
+      "en": "to reveal",
+      "en_t": "rɪˈviːl",
+      "ru": "раскрывать",
+      "ee": "avaldama",
+      "ee_da": "avaldada",
+      "ee_mina": "ma avaldan"
+    },
+    {
+      "en": "wound",
+      "en_t": "wuːnd",
+      "ru": "рана",
+      "ee": "haav"
+    },
+    {
+      "en": "instead of",
+      "en_t": "ɪnˈstɛd ʌv",
+      "ru": "вместо",
+      "ee": "selle asemel"
+    },
+    {
+      "en": "hut",
+      "en_t": "hʌt",
+      "ru": "хижина",
+      "ee": "onnel"
+    },
+    {
+      "en": "to tend",
+      "en_t": "tɛnd",
+      "ru": "ухаживать",
+      "ee": "hoolitsema",
+      "ee_da": "hoolitseda",
+      "ee_mina": "ma hoolitsen"
+    },
+    {
+      "en": "trunk",
+      "en_t": "trʌŋk",
+      "ru": "ствол (дерева)",
+      "ee": "tüvi"
+    },
+    {
+      "en": "late/pass away mother",
+      "en_t": "leɪt/pæs əˈweɪ ˈmʌðər",
+      "ru": "умершая мать",
+      "ee": "surnud ema"
+    },
+    {
+      "en": "apparition",
+      "en_t": "ˌæpəˈrɪʃən",
+      "ru": "призрак",
+      "ee": "vaim"
+    },
+    {
+      "en": "odd",
+      "en_t": "ɒd",
+      "ru": "странный",
+      "ee": "imelik"
+    },
+    {
+      "en": "to go viral on tiktok",
+      "en_t": "tuː ɡoʊ ˈvaɪrəl ɒn ˈtɪktɒk",
+      "ru": "стать вирусным в TikTok",
+      "ee": "saama viiruseks TikTokis"
+    },
+    {
+      "en": "suspicious",
+      "en_t": "səˈspɪʃəs",
+      "ru": "подозрительный",
+      "ee": "kahtlane"
+    },
+    {
+      "en": "explanation",
+      "en_t": "ˌɛkspləˈneɪʃən",
+      "ru": "объяснение",
+      "ee": "selgitus"
+    },
+    {
+      "en": "seduced",
+      "en_t": "sɪˈdjuːst",
+      "ru": "соблазненный",
+      "ee": "lummuses"
+    },
+    {
+      "en": "to attract",
+      "en_t": "əˈtrækt",
+      "ru": "привлекать",
+      "ee": "meelitama",
+      "ee_da": "meelitada",
+      "ee_mina": "ma meelitan"
+    },
+    {
+      "en": "enraptured",
+      "en_t": "ɪnˈræptʃərd",
+      "ru": "очарованный",
+      "ee": "võlutud"
+    },
+    {
+      "en": "for a while",
+      "en_t": "fɔr ə waɪl",
+      "ru": "некоторое время",
+      "ee": "mõnda aega"
+    },
+    {
+      "en": "fulfilled",
+      "en_t": "fʊlˈfɪld",
+      "ru": "исполненный",
+      "ee": "täid"
+    },
+    {
+      "en": "to fulfill",
+      "en_t": "tə ˈfʊlˌfɪl",
+      "ru": "выполнить",
+      "ee": "täitma",
+      "ee_da": "täita",
+      "ee_mina": "ma täidan"
+    },
+    {
+      "en": "cadenced",
+      "en_t": "ˈkeɪdənst",
+      "ru": "ритмичный",
+      "ee": "rütmiline"
+    },
+    {
+      "en": "bliss",
+      "en_t": "blɪs",
+      "ru": "блаженство",
+      "ee": "õndsus"
+    },
+    {
+      "en": "to twitch",
+      "en_t": "twɪtʃ",
+      "ru": "дёргаться",
+      "ee": "tõmblema",
+      "ee_da": "tõmblema",
+      "ee_mina": "ma tõmblen"
+    },
+    {
+      "en": "swinging",
+      "en_t": "ˈswɪŋɪŋ",
+      "ru": "качающийся",
+      "ee": "kiikuv"
+    },
+    {
+      "en": "mermaid",
+      "en_t": "ˈmɜrˌmeɪd",
+      "ru": "русалка",
+      "ee": "merineitsi"
+    },
+    {
+      "en": "to rejoice",
+      "en_t": "rɪˈdʒɔɪs",
+      "ru": "радоваться",
+      "ee": "rõõmustama",
+      "ee_da": "rõõmustada",
+      "ee_mina": "ma rõõmustan"
+    },
+    {
+      "en": "to seek",
+      "en_t": "siːk",
+      "ru": "искать",
+      "ee": "otsima"
+    },
+    {
+      "en": "oblivion",
+      "en_t": "əˈblɪviən",
+      "ru": "забвение",
+      "ee": "unustus"
+    },
+    {
+      "en": "avoiding",
+      "en_t": "əˈvɔɪdɪŋ",
+      "ru": "избегание",
+      "ee": "vältimine"
+    },
+    {
+      "en": "reserved",
+      "en_t": "rɪˈzɜrved",
+      "ru": "замкнутый",
+      "ee": "tagasihoidlik"
+    },
+    {
+      "en": "taciturn",
+      "en_t": "ˈtæsɪtɜrn",
+      "ru": "молчаливый",
+      "ee": "vaikne"
+    },
+    {
+      "en": "quay",
+      "en_t": "kiː",
+      "ru": "набережная",
+      "ee": "kai"
+    },
+    {
+      "en": "for jogging",
+      "en_t": "fɔr ˈdʒɑgɪŋ",
+      "ru": "для пробежки",
+      "ee": "jooksuks"
+    },
+    {
+      "en": "to drool",
+      "en_t": "druːl",
+      "ru": "слюнить",
+      "ee": "sülitama"
+    },
+    {
+      "en": "thick",
+      "en_t": "θɪk",
+      "ru": "толстый",
+      "ee": "paks"
+    },
+    {
+      "en": "along",
+      "en_t": "əˈlɔŋ",
+      "ru": "вдоль",
+      "ee": "piki"
+    },
+    {
+      "en": "outstretched",
+      "en_t": "ˌaʊtˈstrɛtʃt",
+      "ru": "вытянутый",
+      "ee": "välja sirutatud"
+    },
+    {
+      "en": "to tear down",
+      "en_t": "tuːr daʊn",
+      "ru": "сносить",
+      "ee": "maha kiskuma"
+    },
+    {
+      "en": "to express",
+      "en_t": "ɪkˈsprɛs",
+      "ru": "выражать",
+      "ee": "väljendama"
+    },
+    {
+      "en": "to allow",
+      "en_t": "əˈlaʊ",
+      "ru": "разрешать",
+      "ee": "lubama"
+    },
+    {
+      "en": "to cling",
+      "en_t": "klɪŋ",
+      "ru": "цепляться",
+      "ee": "klammerduma"
+    },
+    {
+      "en": "to emerge",
+      "en_t": "ɪˈmɜrdʒ",
+      "ru": "появляться",
+      "ee": "ilmuma"
+    },
+    {
+      "en": "cliff",
+      "en_t": "klɪf",
+      "ru": "утес",
+      "ee": "kalju"
+    },
+    {
+      "en": "to propose to her",
+      "en_t": "tuː prəˈpoʊz tu ˈhɜr",
+      "ru": "сделать предложение ей",
+      "ee": "talle ettepanekut teha"
+    },
+    {
+      "en": "work proposal",
+      "en_t": "wɜrk prəˈpoʊzəl",
+      "ru": "рабочее предложение",
+      "ee": "töö ettepanek"
+    },
+    {
+      "en": "doubts",
+      "en_t": "daʊts",
+      "ru": "сомнения",
+      "ee": "kahtlused"
+    },
+    {
+      "en": "to melt",
+      "en_t": "mɛlt",
+      "ru": "плавить",
+      "ee": "sulama"
+    },
+    {
+      "en": "reassuring",
+      "en_t": "rɪˈʃʊrɪŋ",
+      "ru": "успокаивающий",
+      "ee": "rahustav"
+    },
+    {
+      "en": "stiff",
+      "en_t": "stɪf",
+      "ru": "жесткий",
+      "ee": "jäik"
+    },
+    {
+      "en": "to star",
+      "en_t": "stɑr",
+      "ru": "сниматься",
+      "ee": "osalema"
+    },
+    {
+      "en": "I'm crazy about you",
+      "en_t": "aɪm ˈkreɪzi əˈbaʊt juː",
+      "ru": "я схожу по тебе с ума",
+      "ee": "oled mu meelest hull"
+    },
+    {
+      "en": "to nod",
+      "en_t": "nɒd",
+      "ru": "кивать",
+      "ee": "noogutama"
+    },
+    {
+      "en": "stepped outside/out off",
+      "en_t": "stɛpt ˈaʊtˈsɪd/aʊt ɔf",
+      "ru": "выйти/выйти",
+      "ee": "astus välja/välja"
+    },
+    {
+      "en": "to bump",
+      "en_t": "bʌmp",
+      "ru": "столкнуться",
+      "ee": "kokku põrkama"
+    },
+    {
+      "en": "pale face",
+      "en_t": "peɪl feɪs",
+      "ru": "бледное лицо",
+      "ee": "kahvatu nägu"
+    },
+    {
+      "en": "confused about",
+      "en_t": "kənˈfjuzd əˈbaʊt",
+      "ru": "озадаченный",
+      "ee": "segaduses"
+    },
+    {
+      "en": "he is filled with courage",
+      "en_t": "hiː ɪz fɪld wɪð ˈkɜrɪdʒ",
+      "ru": "он наполнен мужеством",
+      "ee": "ta on täis julgust"
+    },
+    {
+      "en": "heaven",
+      "en_t": "ˈhɛvən",
+      "ru": "небеса",
+      "ee": "taevas"
+    },
+    {
+      "en": "admiration",
+      "en_t": "ˌædməˈreɪʃən",
+      "ru": "восхищение",
+      "ee": "imetlus"
+    },
+    {
+      "en": "to sigh",
+      "en_t": "saɪ",
+      "ru": "вздыхать",
+      "ee": "ohkama"
+    },
+    {
+      "en": "briefly",
+      "en_t": "ˈbrifli",
+      "ru": "кратко",
+      "ee": "lühidalt"
+    },
+    {
+      "en": "curtains",
+      "en_t": "ˈkɜrtənz",
+      "ru": "занавески",
+      "ee": "kardinad"
+    },
+    {
+      "en": "sharp-toothed",
+      "en_t": "ʃɑrp-tuθd",
+      "ru": "острозубый",
+      "ee": "terahambaline"
+    },
+    {
+      "en": "victim",
+      "en_t": "ˈvɪktɪm",
+      "ru": "жертва",
+      "ee": "ohver"
+    },
+    {
+      "en": "silly",
+      "en_t": "ˈsɪli",
+      "ru": "глупый",
+      "ee": "näpuotsaga tehtud"
+    },
+    {
+      "en": "invitation",
+      "en_t": "ˌɪnvɪˈteɪʃən",
+      "ru": "приглашение",
+      "ee": "kutse"
+    },
+    {
+      "en": "to tease",
+      "en_t": "tiːz",
+      "ru": "дразнить",
+      "ee": "kiusama"
+    },
+    {
+      "en": "he burst through the door",
+      "en_t": "hiː bɜrst θruː ðə dɔr",
+      "ru": "он влетел в дверь",
+      "ee": "ta plahvatas uksest sisse"
+    },
+    {
+      "en": "tension",
+      "en_t": "ˈtɛnʃən",
+      "ru": "напряжение",
+      "ee": "pinge"
+    },
+    {
+      "en": "lightstone",
+      "en_t": "laɪtstoʊn",
+      "ru": "светокамень",
+      "ee": "valguskivi"
+    },
+    {
+      "en": "shine bright like a diamond",
+      "en_t": "ʃaɪn braɪt laɪk ə ˈdaɪəmənd",
+      "ru": "светить ярко, как алмаз",
+      "ee": "sära eredalt nagu teemant"
+    },
+    {
+      "en": "wife-to-be",
+      "en_t": "waɪf tə bi",
+      "ru": "будущая жена",
+      "ee": "tulevane naine"
+    },
+    {
+      "en": "I got attacked by a thief",
+      "en_t": "aɪ ɡɒt əˈtækt baɪ ə θif",
+      "ru": "меня напал вор",
+      "ee": "mind ründas varas"
+    },
+    {
+      "en": "to stab",
+      "en_t": "stæb",
+      "ru": "ударить ножом",
+      "ee": "nuga torkama"
+    },
+    {
+      "en": "selfless",
+      "en_t": "ˈsɛlfləs",
+      "ru": "бескорыстный",
+      "ee": "isetu"
+    },
+    {
+      "en": "to argue",
+      "en_t": "ˈɑrɡjuː",
+      "ru": "спорить",
+      "ee": "vaielda"
+    },
+    {
+      "en": "petty arguments",
+      "en_t": "ˈpɛti ˈɑːɡjumənts",
+      "ru": "мелкие споры",
+      "ee": "tühine vaidlus",
+      "ee_da": "vaidlema tühise",
+      "ee_mina": "ma vaidlen tühise"
+    },
+    {
+      "en": "pathetic creatures",
+      "en_t": "pəˈθɛtɪk ˈkriːtʃərz",
+      "ru": "жалкие создания",
+      "ee": "jäledad olendid",
+      "ee_da": "olendite jäledus",
+      "ee_mina": "mina olen jäle"
+    },
+    {
+      "en": "reassuring words",
+      "en_t": "rɪˈʃʊrɪŋ wɜːrdz",
+      "ru": "успокаивающие слова",
+      "ee": "rõõmustavad sõnad",
+      "ee_da": "sõnu rõõmustavad",
+      "ee_mina": "mina rõõmustavad sõnad"
+    },
+    {
+      "en": "petty",
+      "en_t": "ˈpɛti",
+      "ru": "мелкий",
+      "ee": "tühine",
+      "ee_da": "tühise",
+      "ee_mina": "mina olen tühine"
+    },
+    {
+      "en": "to annoy",
+      "en_t": "əˈnɔɪ",
+      "ru": "раздражать",
+      "ee": "ärritama",
+      "ee_da": "ärritav",
+      "ee_mina": "mina ärritan"
+    },
+    {
+      "en": "pathetic",
+      "en_t": "pəˈθɛtɪk",
+      "ru": "жалкий",
+      "ee": "jäle"
+    },
+    {
+      "en": "pathetic sight",
+      "en_t": "pəˈθɛtɪk saɪt",
+      "ru": "жалкое зрелище",
+      "ee": "jäle vaatepilt"
+    },
+    {
+      "en": "giant",
+      "en_t": "/ˈdʒaɪənt/",
+      "ru": "гигант",
+      "ee": "hiiglane"
+    },
+    {
+      "en": "gigantic",
+      "en_t": "/dʒaɪˈɡæntɪk/",
+      "ru": "гигантский",
+      "ee": "gigantlik"
+    },
+    {
+      "en": "stone fruit",
+      "en_t": "/ˈstoʊn fruːt/",
+      "ru": "косточковые фрукты",
+      "ee": "kiviviljad"
+    },
+    {
+      "en": "valley",
+      "en_t": "/ˈvæli/",
+      "ru": "долина",
+      "ee": "org"
+    },
+    {
+      "en": "to ripe",
+      "en_t": "/tʊ raɪp/",
+      "ru": "созревать",
+      "ee": "valmima",
+      "ee_da": "valmida",
+      "ee_mina": "valmin"
+    },
+    {
+      "en": "to queued",
+      "en_t": "/tuː kjuːd/",
+      "ru": "стоять в очереди",
+      "ee": "järjekorras olema",
+      "ee_da": "järjekorras olla",
+      "ee_mina": "olen järjekorras"
+    },
+    {
+      "en": "plenty",
+      "en_t": "/ˈplɛnti/",
+      "ru": "много",
+      "ee": "palju"
+    },
+    {
+      "en": "wealthy man",
+      "en_t": "/ˈwɛlθi mæn/",
+      "ru": "богатый человек",
+      "ee": "jõukas mees"
+    },
+    {
+      "en": "wealth",
+      "en_t": "/ˈwɛlθ/",
+      "ru": "богатство",
+      "ee": "jõukus"
+    },
+    {
+      "en": "foolish",
+      "en_t": "/ˈfuːlɪʃ/",
+      "ru": "глупый",
+      "ee": "loll"
+    },
+    {
+      "en": "nevertheless",
+      "en_t": "/ˌnɛvərðəˈlɛs/",
+      "ru": "тем не менее",
+      "ee": "siiski"
+    },
+    {
+      "en": "spare time",
+      "en_t": "/spɛər taɪm/",
+      "ru": "свободное время",
+      "ee": "vaba aeg"
+    },
+    {
+      "en": "to spare him",
+      "en_t": "/tʊ spɛər hɪm/",
+      "ru": "пощадить его",
+      "ee": "säästma teda",
+      "ee_da": "säästa teda",
+      "ee_mina": "säästan teda"
+    },
+    {
+      "en": "spare key",
+      "en_t": "/spɛər kiː/",
+      "ru": "запасной ключ",
+      "ee": "varuvõti"
+    },
+    {
+      "en": "fortune",
+      "en_t": "/ˈfɔːrtʃən/",
+      "ru": "состояние",
+      "ee": "varandus"
+    },
+    {
+      "en": "I have a fortune",
+      "en_t": "/aɪ hæv ə ˈfɔːrtʃən/",
+      "ru": "У меня есть состояние",
+      "ee": "Mul on varandus"
+    },
+    {
+      "en": "market stall",
+      "en_t": "/ˈmɑːrkɪt stɔːl/",
+      "ru": "торговая лавка",
+      "ee": "turuletend"
+    },
+    {
+      "en": "tough",
+      "en_t": "/tʌf/",
+      "ru": "жесткий",
+      "ee": "karm"
+    },
+    {
+      "en": "defeat",
+      "en_t": "/dɪˈfiːt/",
+      "ru": "поражение",
+      "ee": "kaotus"
+    },
+    {
+      "en": "to defend",
+      "en_t": "/tʊ dɪˈfɛnd/",
+      "ru": "защищать",
+      "ee": "kaitsma",
+      "ee_da": "kaitsta",
+      "ee_mina": "kaitse"
+    },
+    {
+      "en": "to afford",
+      "en_t": "/tʊ əˈfɔːrd/",
+      "ru": "позволить себе",
+      "ee": "lubama",
+      "ee_da": "lubada",
+      "ee_mina": "luban"
+    },
+    {
+      "en": "exhaustion",
+      "en_t": "/ɪgˈzɔːstʃən/",
+      "ru": "утомление",
+      "ee": "kurnatus"
+    },
+    {
+      "en": "opposite",
+      "en_t": "/ˈɒpəzɪt/",
+      "ru": "противоположность",
+      "ee": "vastupidine"
+    },
+    {
+      "en": "anger",
+      "en_t": "/ˈæŋgər/",
+      "ru": "гнев",
+      "ee": "vihk"
+    },
+    {
+      "en": "worth",
+      "en_t": "/wɜːrθ/",
+      "ru": "стоимость",
+      "ee": "väärtus"
+    },
+    {
+      "en": "to lean",
+      "en_t": "/tʊ liːn/",
+      "ru": "наклоняться",
+      "ee": "kalduma",
+      "ee_da": "kalduda",
+      "ee_mina": "kaldun"
+    },
+    {
+      "en": "pile of coins",
+      "en_t": "/paɪl ɒv kɔɪnz/",
+      "ru": "куча монет",
+      "ee": "müntide hunnik"
+    },
+    {
+      "en": "bare feet",
+      "en_t": "/bɛər fiːt/",
+      "ru": "босые ноги",
+      "ee": "paljad jalad"
+    },
+    {
+      "en": "with bare hands",
+      "en_t": "/wɪð bɛər hændz/",
+      "ru": "голыми руками",
+      "ee": "paljaste kätega"
+    },
+    {
+      "en": "remain / remain calm",
+      "en_t": "/rɪˈmeɪn/ /rɪˈmeɪn kɑːm/",
+      "ru": "оставаться / оставаться спокойным",
+      "ee": "püsima / jääma rahulikuks",
+      "ee_da": "püsida / jääda rahulikuks",
+      "ee_mina": "püsin / jään rahulikuks"
+    },
+    {
+      "en": "trouser",
+      "en_t": "/ˈtraʊzər/",
+      "ru": "брюки",
+      "ee": "püksid"
+    },
+    {
+      "en": "to ruin",
+      "en_t": "/tʊ ˈruːɪn/",
+      "ru": "разрушать",
+      "ee": "hävitama",
+      "ee_da": "hävitada",
+      "ee_mina": "hävitan"
+    },
+    {
+      "en": "to recognise",
+      "en_t": "/tʊ ˈrɛkəgnaɪz/",
+      "ru": "узнавать",
+      "ee": "tundma",
+      "ee_da": "tunda",
+      "ee_mina": "tunnen"
+    },
+    {
+      "en": "to consider",
+      "en_t": "/tʊ kənˈsɪdər/",
+      "ru": "рассматривать",
+      "ee": "kaaluma",
+      "ee_da": "kaaluda",
+      "ee_mina": "kaalun"
+    },
+    {
+      "en": "to reward",
+      "en_t": "/tʊ rɪˈwɔːrd/",
+      "ru": "награждать",
+      "ee": "premeerima",
+      "ee_da": "premeerida",
+      "ee_mina": "premeeerin"
+    },
+    {
+      "en": "efforts",
+      "en_t": "/ˈɛfɔːrts/",
+      "ru": "усилия",
+      "ee": "pingutused"
+    },
+    {
+      "en": "to worth",
+      "en_t": "/tʊ wɜːrθ/",
+      "ru": "стоить",
+      "ee": "väärt olema",
+      "ee_da": "väärt olla",
+      "ee_mina": "olen väärt"
+    },
+    {
+      "en": "worthy",
+      "en_t": "/ˈwɜːrði/",
+      "ru": "достойный",
+      "ee": "väärt"
+    },
+    {
+      "en": "to stride",
+      "en_t": "/tʊ straɪd/",
+      "ru": "шагать",
+      "ee": "sammuma",
+      "ee_da": "sammuda",
+      "ee_mina": "sammun"
+    },
+    {
+      "en": "further",
+      "en_t": "/ˈfɜːrðər/",
+      "ru": "дальше",
+      "ee": "kaugemal"
+    },
+    {
+      "en": "to appreciate",
+      "en_t": "/tʊ əˈpriːʃieɪt/",
+      "ru": "ценить",
+      "ee": "hindama",
+      "ee_da": "hinnata",
+      "ee_mina": "hindan"
+    },
+    {
+      "en": "greed",
+      "en_t": "/ɡriːd/",
+      "ru": "жадность",
+      "ee": "ahneus"
+    },
+    {
+      "en": "wisdom",
+      "en_t": "/ˈwɪzdəm/",
+      "ru": "мудрость",
+      "ee": "tarkus"
+    },
+    {
+      "en": "access",
+      "en_t": "/ˈækses/",
+      "ru": "доступ",
+      "ee": "juurdepääs"
+    },
+    {
+      "en": "excess",
+      "en_t": "/ɪkˈses, ˈeksɛs/",
+      "ru": "избыток",
+      "ee": "ülejääk"
+    },
+    {
+      "en": "to afford",
+      "en_t": "/tʊ əˈfɔːrd/",
+      "ru": "позволить себе",
+      "ee": "lubama",
+      "ee_da": "lubada",
+      "ee_mina": "luban"
+    },
+    {
+      "en": "acceptable",
+      "en_t": "/əkˈsɛptəbl/",
+      "ru": "приемлемый",
+      "ee": "aktsepteeritav"
+    },
+    {
+      "en": "unacceptable",
+      "en_t": "/ˌʌnəkˈsɛptəbl/",
+      "ru": "неприемлемый",
+      "ee": "vastuvõetamatu"
+    },
+    {
+      "en": "reasonable",
+      "en_t": "/ˈriːzənəbl/",
+      "ru": "разумный",
+      "ee": "mõistlik"
+    },
+    {
+      "en": "kettle",
+      "en_t": "/ˈkɛtl/",
+      "ru": "чайник",
+      "ee": "kann"
+    },
+    {
+      "en": "faulty",
+      "en_t": "/ˈfɔːlti/",
+      "ru": "неисправный",
+      "ee": "vigane"
+    },
+    {
+      "en": "scarce",
+      "en_t": "/skɛərs/",
+      "ru": "редкий",
+      "ee": "haruldane"
+    },
+    {
+      "en": "shortcoming",
+      "en_t": "/ˈʃɔːrtkʌmɪŋ/",
+      "ru": "недостаток",
+      "ee": "puudus"
+    },
+    {
+      "en": "ridiculous",
+      "en_t": "/rɪˈdɪkjʊləs/",
+      "ru": "нелепый",
+      "ee": "naeruväärne"
+    },
+    {
+      "en": "spotless",
+      "en_t": "/ˈspɒtləs/",
+      "ru": "безупречный",
+      "ee": "laitmatu"
+    },
+    {
+      "en": "spacious",
+      "en_t": "/ˈspeɪʃəs/",
+      "ru": "просторный",
+      "ee": "avar"
+    },
+    {
+      "en": "shabby",
+      "en_t": "/ˈʃæbi/",
+      "ru": "потрепанный",
+      "ee": "kulunud"
+    },
+    {
+      "en": "snobby",
+      "en_t": "/ˈsnɒbi/",
+      "ru": "высокомерный",
+      "ee": "ylbe"
+    },
+    {
+      "en": "modest",
+      "en_t": "/ˈmɒdɪst/",
+      "ru": "скромный",
+      "ee": "tagasihoidlik"
+    },
+    {
+      "en": "fancy",
+      "en_t": "/ˈfænsi/",
+      "ru": "вычурный",
+      "ee": "peen"
+    },
+    {
+      "en": "remarkable",
+      "en_t": "/rɪˈmɑːrkəbl/",
+      "ru": "замечательный",
+      "ee": "märkimisväärne"
+    },
+    {
+      "en": "superb",
+      "en_t": "/suːˈpɜːrb/",
+      "ru": "превосходный",
+      "ee": "suurepärane"
+    },
+    {
+      "en": "splendid",
+      "en_t": "/ˈsplɛndɪd/",
+      "ru": "великолепный",
+      "ee": "hiilgav"
+    },
+    {
+      "en": "magnificent",
+      "en_t": "/mægˈnɪfɪsnt/",
+      "ru": "великолепный",
+      "ee": "suurejooneline"
+    },
+    {
+      "en": "inexpensive",
+      "en_t": "/ˌɪnɪkˈspɛnsɪv/",
+      "ru": "недорогой",
+      "ee": "odav"
+    },
+    {
+      "en": "lovely",
+      "en_t": "/ˈlʌvli/",
+      "ru": "очаровательный",
+      "ee": "armas"
+    }
+  ]
+}

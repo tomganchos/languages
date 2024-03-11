@@ -1,6 +1,14 @@
 <template>
   <div class="footer">
     <router-link
+        to="./search"
+        :class="{ 'active': $route.name === 'Search' }"
+        class="footer-button"
+        >
+      <SearchIcon/>
+      Поиск
+    </router-link>
+    <router-link
         to="./"
         :class="{ 'active': $route.name === 'Cards' }"
         class="footer-button"
@@ -22,10 +30,11 @@
 <script>
 import GrammarIcon from './icons/GrammarIcon.vue'
 import CardsIcon from './icons/CardsIcon.vue'
+import SearchIcon from "./icons/SearchIcon.vue";
 
 export default {
   name: 'Footer',
-  components: {CardsIcon, GrammarIcon},
+  components: {SearchIcon, CardsIcon, GrammarIcon},
 }
 </script>
 
