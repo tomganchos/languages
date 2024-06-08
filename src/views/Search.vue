@@ -41,9 +41,9 @@ export default {
         return []
       } else {
         return this.data.filter(item => {
-          return (item.en.toLowerCase().includes(this.searchString.toLowerCase()) ||
-              item.ee.toLowerCase().includes(this.searchString.toLowerCase()) ||
-              item.ru.toLowerCase().includes(this.searchString.toLowerCase()))
+          return (item.en?.toLowerCase().includes(this.searchString.toLowerCase()) ||
+              item.ee?.toLowerCase().includes(this.searchString.toLowerCase()) ||
+              item.ru?.toLowerCase().includes(this.searchString.toLowerCase()))
         })
       }
     }

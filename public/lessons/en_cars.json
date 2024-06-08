@@ -1,0 +1,471 @@
+{
+  "lesson": "Cars",
+  "date": "2024-02-15",
+  "language": "en",
+  "words": [
+    {
+      "en": "sedan",
+      "en_t": "sɪˈdæn",
+      "ru": "седан",
+      "ee": "sedaan",
+      "ee_2": "sedaani",
+      "ee_3": "sedaani"
+    },
+    {
+      "en": "pickup truck",
+      "en_t": "ˈpɪkˌʌp trʌk",
+      "ru": "пикап",
+      "ee": "pikap",
+      "ee_2": "pikapi",
+      "ee_3": "pikapi"
+    },
+    {
+      "en": "sports car",
+      "en_t": "spɔːrts kɑːr",
+      "ru": "спортивный автомобиль",
+      "ee": "sportauto",
+      "ee_2": "sportauto",
+      "ee_3": "sportautot"
+    },
+    {
+      "en": "minivan",
+      "en_t": "ˈmɪnɪˌvæn",
+      "ru": "минивэн",
+      "ee": "mahtuniversaal",
+      "ee_2": "mahtuniversaali",
+      "ee_3": "mahtuniversaali"
+    },
+    {
+      "en": "SUV",
+      "en_t": "ɛs juː ˈviː",
+      "ru": "внедорожник",
+      "ee": "maastur",
+      "ee_2": "maasturi",
+      "ee_3": "maasturit"
+    },
+    {
+      "en": "hatchback car",
+      "en_t": "ˈhætʃˌbæk kɑːr",
+      "ru": "хэтчбек",
+      "ee": "luukpära",
+      "ee_2": "luukpära",
+      "ee_3": "luukpära"
+    },
+    {
+      "en": "convertible car",
+      "en_t": "kənˈvɜːrtəbl kɑːr",
+      "ru": "кабриолет",
+      "ee": "kabriolett",
+      "ee_2": "kabrioleti",
+      "ee_3": "kabrioletti"
+    },
+    {
+      "en": "hood",
+      "en_t": "hʊd",
+      "ru": "капот",
+      "ee": "kapott",
+      "ee_2": "kapoti",
+      "ee_3": "kapotti"
+    },
+    {
+      "en": "engine",
+      "en_t": "ˈɛndʒɪn",
+      "ru": "двигатель",
+      "ee": "mootor",
+      "ee_2": "mootori",
+      "ee_3": "mootorit"
+    },
+    {
+      "en": "headlights",
+      "en_t": "ˈhɛdlaɪts",
+      "ru": "фары",
+      "ee": "esituled",
+      "ee_2": "esitulede",
+      "ee_3": "esitulesid"
+    },
+    {
+      "en": "bumper",
+      "en_t": "ˈbʌmpər",
+      "ru": "бампер",
+      "ee": "põrkeraud",
+      "ee_2": "põrkeraua",
+      "ee_3": "põrkerauda"
+    },
+    {
+      "en": "little bender",
+      "en_t": "ˈlɪtl ˈbɛndər",
+      "ru": "небольшое столкновение",
+      "ee": "väike avarii",
+      "ee_2": "väikese avarii",
+      "ee_3": "väikest avariid"
+    },
+    {
+      "en": "I got a fender bender",
+      "en_t": "aɪ ɡɒt ə ˈfɛndər ˈbɛndər",
+      "ru": "у меня было небольшое ДТП",
+      "ee": "mul oli väike plekimõlkimine",
+      "ee_2": "mul oli väikese plekimõlkimise",
+      "ee_3": "mul oli väikest plekimõlkimist"
+    },
+    {
+      "en": "grill",
+      "en_t": "ɡrɪl",
+      "ru": "решетка радиатора",
+      "ee": "võre",
+      "ee_2": "võre",
+      "ee_3": "võret"
+    },
+    {
+      "en": "licence plate",
+      "en_t": "ˈlaɪsəns pleɪt",
+      "ru": "номерной знак",
+      "ee": "numbrimärk",
+      "ee_2": "numbrimärgi",
+      "ee_3": "numbrimärki"
+    },
+    {
+      "en": "truck",
+      "en_t": "trʌk",
+      "ru": "грузовик",
+      "ee": "veoauto",
+      "ee_2": "veoauto",
+      "ee_3": "veoautot"
+    },
+    {
+      "en": "to open the trunk",
+      "en_t": "tuː ˈoʊpən ðə trʌŋk",
+      "ru": "открыть багажник",
+      "ee": "avada pagasiruum",
+      "ee_da": "avada pagasiruumi",
+      "ee_mina": "avandan pagasiruumi"
+    },
+    {
+      "en": "hatch",
+      "en_t": "hætʃ",
+      "ru": "люк",
+      "ee": "luuk",
+      "ee_2": "luugi",
+      "ee_3": "luuki"
+    },
+    {
+      "en": "brake light",
+      "en_t": "breɪk laɪt",
+      "ru": "стоп-сигнал",
+      "ee": "pidurituli",
+      "ee_2": "piduritule",
+      "ee_3": "pidurituld"
+    },
+    {
+      "en": "blinker light",
+      "en_t": "ˈblɪŋkər laɪt",
+      "ru": "поворотник",
+      "ee": "suunatuli",
+      "ee_2": "suunatule",
+      "ee_3": "suunatuld"
+    },
+    {
+      "en": "side mirrors",
+      "en_t": "saɪd ˈmɪrərz",
+      "ru": "боковые зеркала",
+      "ee": "küljepeeglid",
+      "ee_2": "küljepeeglite",
+      "ee_3": "küljepeegleid"
+    },
+    {
+      "en": "silencer",
+      "en_t": "ˈsaɪlənsər",
+      "ru": "глушитель",
+      "ee": "summuti",
+      "ee_2": "summuti",
+      "ee_3": "summutit"
+    },
+    {
+      "en": "gas tank",
+      "en_t": "ɡæs tæŋk",
+      "ru": "топливный бак",
+      "ee": "kütusepaak",
+      "ee_2": "kütusepaagi",
+      "ee_3": "kütusepaaki"
+    },
+    {
+      "en": "tire",
+      "en_t": "ˈtaɪər",
+      "ru": "шина",
+      "ee": "rehv",
+      "ee_2": "rehvi",
+      "ee_3": "rehvi"
+    },
+    {
+      "en": "I got a flat tire",
+      "en_t": "aɪ ɡɒt ə flæt ˈtaɪər",
+      "ru": "у меня спустило шину",
+      "ee": "mul läks rehv tühjaks",
+      "ee_2": "mul läks rehvi tühjaks",
+      "ee_3": "mul läks rehvi tühjaks"
+    },
+    {
+      "en": "car rim",
+      "en_t": "kɑːr rɪm",
+      "ru": "диск колеса",
+      "ee": "velg",
+      "ee_2": "velje",
+      "ee_3": "velge"
+    },
+    {
+      "en": "lug nuts",
+      "en_t": "lʌɡ nʌts",
+      "ru": "болты крепления колеса",
+      "ee": "rattapoldid",
+      "ee_2": "rattapoltide",
+      "ee_3": "rattapolte"
+    },
+    {
+      "en": "lug nuts key",
+      "en_t": "lʌɡ nʌts kiː",
+      "ru": "ключ для болтов крепления колеса",
+      "ee": "rattapoltide võti",
+      "ee_2": "rattapoltide võtme",
+      "ee_3": "rattapoltide võtit"
+    },
+    {
+      "en": "seat",
+      "en_t": "siːt",
+      "ru": "сиденье",
+      "ee": "iste",
+      "ee_2": "istme",
+      "ee_3": "istet"
+    },
+    {
+      "en": "second row",
+      "en_t": "ˈsɛkənd roʊ",
+      "ru": "второй ряд",
+      "ee": "teine rida",
+      "ee_2": "teise rea",
+      "ee_3": "teist rida"
+    },
+    {
+      "en": "shifter",
+      "en_t": "ˈʃɪftər",
+      "ru": "рычаг переключения передач",
+      "ee": "käigukang",
+      "ee_2": "käigukangi",
+      "ee_3": "käigukangi"
+    },
+    {
+      "en": "gears",
+      "en_t": "ɡɪərz",
+      "ru": "передачи",
+      "ee": "käigud",
+      "ee_2": "käikude",
+      "ee_3": "käike"
+    },
+    {
+      "en": "steering wheel",
+      "en_t": "ˈstɪərɪŋ wiːl",
+      "ru": "руль",
+      "ee": "rool",
+      "ee_2": "rooli",
+      "ee_3": "rooli"
+    },
+    {
+      "en": "to put the key in the ignition",
+      "en_t": "tuː pʊt ðə kiː ɪn ðə ɪɡˈnɪʃən",
+      "ru": "вставить ключ в замок зажигания",
+      "ee": "panna võti süütelukku",
+      "ee_da": "panna võtit süütelukku",
+      "ee_mina": "panen võtme süütelukku"
+    },
+    {
+      "en": "dashboard",
+      "en_t": "ˈdæʃbɔːrd",
+      "ru": "приборная панель",
+      "ee": "armatuurlaud",
+      "ee_2": "armatuurlaua",
+      "ee_3": "armatuurlauda"
+    },
+    {
+      "en": "speedometer",
+      "en_t": "spiːˈdɒmɪtər",
+      "ru": "спидометр",
+      "ee": "kiirusmõõtja",
+      "ee_2": "kiirusmõõtja",
+      "ee_3": "kiirusmõõtjat"
+    },
+    {
+      "en": "fuel mileage",
+      "en_t": "ˈfjuːəl ˈmaɪlɪdʒ",
+      "ru": "расход топлива",
+      "ee": "kütusekulu",
+      "ee_2": "kütusekulu",
+      "ee_3": "kütusekulu"
+    },
+    {
+      "en": "center console",
+      "en_t": "ˈsɛntər kənˈsoʊl",
+      "ru": "центральная консоль",
+      "ee": "keskkonsool",
+      "ee_2": "keskkonsooli",
+      "ee_3": "keskkonsooli"
+    },
+    {
+      "en": "climate control",
+      "en_t": "ˈklaɪmɪt kənˈtroʊl",
+      "ru": "климат-контроль",
+      "ee": "kliimaseade",
+      "ee_2": "kliimaseadme",
+      "ee_3": "kliimaseadet"
+    },
+    {
+      "en": "pedal",
+      "en_t": "ˈpɛdəl",
+      "ru": "педаль",
+      "ee": "pedaal",
+      "ee_2": "pedaali",
+      "ee_3": "pedaali"
+    },
+    {
+      "en": "gas",
+      "en_t": "ɡæs",
+      "ru": "газ",
+      "ee": "gaas",
+      "ee_2": "gaasi",
+      "ee_3": "gaasi"
+    },
+    {
+      "en": "brakes",
+      "en_t": "breɪks",
+      "ru": "тормоза",
+      "ee": "pidurid",
+      "ee_2": "pidurite",
+      "ee_3": "pidureid"
+    },
+    {
+      "en": "clutch pedal",
+      "en_t": "klʌtʃ ˈpɛdəl",
+      "ru": "педаль сцепления",
+      "ee": "siduripedaal",
+      "ee_2": "siduripedaali",
+      "ee_3": "siduripedaali"
+    },
+    {
+      "en": "transmission",
+      "en_t": "trænsˈmɪʃən",
+      "ru": "трансмиссия",
+      "ee": "ülekanne",
+      "ee_2": "ülekande",
+      "ee_3": "ülekannet"
+    },
+    {
+      "en": "vent",
+      "en_t": "vɛnt",
+      "ru": "вентиляция",
+      "ee": "ventilatsioon",
+      "ee_2": "ventilatsiooni",
+      "ee_3": "ventilatsiooni"
+    },
+    {
+      "en": "horn",
+      "en_t": "hɔːrn",
+      "ru": "гудок",
+      "ee": "signaal",
+      "ee_2": "signaali",
+      "ee_3": "signaali"
+    },
+    {
+      "en": "to honk the horn",
+      "en_t": "tuː hɒŋk ðə hɔːrn",
+      "ru": "подать сигнал",
+      "ee": "signaali andma",
+      "ee_da": "anda signaali",
+      "ee_mina": "annan signaali"
+    },
+    {
+      "en": "rearview mirror",
+      "en_t": "ˈrɪərvjuː ˈmɪrər",
+      "ru": "зеркало заднего вида",
+      "ee": "tagapeegel",
+      "ee_2": "tagapeegli",
+      "ee_3": "tagapeeglit"
+    },
+    {
+      "en": "visor",
+      "en_t": "ˈvaɪzər",
+      "ru": "козырек",
+      "ee": "päikesesirm",
+      "ee_2": "päikesesirmi",
+      "ee_3": "päikesesirmi"
+    },
+    {
+      "en": "storage",
+      "en_t": "ˈstɔːrɪdʒ",
+      "ru": "хранилище",
+      "ee": "hoidla",
+      "ee_2": "hoidla",
+      "ee_3": "hoidlat"
+    },
+    {
+      "en": "you put down the visor",
+      "en_t": "juː pʊt daʊn ðə ˈvaɪzər",
+      "ru": "ты опустил козырек",
+      "ee": "sa lasksid päikesesirmi alla",
+      "ee_2": "sa lasksid päikesesirmi alla",
+      "ee_3": "sa lasksid päikesesirmi alla"
+    },
+    {
+      "en": "windshield",
+      "en_t": "ˈwɪndˌʃiːld",
+      "ru": "лобовое стекло",
+      "ee": "tuuleklaas",
+      "ee_2": "tuuleklaasi",
+      "ee_3": "tuuleklaasi"
+    },
+    {
+      "en": "windshield wiper",
+      "en_t": "ˈwɪndˌʃiːld ˈwaɪpər",
+      "ru": "дворник (стеклоочиститель)",
+      "ee": "kojamees",
+      "ee_2": "kojamehe",
+      "ee_3": "kojameest"
+    },
+    {
+      "en": "water sprays",
+      "en_t": "ˈwɔːtər spreɪz",
+      "ru": "омыватели",
+      "ee": "pesurid",
+      "ee_2": "pesurite",
+      "ee_3": "pesureid"
+    },
+    {
+      "en": "to roll up the window",
+      "en_t": "tuː roʊl ʌp ðə ˈwɪndoʊ",
+      "ru": "поднять окно",
+      "ee": "tõsta aken üles",
+      "ee_da": "tõsta akent üles",
+      "ee_mina": "tõstan akna üles"
+    },
+    {
+      "en": "to roll down the window",
+      "en_t": "tuː roʊl daʊn ðə ˈwɪndoʊ",
+      "ru": "опустить окно",
+      "ee": "lasta aken alla",
+      "ee_da": "lasta akent alla",
+      "ee_mina": "lasen akna alla"
+    },
+    {
+      "en": "crank",
+      "en_t": "kræŋk",
+      "ru": "рукоятка",
+      "ee": "käepide",
+      "ee_2": "käepideme",
+      "ee_3": "käepidet"
+    },
+    {
+      "en": "car brights",
+      "en_t": "kɑːr braɪts",
+      "ru": "дальний свет фар",
+      "ee": "kaugtuled",
+      "ee_2": "kaugtulede",
+      "ee_3": "kaugtulesid"
+    }
+  ]
+}

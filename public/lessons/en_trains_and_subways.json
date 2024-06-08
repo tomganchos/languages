@@ -1,0 +1,177 @@
+{
+  "lesson": "Trains and Subways",
+  "date": "2024-01-16",
+  "language": "en",
+  "words": [
+    {
+      "en": "ticket deck",
+      "en_t": "ˈtɪkɪt dɛk",
+      "ru": "касса (место продажи билетов)",
+      "ee": "piletimüügikoht"
+    },
+    {
+      "en": "help desk",
+      "en_t": "hɛlp dɛsk",
+      "ru": "информационный стол",
+      "ee": "infolett"
+    },
+    {
+      "en": "you go and I'll catch you up at the platform",
+      "en_t": "juː ɡoʊ ænd aɪl kætʃ juː ʌp æt ðə ˈplætfɔːm",
+      "ru": "иди, а я догоню тебя на платформе",
+      "ee": "mine, ma jõuan su järgi platvormil"
+    },
+    {
+      "en": "fare",
+      "en_t": "feər",
+      "ru": "плата за проезд",
+      "ee": "sõidutasu"
+    },
+    {
+      "en": "to give up your seat for her",
+      "en_t": "tuː ɡɪv ʌp jɔːr siːt fɔːr hɜːr",
+      "ru": "уступить ей свое место",
+      "ee": "anda talle oma koht",
+      "ee_da": "anda talle oma kohta",
+      "ee_mina": "annan talle oma kohta"
+    },
+    {
+      "en": "freight train",
+      "en_t": "freɪt treɪn",
+      "ru": "грузовой поезд",
+      "ee": "kaubarong",
+      "ee_2": "kaubarongi",
+      "ee_3": "kaubarongi"
+    },
+    {
+      "en": "car",
+      "en_t": "kɑːr",
+      "ru": "вагон",
+      "ee": "vagun",
+      "ee_2": "vaguni",
+      "ee_3": "vagunit"
+    },
+    {
+      "en": "grapes from this region freighted all over the world most planes carry both",
+      "en_t": "ɡreɪps frɒm ðɪs ˈriːdʒən ˈfreɪtɪd ɔːl ˈoʊvər ðə wɜːld məʊst pleɪns ˈkæri bəʊθ",
+      "ru": "виноград из этого региона транспортируется по всему миру, большинство самолетов перевозят и то, и другое",
+      "ee": "selle piirkonna viinamarju veetakse kogu maailmas, enamik lennukeid veavad mõlemat"
+    },
+    {
+      "en": "passenger train",
+      "en_t": "ˈpæsɪndʒər treɪn",
+      "ru": "пассажирский поезд",
+      "ee": "reisirong",
+      "ee_2": "reisirongi",
+      "ee_3": "reisirongi"
+    },
+    {
+      "en": "sky train",
+      "en_t": "skaɪ treɪn",
+      "ru": "воздушный поезд, скайтрейн",
+      "ee": "õhurong",
+      "ee_2": "õhurongi",
+      "ee_3": "õhurongi"
+    },
+    {
+      "en": "streetcar",
+      "en_t": "ˈstriːtkɑːr",
+      "ru": "трамвай",
+      "ee": "tramm",
+      "ee_2": "trammi",
+      "ee_3": "trammi"
+    },
+    {
+      "en": "locomotive",
+      "en_t": "ˌloʊkəˈmoʊtɪv",
+      "ru": "локомотив",
+      "ee": "vedur",
+      "ee_2": "veduri",
+      "ee_3": "vedurit"
+    },
+    {
+      "en": "compartment",
+      "en_t": "kəmˈpɑːrtmənt",
+      "ru": "купе",
+      "ee": "kupee",
+      "ee_2": "kupee",
+      "ee_3": "kupeed"
+    },
+    {
+      "en": "derailment",
+      "en_t": "dɪˈreɪlmənt",
+      "ru": "сход с рельсов",
+      "ee": "rongiõnnetus",
+      "ee_2": "rongiõnnetuse",
+      "ee_3": "rongiõnnetust"
+    },
+    {
+      "en": "my plans have been derailed",
+      "en_t": "maɪ plænz hæv bɪn dɪˈreɪld",
+      "ru": "мои планы нарушились",
+      "ee": "minu plaanid on rööpast väljas"
+    },
+    {
+      "en": "gravy train",
+      "en_t": "ˈɡreɪvi treɪn",
+      "ru": "легкий доход, «жирная кормушка»",
+      "ee": "lihtne teenistus"
+    },
+    {
+      "en": "I lost my train of thoughts",
+      "en_t": "aɪ lɒst maɪ treɪn əv θɔːts",
+      "ru": "я потерял ход своих мыслей",
+      "ee": "ma kaotasin oma mõttekäigu"
+    },
+    {
+      "en": "he is like the train comin' down the track",
+      "en_t": "hiː ɪz laɪk ðə treɪn ˈkʌmɪn daʊn ðə træk",
+      "ru": "он как поезд, несущийся по рельсам",
+      "ee": "ta on nagu rong, mis tuleb mööda rööpaid"
+    },
+    {
+      "en": "level crossing",
+      "en_t": "ˈlɛvəl ˈkrɔːsɪŋ",
+      "ru": "железнодорожный переезд",
+      "ee": "raudteeülesõit",
+      "ee_2": "raudteeülesõidu",
+      "ee_3": "raudteeülesõitu"
+    },
+    {
+      "en": "line crossing",
+      "en_t": "laɪn ˈkrɔːsɪŋ",
+      "ru": "перекресток линий, пересечение линий",
+      "ee": "liinide ristumiskoht"
+    },
+    {
+      "en": "sleeping train",
+      "en_t": "ˈsliːpɪŋ treɪn",
+      "ru": "поезд со спальными вагонами",
+      "ee": "magamisvaguniga rong",
+      "ee_2": "magamisvaguniga rongi",
+      "ee_3": "magamisvaguniga rongi"
+    },
+    {
+      "en": "ran out of credit you can top up the card",
+      "en_t": "ræn aʊt əv ˈkrɛdɪt juː kæn tɒp ʌp ðə kɑːrd",
+      "ru": "кредит исчерпан, вы можете пополнить карту",
+      "ee": "krediit on otsas, saate kaarti täiendada"
+    },
+    {
+      "en": "shelf",
+      "en_t": "ʃɛlf",
+      "ru": "полка",
+      "ee": "riiul",
+      "ee_2": "riiuli",
+      "ee_3": "riiulit"
+    },
+    {
+      "en": "rack",
+      "en_t": "ræk",
+      "ru": "стеллаж, вешалка",
+      "ee": "riiul",
+      "ee_2": "riiuli",
+      "ee_3": "riiulit"
+    }
+  ]
+}

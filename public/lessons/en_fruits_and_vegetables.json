@@ -1,0 +1,557 @@
+{
+  "lesson": "Fruits and Vegetables",
+  "date": "2024-01-11",
+  "language": "en",
+  "words": [
+    {
+      "en": "lentils",
+      "en_t": "ˈlɛntɪlz",
+      "ru": "чечевица",
+      "ee": "läätsed",
+      "ee_2": "läätsede",
+      "ee_3": "läätsesid"
+    },
+    {
+      "en": "turnip",
+      "en_t": "ˈtɜːrnɪp",
+      "ru": "репа",
+      "ee": "kaalikas",
+      "ee_2": "kaalika",
+      "ee_3": "kaalikat"
+    },
+    {
+      "en": "radish",
+      "en_t": "ˈrædɪʃ",
+      "ru": "редис",
+      "ee": "redis",
+      "ee_2": "redise",
+      "ee_3": "rediset"
+    },
+    {
+      "en": "butternut squash",
+      "en_t": "ˈbʌtərnʌt skwɒʃ",
+      "ru": "мускатная тыква",
+      "ee": "muskaatkõrvits",
+      "ee_2": "muskaatkõrvitsa",
+      "ee_3": "muskaatkõrvitsat"
+    },
+    {
+      "en": "fennel",
+      "en_t": "ˈfɛnəl",
+      "ru": "фенхель",
+      "ee": "harilik apteegitill",
+      "ee_2": "hariliku apteegitilli",
+      "ee_3": "harilikku apteegitilli"
+    },
+    {
+      "en": "peppers",
+      "en_t": "ˈpɛpərz",
+      "ru": "перцы",
+      "ee": "paprikad",
+      "ee_2": "paprikate",
+      "ee_3": "paprikaid"
+    },
+    {
+      "en": "leek",
+      "en_t": "liːk",
+      "ru": "лук-порей",
+      "ee": "porrulauk",
+      "ee_2": "porrulauku",
+      "ee_3": "porrulauku"
+    },
+    {
+      "en": "pak choi",
+      "en_t": "pæk ˈtʃɔɪ",
+      "ru": "пак-чой",
+      "ee": "pak-choi",
+      "ee_2": "pak-choi",
+      "ee_3": "pak-choid"
+    },
+    {
+      "en": "mange tout",
+      "en_t": "mɑːnʒ ˈtuː",
+      "ru": "стручковый горох",
+      "ee": "suhkruhernes",
+      "ee_2": "suhkruherne",
+      "ee_3": "suhkruhernest"
+    },
+    {
+      "en": "rhubarb",
+      "en_t": "ˈruːbɑːrb",
+      "ru": "ревень",
+      "ee": "rabarber",
+      "ee_2": "rabarberi",
+      "ee_3": "rabarberit"
+    },
+    {
+      "en": "beetroot (uk)",
+      "en_t": "ˈbiːtruːt",
+      "ru": "свекла (Великобритания)",
+      "ee": "peet",
+      "ee_2": "peedi",
+      "ee_3": "peeti"
+    },
+    {
+      "en": "beets (us)",
+      "en_t": "biːts",
+      "ru": "свекла (США)",
+      "ee": "peet",
+      "ee_2": "peedi",
+      "ee_3": "peeti"
+    },
+    {
+      "en": "spinach",
+      "en_t": "ˈspɪnɪtʃ",
+      "ru": "шпинат",
+      "ee": "spinat",
+      "ee_2": "spinati",
+      "ee_3": "spinatit"
+    },
+    {
+      "en": "beansprouts",
+      "en_t": "ˈbiːn.spraʊts",
+      "ru": "пророщенные бобы",
+      "ee": "idandid",
+      "ee_2": "idandite",
+      "ee_3": "idandeid"
+    },
+    {
+      "en": "watercress",
+      "en_t": "ˈwɔː.tə.krɛs",
+      "ru": "водяной кресс",
+      "ee": "vesikress",
+      "ee_2": "vesikressi",
+      "ee_3": "vesikressi"
+    },
+    {
+      "en": "onion",
+      "en_t": "ˈʌn.jən",
+      "ru": "лук",
+      "ee": "sibul",
+      "ee_2": "sibula",
+      "ee_3": "sibulat"
+    },
+    {
+      "en": "asparagus",
+      "en_t": "əˈspær.ə.ɡəs",
+      "ru": "спаржа",
+      "ee": "spargel",
+      "ee_2": "spargli",
+      "ee_3": "sparglit"
+    },
+    {
+      "en": "tomatoes",
+      "en_t": "təˈmɑː.təʊz",
+      "ru": "помидоры",
+      "ee": "tomatid",
+      "ee_2": "tomatite",
+      "ee_3": "tomateid"
+    },
+    {
+      "en": "garlic",
+      "en_t": "ˈɡɑː.lɪk",
+      "ru": "чеснок",
+      "ee": "küüslauk",
+      "ee_2": "küüslaugu",
+      "ee_3": "küüslauku"
+    },
+    {
+      "en": "extremely fragrant",
+      "en_t": "ɪkˈstriːm.li ˈfræɡ.rənt",
+      "ru": "очень ароматный",
+      "ee": "väga aromaatne"
+    },
+    {
+      "en": "visible cracks",
+      "en_t": "ˈvɪz.ə.bəl kræks",
+      "ru": "видимые трещины",
+      "ee": "nähtavad praod"
+    },
+    {
+      "en": "to go for firm and smooth one",
+      "en_t": "tə ɡoʊ fɔːr fɜːrm ænd smuːð wʌn",
+      "ru": "выбирать твердый и гладкий",
+      "ee": "valida kindel ja sile"
+    },
+    {
+      "en": "what is the peak right now",
+      "en_t": "wɒt ɪz ðə piːk raɪt naʊ",
+      "ru": "что сейчас в разгаре",
+      "ee": "mis on praegu hooajal"
+    },
+    {
+      "en": "raisins",
+      "en_t": "ˈreɪ.zɪnz",
+      "ru": "изюм",
+      "ee": "rosinad",
+      "ee_2": "rosinate",
+      "ee_3": "rosinaid"
+    },
+    {
+      "en": "prunes",
+      "en_t": "pruːnz",
+      "ru": "чернослив",
+      "ee": "ploomid",
+      "ee_2": "ploomide",
+      "ee_3": "ploome"
+    },
+    {
+      "en": "to go bananas",
+      "en_t": "tuː ɡoʊ bəˈnænəs",
+      "ru": "сходить с ума",
+      "ee": "hulluks minema"
+    },
+    {
+      "en": "the cherry on the top",
+      "en_t": "ðə ˈʧɛri ɒn ðə tɒp",
+      "ru": "изюминка",
+      "ee": "täpp i-le"
+    },
+    {
+      "en": "to cherry pick",
+      "en_t": "tuː ˈʧɛri pɪk",
+      "ru": "выбирать лучшее",
+      "ee": "parimat valima"
+    },
+    {
+      "en": "life is a bowl of cherries",
+      "en_t": "laɪf ɪz ə boʊl əv ˈʧɛriz",
+      "ru": "жизнь полна удовольствий",
+      "ee": "elu on nagu kirsiaed"
+    },
+    {
+      "en": "you are comparing apples and oranges",
+      "en_t": "juː ɑːr kəmˈpɛərɪŋ ˈæplz ænd ˈɔrɪndʒɪz",
+      "ru": "ты сравниваешь несравнимое",
+      "ee": "sa võrdled õunu ja apelsine"
+    },
+    {
+      "en": "two peas in a pod",
+      "en_t": "tuː piːz ɪn ə pɒd",
+      "ru": "два горошины в стручке",
+      "ee": "kaks hernest ühes kaunas"
+    },
+    {
+      "en": "you are a couch potato",
+      "en_t": "juː ɑːr ə kaʊtʃ ˈpəʊteɪtəʊ",
+      "ru": "ты лентяй",
+      "ee": "sa oled diivanikartul"
+    },
+    {
+      "en": "I am in a pickle",
+      "en_t": "aɪ æm ɪn ə ˈpɪkəl",
+      "ru": "я в затруднительном положении",
+      "ee": "ma olen pürees"
+    },
+    {
+      "en": "bad apple",
+      "en_t": "bæd ˈæpl",
+      "ru": "плохой элемент",
+      "ee": "halb õun"
+    },
+    {
+      "en": "lime",
+      "en_t": "laɪm",
+      "ru": "лайм",
+      "ee": "laim",
+      "ee_2": "laimi",
+      "ee_3": "laimi"
+    },
+    {
+      "en": "kiwi fruit",
+      "en_t": "ˈkiːwi fruːt",
+      "ru": "киви",
+      "ee": "kiivi",
+      "ee_2": "kiivi",
+      "ee_3": "kiivit"
+    },
+    {
+      "en": "kumquat",
+      "en_t": "ˈkʌmkwɒt",
+      "ru": "кумкват",
+      "ee": "kumkvaat",
+      "ee_2": "kumkvaadi",
+      "ee_3": "kumkvaati"
+    },
+    {
+      "en": "nectarine",
+      "en_t": "ˈnɛktəriːn",
+      "ru": "нектарин",
+      "ee": "nektariin",
+      "ee_2": "nektariini",
+      "ee_3": "nektariini"
+    },
+    {
+      "en": "raspberry",
+      "en_t": "ˈræzbəri",
+      "ru": "малина",
+      "ee": "vaarikas",
+      "ee_2": "vaarika",
+      "ee_3": "vaarikat"
+    },
+    {
+      "en": "dragon fruit",
+      "en_t": "ˈdræɡən fruːt",
+      "ru": "питайя",
+      "ee": "draakonivili",
+      "ee_2": "draakonivilja",
+      "ee_3": "draakonivilja"
+    },
+    {
+      "en": "damson",
+      "en_t": "ˈdæmsən",
+      "ru": "дамсон (сорт сливы)",
+      "ee": "damson",
+      "ee_2": "damsoni",
+      "ee_3": "damsonit"
+    },
+    {
+      "en": "bilberries",
+      "en_t": "ˈbɪlbəriz",
+      "ru": "черника",
+      "ee": "mustikad",
+      "ee_2": "mustikate",
+      "ee_3": "mustikaid"
+    },
+    {
+      "en": "cherry",
+      "en_t": "ˈʧɛri",
+      "ru": "вишня",
+      "ee": "kirss",
+      "ee_2": "kirsi",
+      "ee_3": "kirssi"
+    },
+    {
+      "en": "avocado",
+      "en_t": "ˌævəˈkɑːdəʊ",
+      "ru": "авокадо",
+      "ee": "avokaado",
+      "ee_2": "avokaado",
+      "ee_3": "avokaadot"
+    },
+    {
+      "en": "mango",
+      "en_t": "ˈmæŋɡəʊ",
+      "ru": "манго",
+      "ee": "mango",
+      "ee_2": "mango",
+      "ee_3": "mangot"
+    },
+    {
+      "en": "pineapple",
+      "en_t": "ˈpaɪnˌæpəl",
+      "ru": "ананас",
+      "ee": "ananass",
+      "ee_2": "ananassi",
+      "ee_3": "ananassi"
+    },
+    {
+      "en": "lemon",
+      "en_t": "ˈlɛmən",
+      "ru": "лимон",
+      "ee": "sidrun",
+      "ee_2": "sidruni",
+      "ee_3": "sidrunit"
+    },
+    {
+      "en": "tangerine",
+      "en_t": "ˌtændʒəˈriːn",
+      "ru": "мандарин",
+      "ee": "mandariin",
+      "ee_2": "mandariini",
+      "ee_3": "mandariini"
+    },
+    {
+      "en": "pear",
+      "en_t": "pɛər",
+      "ru": "груша",
+      "ee": "pirn",
+      "ee_2": "pirni",
+      "ee_3": "pirni"
+    },
+    {
+      "en": "pomegranate",
+      "en_t": "ˈpɒmɪˌɡrænɪt",
+      "ru": "гранат",
+      "ee": "granaatõun",
+      "ee_2": "granaatõuna",
+      "ee_3": "granaatõuna"
+    },
+    {
+      "en": "grapefruit",
+      "en_t": "ˈɡreɪpˌfruːt",
+      "ru": "грейпфрут",
+      "ee": "greip",
+      "ee_2": "greibi",
+      "ee_3": "greipi"
+    },
+    {
+      "en": "gooseberry",
+      "en_t": "ˈɡuːzbəri",
+      "ru": "крыжовник",
+      "ee": "karusmari",
+      "ee_2": "karusmarja",
+      "ee_3": "karusmarja"
+    },
+    {
+      "en": "redcurrant",
+      "en_t": "ˈrɛdˌkʌrənt",
+      "ru": "красная смородина",
+      "ee": "punane sõstar",
+      "ee_2": "punase sõstra",
+      "ee_3": "punast sõstart"
+    },
+    {
+      "en": "ugly fruit",
+      "en_t": "ˈʌɡli fruːt",
+      "ru": "агли (тропический фрукт)",
+      "ee": "aglifruit",
+      "ee_2": "aglifruiti",
+      "ee_3": "aglifruiti"
+    },
+    {
+      "en": "greengage",
+      "en_t": "ˈɡriːnˌɡeɪdʒ",
+      "ru": "зеленая слива",
+      "ee": "roheploom",
+      "ee_2": "roheploomi",
+      "ee_3": "roheploomi"
+    },
+    {
+      "en": "peach",
+      "en_t": "piːtʃ",
+      "ru": "персик",
+      "ee": "virsik",
+      "ee_2": "virsiku",
+      "ee_3": "virsikut"
+    },
+    {
+      "en": "coconut",
+      "en_t": "ˈkoʊkəˌnʌt",
+      "ru": "кокос",
+      "ee": "kookospähkel",
+      "ee_2": "kookospähkli",
+      "ee_3": "kookospähklit"
+    },
+    {
+      "en": "quince",
+      "en_t": "kwɪns",
+      "ru": "айва",
+      "ee": "kudoonia",
+      "ee_2": "kudoonia",
+      "ee_3": "kudooniat"
+    },
+    {
+      "en": "grapes",
+      "en_t": "ɡreɪps",
+      "ru": "виноград",
+      "ee": "viinamarjad",
+      "ee_2": "viinamarjade",
+      "ee_3": "viinamarju"
+    },
+    {
+      "en": "apple",
+      "en_t": "ˈæpəl",
+      "ru": "яблоко",
+      "ee": "õun",
+      "ee_2": "õuna",
+      "ee_3": "õuna"
+    },
+    {
+      "en": "strawberry",
+      "en_t": "ˈstrɔːˌbɛri",
+      "ru": "клубника",
+      "ee": "maasikas",
+      "ee_2": "maasika",
+      "ee_3": "maasikat"
+    },
+    {
+      "en": "blueberry",
+      "en_t": "ˈbluːˌbɛri",
+      "ru": "черника",
+      "ee": "mustikas",
+      "ee_2": "mustika",
+      "ee_3": "mustikat"
+    },
+    {
+      "en": "blackberry",
+      "en_t": "ˈblækˌbɛri",
+      "ru": "ежевика",
+      "ee": "põldmari",
+      "ee_2": "põldmarja",
+      "ee_3": "põldmarja"
+    },
+    {
+      "en": "cranberry",
+      "en_t": "ˈkrænˌbɛri",
+      "ru": "клюква",
+      "ee": "jõhvikas",
+      "ee_2": "jõhvika",
+      "ee_3": "jõhvikat"
+    },
+    {
+      "en": "boysenberry",
+      "en_t": "ˈbɔɪzənbɛri",
+      "ru": "бойзенберри",
+      "ee": "poisimarjas",
+      "ee_2": "poisimarja",
+      "ee_3": "poisimarja"
+    },
+    {
+      "en": "lingonberry",
+      "en_t": "ˈlɪŋɡənbɛri",
+      "ru": "брусника",
+      "ee": "pohl",
+      "ee_2": "pohla",
+      "ee_3": "pohla"
+    },
+    {
+      "en": "elderberry",
+      "en_t": "ˈɛldəbɛri",
+      "ru": "бузина",
+      "ee": "sõstar",
+      "ee_2": "sõstra",
+      "ee_3": "sõstart"
+    },
+    {
+      "en": "huckleberry",
+      "en_t": "ˈhʌkəlbɛri",
+      "ru": "голубика (амер. сленг)",
+      "ee": "pohla",
+      "ee_2": "pohla",
+      "ee_3": "pohla"
+    },
+    {
+      "en": "goji berry",
+      "en_t": "ˈɡoʊdʒi ˈbɛri",
+      "ru": "годжи",
+      "ee": "goji marjas",
+      "ee_2": "goji marja",
+      "ee_3": "goji marja"
+    },
+    {
+      "en": "black mulberry",
+      "en_t": "blæk ˈmʌlbəri",
+      "ru": "черная шелковица",
+      "ee": "must mooruspuumarjas",
+      "ee_2": "musta mooruspuumarja",
+      "ee_3": "must mooruspuumarja"
+    },
+    {
+      "en": "black currant",
+      "en_t": "blæk ˈkʌrənt",
+      "ru": "черная смородина",
+      "ee": "mustsõstar",
+      "ee_2": "mustsõstra",
+      "ee_3": "mustsõstart"
+    },
+    {
+      "en": "gooseberry",
+      "en_t": "ˈɡuːzbəri",
+      "ru": "крыжовник",
+      "ee": "karusmari",
+      "ee_2": "karusmarja",
+      "ee_3": "karusmarja"
+    }
+  ]
+}

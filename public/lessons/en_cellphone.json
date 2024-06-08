@@ -1,0 +1,67 @@
+{
+  "lesson": "Cellphone",
+  "date": "2024-03-14",
+  "language": "en",
+  "words": [
+    {
+      "en": "cellular phone",
+      "en_t": "ˈsɛljʊlər fəʊn",
+      "ru": "сотовый телефон",
+      "ee": "mobiiltelefon",
+      "ee_2": "mobiiltelefoni",
+      "ee_3": "mobiiltelefoni"
+    },
+    {
+      "en": "cell",
+      "en_t": "sɛl",
+      "ru": "сотовый (амер.)",
+      "ee": "mobiil",
+      "ee_2": "mobiili",
+      "ee_3": "mobiili"
+    },
+    {
+      "en": "got pulled away",
+      "en_t": "ɡɒt pʊld əˈweɪ",
+      "ru": "был отвлечен",
+      "ee": "tõmmati eemale"
+    },
+    {
+      "en": "whack",
+      "en_t": "wæk",
+      "ru": "удар",
+      "ee": "löök",
+      "ee_2": "löögi",
+      "ee_3": "lööki"
+    },
+    {
+      "en": "friction",
+      "en_t": "ˈfrɪkʃən",
+      "ru": "трение",
+      "ee": "hõõrdumine",
+      "ee_2": "hõõrdumise",
+      "ee_3": "hõõrdumist"
+    },
+    {
+      "en": "frictionless",
+      "en_t": "ˈfrɪkʃənləs",
+      "ru": "без трения",
+      "ee": "hõõrdevaba",
+      "ee_2": "hõõrdevaba",
+      "ee_3": "hõõrdevabat"
+    },
+    {
+      "en": "less accessible",
+      "en_t": "lɛs əkˈsɛsəbl",
+      "ru": "менее доступный",
+      "ee": "vähem kättesaadav"
+    },
+    {
+      "en": "to swim",
+      "en_t": "tuː swɪm",
+      "ru": "плавать",
+      "ee": "ujuma",
+      "ee_da": "ujuda",
+      "ee_mina": "ujun"
+    }
+  ]
+}

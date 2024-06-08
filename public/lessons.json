@@ -4,8 +4,8 @@
     "en_cooking.json",
     "en_just_words.json",
     "en_describing_food.json",
-    "en_food_delivery.json",
     "en_supermarket.json",
+    "en_food_delivery.json",
     "en_clothes.json",
     "en_online_shopping.json",
     "en_idioms.json",
@@ -15,7 +15,11 @@
     "ee_tere.json",
     "en_business.json",
     "en_catan.json",
-    "en_catan_tournament.json"
+    "en_buses.json",
+    "en_cars.json",
+    "en_cellphone.json",
+    "en_fruits_and_vegetables.json",
+    "en_trains_and_subways.json"
   ],
   "grammar": [
     {
@@ -27,6 +31,11 @@
       "title": "Past Simple",
         "language": "en",
         "link": "en_past_simple.html"
+    },
+    {
+      "title": "Future Simple",
+      "language": "en",
+      "link": "en_future_simple.html"
     },
     {
       "title": "Past Continuous",

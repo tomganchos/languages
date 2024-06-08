@@ -47,12 +47,9 @@ export default {
 
         return lesson.words.map(word => {
           return {
+            ...word,
             lesson: lessonName,
-            language: lessonLanguage,
-            en: word.en,
-            ee: word.ee,
-            ru: word.ru,
-            en_t: word.en_t
+            language: lessonLanguage
           }
         })
       })

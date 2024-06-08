@@ -1,0 +1,159 @@
+{
+  "lesson": "Buses",
+  "date": "2024-01-23",
+  "language": "en",
+  "words": [
+    {
+      "en": "rush hour",
+      "en_t": "rʌʃ aʊər",
+      "ru": "час пик",
+      "ee": "tipptund"
+    },
+    {
+      "en": "peak hour",
+      "en_t": "piːk aʊər",
+      "ru": "час пик",
+      "ee": "tipptund"
+    },
+    {
+      "en": "double-deck bus",
+      "en_t": "ˈdʌbəl dɛk bʌs",
+      "ru": "двухэтажный автобус",
+      "ee": "kahekorruseline buss",
+      "ee_2": "kahekorruselise bussi",
+      "ee_3": "kahekorruselist bussi"
+    },
+    {
+      "en": "articulated bus",
+      "en_t": "ɑːrˈtɪkjʊleɪtɪd bʌs",
+      "ru": "сгибаемый автобус (гармошка)",
+      "ee": "liigendbuss",
+      "ee_2": "liigendbussi",
+      "ee_3": "liigendbussi"
+    },
+    {
+      "en": "trolley bus",
+      "en_t": "ˈtrɒli bʌs",
+      "ru": "троллейбус",
+      "ee": "trollibuss",
+      "ee_2": "trollibussi",
+      "ee_3": "trollibussi"
+    },
+    {
+      "en": "weeklong pass",
+      "en_t": "ˈwiːkˌlɒŋ pæs",
+      "ru": "недельный проездной",
+      "ee": "nädalapilet",
+      "ee_2": "nädalapileti",
+      "ee_3": "nädalapiletit"
+    },
+    {
+      "en": "to get car sick",
+      "en_t": "tuː ɡɛt kɑːr sɪk",
+      "ru": "страдать от укачивания",
+      "ee": "autosõidul haigeks jääma",
+      "ee_da": "jääda autosõidul haigeks",
+      "ee_mina": "jään autosõidul haigeks"
+    },
+    {
+      "en": "the bus ride takes forever",
+      "en_t": "ðə bʌs raɪd teɪks fəˈrɛvər",
+      "ru": "поездка на автобусе занимает вечность",
+      "ee": "bussisõit kestab igavesti"
+    },
+    {
+      "en": "I prefer buses to subways",
+      "en_t": "aɪ prɪˈfɜːr ˈbʌsɪz tuː ˈsʌbweɪz",
+      "ru": "я предпочитаю автобусы метро",
+      "ee": "eelistan busse metroole"
+    },
+    {
+      "en": "no cutting",
+      "en_t": "noʊ ˈkʌtɪŋ",
+      "ru": "без подрезания (в контексте очереди)",
+      "ee": "ei mingit trügimist"
+    },
+    {
+      "en": "to run late",
+      "en_t": "tuː rʌn leɪt",
+      "ru": "опаздывать",
+      "ee": "hilinema",
+      "ee_da": "hilineda",
+      "ee_mina": "hilinen"
+    },
+    {
+      "en": "rump in buses",
+      "en_t": "rʌmp ɪn bʌsɪz",
+      "ru": "тряска в автобусах",
+      "ee": "rappumine bussides"
+    },
+    {
+      "en": "wheelchair and baby strollers",
+      "en_t": "ˈwiːltʃeər ænd ˈbeɪbi ˈstroʊlərz",
+      "ru": "инвалидные коляски и детские коляски",
+      "ee": "ratastoolid ja lapsevankrid"
+    },
+    {
+      "en": "special seats",
+      "en_t": "ˈspɛʃəl siːts",
+      "ru": "специальные места",
+      "ee": "erikohtad",
+      "ee_2": "erikohtade",
+      "ee_3": "erikohti"
+    },
+    {
+      "en": "elderly people and for people that have trouble with standing",
+      "en_t": "ˈɛldərli ˈpiːpəl ænd fɔːr ˈpiːpəl ðæt hæv ˈtrʌbəl wɪð ˈstændɪŋ",
+      "ru": "пожилые люди и люди, имеющие трудности со стоянием",
+      "ee": "eakad inimesed ja inimesed, kellel on seismisega raskusi"
+    },
+    {
+      "en": "disabled people",
+      "en_t": "dɪsˈeɪbld ˈpiːpəl",
+      "ru": "инвалиды",
+      "ee": "puudega inimesed"
+    },
+    {
+      "en": "to give up my seat",
+      "en_t": "tuː ɡɪv ʌp maɪ siːt",
+      "ru": "уступить своё место",
+      "ee": "loovutama oma kohta",
+      "ee_da": "loovutada oma kohta",
+      "ee_mina": "loovutan oma kohta"
+    },
+    {
+      "en": "needy people",
+      "en_t": "ˈniːdi ˈpiːpəl",
+      "ru": "нуждающиеся люди",
+      "ee": "abi vajavad inimesed"
+    },
+    {
+      "en": "handles",
+      "en_t": "ˈhændəlz",
+      "ru": "ручки",
+      "ee": "käepidemed",
+      "ee_2": "käepidemete",
+      "ee_3": "käepidemeid"
+    },
+    {
+      "en": "handrails",
+      "en_t": "ˈhændreɪlz",
+      "ru": "поручни",
+      "ee": "käsipuud",
+      "ee_2": "käsipuude",
+      "ee_3": "käsipuid"
+    },
+    {
+      "en": "commute",
+      "en_t": "kəˈmjuːt",
+      "ru": "ежедневная поездка на работу",
+      "ee": "igapäevane töölesõit"
+    },
+    {
+      "en": "commuter",
+      "en_t": "kəˈmjuːtər",
+      "ru": "пассажир, регулярно совершающий поездки на работу",
+      "ee": "tööle sõitev inimene"
+    }
+  ]
+}

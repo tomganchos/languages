@@ -8,6 +8,8 @@
         <p v-if="primaryLanguage !== 'en'" class="translation">{{ currentCard.en }}</p>
         <p v-if="primaryLanguage !== 'en' && currentCard.en_t" class="transcription">/{{ currentCard.en_t }}/</p>
         <p v-if="primaryLanguage !== 'ee'" class="translation">{{ currentCard.ee }}</p>
+        <p v-if="primaryLanguage !== 'ee' && currentCard.ee_2" class="transcription">{{ currentCard.ee_2 }}</p>
+        <p v-if="primaryLanguage !== 'ee' && currentCard.ee_3" class="transcription">{{ currentCard.ee_3 }}</p>
       </div>
     </div>
     <div class="buttons" v-if="data.length > 0">
