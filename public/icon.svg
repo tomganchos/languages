@@ -1,0 +1,34 @@
+<svg width="22" height="24" viewBox="0 0 22 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <mask id="mask0_2002_31" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="11" y="0" width="11" height="24">
+        <rect x="11" width="11" height="24" fill="#D9D9D9"/>
+    </mask>
+    <g mask="url(#mask0_2002_31)">
+        <mask id="mask1_2002_31" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="22" height="24">
+            <path d="M10 0.57735C10.6188 0.220084 11.3812 0.220085 12 0.57735L20.3923 5.42265C21.0111 5.77992 21.3923 6.44017 21.3923 7.1547V16.8453C21.3923 17.5598 21.0111 18.2201 20.3923 18.5774L12 23.4226C11.3812 23.7799 10.6188 23.7799 10 23.4226L1.6077 18.5774C0.988893 18.2201 0.607696 17.5598 0.607696 16.8453V7.1547C0.607696 6.44017 0.988893 5.77992 1.6077 5.42265L10 0.57735Z" fill="#FFB3B2"/>
+        </mask>
+        <g mask="url(#mask1_2002_31)">
+            <rect x="-6" y="-4" width="35" height="33" fill="#001B69"/>
+            <rect x="23.1244" y="2" width="4" height="14" transform="rotate(60 23.1244 2)" fill="white"/>
+            <rect x="23.6197" y="2.72925" width="1" height="14" transform="rotate(60 23.6197 2.72925)" fill="#C9072A"/>
+            <rect x="26.0761" y="18.1858" width="4" height="14" transform="rotate(114.34 26.0761 18.1858)" fill="white"/>
+            <rect x="25.6689" y="19.0992" width="1" height="14" transform="rotate(114.34 25.6689 19.0992)" fill="#C9072A"/>
+            <rect y="9" width="22" height="6" fill="white"/>
+            <rect x="8" width="6" height="24" fill="white"/>
+            <rect y="10" width="22" height="4" fill="#C9072A"/>
+            <rect x="9" width="4" height="24" fill="#C9072A"/>
+        </g>
+    </g>
+    <mask id="mask2_2002_31" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="11" height="24">
+        <rect width="11" height="24" fill="#D9D9D9"/>
+    </mask>
+    <g mask="url(#mask2_2002_31)">
+        <mask id="mask3_2002_31" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="22" height="24">
+            <path d="M10 0.57735C10.6188 0.220084 11.3812 0.220085 12 0.57735L20.3923 5.42265C21.0111 5.77992 21.3923 6.44017 21.3923 7.1547V16.8453C21.3923 17.5598 21.0111 18.2201 20.3923 18.5774L12 23.4226C11.3812 23.7799 10.6188 23.7799 10 23.4226L1.6077 18.5774C0.988893 18.2201 0.607696 17.5598 0.607696 16.8453V7.1547C0.607696 6.44017 0.988893 5.77992 1.6077 5.42265L10 0.57735Z" fill="#FFB3B2"/>
+        </mask>
+        <g mask="url(#mask3_2002_31)">
+            <rect y="8" width="22" height="8" fill="black"/>
+            <rect y="16" width="22" height="8" fill="white"/>
+            <rect width="22" height="8" fill="#508ACB"/>
+        </g>
+    </g>
+</svg>
