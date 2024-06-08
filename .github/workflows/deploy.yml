@@ -24,11 +24,14 @@ jobs:
       - name: Build the project
         run: npm run build
 
-      - name: Deploy to FTP server
+      - name: Deploy to FTPS server
         uses: SamKirkland/FTP-Deploy-Action@4.3.0
         with:
           server: ${{ secrets.FTP_SERVER }}
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
+          protocol: ftps
+          port: 21
+          debug: true
           local-dir: dist/
           server-dir: /home/h005337594/kriuchkov.art/docs/languages2/
