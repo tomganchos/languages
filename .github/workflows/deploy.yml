@@ -34,4 +34,4 @@ jobs:
           port: 21
           debug: true
           local-dir: dist/
-          server-dir: /home/h005337594/kriuchkov.art/docs/languages2/
+          server-dir: /kriuchkov.art/docs/languages/
