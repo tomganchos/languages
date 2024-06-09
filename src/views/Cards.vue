@@ -1,6 +1,6 @@
 <template>
   <div class="cards-view">
-    <InfoBar :current-index="currentIndex" :data="newCards"/>
+    <InfoBar :current-index="currentIndex" :data="newCards || []"/>
     <div class="card" @click="toggleTranslation">
       <p class="word">{{ currentCard ? currentCard[primaryLanguage] : '' }}</p>
       <div v-if="showTranslation">
@@ -43,7 +43,6 @@ export default {
   },
   computed: {
     currentCard() {
-      console.log('currentCard: %o', this.data)
       this.fromNewCardsFromCards()
       if (this.data.length === 0) {
         return {
@@ -55,10 +54,8 @@ export default {
       return this.newCards[this.currentIndex];
     }
   },
-  watch: {
-    data (newValue, oldValue) {
-
-    }
+  mounted() {
+    this.checkStorage()
   },
   methods: {
     nextCard () {
@@ -77,7 +74,7 @@ export default {
           }
         }
       } else {
-        this.currentIndex = 0 // Если мы на последней карточке, возвращаемся к первой
+        this.currentIndex = 0
         while (this.newCards[this.currentIndex].isKnown) {
           if (this.currentIndex < this.newCards.length - 1) {
             this.currentIndex++
@@ -86,7 +83,8 @@ export default {
           }
         }
       }
-      this.showTranslation = false // Скрыть перевод для следующей карточки
+      this.showTranslation = false
+      this.updateStorage()
     },
     known () {
       this.newCards[this.currentIndex].isKnown = true
@@ -107,6 +105,7 @@ export default {
             isKnown: null
           }
         })
+        this.shuffleCards()
       }
     },
     reset () {
@@ -118,6 +117,26 @@ export default {
       })
       this.isFinished = false
       this.currentIndex = 0
+      this.shuffleCards()
+      this.updateStorage()
+    },
+    shuffleCards() {
+      for (let i = this.newCards.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [this.newCards[i], this.newCards[j]] = [this.newCards[j], this.newCards[i]];
+      }
+    },
+    updateStorage() {
+      localStorage.setItem('currentList', JSON.stringify(this.newCards))
+      localStorage.setItem('currentIndex', JSON.stringify(this.currentIndex))
+    },
+    checkStorage() {
+      if (localStorage.getItem('currentList')) {
+        this.newCards = JSON.parse(localStorage.getItem('currentList'))
+      }
+      if (localStorage.getItem('currentIndex')) {
+        this.currentIndex = JSON.parse(localStorage.getItem('currentIndex'))
+      }
     }
   }
 }

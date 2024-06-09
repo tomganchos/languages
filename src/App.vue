@@ -82,14 +82,7 @@ export default {
   methods: {
     updateLessons(selectedLessons) {
       this.selectedLessons = selectedLessons
-      this.shuffleCards()
       this.showSettings = false
-    },
-    shuffleCards() {
-      for (let i = this.cards.length - 1; i > 0; i--) {
-        const j = Math.floor(Math.random() * (i + 1));
-        [this.cards[i], this.cards[j]] = [this.cards[j], this.cards[i]];
-      }
     },
     loadLessons(lessonFiles) {
       console.log('loadLessons: %o', lessonFiles)
@@ -103,7 +96,6 @@ export default {
               this.setAllWords()
               const savedLessons = JSON.parse(localStorage.getItem('lessons')) || []
               this.selectedLessons = lessons.filter(lesson => savedLessons.includes(lesson.lesson))
-              this.shuffleCards()
             })
       })
     },
@@ -145,7 +137,6 @@ export default {
 </script>
 
 <style>
-/* Здесь могут быть стили для вашего приложения */
 html {
   height: fill-available;
   height: -webkit-fill-available;
