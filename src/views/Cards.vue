@@ -1,6 +1,6 @@
 <template>
   <div class="cards-view">
-    <InfoBar :current-index="currentIndex" :data="newCards || []"/>
+    <InfoBar :current-index="currentIndex" :data="cards || []"/>
     <div class="card" @click="toggleTranslation">
       <p class="word">{{ currentCard ? currentCard[primaryLanguage] : '' }}</p>
       <div v-if="showTranslation">
@@ -12,9 +12,9 @@
         <p v-if="primaryLanguage !== 'ee' && currentCard.ee_3" class="transcription">{{ currentCard.ee_3 }}</p>
       </div>
     </div>
-    <div class="buttons" v-if="data.length > 0">
-      <button class="red" @click="dontKnow" :disabled="newCards.length === 0">Не знаю</button>
-      <button @click="known" :disabled="newCards.length === 0">Дальше</button>
+    <div class="buttons" v-if="cards.length > 0">
+      <button class="red" @click="dontKnow" :disabled="cards.length === 0">Не знаю</button>
+      <button @click="known" :disabled="cards.length === 0">Дальше</button>
     </div>
     <div v-if="isFinished" class="finished">
       <p>Ты выучил все слова!</p>
@@ -27,117 +27,60 @@
 <script>
 
 import InfoBar from "../components/InfoBar.vue";
+import {mapActions, mapState, mapStores} from "pinia";
+import {useIndexStore} from "../store/index.js";
 
 export default {
   name: "Cards",
   components: {InfoBar},
-  props: ['data'],
   data() {
     return {
-      currentIndex: 0,
       showTranslation: false,
-      primaryLanguage: localStorage.getItem('primaryLanguage') || 'ru',
-      newCards: [],
       isFinished: false
     }
   },
   computed: {
+    ...mapState(useIndexStore, {
+      cards: 'cards',
+      currentIndex: 'currentIndex',
+      primaryLanguage: 'language',
+    }),
     currentCard() {
-      this.fromNewCardsFromCards()
-      if (this.data.length === 0) {
+      if (this.cards.length === 0) {
         return {
           ru: "Выберите уроки в настройках",
           en: "",
           ee: ""
         };
       }
-      return this.newCards[this.currentIndex];
+      return this.cards[this.currentIndex];
     }
   },
-  mounted() {
-    this.checkStorage()
-  },
   methods: {
-    nextCard () {
-      if (this.newCards.every(card => card.isKnown)) {
-        this.isFinished = true
-        console.log('is Finished')
-        return
-      }
-      if (this.currentIndex < this.newCards.length - 1) {
-        this.currentIndex++
-        while (this.newCards[this.currentIndex].isKnown) {
-          if (this.currentIndex < this.newCards.length - 1) {
-            this.currentIndex++
-          } else {
-            this.currentIndex = 0
-          }
-        }
-      } else {
-        this.currentIndex = 0
-        while (this.newCards[this.currentIndex].isKnown) {
-          if (this.currentIndex < this.newCards.length - 1) {
-            this.currentIndex++
-          } else {
-            this.currentIndex = 0
-          }
-        }
-      }
+    ...mapActions(useIndexStore, {
+      nextCard: 'nextCard',
+      resetCards: 'resetCards'
+    }),
+    next(isGuessed) {
       this.showTranslation = false
-      this.updateStorage()
+      if (this.nextCard(isGuessed)) {
+          this.isFinished = true
+          console.log('is Finished')
+      }
     },
     known () {
-      this.newCards[this.currentIndex].isKnown = true
-      this.nextCard()
+      this.next(true)
     },
     dontKnow () {
-      this.newCards[this.currentIndex].isKnown = false
-      this.nextCard()
+      this.next(false)
     },
     toggleTranslation () {
       this.showTranslation = !this.showTranslation
     },
-    fromNewCardsFromCards () {
-      if (this.data.length !== this.newCards.length) {
-        this.newCards = this.data.map(card => {
-          return {
-            ...card,
-            isKnown: null
-          }
-        })
-        this.shuffleCards()
-      }
-    },
     reset () {
-      this.newCards = this.data.map(card => {
-        return {
-          ...card,
-          isKnown: null
-        }
-      })
+      this.resetCards()
       this.isFinished = false
-      this.currentIndex = 0
-      this.shuffleCards()
-      this.updateStorage()
     },
-    shuffleCards() {
-      for (let i = this.newCards.length - 1; i > 0; i--) {
-        const j = Math.floor(Math.random() * (i + 1));
-        [this.newCards[i], this.newCards[j]] = [this.newCards[j], this.newCards[i]];
-      }
-    },
-    updateStorage() {
-      localStorage.setItem('currentList', JSON.stringify(this.newCards))
-      localStorage.setItem('currentIndex', JSON.stringify(this.currentIndex))
-    },
-    checkStorage() {
-      if (localStorage.getItem('currentList')) {
-        this.newCards = JSON.parse(localStorage.getItem('currentList'))
-      }
-      if (localStorage.getItem('currentIndex')) {
-        this.currentIndex = JSON.parse(localStorage.getItem('currentIndex'))
-      }
-    }
   }
 }
 </script>

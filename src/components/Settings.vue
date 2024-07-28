@@ -26,11 +26,11 @@
     </div>
     <div class="lessons">
       <Checkbox
-          v-for="lesson in lessons"
+          v-for="lesson in allLessons"
           :key="lesson.lesson"
           :lesson="lesson"
           :label="lesson.lesson"
-          v-model="selectedLessons[lesson.lesson]"
+          v-model="selectedLessonsObj[lesson.lesson]"
       />
     </div>
     <div class="actions">
@@ -43,6 +43,8 @@
 import Checkbox from './Checkbox.vue'
 import EnglishFlag from "./icons/EnglishFlag.vue";
 import EstonianFlag from "./icons/EstonianFlag.vue";
+import {mapActions, mapState} from "pinia";
+import {useIndexStore} from "../store/index.js";
 
 export default {
   name: 'Settings',
@@ -51,22 +53,30 @@ export default {
     EnglishFlag,
     Checkbox,
   },
-  props: ['lessons'],
+  // props: ['lessons'],
   data() {
     return {
-      selectedLessons: {},
-      primaryLanguage: localStorage.getItem('primaryLanguage') || 'ru'
+      selectedLessonsObj: {},
+      primaryLanguage: null
     };
   },
-  created() {
-    // Check localStorage for saved lessons
-    const savedLessons = JSON.parse(localStorage.getItem('lessons')) || [];
-    // Initialize selectedLessons
-    this.lessons.forEach(lesson => {
-      this.selectedLessons[lesson.lesson] = savedLessons.includes(lesson.lesson);
+  computed: {
+    ...mapState(useIndexStore, {
+      allLessons: 'allLessons',
+      selectedLessons: 'selectedLessons',
+      language: 'language',
+    })
+  },
+  mounted() {
+    this.primaryLanguage = this.language
+    this.allLessons.forEach(lesson => {
+      this.selectedLessonsObj[lesson.lesson] = this.selectedLessons.includes(lesson.lesson);
     });
   },
   methods: {
+    ...mapActions(useIndexStore, {
+      updateSettings: 'updateSettings',
+    }),
     selectAll() {
       // Set all lessons to selected
       for (let lesson in this.selectedLessons) {
@@ -80,23 +90,19 @@ export default {
       }
     },
     selectEnglish() {
-      this.lessons.forEach(lesson => {
+      this.allLessons.forEach(lesson => {
         this.selectedLessons[lesson.lesson] = lesson.language === 'en'
       })
     },
     selectEstonian() {
-      this.lessons.forEach(lesson => {
+      this.allLessons.forEach(lesson => {
         this.selectedLessons[lesson.lesson] = lesson.language === 'ee'
       })
     },
     apply() {
-      const lessonsToSave = this.lessons.filter(lesson => this.selectedLessons[lesson.lesson]);
-
-      // Update localStorage
-      localStorage.setItem('lessons', JSON.stringify(lessonsToSave.map(lesson => lesson.lesson)))
-      localStorage.setItem('primaryLanguage', this.primaryLanguage);
-      // Emit selected lessons
-      this.$emit('lessonChange', lessonsToSave);
+      const lessonsToSave = this.allLessons.filter(lesson => this.selectedLessonsObj[lesson.lesson])
+      this.updateSettings(lessonsToSave, this.primaryLanguage)
+      this.$emit('close')
     }
   }
 }

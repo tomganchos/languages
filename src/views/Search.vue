@@ -27,20 +27,25 @@
 
 <script>
 
+import {mapState} from "pinia";
+import {useIndexStore} from "../store/index.js";
+
 export default {
   name: "Search",
-  props: ['data'],
   data () {
     return {
       searchString: ''
     }
   },
   computed: {
+    ...mapState(useIndexStore, {
+      allWords: 'allWords'
+    }),
     filteredData () {
       if (this.searchString === '') {
         return []
       } else {
-        return this.data.filter(item => {
+        return this.allWords.filter(item => {
           return (item.en?.toLowerCase().includes(this.searchString.toLowerCase()) ||
               item.ee?.toLowerCase().includes(this.searchString.toLowerCase()) ||
               item.ru?.toLowerCase().includes(this.searchString.toLowerCase()))

@@ -1,11 +1,11 @@
 <template>
   <div id="app">
     <Header @settingsClicked="showSettings = !showSettings"/>
-    <main>
+    <main v-if="allLoaded">
       <RouterView v-if="!showSettings"
                   :data="dataToComponent"
       />
-      <Settings v-else @close="showSettings = false" :lessons="lessons" @lessonChange="updateLessons"/>
+      <Settings v-else @close="showSettings = false" @lessonChange="updateLessons"/>
     </main>
     <Footer/>
   </div>
@@ -16,6 +16,8 @@ import Header from './components/Header.vue'
 import MainView from './components/MainView.vue'
 import Settings from './components/Settings.vue'
 import Footer from "./components/Footer.vue";
+import { mapActions } from "pinia";
+import {useIndexStore} from "./store/index.js";
 
 export default {
   name: 'App',
@@ -25,14 +27,10 @@ export default {
     MainView,
     Settings,
   },
-  // props: ['lessons'],
-  data() {
+  data () {
     return {
-      lessons: [],
-      grammarList: [],
-      allWords: [],
       showSettings: false,
-      selectedLessons: [],
+      allLoaded: false
     }
   },
   computed: {
@@ -55,24 +53,24 @@ export default {
       })
     },
     dataToComponent () {
-      if (this.$route.name === 'Cards') {
-        return this.cards
-      } else if (this.$route.name === 'Grammar') {
-        return this.grammarList
-      } else if (this.$route.name === 'Search') {
-        return this.allWords
-      } else {
+      // if (this.$route.name === 'Cards') {
+      //   return this.cards
+      // } else if (this.$route.name === 'Grammar') {
+      //   return this.grammarList
+      // } else if (this.$route.name === 'Search') {
+      //   return this.allWords
+      // } else {
         return []
-      }
+      // }
     }
   },
   created() {
-    fetch(`./lessons.json?${Math.random()}`)
-        .then(response => response.json())
-        .then(data => {
-          this.loadLessons(data.lessons)
-          this.loadGrammar(data.grammar)
-        });
+    console.log('created')
+
+    this.init().then(() => {
+      console.log('all loaded')
+      this.allLoaded = true
+    })
   },
   watch: {
     currentRoute () {
@@ -80,57 +78,12 @@ export default {
     }
   },
   methods: {
+    ...mapActions(useIndexStore, {
+      init: 'init'
+    }),
     updateLessons(selectedLessons) {
       this.selectedLessons = selectedLessons
       this.showSettings = false
-    },
-    loadLessons(lessonFiles) {
-      console.log('loadLessons: %o', lessonFiles)
-      let lessons = []
-      lessonFiles.forEach(lessonFile => {
-        fetch(`./lessons/${lessonFile}?${Math.random()}`)
-            .then(response => response.json())
-            .then(lessonData => {
-              lessons.push(lessonData)
-              this.lessons = lessons
-              this.setAllWords()
-              const savedLessons = JSON.parse(localStorage.getItem('lessons')) || []
-              this.selectedLessons = lessons.filter(lesson => savedLessons.includes(lesson.lesson))
-            })
-      })
-    },
-    loadGrammar(grammarFiles) {
-      let grammarList = []
-      grammarFiles.forEach(grammarFile => {
-        fetch(`./grammar/${grammarFile.link}?${Math.random()}`)
-            .then(response => response.text())
-            .then(html => {
-              grammarList.push({
-                title: grammarFile.title,
-                language: grammarFile.language,
-                link: grammarFile.link,
-                html
-              });
-            });
-      });
-      this.grammarList = grammarList
-    },
-    setAllWords () {
-      this.allWords = this.lessons.flatMap(lesson => {
-        const lessonName = lesson.lesson
-        const lessonLanguage = lesson.language
-
-        return lesson.words.map(word => {
-          return {
-            lesson: lessonName,
-            language: lessonLanguage,
-            en: word.en,
-            ee: word.ee,
-            ru: word.ru,
-            en_t: word.en_t
-          }
-        })
-      })
     }
   }
 }

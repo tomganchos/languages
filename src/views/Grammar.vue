@@ -1,7 +1,7 @@
 <template>
   <div class="grammar-view">
     <div
-        v-for="grammarItem in data"
+        v-for="grammarItem in grammar"
         class="item"
         @click="showGrammar(grammarItem)"
     >
@@ -24,16 +24,22 @@
 import EnglishFlag from "../components/icons/EnglishFlag.vue";
 import EstonianFlag from "../components/icons/EstonianFlag.vue";
 import GrammarPreview from "../components/GrammarPreview.vue";
+import {mapState} from "pinia";
+import {useIndexStore} from "../store/index.js";
 
 export default {
   name: "Grammar",
   components: {GrammarPreview, EstonianFlag, EnglishFlag},
-  props: ['data'],
   data () {
     return {
       showPreview: false,
       selectedGrammar: null
     }
+  },
+  computed: {
+    ...mapState(useIndexStore, {
+      grammar: 'grammar'
+    })
   },
   methods: {
     showGrammar (item) {
