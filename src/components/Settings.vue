@@ -79,24 +79,24 @@ export default {
     }),
     selectAll() {
       // Set all lessons to selected
-      for (let lesson in this.selectedLessons) {
-        this.selectedLessons[lesson] = true;
+      for (let lesson in this.selectedLessonsObj) {
+        this.selectedLessonsObj[lesson] = true;
       }
     },
     deselectAll() {
       // Set all lessons to deselected
-      for (let lesson in this.selectedLessons) {
-        this.selectedLessons[lesson] = false;
+      for (let lesson in this.selectedLessonsObj) {
+        this.selectedLessonsObj[lesson] = false;
       }
     },
     selectEnglish() {
       this.allLessons.forEach(lesson => {
-        this.selectedLessons[lesson.lesson] = lesson.language === 'en'
+        this.selectedLessonsObj[lesson.lesson] = lesson.language === 'en'
       })
     },
     selectEstonian() {
       this.allLessons.forEach(lesson => {
-        this.selectedLessons[lesson.lesson] = lesson.language === 'ee'
+        this.selectedLessonsObj[lesson.lesson] = lesson.language === 'ee'
       })
     },
     apply() {
