@@ -1,8 +1,6 @@
 <template>
   <div id="app">
     <Header @settingsClicked="showSettings = !showSettings"/>
-    <button @send="sendTelegram">send Telegram</button>
-    <button @close="close">close</button>
     <main v-if="allLoaded">
       <RouterView v-if="!showSettings"
                   :data="dataToComponent"
@@ -74,16 +72,6 @@ export default {
       this.allLoaded = true
     })
   },
-  mounted() {
-    Telegram.WebApp.ready();
-
-    // Получение информации о пользователе
-    const initData = Telegram.WebApp.initData;
-    const initDataUnsafe = Telegram.WebApp.initDataUnsafe;
-
-    console.log('Init Data:', initData);
-    console.log('Init Data Unsafe:', initDataUnsafe);
-  },
   watch: {
     currentRoute () {
       this.showSettings = false
@@ -96,13 +84,6 @@ export default {
     updateLessons(selectedLessons) {
       this.selectedLessons = selectedLessons
       this.showSettings = false
-    },
-    sendTelegram() {
-      const data = { message: 'Hello from Web App!' };
-      Telegram.WebApp.sendData(JSON.stringify(data));
-    },
-    close() {
-      Telegram.WebApp.close();
     }
   }
 }
