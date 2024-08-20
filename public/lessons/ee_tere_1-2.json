@@ -1,0 +1,241 @@
+{
+  "lesson": "Tere 1-2",
+  "date": "2024-08-15",
+  "language": "ee",
+  "words": [
+    {
+      "en": "morning",
+      "en_t": "[ˈmɔːrnɪŋ]",
+      "ru": "утро",
+      "ee": "hommik",
+      "ee_2": "hommiku",
+      "ee_3": "hommikut"
+    },
+    {
+      "en": "day",
+      "en_t": "[deɪ]",
+      "ru": "день",
+      "ee": "päev",
+      "ee_2": "päeva",
+      "ee_3": "päeva"
+    },
+    {
+      "en": "evening",
+      "en_t": "[ˈiːvnɪŋ]",
+      "ru": "вечер",
+      "ee": "õhtu",
+      "ee_2": "õhtu",
+      "ee_3": "õhtut"
+    },
+    {
+      "en": "time",
+      "en_t": "[taɪm]",
+      "ru": "время",
+      "ee": "aeg",
+      "ee_2": "aja",
+      "ee_3": "aega"
+    },
+    {
+      "en": "night",
+      "en_t": "[naɪt]",
+      "ru": "ночь",
+      "ee": "öö",
+      "ee_2": "öö",
+      "ee_3": "ööd"
+    },
+    {
+      "en": "good",
+      "en_t": "[ɡʊd]",
+      "ru": "хороший",
+      "ee": "hea",
+      "ee_2": "hea",
+      "ee_3": "head"
+    },
+    {
+      "en": "all",
+      "en_t": "[ɔːl]",
+      "ru": "всё",
+      "ee": "kõik",
+      "ee_2": "kõige",
+      "ee_3": "kõike"
+    },
+    {
+      "en": "to listen",
+      "en_t": "[ˈlɪsən]",
+      "ru": "слушать",
+      "ee": "kuulama",
+      "ee_da": "kuulata",
+      "ee_mina": "kuulan"
+    },
+    {
+      "en": "person",
+      "en_t": "[ˈpɜːrsən]",
+      "ru": "человек",
+      "ee": "inimene",
+      "ee_2": "inimese",
+      "ee_3": "inimest"
+    },
+    {
+      "en": "secretary",
+      "en_t": "[ˈsɛkrəˌtɛri]",
+      "ru": "секретарь",
+      "ee": "sekretär",
+      "ee_2": "sekretäri",
+      "ee_3": "sekretäri"
+    },
+    {
+      "en": "teacher",
+      "en_t": "[ˈtiːtʃər]",
+      "ru": "учитель",
+      "ee": "õpetaja",
+      "ee_2": "õpetaja",
+      "ee_3": "õpetajat"
+    },
+    {
+      "en": "student",
+      "en_t": "[ˈstjuːdənt]",
+      "ru": "ученик",
+      "ee": "õpilane",
+      "ee_2": "õpilase",
+      "ee_3": "õpilast"
+    },
+    {
+      "en": "who",
+      "en_t": "[huː]",
+      "ru": "кто",
+      "ee": "kes"
+    },
+    {
+      "en": "man",
+      "en_t": "[mæn]",
+      "ru": "мужчина",
+      "ee": "mees",
+      "ee_2": "mehe",
+      "ee_3": "meest"
+    },
+    {
+      "en": "woman",
+      "en_t": "[ˈwʊmən]",
+      "ru": "женщина",
+      "ee": "naine",
+      "ee_2": "naise",
+      "ee_3": "naist"
+    },
+    {
+      "en": "to be",
+      "en_t": "[biː]",
+      "ru": "быть",
+      "ee": "olema",
+      "ee_da": "olla",
+      "ee_mina": "olen"
+    },
+    {
+      "en": "big",
+      "en_t": "[bɪɡ]",
+      "ru": "большой",
+      "ee": "suur",
+      "ee_2": "suure",
+      "ee_3": "suurt"
+    },
+    {
+      "en": "to give",
+      "en_t": "[ɡɪv]",
+      "ru": "давать",
+      "ee": "andma",
+      "ee_da": "anda",
+      "ee_mina": "annan"
+    },
+    {
+      "en": "to take",
+      "en_t": "[teɪk]",
+      "ru": "брать",
+      "ee": "võtma",
+      "ee_da": "võtta",
+      "ee_mina": "võtan"
+    },
+    {
+      "en": "great",
+      "en_t": "[ɡreɪt]",
+      "ru": "здорово",
+      "ee": "tore",
+      "ee_2": "toreda",
+      "ee_3": "toredat"
+    },
+    {
+      "en": "gratitude",
+      "en_t": "[ˈɡrætɪtjuːd]",
+      "ru": "благодарность",
+      "ee": "tänu",
+      "ee_2": "tänu",
+      "ee_3": "tänu"
+    },
+    {
+      "en": "something",
+      "en_t": "[ˈsʌmθɪŋ]",
+      "ru": "что-нибудь",
+      "ee": "midagi"
+    },
+    {
+      "en": "appetite",
+      "en_t": "[ˈæpɪtaɪt]",
+      "ru": "аппетит",
+      "ee": "isu",
+      "ee_2": "isu",
+      "ee_3": "isu"
+    },
+    {
+      "en": "to be able to",
+      "en_t": "[ˈeɪbl tuː]",
+      "ru": "уметь",
+      "ee": "oskama",
+      "ee_da": "oskata",
+      "ee_mina": "oskan"
+    },
+    {
+      "en": "to know",
+      "en_t": "[nəʊ]",
+      "ru": "знать",
+      "ee": "teadma",
+      "ee_da": "teada",
+      "ee_mina": "tean"
+    },
+    {
+      "en": "to do",
+      "en_t": "[duː]",
+      "ru": "делать",
+      "ee": "tegema",
+      "ee_da": "teha",
+      "ee_mina": "teen"
+    },
+    {
+      "en": "to see",
+      "en_t": "[siː]",
+      "ru": "видеть",
+      "ee": "nägema",
+      "ee_da": "näha",
+      "ee_mina": "näen"
+    },
+    {
+      "en": "to speak",
+      "en_t": "[spiːk]",
+      "ru": "говорить",
+      "ee": "rääkima",
+      "ee_da": "rääkida",
+      "ee_mina": "räägin"
+    },
+    {
+      "en": "to understand",
+      "en_t": "[ˌʌndərˈstænd]",
+      "ru": "понимать",
+      "ee": "mõistma",
+      "ee_da": "mõista",
+      "ee_mina": "mõistan"
+    },
+    {
+      "en": "well",
+      "en_t": "[wɛl]",
+      "ru": "хорошо",
+      "ee": "hästi"
+    }
+  ]
+}
