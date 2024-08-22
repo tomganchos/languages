@@ -1,0 +1,279 @@
+{
+  "lesson": "Tere 3-4",
+  "date": "2024-08-22",
+  "language": "ee",
+  "words": [
+    {
+      "en": "to read",
+      "en_t": "[riːd]",
+      "ru": "читать",
+      "ee": "lugema",
+      "ee_da": "lugeda",
+      "ee_mina": "loen"
+    },
+    {
+      "en": "to write",
+      "en_t": "[raɪt]",
+      "ru": "писать",
+      "ee": "kirjutama",
+      "ee_da": "kirjutada",
+      "ee_mina": "kirjutan"
+    },
+    {
+      "en": "to learn, to study",
+      "en_t": "[lɜːrn], [ˈstʌdi]",
+      "ru": "учить, учиться",
+      "ee": "õppima",
+      "ee_da": "õppida",
+      "ee_mina": "õpin"
+    },
+    {
+      "en": "to teach",
+      "en_t": "[tiːtʃ]",
+      "ru": "преподавать",
+      "ee": "õpetama",
+      "ee_da": "õpetada",
+      "ee_mina": "õpetan"
+    },
+    {
+      "en": "language",
+      "en_t": "[ˈlæŋɡwɪdʒ]",
+      "ru": "язык",
+      "ee": "keel",
+      "ee_2": "keele",
+      "ee_3": "keelt"
+    },
+    {
+      "en": "easy",
+      "en_t": "[ˈiːzi]",
+      "ru": "лёгкий",
+      "ee": "kerge",
+      "ee_2": "kerge",
+      "ee_3": "kerget"
+    },
+    {
+      "en": "difficult, hard",
+      "en_t": "[ˈdɪfɪkəlt], [hɑːrd]",
+      "ru": "сложный, тяжёлый",
+      "ee": "raske",
+      "ee_2": "raske",
+      "ee_3": "rasket"
+    },
+    {
+      "en": "a little",
+      "en_t": "[ə ˈlɪtl]",
+      "ru": "немного",
+      "ee": "natuke"
+    },
+    {
+      "en": "just a little",
+      "en_t": "[ʤʌst ə ˈlɪtl]",
+      "ru": "чуть-чуть",
+      "ee": "natukene"
+    },
+    {
+      "en": "bad",
+      "en_t": "[bæd]",
+      "ru": "плохо",
+      "ee": "halvasti"
+    },
+    {
+      "en": "fluently",
+      "en_t": "[ˈfluːəntli]",
+      "ru": "свободно",
+      "ee": "vabalt"
+    },
+    {
+      "en": "at all",
+      "en_t": "[æt ɔːl]",
+      "ru": "вообще, совсем",
+      "ee": "üldse"
+    },
+    {
+      "en": "better",
+      "en_t": "[ˈbɛtər]",
+      "ru": "лучше",
+      "ee": "parem",
+      "ee_2": "parema",
+      "ee_3": "paremat"
+    },
+    {
+      "en": "very",
+      "en_t": "[ˈvɛri]",
+      "ru": "очень",
+      "ee": "väga"
+    },
+    {
+      "en": "unfortunately",
+      "en_t": "[ʌnˈfɔːʧənətli]",
+      "ru": "к сожалению",
+      "ee": "kahjuks"
+    },
+    {
+      "en": "only",
+      "en_t": "[ˈəʊnli]",
+      "ru": "только",
+      "ee": "alles"
+    },
+    {
+      "en": "how",
+      "en_t": "[haʊ]",
+      "ru": "как",
+      "ee": "kuidas"
+    },
+    {
+      "en": "so",
+      "en_t": "[səʊ]",
+      "ru": "так",
+      "ee": "nii"
+    },
+    {
+      "en": "pity",
+      "en_t": "[ˈpɪti]",
+      "ru": "жаль",
+      "ee": "kahju"
+    },
+    {
+      "en": "as, if",
+      "en_t": "[æz], [ɪf]",
+      "ru": "как, если",
+      "ee": "kui"
+    },
+    {
+      "en": "yes",
+      "en_t": "[jɛs]",
+      "ru": "да",
+      "ee": "jah"
+    },
+    {
+      "en": "yes, and",
+      "en_t": "[jɛs ænd]",
+      "ru": "да, и",
+      "ee": "jah, ja"
+    },
+    {
+      "en": "self, myself",
+      "en_t": "[sɛlf], [maɪˈsɛlf]",
+      "ru": "сам, сама",
+      "ee": "ise"
+    },
+    {
+      "en": "of course",
+      "en_t": "[əv kɔːrs]",
+      "ru": "конечно",
+      "ee": "muidugi"
+    },
+    {
+      "en": "(question word)",
+      "en_t": "[ˈkwɛsʧən wɜːd]",
+      "ru": "(вопросительное слово)",
+      "ee": "kas"
+    },
+    {
+      "en": "and, but",
+      "en_t": "[ænd], [bʌt]",
+      "ru": "а, но",
+      "ee": "aga"
+    },
+    {
+      "en": "but",
+      "en_t": "[bʌt]",
+      "ru": "но",
+      "ee": "kuid"
+    },
+    {
+      "en": "doctor",
+      "en_t": "[ˈdɒktər]",
+      "ru": "врач",
+      "ee": "arst",
+      "ee_2": "arsti",
+      "ee_3": "arsti"
+    },
+    {
+      "en": "house",
+      "en_t": "[haʊs]",
+      "ru": "дом",
+      "ee": "maja",
+      "ee_2": "maja",
+      "ee_3": "maja"
+    },
+    {
+      "en": "money",
+      "en_t": "[ˈmʌni]",
+      "ru": "деньги",
+      "ee": "raha",
+      "ee_2": "raha",
+      "ee_3": "raha"
+    },
+    {
+      "en": "computer",
+      "en_t": "[kəmˈpjuːtər]",
+      "ru": "компьютер",
+      "ee": "arvuti",
+      "ee_2": "arvuti",
+      "ee_3": "arvutit"
+    },
+    {
+      "en": "phone",
+      "en_t": "[fəʊn]",
+      "ru": "телефон",
+      "ee": "telefon",
+      "ee_2": "telefoni",
+      "ee_3": "telefoni"
+    },
+    {
+      "en": "car",
+      "en_t": "[kɑːr]",
+      "ru": "машина",
+      "ee": "auto",
+      "ee_2": "auto",
+      "ee_3": "autot"
+    },
+    {
+      "en": "pen",
+      "en_t": "[pɛn]",
+      "ru": "ручка",
+      "ee": "pastakas",
+      "ee_2": "pastaka",
+      "ee_3": "pastakat"
+    },
+    {
+      "en": "textbook",
+      "en_t": "[ˈtɛkstˌbʊk]",
+      "ru": "учебник",
+      "ee": "õpik",
+      "ee_2": "õpiku",
+      "ee_3": "õpikut"
+    },
+    {
+      "en": "picture, photo",
+      "en_t": "[ˈpɪktʃər], [ˈfoʊtəʊ]",
+      "ru": "картина, картинка, фото",
+      "ee": "pilt",
+      "ee_2": "pildi",
+      "ee_3": "pilti"
+    },
+    {
+      "en": "this",
+      "en_t": "[ðɪs]",
+      "ru": "это",
+      "ee": "see"
+    },
+    {
+      "en": "exercise",
+      "en_t": "[ˈɛksəsaɪz]",
+      "ru": "упражнение",
+      "ee": "harjutus",
+      "ee_2": "harjutuse",
+      "ee_3": "harjutust"
+    },
+    {
+      "en": "to agree",
+      "en_t": "[əˈɡriː]",
+      "ru": "быть согласным",
+      "ee": "nõus olema",
+      "ee_da": "nõus olla",
+      "ee_mina": "olen nõus"
+    }
+  ]
+}

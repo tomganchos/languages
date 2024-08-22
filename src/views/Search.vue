@@ -16,6 +16,18 @@
         </div>
         <div class="word">
           {{ word.ee }}
+          <span v-if="word.en_2">
+            /{{ word.en_2 }}/
+          </span>
+          <span v-if="word.en_3">
+            /{{ word.en_3 }}/
+          </span>
+          <span v-if="word.en_da">
+            /{{ word.en_da }}/
+          </span>
+          <span v-if="word.en_mina">
+            /{{ word.en_mina }}/
+          </span>
         </div>
         <div class="word">
           {{ word.ru }}

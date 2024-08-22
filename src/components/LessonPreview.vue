@@ -23,6 +23,12 @@
           <span v-if="word.ee_3">
             / {{ word.ee_3 }}
           </span>
+          <span v-if="word.ee_da">
+            / {{ word.ee_da }}
+          </span>
+          <span v-if="word.ee_mina">
+            / {{ word.ee_mina }}
+          </span>
         </div>
         <div class="word">
           {{ word.ru }}
