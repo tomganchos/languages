@@ -274,6 +274,218 @@
       "ee": "nõus olema",
       "ee_da": "nõus olla",
       "ee_mina": "olen nõus"
+    },
+    {
+      "en": "name",
+      "en_t": "[neɪm]",
+      "ru": "имя",
+      "ee": "(ees)nimi",
+      "ee_2": "nime",
+      "ee_3": "nime"
+    },
+    {
+      "en": "title",
+      "en_t": "[ˈtaɪtl]",
+      "ru": "название",
+      "ee": "nimi (firma nimi)",
+      "ee_2": "nime",
+      "ee_3": "nime"
+    },
+    {
+      "en": "surname",
+      "en_t": "[ˈsɜːrneɪm]",
+      "ru": "фамилия",
+      "ee": "perekonnanimi",
+      "ee_2": "perekonnanime",
+      "ee_3": "perekonnanime"
+    },
+    {
+      "en": "friend (male)",
+      "en_t": "[frɛnd]",
+      "ru": "друг",
+      "ee": "sõber",
+      "ee_2": "sõbra",
+      "ee_3": "sõpra"
+    },
+    {
+      "en": "friend (female)",
+      "en_t": "[frɛnd]",
+      "ru": "подруга",
+      "ee": "sõbranna",
+      "ee_2": "sõbranna",
+      "ee_3": "sõbrannat"
+    },
+    {
+      "en": "neighbor",
+      "en_t": "[ˈneɪbər]",
+      "ru": "сосед",
+      "ee": "naaber",
+      "ee_2": "naabri",
+      "ee_3": "naabrit"
+    },
+    {
+      "en": "colleague",
+      "en_t": "[ˈkɒliːɡ]",
+      "ru": "коллега",
+      "ee": "kolleeg",
+      "ee_2": "kolleegi",
+      "ee_3": "kolleegi"
+    },
+    {
+      "en": "co-worker",
+      "en_t": "[ˈkəʊˌwɜːrkər]",
+      "ru": "коллега (иначе)",
+      "ee": "töökaaslane",
+      "ee_2": "töökaaslase",
+      "ee_3": "töökaaslast"
+    },
+    {
+      "en": "boss",
+      "en_t": "[bɒs]",
+      "ru": "начальник",
+      "ee": "ülemus",
+      "ee_2": "ülemuse",
+      "ee_3": "ülemust"
+    },
+    {
+      "en": "acquaintance",
+      "en_t": "[əˈkweɪntəns]",
+      "ru": "знакомый",
+      "ee": "tuttav",
+      "ee_2": "tuttava",
+      "ee_3": "tuttavat"
+    },
+    {
+      "en": "also",
+      "en_t": "[ˈɔːlsəʊ]",
+      "ru": "также",
+      "ee": "samuti, ka"
+    },
+    {
+      "en": "to get acquainted",
+      "en_t": "[tuː ɡɛt əˈkweɪntɪd]",
+      "ru": "знакомиться",
+      "ee": "tuttavaks saama",
+      "ee_da": "tuttavaks saada",
+      "ee_mina": "saan tuttavaks"
+    },
+    {
+      "en": "or",
+      "en_t": "[ɔːr]",
+      "ru": "или",
+      "ee": "või"
+    },
+    {
+      "en": "nice, pleasant",
+      "en_t": "[naɪs], [ˈplɛznt]",
+      "ru": "приятно, приятный",
+      "ee": "meeldiv",
+      "ee_2": "meeldiva",
+      "ee_3": "meeldivat"
+    },
+    {
+      "en": "mother",
+      "en_t": "[ˈmʌðər]",
+      "ru": "мама",
+      "ee": "ema",
+      "ee_2": "ema",
+      "ee_3": "ema"
+    },
+    {
+      "en": "father",
+      "en_t": "[ˈfɑːðər]",
+      "ru": "папа",
+      "ee": "isa",
+      "ee_2": "isa",
+      "ee_3": "isa"
+    },
+    {
+      "en": "work",
+      "en_t": "[wɜːrk]",
+      "ru": "работа",
+      "ee": "töö",
+      "ee_2": "töö",
+      "ee_3": "tööd"
+    },
+    {
+      "en": "park",
+      "en_t": "[pɑːrk]",
+      "ru": "парк",
+      "ee": "park",
+      "ee_2": "pargi",
+      "ee_3": "parki"
+    },
+    {
+      "en": "restaurant",
+      "en_t": "[ˈrɛstərɒnt]",
+      "ru": "ресторан",
+      "ee": "restoran",
+      "ee_2": "restorani",
+      "ee_3": "restorani"
+    },
+    {
+      "en": "polyclinic",
+      "en_t": "[ˌpɒlɪˈklɪnɪk]",
+      "ru": "поликлиника",
+      "ee": "polikliinik",
+      "ee_2": "polikliiniku",
+      "ee_3": "polikliinikut"
+    },
+    {
+      "en": "bank",
+      "en_t": "[bæŋk]",
+      "ru": "банк",
+      "ee": "pank",
+      "ee_2": "panga",
+      "ee_3": "panka"
+    },
+    {
+      "en": "office",
+      "en_t": "[ˈɒfɪs]",
+      "ru": "контора, офис",
+      "ee": "kontor",
+      "ee_2": "kontori",
+      "ee_3": "kontorit"
+    },
+    {
+      "en": "bag",
+      "en_t": "[bæɡ]",
+      "ru": "сумка",
+      "ee": "kott",
+      "ee_2": "koti",
+      "ee_3": "kotti"
+    },
+    {
+      "en": "number",
+      "en_t": "[ˈnʌmbər]",
+      "ru": "номер",
+      "ee": "number",
+      "ee_2": "numbri",
+      "ee_3": "numbrit"
+    },
+    {
+      "en": "course, courses",
+      "en_t": "[kɔːrs], [ˈkɔːrsɪz]",
+      "ru": "курс, курсы",
+      "ee": "kursus",
+      "ee_2": "kursuse",
+      "ee_3": "kursust"
+    },
+    {
+      "en": "book",
+      "en_t": "[bʊk]",
+      "ru": "книга",
+      "ee": "raamat",
+      "ee_2": "raamatu",
+      "ee_3": "raamatut"
+    },
+    {
+      "en": "place",
+      "en_t": "[pleɪs]",
+      "ru": "место",
+      "ee": "koht",
+      "ee_2": "koha",
+      "ee_3": "kohta"
     }
   ]
 }
