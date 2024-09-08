@@ -1,20 +1,5 @@
 {
   "lessons": [
-//    "en_spring.json",
-//    "en_cooking.json",
-//    "en_just_words.json",
-//    "en_describing_food.json",
-//    "en_supermarket.json",
-//    "en_food_delivery.json",
-//    "en_clothes.json",
-//    "en_online_shopping.json",
-//    "en_idioms.json",
-//    "en_flights.json",
-//    "en_hotels.json",
-//    "en_travel.json",
-//    "ee_keeleklikk_1.json",
-//    "en_business.json",
-//    "en_catan.json",
     "en_buses.json",
     "en_cars.json",
     "en_cellphone.json",
@@ -45,5 +30,22 @@
       "language": "en",
       "link": "en_past_continuous.html"
     }
-  ]
+  ],
+  "lessonsNotUsed": [
+    "en_spring.json",
+    "en_cooking.json",
+    "en_just_words.json",
+    "en_describing_food.json",
+    "en_supermarket.json",
+    "en_food_delivery.json",
+    "en_clothes.json",
+    "en_online_shopping.json",
+    "en_idioms.json",
+    "en_flights.json",
+    "en_hotels.json",
+    "en_travel.json",
+    "ee_keeleklikk_1.json",
+    "en_business.json",
+    "en_catan.json"
+    ]
 }
