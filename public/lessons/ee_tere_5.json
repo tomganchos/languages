@@ -109,7 +109,9 @@
       "en": "hour, clock",
       "en_t": "[aʊər], [klɒk]",
       "ru": "час, часы",
-      "ee": "tund, kell"
+      "ee": "kell",
+      "ee_2": "kella",
+      "ee_3": "kella"
     },
     {
       "en": "exactly, precisely",
@@ -145,7 +147,7 @@
       "en": "when, what time",
       "en_t": "[wɛn], [wɒt taɪm]",
       "ru": "когда, во сколько",
-      "ee": "millal, mis kell"
+      "ee": "millal"
     },
     {
       "en": "to meet",
@@ -167,7 +169,9 @@
       "en": "to meet (another way)",
       "en_t": "[tuː miːt]",
       "ru": "встречаться (иначе)",
-      "ee": "saama kokku"
+      "ee": "kokku saama",
+      "ee_2": "kokku saada",
+      "ee_3": "saan kokku"
     },
     {
       "en": "to know",
@@ -192,22 +196,16 @@
       "ee": "veel"
     },
     {
-      "en": "only",
-      "en_t": "[ˈəʊnli]",
-      "ru": "только",
-      "ee": "ainult"
-    },
-    {
       "en": "already",
       "en_t": "[ɔːlˈrɛdi]",
       "ru": "уже",
       "ee": "juba"
     },
     {
-      "en": "what",
-      "en_t": "[wɒt]",
+      "en": "that",
+      "en_t": "[ðæt]",
       "ru": "что",
-      "ee": "mis"
+      "ee": "et"
     },
     {
       "en": "approximately",
@@ -219,7 +217,7 @@
       "en": "somewhere",
       "en_t": "[ˈsʌmwɛər]",
       "ru": "где-то",
-      "ee": "kusagil"
+      "ee": "kuskil"
     },
     {
       "en": "okay",
@@ -265,7 +263,7 @@
       "en": "how much, how many",
       "en_t": "[haʊ mʌʧ], [haʊ mɛni]",
       "ru": "сколько",
-      "ee": "kui palju"
+      "ee": "mitu"
     },
     {
       "en": "why",
