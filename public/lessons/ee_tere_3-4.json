@@ -486,6 +486,90 @@
       "ee": "koht",
       "ee_2": "koha",
       "ee_3": "kohta"
+    },
+    {
+      "en": "How do you say 'human' in Estonian?",
+      "en_t": "[haʊ duː juː seɪ 'hjuːmən ɪn ɪˈstəʊniən]",
+      "ru": "Как по-эстонски 'human'?",
+      "ee": "Kuidas on eesti keeles 'human'?"
+    },
+    {
+      "en": "The Estonian language is so difficult",
+      "en_t": "[ði ɪˈstəʊniən ˈlæŋɡwɪdʒ ɪz səʊ ˈdɪfɪkəlt]",
+      "ru": "Эстонский язык такой сложный",
+      "ee": "Eesti keel on nii raske"
+    },
+    {
+      "en": "The Russian language is so easy",
+      "en_t": "[ðə ˈrʌʃən ˈlæŋɡwɪdʒ ɪz səʊ ˈiːzi]",
+      "ru": "Русский язык такой лёгкий",
+      "ee": "Vene keel on nii kerge"
+    },
+    {
+      "en": "Who?",
+      "en_t": "[huː]",
+      "ru": "Кто?",
+      "ee": "Kes?"
+    },
+    {
+      "en": "What?",
+      "en_t": "[wɒt]",
+      "ru": "Что?",
+      "ee": "Mis?"
+    },
+    {
+      "en": "Do you agree? Yes, I agree",
+      "en_t": "[duː juː əˈɡriː? jɛs, aɪ əˈɡriː]",
+      "ru": "Ты согласен? Да, согласен",
+      "ee": "Kas sa oled nõus? Olen küll"
+    },
+    {
+      "en": "Do you know how? Yes, I know",
+      "en_t": "[duː juː nəʊ haʊ? jɛs, aɪ nəʊ]",
+      "ru": "Вы умеете? Да, умею",
+      "ee": "Kas te oskate? Oskan küll"
+    },
+    {
+      "en": "Whose? Genitive case",
+      "en_t": "[huːz? ˈʤɛnɪtɪv keɪs]",
+      "ru": "Кого? Чей? Чего? Падеж Omastav",
+      "ee": "Kelle? Mille? Omastav kääne"
+    },
+    {
+      "en": "Whose work is this?",
+      "en_t": "[huːz wɜːrk ɪz ðɪs?]",
+      "ru": "Чья это работа?",
+      "ee": "Kelle töö see on?"
+    },
+    {
+      "en": "This is the student's work",
+      "en_t": "[ðɪs ɪz ðə ˈstjuːdənts wɜːrk]",
+      "ru": "Это работа ученика",
+      "ee": "See on õpilase töö"
+    },
+    {
+      "en": "Whose is this?",
+      "en_t": "[huːz ɪz ðɪs?]",
+      "ru": "Чьё это?",
+      "ee": "Kelle oma see on?"
+    },
+    {
+      "en": "It's the student's",
+      "en_t": "[ɪts ðə ˈstjuːdənts]",
+      "ru": "Это ученика",
+      "ee": "See on õpilase oma"
+    },
+    {
+      "en": "plural",
+      "en_t": "[ˈplʊərəl]",
+      "ru": "множественное число",
+      "ee": "mitmus"
+    },
+    {
+      "en": "these (plural)",
+      "en_t": "[ðiːz]",
+      "ru": "это (множественное число)",
+      "ee": "need"
     }
   ]
 }

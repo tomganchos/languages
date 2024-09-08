@@ -1,0 +1,417 @@
+{
+  "lesson": "Tere 5",
+  "date": "2024-09-03",
+  "language": "ee",
+  "words": [
+    {
+      "en": "zero",
+      "en_t": "[ˈzɪərəʊ]",
+      "ru": "ноль",
+      "ee": "null"
+    },
+    {
+      "en": "one",
+      "en_t": "[wʌn]",
+      "ru": "один",
+      "ee": "üks"
+    },
+    {
+      "en": "two",
+      "en_t": "[tuː]",
+      "ru": "два",
+      "ee": "kaks"
+    },
+    {
+      "en": "three",
+      "en_t": "[θriː]",
+      "ru": "три",
+      "ee": "kolm"
+    },
+    {
+      "en": "four",
+      "en_t": "[fɔːr]",
+      "ru": "четыре",
+      "ee": "neli"
+    },
+    {
+      "en": "five",
+      "en_t": "[faɪv]",
+      "ru": "пять",
+      "ee": "viis"
+    },
+    {
+      "en": "six",
+      "en_t": "[sɪks]",
+      "ru": "шесть",
+      "ee": "kuus"
+    },
+    {
+      "en": "seven",
+      "en_t": "[ˈsɛvən]",
+      "ru": "семь",
+      "ee": "seitse"
+    },
+    {
+      "en": "eight",
+      "en_t": "[eɪt]",
+      "ru": "восемь",
+      "ee": "kaheksa"
+    },
+    {
+      "en": "nine",
+      "en_t": "[naɪn]",
+      "ru": "девять",
+      "ee": "üheksa"
+    },
+    {
+      "en": "ten",
+      "en_t": "[tɛn]",
+      "ru": "десять",
+      "ee": "kümme"
+    },
+    {
+      "en": "eleven",
+      "en_t": "[ɪˈlɛvən]",
+      "ru": "одинадцать",
+      "ee": "üksteist"
+    },
+    {
+      "en": "twenty",
+      "en_t": "[ˈtwɛnti]",
+      "ru": "двадцать",
+      "ee": "kakskümmend"
+    },
+    {
+      "en": "twenty-one",
+      "en_t": "[twɛnti wʌn]",
+      "ru": "двадцать один",
+      "ee": "kakskümmend üks"
+    },
+    {
+      "en": "hundred",
+      "en_t": "[ˈhʌndrəd]",
+      "ru": "сто",
+      "ee": "sada"
+    },
+    {
+      "en": "two hundred",
+      "en_t": "[tuː ˈhʌndrəd]",
+      "ru": "двести",
+      "ee": "kakssada"
+    },
+    {
+      "en": "thousand",
+      "en_t": "[ˈθaʊzənd]",
+      "ru": "тысяча",
+      "ee": "tuhat"
+    },
+    {
+      "en": "hour, clock",
+      "en_t": "[aʊər], [klɒk]",
+      "ru": "час, часы",
+      "ee": "tund, kell"
+    },
+    {
+      "en": "exactly, precisely",
+      "en_t": "[ɪɡˈzæktli], [prɪˈsaɪsli]",
+      "ru": "ровно, точно",
+      "ee": "täpselt"
+    },
+    {
+      "en": "quarter",
+      "en_t": "[ˈkwɔːrtər]",
+      "ru": "четверть",
+      "ee": "veerand"
+    },
+    {
+      "en": "three quarters",
+      "en_t": "[θriː ˈkwɔːrtərz]",
+      "ru": "три четверти",
+      "ee": "kolmveerand"
+    },
+    {
+      "en": "half",
+      "en_t": "[hɑːf]",
+      "ru": "половина",
+      "ee": "pool"
+    },
+    {
+      "en": "now",
+      "en_t": "[naʊ]",
+      "ru": "сейчас",
+      "ee": "praegu"
+    },
+    {
+      "en": "when, what time",
+      "en_t": "[wɛn], [wɒt taɪm]",
+      "ru": "когда, во сколько",
+      "ee": "millal, mis kell"
+    },
+    {
+      "en": "to meet",
+      "en_t": "[tuː miːt]",
+      "ru": "встречаться",
+      "ee": "kohtuma",
+      "ee_da": "kohtuda",
+      "ee_mina": "kohtun"
+    },
+    {
+      "en": "to come",
+      "en_t": "[tuː kʌm]",
+      "ru": "приходить, прийти",
+      "ee": "tulema",
+      "ee_da": "tulla",
+      "ee_mina": "tulen"
+    },
+    {
+      "en": "to meet (another way)",
+      "en_t": "[tuː miːt]",
+      "ru": "встречаться (иначе)",
+      "ee": "saama kokku"
+    },
+    {
+      "en": "to know",
+      "en_t": "[tuː nəʊ]",
+      "ru": "знать",
+      "ee": "teadma",
+      "ee_da": "teada",
+      "ee_mina": "tean"
+    },
+    {
+      "en": "to think, to count",
+      "en_t": "[tuː θɪŋk], [tuː kaʊnt]",
+      "ru": "считать, думать",
+      "ee": "arvama",
+      "ee_da": "arvata",
+      "ee_mina": "arvan"
+    },
+    {
+      "en": "still",
+      "en_t": "[stɪl]",
+      "ru": "ещё",
+      "ee": "veel"
+    },
+    {
+      "en": "only",
+      "en_t": "[ˈəʊnli]",
+      "ru": "только",
+      "ee": "ainult"
+    },
+    {
+      "en": "already",
+      "en_t": "[ɔːlˈrɛdi]",
+      "ru": "уже",
+      "ee": "juba"
+    },
+    {
+      "en": "what",
+      "en_t": "[wɒt]",
+      "ru": "что",
+      "ee": "mis"
+    },
+    {
+      "en": "approximately",
+      "en_t": "[əˈprɒksɪmətli]",
+      "ru": "приблизительно, примерно",
+      "ee": "umbes"
+    },
+    {
+      "en": "somewhere",
+      "en_t": "[ˈsʌmwɛər]",
+      "ru": "где-то",
+      "ee": "kusagil"
+    },
+    {
+      "en": "okay",
+      "en_t": "[ˌəʊˈkeɪ]",
+      "ru": "ладно",
+      "ee": "olgu"
+    },
+    {
+      "en": "just (time)",
+      "en_t": "[ʤʌst]",
+      "ru": "только (про время)",
+      "ee": "alles"
+    },
+    {
+      "en": "only (people)",
+      "en_t": "[ˈəʊnli]",
+      "ru": "только (про людей)",
+      "ee": "ainult"
+    },
+    {
+      "en": "year",
+      "en_t": "[jɪər]",
+      "ru": "год",
+      "ee": "aasta",
+      "ee_2": "aasta",
+      "ee_3": "aastat"
+    },
+    {
+      "en": "how old are you?",
+      "en_t": "[haʊ əʊld ɑːr juː]",
+      "ru": "сколько тебе лет?",
+      "ee": "kui vana sa oled?"
+    },
+    {
+      "en": "theater",
+      "en_t": "[ˈθɪətər]",
+      "ru": "театр",
+      "ee": "teater",
+      "ee_2": "teatri",
+      "ee_3": "teatrit"
+    },
+    {
+      "en": "how much, how many",
+      "en_t": "[haʊ mʌʧ], [haʊ mɛni]",
+      "ru": "сколько",
+      "ee": "kui palju"
+    },
+    {
+      "en": "why",
+      "en_t": "[waɪ]",
+      "ru": "почему",
+      "ee": "miks"
+    },
+    {
+      "en": "naturally",
+      "en_t": "[ˈnæʧərəli]",
+      "ru": "естественно",
+      "ee": "loomulikult"
+    },
+    {
+      "en": "to love",
+      "en_t": "[lʌv]",
+      "ru": "любить",
+      "ee": "armastama",
+      "ee_da": "armastada",
+      "ee_mina": "armastan"
+    },
+    {
+      "en": "who",
+      "en_t": "[huː]",
+      "ru": "кого",
+      "ee": "keda"
+    },
+    {
+      "en": "who, whose",
+      "en_t": "[huː], [huːz]",
+      "ru": "кого, чей",
+      "ee": "kelle"
+    },
+    {
+      "en": "me",
+      "en_t": "[miː]",
+      "ru": "меня",
+      "ee": "mind"
+    },
+    {
+      "en": "you",
+      "en_t": "[juː]",
+      "ru": "тебя",
+      "ee": "sind"
+    },
+    {
+      "en": "him, her",
+      "en_t": "[hɪm], [hɜːr]",
+      "ru": "его, её",
+      "ee": "teda"
+    },
+    {
+      "en": "us",
+      "en_t": "[ʌs]",
+      "ru": "нас",
+      "ee": "meid"
+    },
+    {
+      "en": "you (plural)",
+      "en_t": "[juː]",
+      "ru": "вас",
+      "ee": "teid"
+    },
+    {
+      "en": "them",
+      "en_t": "[ðɛm]",
+      "ru": "их",
+      "ee": "neid"
+    },
+    {
+      "en": "what time is it?",
+      "en_t": "[wɒt taɪm ɪz ɪt]",
+      "ru": "который час?",
+      "ee": "mis kell on?"
+    },
+    {
+      "en": "quarter past twelve",
+      "en_t": "[ˈkwɔːrtər pɑːst twɛlv]",
+      "ru": "четверть первого",
+      "ee": "veerand üks"
+    },
+    {
+      "en": "half past one",
+      "en_t": "[hɑːf pɑːst wʌn]",
+      "ru": "половина второго",
+      "ee": "pool kaks"
+    },
+    {
+      "en": "quarter to three",
+      "en_t": "[ˈkwɔːrtər tuː θriː]",
+      "ru": "без четверти три",
+      "ee": "kolmveerand kolm"
+    },
+    {
+      "en": "it's exactly four now",
+      "en_t": "[ɪts ɪɡˈzæktli fɔːr naʊ]",
+      "ru": "сейчас ровно 4",
+      "ee": "praegu on täpselt neli"
+    },
+    {
+      "en": "it's approximately five now",
+      "en_t": "[ɪts əˈprɒksɪmətli faɪv naʊ]",
+      "ru": "сейчас приблизительно 5",
+      "ee": "praegu on umbes viis"
+    },
+    {
+      "en": "I don't know",
+      "en_t": "[aɪ dəʊnt nəʊ]",
+      "ru": "не знаю",
+      "ee": "ma ei tea"
+    },
+    {
+      "en": "it's only one o'clock!",
+      "en_t": "[ɪts ˈəʊnli wʌn əˈklɒk]",
+      "ru": "только час!",
+      "ee": "alles üks!"
+    },
+    {
+      "en": "it's already one o'clock!",
+      "en_t": "[ɪts ɔːlˈrɛdi wʌn əˈklɒk]",
+      "ru": "уже час!",
+      "ee": "juba üks!"
+    },
+    {
+      "en": "when/at what time will you come?",
+      "en_t": "[wɛn/æt wɒt taɪm wɪl juː kʌm]",
+      "ru": "когда/в какое время ты придёшь?",
+      "ee": "millal/mis kell sa tuled?"
+    },
+    {
+      "en": "I think, approximately at two",
+      "en_t": "[aɪ θɪŋk, əˈprɒksɪmətli æt tuː]",
+      "ru": "я думаю, что приблизительно в два",
+      "ee": "ma arvan, et umbes kell kaks"
+    },
+    {
+      "en": "who else will come?",
+      "en_t": "[huː ɛls wɪl kʌm]",
+      "ru": "кто ещё придёт?",
+      "ee": "kes veel tuleb?"
+    },
+    {
+      "en": "only me",
+      "en_t": "[ˈəʊnli miː]",
+      "ru": "только я",
+      "ee": "ainult mina"
+    }
+  ]
+}
