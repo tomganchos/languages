@@ -1,5 +1,5 @@
 <template>
-  <div class="settings">
+  <div v-if="isAllLoaded" class="settings">
     <h1>Настройки</h1>
     <div class="language">
       <span>Основной язык</span>
@@ -37,13 +37,16 @@
       <button @click="apply">Сохранить</button>
     </div>
   </div>
+  <div v-else class="settings loading">
+    Загрузка..
+  </div>
 </template>
 
 <script>
 import Checkbox from './Checkbox.vue'
 import EnglishFlag from "./icons/EnglishFlag.vue";
 import EstonianFlag from "./icons/EstonianFlag.vue";
-import {mapActions, mapState} from "pinia";
+import {mapActions, mapGetters, mapState} from "pinia";
 import {useIndexStore} from "../store/index.js";
 
 export default {
@@ -65,7 +68,8 @@ export default {
       allLessons: 'allLessons',
       selectedLessons: 'selectedLessons',
       language: 'language',
-    })
+      isAllLoaded: 'isAllLoaded',
+    }),
   },
   mounted() {
     this.primaryLanguage = this.language
@@ -109,12 +113,15 @@ export default {
 </script>
 
 <style scoped>
-/* Здесь могут быть стили для вашего приложения */
 .settings {
   display: flex;
   flex-direction: column;
   padding: 20px;
   flex-grow: 1;
+}
+.settings.loading {
+  align-items: center;
+  justify-content: center;
 }
 h1 {
   margin: 0 0 24px;

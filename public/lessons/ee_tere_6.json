@@ -1,0 +1,309 @@
+{
+  "lesson": "Tere 6",
+  "date": "2024-09-10",
+  "language": "ee",
+  "words": [
+    {
+      "en": "excellent",
+      "en_t": "[ˈɛksələnt]",
+      "ru": "превосходно",
+      "ee": "suurepärane",
+      "ee_2": "suurepärase",
+      "ee_3": "suurepärast"
+    },
+    {
+      "en": "order, once",
+      "en_t": "[ˈɔːdə(r), wʌns]",
+      "ru": "порядок, раз",
+      "ee": "kord",
+      "ee_2": "korra",
+      "ee_3": "korda"
+    },
+    {
+      "en": "here",
+      "en_t": "[hɪə]",
+      "ru": "здесь",
+      "ee": "siin"
+    },
+    {
+      "en": "normal",
+      "en_t": "[ˈnɔːm(ə)l]",
+      "ru": "нормальный",
+      "ee": "normaalne",
+      "ee_2": "normaalse",
+      "ee_3": "normaalset"
+    },
+    {
+      "en": "more or less",
+      "en_t": "[mɔː ɔː lɛs]",
+      "ru": "более или менее",
+      "ee": "enam-vähem"
+    },
+    {
+      "en": "how",
+      "en_t": "[haʊ]",
+      "ru": "как",
+      "ee": "nagu"
+    },
+    {
+      "en": "always",
+      "en_t": "[ˈɔːlweɪz]",
+      "ru": "всегда",
+      "ee": "alati"
+    },
+    {
+      "en": "ill, sick",
+      "en_t": "[ɪl, sɪk]",
+      "ru": "больной",
+      "ee": "haige",
+      "ee_2": "haige",
+      "ee_3": "haiget"
+    },
+    {
+      "en": "discount card",
+      "en_t": "[ˈdɪskaʊnt kɑːd]",
+      "ru": "карточка скидок (бонусов)",
+      "ee": "säästukaart",
+      "ee_2": "säästukaardi",
+      "ee_3": "säästukaarti"
+    },
+    {
+      "en": "client card",
+      "en_t": "[ˈklaɪənt kɑːd]",
+      "ru": "карточка клиента",
+      "ee": "kliendikaart",
+      "ee_2": "kliendikaardi",
+      "ee_3": "kliendikaarti"
+    },
+    {
+      "en": "partner card",
+      "en_t": "[ˈpɑːtnə kɑːd]",
+      "ru": "карточка партнёра",
+      "ee": "partnerkaart",
+      "ee_2": "partnerkaardi",
+      "ee_3": "partnerkaarti"
+    },
+    {
+      "en": "cent",
+      "en_t": "[sɛnt]",
+      "ru": "сент",
+      "ee": "sent",
+      "ee_2": "sendi",
+      "ee_3": "senti"
+    },
+    {
+      "en": "euro",
+      "en_t": "[ˈjʊərəʊ]",
+      "ru": "евро",
+      "ee": "euro",
+      "ee_2": "euro",
+      "ee_3": "eurot"
+    },
+    {
+      "en": "right",
+      "en_t": "[raɪt]",
+      "ru": "право",
+      "ee": "õigus",
+      "ee_2": "õiguse",
+      "ee_3": "õigust"
+    },
+    {
+      "en": "temperature",
+      "en_t": "[ˈtɛmprɪtʃə]",
+      "ru": "температура",
+      "ee": "palavik",
+      "ee_2": "palaviku",
+      "ee_3": "palavikku"
+    },
+    {
+      "en": "runny nose",
+      "en_t": "[ˈrʌni nəʊz]",
+      "ru": "насморк",
+      "ee": "nohu",
+      "ee_2": "nohu",
+      "ee_3": "nohu"
+    },
+    {
+      "en": "cough",
+      "en_t": "[kɒf]",
+      "ru": "кашель",
+      "ee": "köha",
+      "ee_2": "köha",
+      "ee_3": "köha"
+    },
+    {
+      "en": "head",
+      "en_t": "[hɛd]",
+      "ru": "голова",
+      "ee": "pea",
+      "ee_2": "pea",
+      "ee_3": "pead"
+    },
+    {
+      "en": "What’s wrong with you?",
+      "en_t": "[wɒts rɒŋ wɪð juː?]",
+      "ru": "Что с тобой?",
+      "ee": "Mis sul viga on?"
+    },
+    {
+      "en": "because",
+      "en_t": "[bɪˈkɒz]",
+      "ru": "потому что",
+      "ee": "sest"
+    },
+    {
+      "en": "because (long version)",
+      "en_t": "[bɪˈkɒz]",
+      "ru": "потому что (длинная версия)",
+      "ee": "sellepärast, et"
+    },
+    {
+      "en": "hurt, be ill",
+      "en_t": "[hɜːt, bi ɪl]",
+      "ru": "болеть",
+      "ee": "valutama",
+      "ee_da": "valutada",
+      "ee_mina": "valutab"
+    },
+    {
+      "en": "throat",
+      "en_t": "[θrəʊt]",
+      "ru": "горло",
+      "ee": "kurk",
+      "ee_2": "kurgu",
+      "ee_3": "kurku"
+    },
+    {
+      "en": "How are you?",
+      "en_t": "[haʊ ɑː juː?]",
+      "ru": "Как у тебя дела?",
+      "ee": "Kuidas sul läheb?"
+    },
+    {
+      "en": "Everything’s fine",
+      "en_t": "[ˈɛvrɪθɪŋz faɪn]",
+      "ru": "Всё в порядке",
+      "ee": "Kõik on korras"
+    },
+    {
+      "en": "Everything’s good/bad",
+      "en_t": "[ˈɛvrɪθɪŋz ɡʊd/bæd]",
+      "ru": "Всё хорошо/плохо",
+      "ee": "Kõik on hästi/halvasti"
+    },
+    {
+      "en": "Thank you, very well",
+      "en_t": "[θæŋk juː, ˈvɛri wɛl]",
+      "ru": "Благодарю, очень хорошо",
+      "ee": "Tänan, väga hästi"
+    },
+    {
+      "en": "And you?",
+      "en_t": "[ænd juː?]",
+      "ru": "А у тебя?",
+      "ee": "Aga sinul?"
+    },
+    {
+      "en": "And you? (formal)",
+      "en_t": "[ænd juː?]",
+      "ru": "А у вас?",
+      "ee": "Aga teil?"
+    },
+    {
+      "en": "Nothing much",
+      "en_t": "[ˈnʌθɪŋ mʌtʃ]",
+      "ru": "Ничего (дела)",
+      "ee": "Pole viga"
+    },
+    {
+      "en": "As always",
+      "en_t": "[æz ˈɔːlweɪz]",
+      "ru": "Как всегда",
+      "ee": "Nagu alati"
+    },
+    {
+      "en": "I am sick",
+      "en_t": "[aɪ æm sɪk]",
+      "ru": "Я болен",
+      "ee": "Ma olen haige"
+    },
+    {
+      "en": "Whose?",
+      "en_t": "[huːz]",
+      "ru": "У кого?",
+      "ee": "Kellel?"
+    },
+    {
+      "en": "mine",
+      "en_t": "[maɪn]",
+      "ru": "у меня",
+      "ee": "minul/mul"
+    },
+    {
+      "en": "yours",
+      "en_t": "[jɔːrz]",
+      "ru": "у тебя",
+      "ee": "sinul/sul"
+    },
+    {
+      "en": "his/her",
+      "en_t": "[hɪz/hɜː]",
+      "ru": "у него/неё",
+      "ee": "temal/tal"
+    },
+    {
+      "en": "ours",
+      "en_t": "[aʊəz]",
+      "ru": "у нас",
+      "ee": "meil/meil"
+    },
+    {
+      "en": "yours (formal)",
+      "en_t": "[jɔːrz]",
+      "ru": "у вас",
+      "ee": "teil/teil"
+    },
+    {
+      "en": "theirs",
+      "en_t": "[ðɛəz]",
+      "ru": "у них",
+      "ee": "nendel/neil"
+    },
+    {
+      "en": "Who is right?",
+      "en_t": "[huː ɪz raɪt?]",
+      "ru": "Кто прав?",
+      "ee": "Kellel on õigus?"
+    },
+    {
+      "en": "You are right",
+      "en_t": "[juː ɑː raɪt]",
+      "ru": "Вы правы",
+      "ee": "Teil on õigus"
+    },
+    {
+      "en": "Who is happy?",
+      "en_t": "[huː ɪz ˈhæpi?]",
+      "ru": "Кто рад?",
+      "ee": "Kellel on hea meel?"
+    },
+    {
+      "en": "I am happy",
+      "en_t": "[aɪ æm ˈhæpi]",
+      "ru": "Я рад",
+      "ee": "Mul on hea meel"
+    },
+    {
+      "en": "When?",
+      "en_t": "[wɛn?]",
+      "ru": "Когда?",
+      "ee": "Millal?"
+    },
+    {
+      "en": "during the day/morning/evening",
+      "en_t": "[ˈdjʊərɪŋ ðə deɪ/ˈmɔːnɪŋ/ˈiːvnɪŋ]",
+      "ru": "днём/утром/вечером",
+      "ee": "päeval/hommikul/õhtul"
+    }
+  ]
+}

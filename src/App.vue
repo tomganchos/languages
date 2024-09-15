@@ -7,6 +7,9 @@
       />
       <Settings v-else @close="showSettings = false" @lessonChange="updateLessons"/>
     </main>
+    <main v-else class="loading">
+      Загрузка..
+    </main>
     <Footer/>
   </div>
 </template>
@@ -67,6 +70,11 @@ export default {
   created() {
     console.log('created')
 
+    if (this.loadLastLesson()) {
+      console.log('last lesson loaded')
+      this.allLoaded = true
+    }
+
     this.init().then(() => {
       console.log('all loaded')
       this.allLoaded = true
@@ -79,7 +87,8 @@ export default {
   },
   methods: {
     ...mapActions(useIndexStore, {
-      init: 'init'
+      init: 'init',
+      loadLastLesson: 'loadLastLesson',
     }),
     updateLessons(selectedLessons) {
       this.selectedLessons = selectedLessons
@@ -115,5 +124,9 @@ main {
   display: flex;
   flex-direction: column;
   flex-grow: 1;
+}
+main.loading {
+  align-items: center;
+  justify-content: center;
 }
 </style>

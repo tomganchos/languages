@@ -5,10 +5,10 @@
     "en_cellphone.json",
     "en_fruits_and_vegetables.json",
     "en_trains_and_subways.json",
-    "en_catan_tournament.json",
     "ee_tere_1-2.json",
     "ee_tere_3-4.json",
-    "ee_tere_5.json"
+    "ee_tere_5.json",
+    "ee_tere_6.json"
   ],
   "grammar": [
     {
@@ -47,6 +47,7 @@
     "en_travel.json",
     "ee_keeleklikk_1.json",
     "en_business.json",
-    "en_catan.json"
-    ]
+    "en_catan.json",
+    "en_catan_tournament.json"
+  ]
 }

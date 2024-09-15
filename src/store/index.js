@@ -12,7 +12,7 @@ export const useIndexStore = defineStore('index', {
         language: localStorage.getItem('primaryLanguage') || 'ru',
     }),
     getters: {
-
+        isAllLoaded: state => state.allLessons.length > 0,
     },
     actions: {
         async init() {
@@ -64,9 +64,12 @@ export const useIndexStore = defineStore('index', {
         },
         updateSettings(selectedLessons, primaryLanguage) {
             this.selectedLessons = selectedLessons.map(item => item.lesson)
+            this.currentIndex = 0
+            localStorage.setItem('selectedLessons', JSON.stringify(this.selectedLessons))
+            localStorage.setItem('currentIndex', 0)
             this.language = primaryLanguage
-            localStorage.setItem('selectedLessons', JSON.stringify(this.selectedLessons));
-            localStorage.setItem('primaryLanguage', this.language);
+            localStorage.setItem('primaryLanguage', this.language)
+
             this.updateCards()
         },
 
@@ -76,6 +79,15 @@ export const useIndexStore = defineStore('index', {
                 this.currentIndex = JSON.parse(localStorage.getItem('currentIndex'))
             } else {
                 this.updateCards()
+            }
+        },
+        loadLastLesson() {
+            if (localStorage.getItem('cards')) {
+                this.cards = JSON.parse(localStorage.getItem('cards'))
+                this.currentIndex = JSON.parse(localStorage.getItem('currentIndex'))
+                return true
+            } else {
+                return false
             }
         },
         updateCards() {
