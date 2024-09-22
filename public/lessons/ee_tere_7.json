@@ -1,0 +1,241 @@
+{
+  "lesson": "Tere 7 beta",
+  "date": "2024-09-17",
+  "language": "ee",
+  "words": [
+    {
+      "ru": "календарь",
+      "ee": "kalender",
+      "ee_2": "kalendri",
+      "ee_3": "kalendrit",
+      "en": "calendar",
+      "en_t": "[ka-len-der]"
+    },
+    {
+      "ru": "сегодня",
+      "ee": "täna",
+      "en": "today",
+      "en_t": "[ta-na]"
+    },
+    {
+      "ru": "завтра",
+      "ee": "homme",
+      "en": "tomorrow",
+      "en_t": "[hom-me]"
+    },
+    {
+      "ru": "послезавтра",
+      "ee": "ülehomme",
+      "en": "day after tomorrow",
+      "en_t": "[yoo-le-hom-me]"
+    },
+    {
+      "ru": "вчера",
+      "ee": "eile",
+      "en": "yesterday",
+      "en_t": "[ey-le]"
+    },
+    {
+      "ru": "позавчера",
+      "ee": "üleeile",
+      "en": "day before yesterday",
+      "en_t": "[yoo-le-ey-le]"
+    },
+    {
+      "ru": "месяц",
+      "ee": "kuu",
+      "ee_2": "kuu",
+      "ee_3": "kuud",
+      "en": "month",
+      "en_t": "[koo]"
+    },
+    {
+      "ru": "число (месяца)",
+      "ee": "kuupäev",
+      "ee_2": "kuupäeva",
+      "ee_3": "kuupäeva",
+      "en": "date",
+      "en_t": "[koo-pah-ev]"
+    },
+    {
+      "ru": "неделя",
+      "ee": "nädal",
+      "ee_2": "nädala",
+      "ee_3": "nädalat",
+      "en": "week",
+      "en_t": "[næ-dahl]"
+    },
+    {
+      "ru": "рабочий день",
+      "ee": "tööpäev",
+      "ee_2": "tööpäeva",
+      "ee_3": "tööpäeva",
+      "en": "workday",
+      "en_t": "[tøø-pæ-ev]"
+    },
+    {
+      "ru": "будний день",
+      "ee": "argipäev",
+      "ee_2": "argipäeva",
+      "ee_3": "argipäeva",
+      "en": "weekday",
+      "en_t": "[ar-gi-pæ-ev]"
+    },
+    {
+      "ru": "выходной день",
+      "ee": "puhkepäev",
+      "ee_2": "puhkepäeva",
+      "ee_3": "puhkepäeva",
+      "en": "day off",
+      "en_t": "[pukh-ke-pæ-ev]"
+    },
+    {
+      "ru": "выходные дни",
+      "ee": "puhkepäevad",
+      "ee_2": "puhkepäevade",
+      "ee_3": "puhkepäevi",
+      "en": "weekend",
+      "en_t": "[pukh-ke-pæ-vad]"
+    },
+    {
+      "ru": "когда?",
+      "ee": "millal?",
+      "en": "when?",
+      "en_t": "[mil-lahl]"
+    },
+    {
+      "ru": "ничего",
+      "ee": "midagi",
+      "en": "nothing",
+      "en_t": "[mi-dah-gi]"
+    },
+    {
+      "ru": "какой-нибудь",
+      "ee": "mingi",
+      "ee_2": "mingi",
+      "ee_3": "mingit",
+      "en": "some",
+      "en_t": "[ming-gi]"
+    },
+    {
+      "ru": "например",
+      "ee": "näiteks",
+      "en": "for example",
+      "en_t": "[nai-teks]"
+    },
+    {
+      "ru": "тогда, то",
+      "ee": "siis",
+      "en": "then",
+      "en_t": "[siis]"
+    },
+    {
+      "ru": "получать, мочь",
+      "ee": "saama",
+      "ee_2": "saada",
+      "ee_3": "saan",
+      "en": "to get, can",
+      "en_t": "[saa-mah]"
+    },
+    {
+      "ru": "годиться, подходить",
+      "ee": "sobima",
+      "ee_2": "sobida",
+      "ee_3": "sobin",
+      "en": "to suit, to fit",
+      "en_t": "[so-bi-mah]"
+    },
+    {
+      "ru": "урок",
+      "ee": "tund",
+      "ee_2": "tunni",
+      "ee_3": "tundi",
+      "en": "lesson",
+      "en_t": "[toond]"
+    },
+    {
+      "ru": "семинар",
+      "ee": "seminar",
+      "ee_2": "seminari",
+      "ee_3": "seminari",
+      "en": "seminar",
+      "en_t": "[seh-mi-nahr]"
+    },
+    {
+      "ru": "конференция",
+      "ee": "konverents",
+      "ee_2": "konverentsi",
+      "ee_3": "konverentsi",
+      "en": "conference",
+      "en_t": "[kon-ve-rents]"
+    },
+    {
+      "ru": "следующий",
+      "ee": "järgmine",
+      "ee_2": "järgmise",
+      "ee_3": "järgmist",
+      "en": "next",
+      "en_t": "[jærg-mi-ne]"
+    },
+    {
+      "ru": "занят, закрыт",
+      "ee": "kinni",
+      "en": "busy, closed",
+      "en_t": "[kin-ni]"
+    },
+    {
+      "ru": "свободен",
+      "ee": "vaba",
+      "ee_2": "vaba",
+      "ee_3": "vaba",
+      "en": "free",
+      "en_t": "[va-ba]"
+    },
+    {
+      "ru": "опять",
+      "ee": "jälle",
+      "en": "again",
+      "en_t": "[jæl-le]"
+    },
+    {
+      "ru": "начинаться",
+      "ee": "algama",
+      "ee_2": "algeda",
+      "ee_3": "algab",
+      "en": "to start",
+      "en_t": "[al-ga-mah]"
+    },
+    {
+      "ru": "заканчиваться",
+      "ee": "lõppema",
+      "ee_2": "lõppeda",
+      "ee_3": "lõpeb",
+      "en": "to end",
+      "en_t": "[løp-pe-mah]"
+    },
+    {
+      "ru": "состояться, проходить",
+      "ee": "toimuma",
+      "ee_2": "toimuda",
+      "ee_3": "toimub",
+      "en": "to take place",
+      "en_t": "[toi-mu-mah]"
+    },
+    {
+      "ru": "мероприятие",
+      "ee": "üritus",
+      "ee_2": "ürituse",
+      "ee_3": "üritust",
+      "en": "event",
+      "en_t": "[yoo-ri-tus]"
+    },
+    {
+      "ru": "педикюр",
+      "ee": "pediküür",
+      "ee_2": "pediküüri",
+      "ee_3": "pediküüri",
+      "en": "pedicure",
+      "en_t": "[pe-di-küür]"
+    }
+  ]
+}
