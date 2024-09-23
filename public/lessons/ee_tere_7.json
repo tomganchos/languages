@@ -1,241 +1,535 @@
 {
-  "lesson": "Tere 7 beta",
+  "lesson": "Tere 7",
   "date": "2024-09-17",
   "language": "ee",
   "words": [
     {
+      "en": "calendar",
+      "en_t": "/ˈkæl.ən.dər/",
       "ru": "календарь",
       "ee": "kalender",
       "ee_2": "kalendri",
-      "ee_3": "kalendrit",
-      "en": "calendar",
-      "en_t": "[ka-len-der]"
+      "ee_3": "kalendrit"
     },
     {
-      "ru": "сегодня",
-      "ee": "täna",
       "en": "today",
-      "en_t": "[ta-na]"
+      "en_t": "/təˈdeɪ/",
+      "ru": "сегодня",
+      "ee": "täna"
     },
     {
-      "ru": "завтра",
-      "ee": "homme",
       "en": "tomorrow",
-      "en_t": "[hom-me]"
+      "en_t": "/təˈmɒr.oʊ/",
+      "ru": "завтра",
+      "ee": "homme"
     },
     {
+      "en": "the day after tomorrow",
+      "en_t": "/ðə deɪ ˈɑːftər təˈmɒroʊ/",
       "ru": "послезавтра",
-      "ee": "ülehomme",
-      "en": "day after tomorrow",
-      "en_t": "[yoo-le-hom-me]"
+      "ee": "ülehomme"
     },
     {
-      "ru": "вчера",
-      "ee": "eile",
       "en": "yesterday",
-      "en_t": "[ey-le]"
+      "en_t": "/ˈjɛstərdeɪ/",
+      "ru": "вчера",
+      "ee": "eile"
     },
     {
+      "en": "the day before yesterday",
+      "en_t": "/ðə deɪ bɪˈfɔːr ˈjɛstərdeɪ/",
       "ru": "позавчера",
-      "ee": "üleeile",
-      "en": "day before yesterday",
-      "en_t": "[yoo-le-ey-le]"
+      "ee": "üleeile"
     },
     {
+      "en": "month",
+      "en_t": "/mʌnθ/",
       "ru": "месяц",
       "ee": "kuu",
       "ee_2": "kuu",
-      "ee_3": "kuud",
-      "en": "month",
-      "en_t": "[koo]"
+      "ee_3": "kuud"
     },
     {
+      "en": "date",
+      "en_t": "/deɪt/",
       "ru": "число (месяца)",
       "ee": "kuupäev",
       "ee_2": "kuupäeva",
-      "ee_3": "kuupäeva",
-      "en": "date",
-      "en_t": "[koo-pah-ev]"
+      "ee_3": "kuupäeva"
     },
     {
+      "en": "week",
+      "en_t": "/wiːk/",
       "ru": "неделя",
       "ee": "nädal",
       "ee_2": "nädala",
-      "ee_3": "nädalat",
-      "en": "week",
-      "en_t": "[næ-dahl]"
+      "ee_3": "nädalat"
     },
     {
+      "en": "working day",
+      "en_t": "/ˈwɜːkɪŋ deɪ/",
       "ru": "рабочий день",
       "ee": "tööpäev",
       "ee_2": "tööpäeva",
-      "ee_3": "tööpäeva",
-      "en": "workday",
-      "en_t": "[tøø-pæ-ev]"
+      "ee_3": "tööpäeva"
     },
     {
+      "en": "weekday",
+      "en_t": "/ˈwiːkdeɪ/",
       "ru": "будний день",
       "ee": "argipäev",
       "ee_2": "argipäeva",
-      "ee_3": "argipäeva",
-      "en": "weekday",
-      "en_t": "[ar-gi-pæ-ev]"
+      "ee_3": "argipäeva"
     },
     {
+      "en": "day off",
+      "en_t": "/deɪ ɒf/",
       "ru": "выходной день",
       "ee": "puhkepäev",
       "ee_2": "puhkepäeva",
-      "ee_3": "puhkepäeva",
-      "en": "day off",
-      "en_t": "[pukh-ke-pæ-ev]"
+      "ee_3": "puhkepäeva"
     },
     {
-      "ru": "выходные дни",
-      "ee": "puhkepäevad",
-      "ee_2": "puhkepäevade",
-      "ee_3": "puhkepäevi",
       "en": "weekend",
-      "en_t": "[pukh-ke-pæ-vad]"
+      "en_t": "/ˈwiːkɛnd/",
+      "ru": "выходные дни",
+      "ee": "nädalavahetus",
+      "ee_2": "nädalavahetuse",
+      "ee_3": "nädalavahetust"
     },
     {
-      "ru": "когда?",
-      "ee": "millal?",
       "en": "when?",
-      "en_t": "[mil-lahl]"
+      "en_t": "/wɛn/",
+      "ru": "когда?",
+      "ee": "millal?"
     },
     {
-      "ru": "ничего",
-      "ee": "midagi",
       "en": "nothing",
-      "en_t": "[mi-dah-gi]"
+      "en_t": "/ˈnʌθɪŋ/",
+      "ru": "ничего",
+      "ee": "mitte midagi"
     },
     {
-      "ru": "какой-нибудь",
-      "ee": "mingi",
-      "ee_2": "mingi",
-      "ee_3": "mingit",
       "en": "some",
-      "en_t": "[ming-gi]"
+      "en_t": "/sʌm/",
+      "ru": "какой-нибудь",
+      "ee": "mingi"
     },
     {
-      "ru": "например",
-      "ee": "näiteks",
       "en": "for example",
-      "en_t": "[nai-teks]"
+      "en_t": "/fɔːr ɪɡˈzɑːmpəl/",
+      "ru": "например",
+      "ee": "näiteks"
     },
     {
-      "ru": "тогда, то",
-      "ee": "siis",
       "en": "then",
-      "en_t": "[siis]"
+      "en_t": "/ðɛn/",
+      "ru": "тогда, то",
+      "ee": "siis"
     },
     {
+      "en": "to receive, can",
+      "en_t": "/rɪˈsiːv/, /kæn/",
       "ru": "получать, мочь",
       "ee": "saama",
-      "ee_2": "saada",
-      "ee_3": "saan",
-      "en": "to get, can",
-      "en_t": "[saa-mah]"
+      "ee_da": "saada",
+      "ee_mina": "saan"
     },
     {
-      "ru": "годиться, подходить",
+      "en": "to fit, to be suitable",
+      "en_t": "/tuː fɪt/, /tuː biː ˈsuːtəbl/",
+      "ru": "подходить, годиться",
       "ee": "sobima",
-      "ee_2": "sobida",
-      "ee_3": "sobin",
-      "en": "to suit, to fit",
-      "en_t": "[so-bi-mah]"
+      "ee_da": "sobida",
+      "ee_mina": "sobin"
     },
     {
+      "en": "lesson",
+      "en_t": "/ˈlɛsən/",
       "ru": "урок",
       "ee": "tund",
       "ee_2": "tunni",
-      "ee_3": "tundi",
-      "en": "lesson",
-      "en_t": "[toond]"
+      "ee_3": "tundi"
     },
     {
+      "en": "seminar",
+      "en_t": "/ˈsɛmɪnɑːr/",
       "ru": "семинар",
       "ee": "seminar",
       "ee_2": "seminari",
-      "ee_3": "seminari",
-      "en": "seminar",
-      "en_t": "[seh-mi-nahr]"
+      "ee_3": "seminari"
     },
     {
+      "en": "conference",
+      "en_t": "/ˈkɒnfərəns/",
       "ru": "конференция",
       "ee": "konverents",
       "ee_2": "konverentsi",
-      "ee_3": "konverentsi",
-      "en": "conference",
-      "en_t": "[kon-ve-rents]"
+      "ee_3": "konverentsi"
     },
     {
+      "en": "next",
+      "en_t": "/nɛkst/",
       "ru": "следующий",
       "ee": "järgmine",
       "ee_2": "järgmise",
-      "ee_3": "järgmist",
-      "en": "next",
-      "en_t": "[jærg-mi-ne]"
+      "ee_3": "järgmist"
     },
     {
-      "ru": "занят, закрыт",
-      "ee": "kinni",
       "en": "busy, closed",
-      "en_t": "[kin-ni]"
+      "en_t": "/ˈbɪzi/, /kləʊzd/",
+      "ru": "закрыт, занят",
+      "ee": "kinni"
     },
     {
-      "ru": "свободен",
-      "ee": "vaba",
-      "ee_2": "vaba",
-      "ee_3": "vaba",
       "en": "free",
-      "en_t": "[va-ba]"
+      "en_t": "/friː/",
+      "ru": "свободен",
+      "ee": "vaba"
     },
     {
-      "ru": "опять",
-      "ee": "jälle",
       "en": "again",
-      "en_t": "[jæl-le]"
+      "en_t": "/əˈɡɛn/",
+      "ru": "опять",
+      "ee": "jälle"
     },
     {
+      "en": "to begin",
+      "en_t": "/tuː bɪˈɡɪn/",
       "ru": "начинаться",
       "ee": "algama",
-      "ee_2": "algeda",
-      "ee_3": "algab",
-      "en": "to start",
-      "en_t": "[al-ga-mah]"
+      "ee_da": "algada",
+      "ee_mina": "algan"
     },
     {
+      "en": "to end",
+      "en_t": "/tuː ɛnd/",
       "ru": "заканчиваться",
       "ee": "lõppema",
-      "ee_2": "lõppeda",
-      "ee_3": "lõpeb",
-      "en": "to end",
-      "en_t": "[løp-pe-mah]"
+      "ee_da": "lõppeda",
+      "ee_mina": "lõppen"
     },
     {
-      "ru": "состояться, проходить",
+      "en": "to occur",
+      "en_t": "/tuː əˈkɜːr/",
+      "ru": "проходить,состояться",
       "ee": "toimuma",
-      "ee_2": "toimuda",
-      "ee_3": "toimub",
-      "en": "to take place",
-      "en_t": "[toi-mu-mah]"
+      "ee_da": "toimuda",
+      "ee_mina": "toimun"
     },
     {
+      "en": "event",
+      "en_t": "/ɪˈvɛnt/",
       "ru": "мероприятие",
       "ee": "üritus",
       "ee_2": "ürituse",
-      "ee_3": "üritust",
-      "en": "event",
-      "en_t": "[yoo-ri-tus]"
+      "ee_3": "üritust"
     },
     {
+      "en": "pedicure",
+      "en_t": "/ˈpɛdɪkjʊər/",
       "ru": "педикюр",
       "ee": "pediküür",
       "ee_2": "pediküüri",
-      "ee_3": "pediküüri",
-      "en": "pedicure",
-      "en_t": "[pe-di-küür]"
+      "ee_3": "pediküüri"
+    },
+    {
+      "en": "manicure",
+      "en_t": "/ˈmænɪkjʊər/",
+      "ru": "маникюр",
+      "ee": "maniküür",
+      "ee_2": "maniküüri",
+      "ee_3": "maniküüri"
+    },
+    {
+      "en": "massage",
+      "en_t": "/məˈsɑːʒ/",
+      "ru": "массаж",
+      "ee": "massaaž",
+      "ee_2": "massaaži",
+      "ee_3": "massaaži"
+    },
+    {
+      "en": "cosmetologist",
+      "en_t": "/ˌkɒzmɪˈtɒlədʒɪst/",
+      "ru": "косметолог",
+      "ee": "kosmeetik",
+      "ee_2": "kosmeetiku",
+      "ee_3": "kosmeetikut"
+    },
+    {
+      "en": "training",
+      "en_t": "/ˈtreɪnɪŋ/",
+      "ru": "тренировка",
+      "ee": "treening",
+      "ee_2": "treeningu",
+      "ee_3": "treeningut"
+    },
+    {
+      "en": "education",
+      "en_t": "/ˌɛdʒʊˈkeɪʃən/",
+      "ru": "обучение",
+      "ee": "koolitus",
+      "ee_2": "koolituse",
+      "ee_3": "koolitust"
+    },
+    {
+      "en": "first",
+      "en_t": "/fɜːst/",
+      "ru": "первый",
+      "ee": "esimene",
+      "ee_2": "esimese",
+      "ee_3": "esimest"
+    },
+    {
+      "en": "second",
+      "en_t": "/ˈsɛkənd/",
+      "ru": "второй",
+      "ee": "teine",
+      "ee_2": "teise",
+      "ee_3": "teist"
+    },
+    {
+      "en": "third",
+      "en_t": "/θɜːd/",
+      "ru": "третий",
+      "ee": "kolmas",
+      "ee_2": "kolmanda",
+      "ee_3": "kolmandat"
+    },
+    {
+      "en": "fourth",
+      "en_t": "/fɔːθ/",
+      "ru": "четвёртый",
+      "ee": "neljas",
+      "ee_2": "neljanda",
+      "ee_3": "neljandat"
+    },
+    {
+      "en": "fifth",
+      "en_t": "/fɪfθ/",
+      "ru": "пятый",
+      "ee": "viies",
+      "ee_2": "viienda",
+      "ee_3": "viiendat"
+    },
+    {
+      "en": "sixth",
+      "en_t": "/sɪksθ/",
+      "ru": "шестой",
+      "ee": "kuues",
+      "ee_2": "kuuenda",
+      "ee_3": "kuuendat"
+    },
+    {
+      "en": "seventh",
+      "en_t": "/ˈsɛvənθ/",
+      "ru": "седьмой",
+      "ee": "seitsmes",
+      "ee_2": "seitsmenda",
+      "ee_3": "seitsmendat"
+    },
+    {
+      "en": "eighth",
+      "en_t": "/eɪtθ/",
+      "ru": "восьмой",
+      "ee": "kaheksas",
+      "ee_2": "kaheksanda",
+      "ee_3": "kaheksandat"
+    },
+    {
+      "en": "ninth",
+      "en_t": "/naɪnθ/",
+      "ru": "девятый",
+      "ee": "üheksas",
+      "ee_2": "üheksanda",
+      "ee_3": "üheksandat"
+    },
+    {
+      "en": "tenth",
+      "en_t": "/tɛnθ/",
+      "ru": "десятый",
+      "ee": "kümnes",
+      "ee_2": "kümnenda",
+      "ee_3": "kümnendat"
+    },
+    {
+      "en": "eleventh",
+      "en_t": "/ɪˈlɛvənθ/",
+      "ru": "одиннадцатый",
+      "ee": "üheteistkümnes",
+      "ee_2": "üheteistkümnenda",
+      "ee_3": "üheteistkümnendat"
+    },
+    {
+      "en": "twelfth",
+      "en_t": "/twɛlfθ/",
+      "ru": "двенадцатый",
+      "ee": "kaheteistkümnes",
+      "ee_2": "kaheteistkümnenda",
+      "ee_3": "kaheteistkümnendat"
+    },
+    {
+      "en": "twentieth",
+      "en_t": "/ˈtwɛntiəθ/",
+      "ru": "двадцатый",
+      "ee": "kahekümnes",
+      "ee_2": "kahekümnenda",
+      "ee_3": "kahekümnendat"
+    },
+    {
+      "en": "twenty-first",
+      "en_t": "/ˈtwɛnti fɜːst/",
+      "ru": "двадцать первый",
+      "ee": "kahekümne esimene",
+      "ee_2": "kahekümne esimese",
+      "ee_3": "kahekümne esimest"
+    },
+    {
+      "en": "twenty-second",
+      "en_t": "/ˈtwɛnti ˈsɛkənd/",
+      "ru": "двадцать второй",
+      "ee": "kahekümne teine",
+      "ee_2": "kahekümne teise",
+      "ee_3": "kahekümne teist"
+    },
+    {
+      "en": "twenty-third",
+      "en_t": "/ˈtwɛnti θɜːd/",
+      "ru": "двадцать третий",
+      "ee": "kahekümne kolmas",
+      "ee_2": "kahekümne kolmanda",
+      "ee_3": "kahekümne kolmandat"
+    },
+    {
+      "en": "thirtieth",
+      "en_t": "/ˈθɜːtiəθ/",
+      "ru": "тридцатый",
+      "ee": "kolmekümnes",
+      "ee_2": "kolmekümnenda",
+      "ee_3": "kolmekümnendat"
+    },
+    {
+      "en": "thirty-first",
+      "en_t": "/ˈθɜːti fɜːst/",
+      "ru": "тридцать первый",
+      "ee": "kolmekümne esimene",
+      "ee_2": "kolmekümne esimese",
+      "ee_3": "kolmekümne esimest"
+    },
+    {
+      "en": "school",
+      "en_t": "/skuːl/",
+      "ru": "школа",
+      "ee": "kool",
+      "ee_2": "kooli",
+      "ee_3": "kooli"
+    },
+    {
+      "en": "twenty-one school",
+      "en_t": "/ˈtwɛnti wʌn skuːl/",
+      "ru": "двадцать одна школа",
+      "ee": "kakskümmend üks kool",
+      "ee_2": "kahekümne ühe kooli",
+      "ee_3": "kahekümne ühte kooli"
+    },
+    {
+      "en": "twenty-first school",
+      "en_t": "/ˈtwɛnti fɜːst skuːl/",
+      "ru": "двадцать первая школа",
+      "ee": "kahekümne esimene kool",
+      "ee_2": "kahekümne esimese kooli",
+      "ee_3": "kahekümne esimest kooli"
+    },
+    {
+      "en": "What day is today?",
+      "en_t": "/wɒt deɪ ɪz təˈdeɪ/",
+      "ru": "Какой сегодня день?",
+      "ee": "Mis päev täna on?"
+    },
+    {
+      "en": "Today is Friday",
+      "en_t": "/təˈdeɪ ɪz ˈfraɪdeɪ/",
+      "ru": "сегодня пятница",
+      "ee": "Täna on reede"
+    },
+    {
+      "en": "On which day will this event/seminar/conference/training take place?",
+      "en_t": "/ɒn wɪtʃ deɪ wɪl ðɪs ɪˈvɛnt  ɔːr ˈsɛmɪnɑːr  ɔːr ˈkɒnfərəns  ɔːr ˈtreɪnɪŋ teɪk pleɪs/",
+      "ru": "В какой день это мероприятие/семинар/конференция/обучение состоится?",
+      "ee": "Mis päeval see üritus/seminar/konverents/koolitus toimub?"
+    },
+    {
+      "en": "When is the lesson?",
+      "en_t": "/wɛn ɪz ðə ˈlɛsən/",
+      "ru": "Когда урок?",
+      "ee": "Millal on tund?"
+    },
+    {
+      "en": "What are you doing next week?",
+      "en_t": "/wɒt ɑːr juː duːɪŋ nɛkst wiːk/",
+      "ru": "Что ты делаешь на следующей неделе?",
+      "ee": "Mis/Mida sa teed järgmisel nädalal?"
+    },
+    {
+      "en": "On which days does he work?",
+      "en_t": "/ɒn wɪtʃ deɪz dʌz hiː wɜːrk/",
+      "ru": "По каким дням он работает?",
+      "ee": "Mis päevadel ta töötab?"
+    },
+    {
+      "en": "Let's meet on some day!",
+      "en_t": "/lɛts miːt ɒn sʌm deɪ/",
+      "ru": "Встретимся в какой-нибудь день!",
+      "ee": "Saame mõni päev kokku!"
+    },
+    {
+      "en": "When are you free?",
+      "en_t": "/wɛn ɑːr juː friː/",
+      "ru": "Когда ты свободен?",
+      "ee": "Millal sa vaba oled?"
+    },
+    {
+      "en": "For example, on Friday",
+      "en_t": "/fɔːr ɪɡˈzɑːmpəl ɒn ˈfraɪdeɪ/",
+      "ru": "Например, в пятницу",
+      "ee": "Näiteks reedel"
+    },
+    {
+      "en": "At what time does this event start/end?",
+      "en_t": "/æt wɒt taɪm dʌz ðɪs ɪˈvɛnt stɑːrt  ɔːr ɛnd/",
+      "ru": "Во сколько это мероприятие начинается/заканчивается?",
+      "ee": "Mis kell see üritus algab/lõpeb?"
+    },
+    {
+      "en": "I can't on Monday",
+      "en_t": "/aɪ kɑːnt ɒn ˈmʌndeɪ/",
+      "ru": "В понедельник я не могу",
+      "ee": "Esmaspäeval ma ei saa"
+    },
+    {
+      "en": "I am busy again",
+      "en_t": "/aɪ æm ˈbɪzi əˈɡɛn/",
+      "ru": "Я опять занят",
+      "ee": "Ma olen jälle kinni"
+    },
+    {
+      "en": "I have no time at all",
+      "en_t": "/aɪ hæv noʊ taɪm æt ɔːl/",
+      "ru": "У меня нет вообще времени",
+      "ee": "Mul pole üldse aega"
+    },
+    {
+      "en": "Monday works",
+      "en_t": "/ˈmʌndeɪ wɜːrks/",
+      "ru": "В понедельник подходит",
+      "ee": "Esmaspäev sobib"
+    },
+    {
+      "en": "I am free",
+      "en_t": "/aɪ æm friː/",
+      "ru": "Я свободен",
+      "ee": "Ma olen vaba"
     }
   ]
 }
