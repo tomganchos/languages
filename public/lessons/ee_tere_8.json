@@ -81,7 +81,7 @@
       "en": "often",
       "en_t": "/ˈɒfən/",
       "ru": "часто",
-      "ee": "tihti"
+      "ee": "sageli, tihti"
     },
     {
       "en": "sometimes",
@@ -105,7 +105,7 @@
       "en": "this time",
       "en_t": "/ðɪs taɪm/",
       "ru": "в этот раз",
-      "ee": "sel korral"
+      "ee": "seekord"
     },
     {
       "en": "vacation",
@@ -209,7 +209,7 @@
       "en": "In which month is your birthday?",
       "en_t": "/ɪn wɪtʃ mʌnθ ɪz jɔːr ˈbɜːrθdeɪ/",
       "ru": "в каком месяце у тебя день рождения?",
-      "ee": "Mis kuul on sul sünnipäev?"
+      "ee": "Mis kuus on sinu sünnipäev?"
     },
     {
       "en": "My birthday is in August",
@@ -384,12 +384,12 @@
       "ee_3": "peatust"
     },
     {
-      "en": "train station",
-      "en_t": "/treɪn ˈsteɪʃən/",
+      "en": "station",
+      "en_t": "ˈsteɪʃən/",
       "ru": "вокзал",
-      "ee": "raudteejaam",
-      "ee_2": "raudteejaama",
-      "ee_3": "raudteejaama"
+      "ee": "jaam",
+      "ee_2": "jaama",
+      "ee_3": "jaama"
     },
     {
       "en": "countryside / village",
@@ -476,16 +476,16 @@
       "ee": "tunnis"
     },
     {
-      "en": "at the train station",
-      "en_t": "/æt ðə treɪn ˈsteɪʃən/",
+      "en": "at the station",
+      "en_t": "/æt ðə ˈsteɪʃən/",
       "ru": "на вокзале",
-      "ee": "raudteejaamas"
+      "ee": "jaamas"
     },
     {
       "en": "in the village",
       "en_t": "/ɪn ðə ˈvɪlɪdʒ/",
       "ru": "в деревне",
-      "ee": "külas"
+      "ee": "maal"
     }
   ]
 }
