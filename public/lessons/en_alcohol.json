@@ -1,0 +1,215 @@
+{
+  "lesson": "Alcohol",
+  "date": "2024-09-23",
+  "language": "en",
+  "words": [
+    {
+      "en": "social drinker",
+      "en_t": "/ˈsəʊʃəl ˈdrɪŋkər/",
+      "ru": "умеренно пьющий человек",
+      "ee": "sotsiaalne jooja",
+      "ee_2": "sotsiaalse jooja",
+      "ee_3": "sotsiaalset joojat"
+    },
+    {
+      "en": "hard liquor",
+      "en_t": "/hɑːrd ˈlɪkər/",
+      "ru": "крепкий алкоголь",
+      "ee": "kange alkohol",
+      "ee_2": "kange alkoholi",
+      "ee_3": "kanget alkoholi"
+    },
+    {
+      "en": "beer",
+      "en_t": "/bɪər/",
+      "ru": "пиво",
+      "ee": "õlu",
+      "ee_2": "õlle",
+      "ee_3": "õlut"
+    },
+    {
+      "en": "wine",
+      "en_t": "/waɪn/",
+      "ru": "вино",
+      "ee": "vein",
+      "ee_2": "veini",
+      "ee_3": "veini"
+    },
+    {
+      "en": "Do you sip on it for a long time?",
+      "en_t": "/duː juː sɪp ɒn ɪt fɔːr ə lɒŋ taɪm/",
+      "ru": "Ты потягиваешь это долгое время?",
+      "ee": "Kas sa rüüpad seda kaua?"
+    },
+    {
+      "en": "binge drink",
+      "en_t": "/bɪndʒ drɪŋk/",
+      "ru": "употреблять алкоголь чрезмерно",
+      "ee": "liigtarvitama",
+      "ee_da": "liigtarvitada",
+      "ee_mina": "liigtarvitan"
+    },
+    {
+      "en": "teetotaler",
+      "en_t": "/tiːˈtəʊtələr/",
+      "ru": "трезвенник",
+      "ee": "karsklane",
+      "ee_2": "karsklase",
+      "ee_3": "karsklast"
+    },
+    {
+      "en": "abstainer",
+      "en_t": "/əbˈsteɪnər/",
+      "ru": "воздерживающийся",
+      "ee": "karsklane",
+      "ee_2": "karsklase",
+      "ee_3": "karsklast"
+    },
+    {
+      "en": "Would you ask for a sip?",
+      "en_t": "/wʊd juː ɑːsk fɔːr ə sɪp/",
+      "ru": "Ты бы попросил глоток?",
+      "ee": "Kas sa paluksid lonksu?"
+    },
+    {
+      "en": "Will you take a sip?",
+      "en_t": "/wɪl juː teɪk ə sɪp/",
+      "ru": "Ты возьмёшь глоток?",
+      "ee": "Kas sa võtad lonksu?"
+    },
+    {
+      "en": "You took a swig",
+      "en_t": "/juː tʊk ə swɪɡ/",
+      "ru": "Ты сделал большой глоток",
+      "ee": "Sa võtsid suure lonksu"
+    },
+    {
+      "en": "to wash down",
+      "en_t": "/tuː wɒʃ daʊn/",
+      "ru": "запивать",
+      "ee": "alla loputama",
+      "ee_da": "alla loputada",
+      "ee_mina": "loputan alla"
+    },
+    {
+      "en": "to drink something to help the food go down easily",
+      "en_t": "/tuː drɪŋk ˈsʌmθɪŋ tuː hɛlp ðə fuːd ɡəʊ daʊn ˈiːzɪli/",
+      "ru": "выпить что-то, чтобы помочь еде легко проглотиться",
+      "ee": "midagi juua, et toit kergemini alla läheks"
+    },
+    {
+      "en": "knock back",
+      "en_t": "/nɒk bæk/",
+      "ru": "быстро выпить",
+      "ee": "alla kulistama",
+      "ee_da": "alla kulistada",
+      "ee_mina": "kulistan alla"
+    },
+    {
+      "en": "We decided to knock back a few tequila shots before hitting the dance floor.",
+      "en_t": "/wiː dɪˈsaɪdɪd tuː nɒk bæk ə fjuː tɛˈkiːlə ʃɒts bɪˈfɔːr ˈhɪtɪŋ ðə dɑːns flɔːr/",
+      "ru": "Мы решили опрокинуть несколько стопок текилы перед тем, как выйти на танцпол.",
+      "ee": "Otsustasime enne tantsupõrandale minekut mõned tekiilapitsid alla kulistada."
+    },
+    {
+      "en": "It goes in another way",
+      "en_t": "/ɪt ɡəʊz ɪn əˈnʌðər weɪ/",
+      "ru": "Это идёт по-другому",
+      "ee": "See läheb teisiti"
+    },
+    {
+      "en": "choke",
+      "en_t": "/tʃəʊk/",
+      "ru": "подавиться",
+      "ee": "lämbuma",
+      "ee_da": "lämbuda",
+      "ee_mina": "lämbun"
+    },
+    {
+      "en": "guzzle down",
+      "en_t": "/ˈɡʌzəl daʊn/",
+      "ru": "жадно пить",
+      "ee": "kulistama",
+      "ee_da": "kulistada",
+      "ee_mina": "kulistan"
+    },
+    {
+      "en": "I guzzled down the entire bottle of beer",
+      "en_t": "/aɪ ˈɡʌzəld daʊn ði ɪnˈtaɪər ˈbɒtəl əv bɪər/",
+      "ru": "Я залпом выпил всю бутылку пива",
+      "ee": "Ma kulistasin kogu pudeli õlut alla"
+    },
+    {
+      "en": "Have you ever blacked out? What happened?",
+      "en_t": "/hæv juː ˈɛvər blækt aʊt/ wɒt ˈhæpənd/",
+      "ru": "Ты когда-нибудь терял сознание? Что случилось?",
+      "ee": "Kas sa oled kunagi teadvuse kaotanud? Mis juhtus?"
+    },
+    {
+      "en": "If you want to sober up",
+      "en_t": "/ɪf juː wɒnt tuː ˈsəʊbər ʌp/",
+      "ru": "Если ты хочешь протрезветь",
+      "ee": "Kui sa tahad kaineks saada"
+    },
+    {
+      "en": "stir in something into something",
+      "en_t": "/stɜːr ɪn ˈsʌmθɪŋ ˈɪntuː ˈsʌmθɪŋ/",
+      "ru": "вмешать что-то во что-то",
+      "ee": "segama midagi millegi sisse",
+      "ee_da": "segada midagi millegi sisse",
+      "ee_mina": "segan midagi millegi sisse"
+    },
+    {
+      "en": "water down",
+      "en_t": "/ˈwɔːtər daʊn/",
+      "ru": "разбавлять водой",
+      "ee": "veega lahjendama",
+      "ee_da": "veega lahjendada",
+      "ee_mina": "lahjendan veega"
+    },
+    {
+      "en": "dilute a drink with water",
+      "en_t": "/daɪˈluːt ə drɪŋk wɪð ˈwɔːtər/",
+      "ru": "разбавить напиток водой",
+      "ee": "joogi veega lahjendama"
+    },
+    {
+      "en": "drink up",
+      "en_t": "/drɪŋk ʌp/",
+      "ru": "допить",
+      "ee": "ära jooma",
+      "ee_da": "ära juua",
+      "ee_mina": "joon ära"
+    },
+    {
+      "en": "eat up",
+      "en_t": "/iːt ʌp/",
+      "ru": "доесть",
+      "ee": "ära sööma",
+      "ee_da": "ära süüa",
+      "ee_mina": "söön ära"
+    },
+    {
+      "en": "finish up",
+      "en_t": "/ˈfɪnɪʃ ʌp/",
+      "ru": "закончить",
+      "ee": "ära lõpetama",
+      "ee_da": "ära lõpetada",
+      "ee_mina": "lõpetan ära"
+    },
+    {
+      "en": "What's the best cure for a hangover?",
+      "en_t": "/wɒts ðə bɛst kjʊər fɔːr ə ˈhæŋəʊvər/",
+      "ru": "Какое лучшее средство от похмелья?",
+      "ee": "Mis on parim pohmelli ravim?"
+    },
+    {
+      "en": "addict",
+      "en_t": "/ˈædɪkt/",
+      "ru": "зависимый",
+      "ee": "sõltlane",
+      "ee_2": "sõltlase",
+      "ee_3": "sõltlast"
+    }
+  ]
+}

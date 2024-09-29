@@ -1,0 +1,491 @@
+{
+  "lesson": "Tere 8",
+  "date": "2024-09-26",
+  "language": "ee",
+  "words": [
+    {
+      "en": "birthday",
+      "en_t": "/ˈbɜːrθdeɪ/",
+      "ru": "день рождения",
+      "ee": "sünnipäev",
+      "ee_2": "sünnipäeva",
+      "ee_3": "sünnipäeva"
+    },
+    {
+      "en": "season",
+      "en_t": "/ˈsiːzn/",
+      "ru": "время года",
+      "ee": "aastaaeg",
+      "ee_2": "aastaaja",
+      "ee_3": "aastaaega"
+    },
+    {
+      "en": "winter",
+      "en_t": "/ˈwɪntər/",
+      "ru": "зима",
+      "ee": "talv",
+      "ee_2": "talve",
+      "ee_3": "talve"
+    },
+    {
+      "en": "spring",
+      "en_t": "/sprɪŋ/",
+      "ru": "весна",
+      "ee": "kevad",
+      "ee_2": "kevade",
+      "ee_3": "kevadet"
+    },
+    {
+      "en": "summer",
+      "en_t": "/ˈsʌmər/",
+      "ru": "лето",
+      "ee": "suvi",
+      "ee_2": "suve",
+      "ee_3": "suve"
+    },
+    {
+      "en": "autumn",
+      "en_t": "/ˈɔːtəm/",
+      "ru": "осень",
+      "ee": "sügis",
+      "ee_2": "sügise",
+      "ee_3": "sügist"
+    },
+    {
+      "en": "almost",
+      "en_t": "/ˈɔːlməʊst/",
+      "ru": "почти",
+      "ee": "peaaegu"
+    },
+    {
+      "en": "to rest",
+      "en_t": "/tuː rɛst/",
+      "ru": "отдыхать",
+      "ee": "puhkama",
+      "ee_da": "puhata",
+      "ee_mina": "puhkan"
+    },
+    {
+      "en": "all the time",
+      "en_t": "/ɔːl ðə taɪm/",
+      "ru": "всё время",
+      "ee": "kogu aeg"
+    },
+    {
+      "en": "usually",
+      "en_t": "/ˈjuːʒuəli/",
+      "ru": "обычно",
+      "ee": "tavaliselt"
+    },
+    {
+      "en": "often",
+      "en_t": "/ˈɒfən/",
+      "ru": "часто",
+      "ee": "tihti"
+    },
+    {
+      "en": "sometimes",
+      "en_t": "/ˈsʌmtaɪmz/",
+      "ru": "иногда",
+      "ee": "mõnikord"
+    },
+    {
+      "en": "rarely",
+      "en_t": "/ˈreəli/",
+      "ru": "редко",
+      "ee": "harva"
+    },
+    {
+      "en": "never",
+      "en_t": "/ˈnɛvə/",
+      "ru": "никогда",
+      "ee": "mitte kunagi"
+    },
+    {
+      "en": "this time",
+      "en_t": "/ðɪs taɪm/",
+      "ru": "в этот раз",
+      "ee": "sel korral"
+    },
+    {
+      "en": "vacation",
+      "en_t": "/vəˈkeɪʃən/",
+      "ru": "отпуск",
+      "ee": "puhkus",
+      "ee_2": "puhkuse",
+      "ee_3": "puhkust"
+    },
+    {
+      "en": "January / in January",
+      "en_t": "/ˈdʒænjuəri/ /ɪn ˈdʒænjuəri/",
+      "ru": "январь / в январе",
+      "ee": "jaanuar / jaanuaris"
+    },
+    {
+      "en": "February / in February",
+      "en_t": "/ˈfɛbruəri/ /ɪn ˈfɛbruəri/",
+      "ru": "февраль / в феврале",
+      "ee": "veebruar / veebruaris"
+    },
+    {
+      "en": "March / in March",
+      "en_t": "/mɑːrtʃ/ /ɪn mɑːrtʃ/",
+      "ru": "март / в марте",
+      "ee": "märts / märtsis"
+    },
+    {
+      "en": "April / in April",
+      "en_t": "/ˈeɪprəl/ /ɪn ˈeɪprəl/",
+      "ru": "апрель / в апреле",
+      "ee": "aprill / aprillis"
+    },
+    {
+      "en": "May / in May",
+      "en_t": "/meɪ/ /ɪn meɪ/",
+      "ru": "май / в мае",
+      "ee": "mai / mais"
+    },
+    {
+      "en": "June / in June",
+      "en_t": "/dʒuːn/ /ɪn dʒuːn/",
+      "ru": "июнь / в июне",
+      "ee": "juuni / juunis"
+    },
+    {
+      "en": "July / in July",
+      "en_t": "/dʒuːˈlaɪ/ /ɪn dʒuːˈlaɪ/",
+      "ru": "июль / в июле",
+      "ee": "juuli / juulis"
+    },
+    {
+      "en": "August / in August",
+      "en_t": "/ˈɔːɡəst/ /ɪn ˈɔːɡəst/",
+      "ru": "август / в августе",
+      "ee": "august / augustis"
+    },
+    {
+      "en": "September / in September",
+      "en_t": "/sɛpˈtɛmbər/ /ɪn sɛpˈtɛmbər/",
+      "ru": "сентябрь / в сентябре",
+      "ee": "september / septembris"
+    },
+    {
+      "en": "October / in October",
+      "en_t": "/ɒkˈtəʊbər/ /ɪn ɒkˈtəʊbər/",
+      "ru": "октябрь / в октябре",
+      "ee": "oktoober / oktoobris"
+    },
+    {
+      "en": "November / in November",
+      "en_t": "/nəʊˈvɛmbər/ /ɪn nəʊˈvɛmbər/",
+      "ru": "ноябрь / в ноябре",
+      "ee": "november / novembris"
+    },
+    {
+      "en": "December / in December",
+      "en_t": "/dɪˈsɛmbər/ /ɪn dɪˈsɛmbər/",
+      "ru": "декабрь / в декабре",
+      "ee": "detsember / detsembris"
+    },
+    {
+      "en": "Which month?",
+      "en_t": "/wɪtʃ mʌnθ/",
+      "ru": "какой месяц?",
+      "ee": "Mis kuu?"
+    },
+    {
+      "en": "In which month?",
+      "en_t": "/ɪn wɪtʃ mʌnθ/",
+      "ru": "в каком месяце?",
+      "ee": "Mis kuul?"
+    },
+    {
+      "en": "What month is it now?",
+      "en_t": "/wɒt mʌnθ ɪz ɪt naʊ/",
+      "ru": "какой сейчас месяц?",
+      "ee": "Mis kuu praegu on?"
+    },
+    {
+      "en": "In which month is your birthday?",
+      "en_t": "/ɪn wɪtʃ mʌnθ ɪz jɔːr ˈbɜːrθdeɪ/",
+      "ru": "в каком месяце у тебя день рождения?",
+      "ee": "Mis kuul on sul sünnipäev?"
+    },
+    {
+      "en": "My birthday is in August",
+      "en_t": "/maɪ ˈbɜːrθdeɪ ɪz ɪn ˈɔːɡəst/",
+      "ru": "мой день рождения в августе",
+      "ee": "Minu sünnipäev on augustis"
+    },
+    {
+      "en": "When do you rest?",
+      "en_t": "/wɛn duː juː rɛst/",
+      "ru": "когда ты отдыхаешь?",
+      "ee": "Millal sa puhkad?"
+    },
+    {
+      "en": "I rest in winter",
+      "en_t": "/aɪ rɛst ɪn ˈwɪntər/",
+      "ru": "я отдыхаю зимой",
+      "ee": "Ma puhkan talvel"
+    },
+    {
+      "en": "How many weeks do you rest?",
+      "en_t": "/haʊ ˈmɛni wiːks duː juː rɛst/",
+      "ru": "сколько недель ты отдыхаешь?",
+      "ee": "Mitu nädalat sa puhkad?"
+    },
+    {
+      "en": "I rest for one week",
+      "en_t": "/aɪ rɛst fɔːr wʌn wiːk/",
+      "ru": "я отдыхаю одну неделю",
+      "ee": "Ma puhkan ühe nädala"
+    },
+    {
+      "en": "I rest for two weeks",
+      "en_t": "/aɪ rɛst fɔːr tuː wiːks/",
+      "ru": "я отдыхаю две недели",
+      "ee": "Ma puhkan kaks nädalat"
+    },
+    {
+      "en": "How many days do you rest?",
+      "en_t": "/haʊ ˈmɛni deɪz duː juː rɛst/",
+      "ru": "сколько дней ты отдыхаешь?",
+      "ee": "Mitu päeva sa puhkad?"
+    },
+    {
+      "en": "I rest for one day",
+      "en_t": "/aɪ rɛst fɔːr wʌn deɪ/",
+      "ru": "я отдыхаю один день",
+      "ee": "Ma puhkan ühe päeva"
+    },
+    {
+      "en": "I rest for two days",
+      "en_t": "/aɪ rɛst fɔːr tuː deɪz/",
+      "ru": "я отдыхаю два дня",
+      "ee": "Ma puhkan kaks päeva"
+    },
+    {
+      "en": "I will rest in three days",
+      "en_t": "/aɪ wɪl rɛst ɪn θriː deɪz/",
+      "ru": "я отдыхаю через три дня",
+      "ee": "Ma puhkan kolme päeva pärast"
+    },
+    {
+      "en": "How long do you rest?",
+      "en_t": "/haʊ lɒŋ duː juː rɛst/",
+      "ru": "как долго ты отдыхаешь?",
+      "ee": "Kui kaua sa puhkad?"
+    },
+    {
+      "en": "Happy birthday!",
+      "en_t": "/ˈhæpi ˈbɜːrθdeɪ/",
+      "ru": "поздравляю с днём рождения!",
+      "ee": "Palju õnne sünnipäevaks!"
+    },
+    {
+      "en": "city",
+      "en_t": "/ˈsɪti/",
+      "ru": "город",
+      "ee": "linn",
+      "ee_2": "linna",
+      "ee_3": "linna"
+    },
+    {
+      "en": "hotel",
+      "en_t": "/həʊˈtɛl/",
+      "ru": "отель",
+      "ee": "hotell",
+      "ee_2": "hotelli",
+      "ee_3": "hotelli"
+    },
+    {
+      "en": "pharmacy",
+      "en_t": "/ˈfɑːməsi/",
+      "ru": "аптека",
+      "ee": "apteek",
+      "ee_2": "apteegi",
+      "ee_3": "apteeki"
+    },
+    {
+      "en": "to walk / to go",
+      "en_t": "/tuː wɔːk/ /tuː ɡəʊ/",
+      "ru": "ходить / ездить",
+      "ee": "käima",
+      "ee_da": "käia",
+      "ee_mina": "käin"
+    },
+    {
+      "en": "every day",
+      "en_t": "/ˈɛvri deɪ/",
+      "ru": "каждый день",
+      "ee": "iga päev"
+    },
+    {
+      "en": "there",
+      "en_t": "/ðɛər/",
+      "ru": "там",
+      "ee": "seal"
+    },
+    {
+      "en": "cafe",
+      "en_t": "/kæˈfeɪ/",
+      "ru": "кафе",
+      "ee": "kohvik",
+      "ee_2": "kohviku",
+      "ee_3": "kohvikut"
+    },
+    {
+      "en": "concert",
+      "en_t": "/ˈkɒnsərt/",
+      "ru": "концерт",
+      "ee": "kontsert",
+      "ee_2": "kontserdi",
+      "ee_3": "kontserti"
+    },
+    {
+      "en": "shop",
+      "en_t": "/ʃɒp/",
+      "ru": "магазин",
+      "ee": "pood",
+      "ee_2": "poe",
+      "ee_3": "poodi"
+    },
+    {
+      "en": "party / celebration",
+      "en_t": "/ˈpɑːti/ /ˌsɛlɪˈbreɪʃən/",
+      "ru": "вечеринка / праздник",
+      "ee": "pidu",
+      "ee_2": "peo",
+      "ee_3": "pidu"
+    },
+    {
+      "en": "market",
+      "en_t": "/ˈmɑːkɪt/",
+      "ru": "рынок",
+      "ee": "turg",
+      "ee_2": "turu",
+      "ee_3": "turu"
+    },
+    {
+      "en": "beach",
+      "en_t": "/biːtʃ/",
+      "ru": "пляж",
+      "ee": "rand",
+      "ee_2": "ranna",
+      "ee_3": "randa"
+    },
+    {
+      "en": "stop",
+      "en_t": "/stɒp/",
+      "ru": "остановка",
+      "ee": "peatus",
+      "ee_2": "peatuse",
+      "ee_3": "peatust"
+    },
+    {
+      "en": "train station",
+      "en_t": "/treɪn ˈsteɪʃən/",
+      "ru": "вокзал",
+      "ee": "raudteejaam",
+      "ee_2": "raudteejaama",
+      "ee_3": "raudteejaama"
+    },
+    {
+      "en": "countryside / village",
+      "en_t": "/ˈkʌntrisaɪd/ /ˈvɪlɪdʒ/",
+      "ru": "земля / деревня",
+      "ee": "maa",
+      "ee_2": "maa",
+      "ee_3": "maad"
+    },
+    {
+      "en": "abroad / foreign countries",
+      "en_t": "/əˈbrɔːd/ /ˈfɒrən ˈkʌntriz/",
+      "ru": "заграница / иностранные государства",
+      "ee": "välismaa / välisriigid",
+      "ee_2": "välismaa / välisriikide",
+      "ee_3": "välismaad / välisriike"
+    },
+    {
+      "en": "table",
+      "en_t": "/ˈteɪbl/",
+      "ru": "стол",
+      "ee": "laud",
+      "ee_2": "laua",
+      "ee_3": "lauda"
+    },
+    {
+      "en": "shopping center",
+      "en_t": "/ˈʃɒpɪŋ ˈsɛntər/",
+      "ru": "торговый центр",
+      "ee": "kaubanduskeskus",
+      "ee_2": "kaubanduskeskuse",
+      "ee_3": "kaubanduskeskust"
+    },
+    {
+      "en": "director",
+      "en_t": "/dɪˈrɛktər/",
+      "ru": "директор",
+      "ee": "direktor",
+      "ee_2": "direktori",
+      "ee_3": "direktorit"
+    },
+    {
+      "en": "hospital",
+      "en_t": "/ˈhɒspɪtl/",
+      "ru": "больница",
+      "ee": "haigla",
+      "ee_2": "haigla",
+      "ee_3": "haiglat"
+    },
+    {
+      "en": "at work",
+      "en_t": "/æt wɜːrk/",
+      "ru": "на работе",
+      "ee": "tööl"
+    },
+    {
+      "en": "at the theatre",
+      "en_t": "/æt ðə ˈθɪətər/",
+      "ru": "в театре",
+      "ee": "teatris"
+    },
+    {
+      "en": "at the training",
+      "en_t": "/æt ðə ˈtreɪnɪŋ/",
+      "ru": "на тренировке",
+      "ee": "treeningul"
+    },
+    {
+      "en": "at the beach",
+      "en_t": "/æt ðə biːtʃ/",
+      "ru": "на пляже",
+      "ee": "rannas"
+    },
+    {
+      "en": "at the stop",
+      "en_t": "/æt ðə stɒp/",
+      "ru": "на остановке",
+      "ee": "peatuses"
+    },
+    {
+      "en": "at the lesson",
+      "en_t": "/æt ðə ˈlɛsən/",
+      "ru": "на уроке",
+      "ee": "tunnis"
+    },
+    {
+      "en": "at the train station",
+      "en_t": "/æt ðə treɪn ˈsteɪʃən/",
+      "ru": "на вокзале",
+      "ee": "raudteejaamas"
+    },
+    {
+      "en": "in the village",
+      "en_t": "/ɪn ðə ˈvɪlɪdʒ/",
+      "ru": "в деревне",
+      "ee": "külas"
+    }
+  ]
+}

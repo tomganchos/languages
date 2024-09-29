@@ -5,11 +5,13 @@
     "en_cellphone.json",
     "en_fruits_and_vegetables.json",
     "en_trains_and_subways.json",
+    "en_alcohol.json",
     "ee_tere_1-2.json",
     "ee_tere_3-4.json",
     "ee_tere_5.json",
     "ee_tere_6.json",
-    "ee_tere_7.json"
+    "ee_tere_7.json",
+    "ee_tere_8.json"
   ],
   "grammar": [
     {
