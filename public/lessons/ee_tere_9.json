@@ -1,0 +1,459 @@
+{
+  "lesson": "Tere 9",
+  "date": "2024-10-03",
+  "language": "ee",
+  "words": [
+    {
+      "en": "school",
+      "en_t": "/skuːl/",
+      "ru": "школа",
+      "ee": "kool",
+      "ee_2": "kooli",
+      "ee_3": "kooli"
+    },
+    {
+      "en": "university",
+      "en_t": "/ˌjuːnɪˈvɜːrsəti/",
+      "ru": "университет",
+      "ee": "ülikool",
+      "ee_2": "ülikooli",
+      "ee_3": "ülikooli"
+    },
+    {
+      "en": "language school",
+      "en_t": "/ˈlæŋɡwɪdʒ skuːl/",
+      "ru": "языковая школа",
+      "ee": "keeltekool",
+      "ee_2": "keeltekooli",
+      "ee_3": "keeltekooli"
+    },
+    {
+      "en": "city center",
+      "en_t": "/ˈsɪti ˈsɛntər/",
+      "ru": "центр города",
+      "ee": "kesklinn",
+      "ee_2": "kesklinna",
+      "ee_3": "kesklinna"
+    },
+    {
+      "en": "department store",
+      "en_t": "/dɪˈpɑːrtmənt stɔːr/",
+      "ru": "универмаг",
+      "ee": "kaubamaja",
+      "ee_2": "kaubamaja",
+      "ee_3": "kaubamaja"
+    },
+    {
+      "en": "high school",
+      "en_t": "/haɪ skuːl/",
+      "ru": "гимназия",
+      "ee": "gümnaasium",
+      "ee_2": "gümnaasiumi",
+      "ee_3": "gümnaasiumi"
+    },
+    {
+      "en": "the same",
+      "en_t": "/ðə seɪm/",
+      "ru": "такой же",
+      "ee": "sama",
+      "ee_2": "sama",
+      "ee_3": "sama"
+    },
+    {
+      "en": "at the same time",
+      "en_t": "/æt ðə seɪm taɪm/",
+      "ru": "в то же время",
+      "ee": "samal ajal"
+    },
+    {
+      "en": "this means",
+      "en_t": "/ðɪs miːnz/",
+      "ru": "это значит",
+      "ee": "see tähendab"
+    },
+    {
+      "en": "street",
+      "en_t": "/striːt/",
+      "ru": "улица",
+      "ee": "tänav",
+      "ee_2": "tänava",
+      "ee_3": "tänavat"
+    },
+    {
+      "en": "new",
+      "en_t": "/njuː/",
+      "ru": "новый",
+      "ee": "uus",
+      "ee_2": "uue",
+      "ee_3": "uut"
+    },
+    {
+      "en": "moment, instant",
+      "en_t": "/ˈməʊmənt/",
+      "ru": "момент, мгновение",
+      "ee": "hetk",
+      "ee_2": "hetke",
+      "ee_3": "hetke"
+    },
+    {
+      "en": "at the moment",
+      "en_t": "/æt ðə ˈməʊmənt/",
+      "ru": "в данный момент",
+      "ee": "hetkel"
+    },
+    {
+      "en": "student",
+      "en_t": "/ˈstjuːdənt/",
+      "ru": "студент",
+      "ee": "üliõpilane",
+      "ee_2": "üliõpilase",
+      "ee_3": "üliõpilast"
+    },
+    {
+      "en": "teacher",
+      "en_t": "/ˈtiːtʃər/",
+      "ru": "преподаватель",
+      "ee": "õppejõud",
+      "ee_2": "õppejõu",
+      "ee_3": "õppejõudu"
+    },
+    {
+      "en": "young man",
+      "en_t": "/jʌŋ mæn/",
+      "ru": "молодой человек",
+      "ee": "noormees",
+      "ee_2": "noormehe",
+      "ee_3": "noormeest"
+    },
+    {
+      "en": "girl",
+      "en_t": "/ɡɜːrl/",
+      "ru": "девушка",
+      "ee": "neiu",
+      "ee_2": "neiu",
+      "ee_3": "neiut"
+    },
+    {
+      "en": "salesperson",
+      "en_t": "/ˈseɪlzpɜːrsən/",
+      "ru": "продавец",
+      "ee": "müüja",
+      "ee_2": "müüja",
+      "ee_3": "müüjat"
+    },
+    {
+      "en": "highway",
+      "en_t": "/ˈhaɪweɪ/",
+      "ru": "шоссе",
+      "ee": "maantee",
+      "ee_2": "maantee",
+      "ee_3": "maanteed"
+    },
+    {
+      "en": "security guard",
+      "en_t": "/sɪˈkjʊərəti ɡɑːrd/",
+      "ru": "охранник",
+      "ee": "turvamees",
+      "ee_2": "turvamehe",
+      "ee_3": "turvameest"
+    },
+    {
+      "en": "unemployed",
+      "en_t": "/ˌʌnɪmˈplɔɪd/",
+      "ru": "безработный",
+      "ee": "töötu",
+      "ee_2": "töötu",
+      "ee_3": "töötut"
+    },
+    {
+      "en": "waiter",
+      "en_t": "/ˈweɪtər/",
+      "ru": "официант",
+      "ee": "ettekandja",
+      "ee_2": "ettekandja",
+      "ee_3": "ettekandjat"
+    },
+    {
+      "en": "housewife",
+      "en_t": "/ˈhaʊswaɪf/",
+      "ru": "домохозяйка",
+      "ee": "koduperenaine",
+      "ee_2": "koduperenaise",
+      "ee_3": "koduperenaist"
+    },
+    {
+      "en": "home",
+      "en_t": "/həʊm/",
+      "ru": "домашний",
+      "ee": "kodune",
+      "ee_2": "koduse",
+      "ee_3": "kodust"
+    },
+    {
+      "en": "pocket money",
+      "en_t": "/ˈpɒkɪt ˈmʌni/",
+      "ru": "карманные деньги",
+      "ee": "taskuraha",
+      "ee_2": "taskuraha",
+      "ee_3": "taskuraha"
+    },
+    {
+      "en": "to be located",
+      "en_t": "/tuː bi ləʊˈkeɪtɪd/",
+      "ru": "находиться",
+      "ee": "asuma",
+      "ee_da": "asuda",
+      "ee_mina": "asun"
+    },
+    {
+      "en": "to earn",
+      "en_t": "/tuː ɜːrn/",
+      "ru": "зарабатывать",
+      "ee": "teenima",
+      "ee_da": "teenida",
+      "ee_mina": "teenin"
+    },
+    {
+      "en": "simply",
+      "en_t": "/ˈsɪmpli/",
+      "ru": "просто",
+      "ee": "lihtsalt"
+    },
+    {
+      "en": "meeting",
+      "en_t": "/ˈmiːtɪŋ/",
+      "ru": "собрание",
+      "ee": "koosolek",
+      "ee_2": "koosoleku",
+      "ee_3": "koosolekut"
+    },
+    {
+      "en": "center",
+      "en_t": "/ˈsɛntər/",
+      "ru": "центр",
+      "ee": "keskus",
+      "ee_2": "keskuse",
+      "ee_3": "keskust"
+    },
+    {
+      "en": "now",
+      "en_t": "/naʊ/",
+      "ru": "теперь",
+      "ee": "nüüd"
+    },
+    {
+      "en": "position",
+      "en_t": "/pəˈzɪʃən/",
+      "ru": "должность",
+      "ee": "amet",
+      "ee_2": "ameti",
+      "ee_3": "ametit"
+    },
+    {
+      "en": "residence",
+      "en_t": "/ˈrɛzɪdəns/",
+      "ru": "местожительство",
+      "ee": "elukoht",
+      "ee_2": "elukoha",
+      "ee_3": "elukohta"
+    },
+    {
+      "en": "age",
+      "en_t": "/eɪdʒ/",
+      "ru": "возраст",
+      "ee": "vanus",
+      "ee_2": "vanuse",
+      "ee_3": "vanust"
+    },
+    {
+      "en": "and",
+      "en_t": "/ænd/",
+      "ru": "и",
+      "ee": "ning"
+    },
+    {
+      "en": "Do you work or study?",
+      "en_t": "/du ju wɜːrk ɔːr ˈstʌdi/",
+      "ru": "Ты работаешь или учишься?",
+      "ee": "Kas sa töötad või õpid?"
+    },
+    {
+      "en": "I am a student and I study in a high school",
+      "en_t": "/aɪ æm ə ˈstjuːdənt ænd aɪ ˈstʌdi ɪn ə haɪ skuːl/",
+      "ru": "Я ученик и учусь в гимназии",
+      "ee": "Ma olen õpilane ja õpin gümnaasiumis"
+    },
+    {
+      "en": "At the same time, I also work",
+      "en_t": "/æt ðə seɪm taɪm, aɪ ˈɔːlsoʊ wɜːrk/",
+      "ru": "В то же время также работаю",
+      "ee": "Samal ajal ka töötan"
+    },
+    {
+      "en": "I earn (just) pocket money",
+      "en_t": "/aɪ ɜːrn (ˈdʒʌst) ˈpɒkɪt ˈmʌni/",
+      "ru": "Зарабатываю (просто) карманные деньги",
+      "ee": "Teenin (lihtsalt) taskuraha"
+    },
+    {
+      "en": "And you yourself?",
+      "en_t": "/ænd ju jɔːrˈsɛlf/",
+      "ru": "А ты сам?",
+      "ee": "Aga sina ise?"
+    },
+    {
+      "en": "Everything is in place",
+      "en_t": "/ˈɛvrɪθɪŋ ɪz ɪn pleɪs/",
+      "ru": "Все на месте",
+      "ee": "Kõik on kohal"
+    },
+    {
+      "en": "Now it's your turn",
+      "en_t": "/naʊ ɪts jɔːr tɜːrn/",
+      "ru": "Теперь ваша очередь",
+      "ee": "Nüüd on teie kord"
+    },
+    {
+      "en": "Where is the café located?",
+      "en_t": "/wɛər ɪz ðə ˈkæfeɪ loʊˈkeɪtɪd/",
+      "ru": "Где находится кафе?",
+      "ee": "Kus see kohvik asub?"
+    },
+    {
+      "en": "At the moment I am not working, I am unemployed",
+      "en_t": "/æt ðə ˈməʊmənt aɪ æm nɒt ˈwɜːrkɪŋ, aɪ æm ˌʌnɪmˈplɔɪd/",
+      "ru": "Я в данный момент не работаю, я безработный",
+      "ee": "Mina hetkel ei tööta, olen töötu"
+    },
+    {
+      "en": "I stay at home, I am a housewife",
+      "en_t": "/aɪ steɪ æt hoʊm, aɪ æm ə ˈhaʊswaɪf/",
+      "ru": "Сижу дома, я домохозяйка",
+      "ee": "Istun kodus, olen koduperenaine/kodune"
+    },
+    {
+      "en": "Where do you live?",
+      "en_t": "/wɛər du ju lɪv/",
+      "ru": "Где ты живёшь?",
+      "ee": "Kus sa elad?"
+    },
+    {
+      "en": "I live in Tallinn",
+      "en_t": "/aɪ lɪv ɪn ˈtælɪn/",
+      "ru": "Я живу в Таллинне",
+      "ee": "Ma elan Tallinnas"
+    },
+    {
+      "en": "Where are you now?",
+      "en_t": "/wɛər ɑːr ju naʊ/",
+      "ru": "Где ты сейчас?",
+      "ee": "Kus sa praegu oled?"
+    },
+    {
+      "en": "I am in Tallinn",
+      "en_t": "/aɪ æm ɪn ˈtælɪn/",
+      "ru": "Я в Таллинне",
+      "ee": "Ma olen Tallinnas"
+    },
+    {
+      "en": "To whom?",
+      "en_t": "/tu huːm/",
+      "ru": "Кому?",
+      "ee": "Kellele?"
+    },
+    {
+      "en": "to me",
+      "en_t": "/tu miː/",
+      "ru": "мне",
+      "ee": "minule/mulle"
+    },
+    {
+      "en": "to you",
+      "en_t": "/tu juː/",
+      "ru": "тебе",
+      "ee": "sinule/sulle"
+    },
+    {
+      "en": "to him",
+      "en_t": "/tu hɪm/",
+      "ru": "ему",
+      "ee": "temale/talle"
+    },
+    {
+      "en": "to her",
+      "en_t": "/tu hɜːr/",
+      "ru": "ей",
+      "ee": "talle"
+    },
+    {
+      "en": "to them",
+      "en_t": "/tu ðɛm/",
+      "ru": "им",
+      "ee": "nendele/neile"
+    },
+    {
+      "en": "to us",
+      "en_t": "/tu ʌs/",
+      "ru": "нам",
+      "ee": "meile"
+    },
+    {
+      "en": "to you (plural)",
+      "en_t": "/tu juː/",
+      "ru": "вам",
+      "ee": "teile"
+    },
+    {
+      "en": "child",
+      "en_t": "/tʃaɪld/",
+      "ru": "ребёнок",
+      "ee": "laps",
+      "ee_2": "lapse",
+      "ee_3": "last"
+    },
+    {
+      "en": "definitely",
+      "en_t": "/ˈdɛfɪnɪtli/",
+      "ru": "обязательно",
+      "ee": "kindlasti"
+    },
+    {
+      "en": "to like",
+      "en_t": "/tu laɪk/",
+      "ru": "нравиться",
+      "ee": "meeldima",
+      "ee_da": "meeldida",
+      "ee_mina": "meeldin"
+    },
+    {
+      "en": "to say",
+      "en_t": "/tu seɪ/",
+      "ru": "сказать",
+      "ee": "ütlema",
+      "ee_da": "öelda",
+      "ee_mina": "ütlen"
+    },
+    {
+      "en": "to convey",
+      "en_t": "/tu kənˈveɪ/",
+      "ru": "передавать",
+      "ee": "edasi ütlema",
+      "ee_da": "edasi ütleda",
+      "ee_mina": "ütlen edasi"
+    },
+    {
+      "en": "to call",
+      "en_t": "/tu kɔːl/",
+      "ru": "звонить",
+      "ee": "helistama",
+      "ee_da": "helistada",
+      "ee_mina": "helistan"
+    },
+    {
+      "en": "To the doctor/to the child/to Andrei",
+      "en_t": "/tu ðə ˈdɒktər/tu ðə tʃaɪld/tu ændˈreɪ/",
+      "ru": "Врачу/Ребёнку/Андрею",
+      "ee": "arstile/lapsele/Andreile"
+    }
+  ]
+}
