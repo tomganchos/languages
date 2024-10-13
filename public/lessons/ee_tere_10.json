@@ -1,0 +1,291 @@
+{
+  "lesson": "Tere 10",
+  "date": "2024-10-10",
+  "language": "ee",
+  "words": [
+    {
+      "en": "home/shelter",
+      "en_t": "/hoʊm/ˈʃɛltər/",
+      "ru": "дом/кров",
+      "ee": "kodu",
+      "ee_2": "kodu",
+      "ee_3": "kodu"
+    },
+    {
+      "en": "let",
+      "en_t": "/lɛt/",
+      "ru": "пусть",
+      "ee": "las"
+    },
+    {
+      "en": "moment",
+      "en_t": "/ˈmoʊmənt/",
+      "ru": "момент",
+      "ee": "moment",
+      "ee_2": "momendi",
+      "ee_3": "momenti"
+    },
+    {
+      "en": "to know",
+      "en_t": "/tuː noʊ/",
+      "ru": "знать",
+      "ee": "kutsuma",
+      "ee_da": "kutsuda",
+      "ee_mina": "kutsun"
+    },
+    {
+      "en": "to hear",
+      "en_t": "/tuː hɪər/",
+      "ru": "слышать",
+      "ee": "kuulma",
+      "ee_da": "kuulda",
+      "ee_mina": "kuulen"
+    },
+    {
+      "en": "to listen",
+      "en_t": "/tuː ˈlɪsən/",
+      "ru": "слушать",
+      "ee": "kuulama",
+      "ee_da": "kuulata",
+      "ee_mina": "kuulan"
+    },
+    {
+      "en": "outside",
+      "en_t": "/ˌaʊtˈsaɪd/",
+      "ru": "вне",
+      "ee": "väljas"
+    },
+    {
+      "en": "to ask",
+      "en_t": "/tuː ɑːsk/",
+      "ru": "спрашивать",
+      "ee": "küsima",
+      "ee_da": "küsida",
+      "ee_mina": "küsin"
+    },
+    {
+      "en": "to call back",
+      "en_t": "/tuː kɔːl bæk/",
+      "ru": "перезвонить",
+      "ee": "tagasi helistama",
+      "ee_da": "tagasi helistada",
+      "ee_mina": "helistan tagasi"
+    },
+    {
+      "en": "now/immediately/at once",
+      "en_t": "/naʊ/ɪˈmiːdiətli/æt wʌns/",
+      "ru": "сейчас/сразу/тотчас",
+      "ee": "kohe"
+    },
+    {
+      "en": "later",
+      "en_t": "/ˈleɪtər/",
+      "ru": "позже",
+      "ee": "hiljem"
+    },
+    {
+      "en": "clear/understood",
+      "en_t": "/klɪər/ˌʌndərˈstʊd/",
+      "ru": "ясно/понятно",
+      "ee": "selge"
+    },
+    {
+      "en": "maybe",
+      "en_t": "/ˈmeɪbi/",
+      "ru": "может быть",
+      "ee": "võib-olla"
+    },
+    {
+      "en": "hello!",
+      "en_t": "/hɛˈloʊ/",
+      "ru": "алло!",
+      "ee": "hallo!"
+    },
+    {
+      "en": "Is this Pille Lilleorg (speaking)?",
+      "en_t": "/ɪz ðɪs ˈpɪlə ˈlɪləɔːrɡ (ˈspiːkɪŋ)/",
+      "ru": "Это Пилле Лиллеорг (слушает)?",
+      "ee": "Kas Pille Lilleorg (kuuleb)?"
+    },
+    {
+      "en": "Yes, I am listening",
+      "en_t": "/jɛs, aɪ æm ˈlɪsənɪŋ/",
+      "ru": "Да, я слушаю",
+      "ee": "Jah, ma kuulen"
+    },
+    {
+      "en": "Yes, Pille speaking",
+      "en_t": "/jɛs, ˈpɪlə ˈspiːkɪŋ/",
+      "ru": "Да, Пилле слушает",
+      "ee": "Jah, Pille kuuleb"
+    },
+    {
+      "en": "Is Pille at home?",
+      "en_t": "/ɪz ˈpɪlə æt hoʊm/",
+      "ru": "Пилле дома?",
+      "ee": "Kas Pille on kodus?"
+    },
+    {
+      "en": "May I speak with Pille?",
+      "en_t": "/meɪ aɪ spiːk wɪð ˈpɪlə/",
+      "ru": "Прошу Пилле",
+      "ee": "Palun Pillet"
+    },
+    {
+      "en": "Is Pille there?",
+      "en_t": "/ɪz ˈpɪlə ðɛər/",
+      "ru": "Пилле там?",
+      "ee": "Kas Pille on seal?"
+    },
+    {
+      "en": "Who is asking (for her)?",
+      "en_t": "/huː ɪz ˈɑːskɪŋ (fɔː hɜːr)/",
+      "ru": "Кто (её) спрашивает?",
+      "ee": "Kes (teda) küsib?"
+    },
+    {
+      "en": "One moment/moment, I'll call her now",
+      "en_t": "/wʌn ˈmoʊmənt/ˈmoʊmənt, aɪl kɔːl hɜːr naʊ/",
+      "ru": "Один момент/момент, сейчас позову",
+      "ee": "Üks hetk/moment, kohe kutsun"
+    },
+    {
+      "en": "I'll give (her) now",
+      "en_t": "/aɪl ɡɪv (hɜːr) naʊ/",
+      "ru": "Сейчас дам",
+      "ee": "Kohe annan"
+    },
+    {
+      "en": "She is out at the moment",
+      "en_t": "/ʃiː ɪz aʊt æt ðə ˈmoʊmənt/",
+      "ru": "Она в данный момент вышла",
+      "ee": "Ta on hetkel väljas"
+    },
+    {
+      "en": "She is at work",
+      "en_t": "/ʃiː ɪz æt wɜːrk/",
+      "ru": "Она на работе",
+      "ee": "Ta on veel tööl"
+    },
+    {
+      "en": "She is not here",
+      "en_t": "/ʃiː ɪz nɒt hɪər/",
+      "ru": "Её нет",
+      "ee": "Teda ei ole"
+    },
+    {
+      "en": "Let her call me",
+      "en_t": "/lɛt hɜːr kɔːl miː/",
+      "ru": "Пусть она позвонит мне",
+      "ee": "Las ta helistab mulle"
+    },
+    {
+      "en": "This is Pille Lilleorg",
+      "en_t": "/ðɪs ɪz ˈpɪlə ˈlɪləɔːrɡ/",
+      "ru": "это Пилле Лиллеорг",
+      "ee": "Pille Lilleorg siin"
+    },
+    {
+      "en": "I will call you back immediately",
+      "en_t": "/aɪ wɪl kɔːl juː bæk ɪˈmiːdiətli/",
+      "ru": "Я сразу перезвоню тебе",
+      "ee": "Ma helistan sulle kohe tagasi"
+    },
+    {
+      "en": "I will call you back later",
+      "en_t": "/aɪ wɪl kɔːl juː bæk ˈleɪtər/",
+      "ru": "Я перезвоню тебе позже",
+      "ee": "Ma helistan sulle hiljem tagasi"
+    },
+    {
+      "en": "Would you like to leave a message?",
+      "en_t": "/wʊd juː laɪk tuː liːv ə ˈmɛsɪdʒ/",
+      "ru": "Что-нибудь передать?",
+      "ee": "Kas midagi edasi öelda?"
+    },
+    {
+      "en": "Nothing special",
+      "en_t": "/ˈnʌθɪŋ ˈspɛʃəl/",
+      "ru": "Ничего особенного",
+      "ee": "Ei midagi erilist"
+    },
+    {
+      "en": "For example, at three",
+      "en_t": "/fɔːr ɪɡˈzɑːmpəl, æt θriː/",
+      "ru": "Например, в три",
+      "ee": "Näiteks kell kolm"
+    },
+    {
+      "en": "Let's do it like this",
+      "en_t": "/lɛts duː ɪt laɪk ðɪs/",
+      "ru": "Сделаем так",
+      "ee": "Teeme nii"
+    },
+    {
+      "en": "Alright, let it be so",
+      "en_t": "/ɔːlˈraɪt, lɛt ɪt biː soʊ/",
+      "ru": "Хорошо, пусть будет так",
+      "ee": "Hästi, Olgu siis"
+    },
+    {
+      "en": "Understood (then)",
+      "en_t": "/ˌʌndərˈstʊd (ðɛn)/",
+      "ru": "Понятно (тогда)",
+      "ee": "Selge (siis)"
+    },
+    {
+      "en": "to put",
+      "en_t": "/tuː pʊt/",
+      "ru": "класть",
+      "ee": "panema",
+      "ee_da": "panna",
+      "ee_mina": "panen"
+    },
+    {
+      "en": "to go/to drive",
+      "en_t": "/tuː ɡoʊ/tuː draɪv/",
+      "ru": "идти/ехать",
+      "ee": "minema",
+      "ee_da": "minna",
+      "ee_mina": "lähen"
+    },
+    {
+      "en": "doctor",
+      "en_t": "/ˈdɒktər/",
+      "ru": "доктор",
+      "ee": "doctor",
+      "ee_2": "doctori",
+      "ee_3": "doctorit"
+    },
+    {
+      "en": "to work",
+      "en_t": "/tuː wɜːrk/",
+      "ru": "на работу",
+      "ee": "tööle"
+    },
+    {
+      "en": "to the theatre",
+      "en_t": "/tuː ðə ˈθɪətər/",
+      "ru": "в театр",
+      "ee": "teatrisse"
+    },
+    {
+      "en": "to the city",
+      "en_t": "/tuː ðə ˈsɪti/",
+      "ru": "в город",
+      "ee": "linna"
+    },
+    {
+      "en": "where to?",
+      "en_t": "/wɛər tuː/",
+      "ru": "куда?",
+      "ee": "kuhu?"
+    },
+    {
+      "en": "to whom?",
+      "en_t": "/tuː huːm/",
+      "ru": "к кому?",
+      "ee": "kelle juurde?"
+    }
+  ]
+}
