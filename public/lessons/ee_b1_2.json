@@ -1,0 +1,707 @@
+{
+  "lesson": "B1 2",
+  "date": "2024-09-27",
+  "language": "ee",
+  "words": [
+    {
+      "en": "daily activities",
+      "en_t": "/ˈdeɪli ækˈtɪvətiz/",
+      "ru": "ежедневные занятия",
+      "ee": "igapäevategevused"
+    },
+    {
+      "en": "Definitely not",
+      "en_t": "/ˈdɛfɪnɪtli nɒt/",
+      "ru": "Определённо нет",
+      "ee": "Kindlasti mitte"
+    },
+    {
+      "en": "I am used to",
+      "en_t": "/aɪ æm juːst tuː/",
+      "ru": "Я привык",
+      "ee": "Ma olen harjunud"
+    },
+    {
+      "en": "partner",
+      "en_t": "/ˈpɑːrtnər/",
+      "ru": "партнёр",
+      "ee": "paariline",
+      "ee_2": "paarilise",
+      "ee_3": "paarilist"
+    },
+    {
+      "en": "at least",
+      "en_t": "/æt liːst/",
+      "ru": "по крайней мере",
+      "ee": "vähemalt"
+    },
+    {
+      "en": "healthy",
+      "en_t": "/ˈhɛlθi/",
+      "ru": "здоровый",
+      "ee": "tervislik",
+      "ee_2": "tervisliku",
+      "ee_3": "tervislikku"
+    },
+    {
+      "en": "reasonable",
+      "en_t": "/ˈriːzənəbl/",
+      "ru": "разумный",
+      "ee": "mõistlik",
+      "ee_2": "mõistliku",
+      "ee_3": "mõistlikku"
+    },
+    {
+      "en": "inhabitant",
+      "en_t": "/ɪnˈhæbɪtənt/",
+      "ru": "житель",
+      "ee": "elanik",
+      "ee_2": "elaniku",
+      "ee_3": "elanikku"
+    },
+    {
+      "en": "by (amount)",
+      "en_t": "/baɪ/",
+      "ru": "на (столько-то)",
+      "ee": "võrra"
+    },
+    {
+      "en": "moderately",
+      "en_t": "/ˈmɒdərətli/",
+      "ru": "в меру",
+      "ee": "parajalt"
+    },
+    {
+      "en": "early",
+      "en_t": "/ˈɜːli/",
+      "ru": "рано",
+      "ee": "vara"
+    },
+    {
+      "en": "everyone",
+      "en_t": "/ˈɛvrɪwʌn/",
+      "ru": "каждый",
+      "ee": "igaüks"
+    },
+    {
+      "en": "performance",
+      "en_t": "/pəˈfɔːməns/",
+      "ru": "спектакль",
+      "ee": "etendus",
+      "ee_2": "etenduse",
+      "ee_3": "etendust"
+    },
+    {
+      "en": "grass",
+      "en_t": "/ɡrɑːs/",
+      "ru": "трава",
+      "ee": "muru",
+      "ee_2": "muru",
+      "ee_3": "muru"
+    },
+    {
+      "en": "to mow the lawn",
+      "en_t": "/tuː moʊ ðə lɔːn/",
+      "ru": "косить траву",
+      "ee": "muru niita"
+    },
+    {
+      "en": "the only thing",
+      "en_t": "/ði ˈoʊnli θɪŋ/",
+      "ru": "единственная вещь",
+      "ee": "ainuke asi"
+    },
+    {
+      "en": "peppermint tea",
+      "en_t": "/ˈpɛpərmɪnt tiː/",
+      "ru": "мятный чай",
+      "ee": "piparmünditee"
+    },
+    {
+      "en": "to jump into an ice hole",
+      "en_t": "/tuː dʒʌmp ˈɪntuː ən aɪs hoʊl/",
+      "ru": "прыгать в прорубь",
+      "ee": "jääauku hüpata"
+    },
+    {
+      "en": "ice hole",
+      "en_t": "/aɪs hoʊl/",
+      "ru": "прорубь",
+      "ee": "jääauk",
+      "ee_2": "jääaugu",
+      "ee_3": "jääauku"
+    },
+    {
+      "en": "snowboard",
+      "en_t": "/ˈsnoʊbɔːrd/",
+      "ru": "сноуборд",
+      "ee": "lumelaud",
+      "ee_2": "lumelaua",
+      "ee_3": "lumelauda"
+    },
+    {
+      "en": "early",
+      "en_t": "/ˈɜːli/",
+      "ru": "рано",
+      "ee": "varakult"
+    },
+    {
+      "en": "abroad",
+      "en_t": "/əˈbrɔːd/",
+      "ru": "за границей",
+      "ee": "välismaal"
+    },
+    {
+      "en": "celebrity",
+      "en_t": "/sɪˈlɛbrɪti/",
+      "ru": "знаменитость",
+      "ee": "kuulsus",
+      "ee_2": "kuulsuse",
+      "ee_3": "kuulsust"
+    },
+    {
+      "en": "food",
+      "en_t": "/fuːd/",
+      "ru": "еда",
+      "ee": "toit",
+      "ee_2": "toidu",
+      "ee_3": "toitu"
+    },
+    {
+      "en": "better",
+      "en_t": "/ˈbɛtər/",
+      "ru": "лучше",
+      "ee": "paremini"
+    },
+    {
+      "en": "leading actor",
+      "en_t": "/ˈliːdɪŋ ˈæktər/",
+      "ru": "исполнитель главной роли",
+      "ee": "peaosatäitja",
+      "ee_2": "peaosatäitja",
+      "ee_3": "peaosatäitjat"
+    },
+    {
+      "en": "composer",
+      "en_t": "/kəmˈpoʊzər/",
+      "ru": "композитор",
+      "ee": "helilooja",
+      "ee_2": "helilooja",
+      "ee_3": "heliloojat"
+    },
+    {
+      "en": "writer",
+      "en_t": "/ˈraɪtər/",
+      "ru": "писатель",
+      "ee": "kirjanik",
+      "ee_2": "kirjaniku",
+      "ee_3": "kirjanikku"
+    },
+    {
+      "en": "poet",
+      "en_t": "/ˈpoʊɪt/",
+      "ru": "поэт",
+      "ee": "luuletaja",
+      "ee_2": "luuletaja",
+      "ee_3": "luuletajat"
+    },
+    {
+      "en": "fiction",
+      "en_t": "/ˈfɪkʃən/",
+      "ru": "художественная литература",
+      "ee": "ilukirjandus",
+      "ee_2": "ilukirjanduse",
+      "ee_3": "ilukirjandust"
+    },
+    {
+      "en": "director",
+      "en_t": "/daɪˈrɛktər/",
+      "ru": "режиссёр",
+      "ee": "lavastaja",
+      "ee_2": "lavastaja",
+      "ee_3": "lavastajat"
+    },
+    {
+      "en": "play (theater)",
+      "en_t": "/pleɪ/",
+      "ru": "пьеса",
+      "ee": "näidend",
+      "ee_2": "näidendi",
+      "ee_3": "näidendit"
+    },
+    {
+      "en": "performer",
+      "en_t": "/pərˈfɔːrmər/",
+      "ru": "исполнитель",
+      "ee": "esineja",
+      "ee_2": "esineja",
+      "ee_3": "esinejat"
+    },
+    {
+      "en": "conductor",
+      "en_t": "/kənˈdʌktər/",
+      "ru": "дирижёр",
+      "ee": "dirigent",
+      "ee_2": "dirigendi",
+      "ee_3": "dirigenti"
+    },
+    {
+      "en": "non-fiction",
+      "en_t": "/ˌnɒnˈfɪkʃən/",
+      "ru": "научная литература",
+      "ee": "teaduskirjandus",
+      "ee_2": "teaduskirjanduse",
+      "ee_3": "teaduskirjandust"
+    },
+    {
+      "en": "theatergoer",
+      "en_t": "/ˈθɪətərˌɡoʊər/",
+      "ru": "театрал",
+      "ee": "teatrikülastaja",
+      "ee_2": "teatrikülastaja",
+      "ee_3": "teatrikülastajat"
+    },
+    {
+      "en": "event",
+      "en_t": "/ɪˈvɛnt/",
+      "ru": "мероприятие",
+      "ee": "üritus",
+      "ee_2": "ürituse",
+      "ee_3": "üritust"
+    },
+    {
+      "en": "highlight",
+      "en_t": "/ˈhaɪlaɪt/",
+      "ru": "главное событие",
+      "ee": "tippsündmus",
+      "ee_2": "tippsündmuse",
+      "ee_3": "tippsündmust"
+    },
+    {
+      "en": "camping",
+      "en_t": "/ˈkæmpɪŋ/",
+      "ru": "кемпинг",
+      "ee": "telkimine",
+      "ee_2": "telkimise",
+      "ee_3": "telkimist"
+    },
+    {
+      "en": "event",
+      "en_t": "/ɪˈvɛnt/",
+      "ru": "событие",
+      "ee": "sündmus",
+      "ee_2": "sündmuse",
+      "ee_3": "sündmust"
+    },
+    {
+      "en": "duration",
+      "en_t": "/djʊˈreɪʃən/",
+      "ru": "продолжительность",
+      "ee": "kestus",
+      "ee_2": "kestuse",
+      "ee_3": "kestust"
+    },
+    {
+      "en": "discounts",
+      "en_t": "/ˈdɪskaʊnts/",
+      "ru": "скидки",
+      "ee": "soodustused",
+      "ee_2": "soodustuste",
+      "ee_3": "soodustusi"
+    },
+    {
+      "en": "unfinished",
+      "en_t": "/ˌʌnˈfɪnɪʃt/",
+      "ru": "незаконченный",
+      "ee": "pooleli"
+    },
+    {
+      "en": "near future",
+      "en_t": "/nɪər ˈfjuːtʃər/",
+      "ru": "ближайшее время",
+      "ee": "lähiaeg",
+      "ee_2": "lähiaja",
+      "ee_3": "lähiaega"
+    },
+    {
+      "en": "among",
+      "en_t": "/əˈmʌŋ/",
+      "ru": "среди",
+      "ee": "hulka"
+    },
+    {
+      "en": "world-famous",
+      "en_t": "/wɜːrld ˈfeɪməs/",
+      "ru": "всемирно известный",
+      "ee": "maailmakuulus",
+      "ee_2": "maailmakuulsa",
+      "ee_3": "maailmakuulsat"
+    },
+    {
+      "en": "is related",
+      "en_t": "/ɪz rɪˈleɪtɪd/",
+      "ru": "связан",
+      "ee": "on seotud"
+    },
+    {
+      "en": "stage",
+      "en_t": "/steɪdʒ/",
+      "ru": "сцена",
+      "ee": "lava",
+      "ee_2": "lava",
+      "ee_3": "lava"
+    },
+    {
+      "en": "foreign language",
+      "en_t": "/ˈfɒrɪn ˈlæŋɡwɪdʒ/",
+      "ru": "иностранный язык",
+      "ee": "võõrkeel",
+      "ee_2": "võõrkeele",
+      "ee_3": "võõrkeelt"
+    },
+    {
+      "en": "chess",
+      "en_t": "/tʃɛs/",
+      "ru": "шахматы",
+      "ee": "male",
+      "ee_2": "male",
+      "ee_3": "malet"
+    },
+    {
+      "en": "fuel",
+      "en_t": "/ˈfjuːəl/",
+      "ru": "топливо",
+      "ee": "kütus",
+      "ee_2": "kütuse",
+      "ee_3": "kütust"
+    },
+    {
+      "en": "to wear clothes",
+      "en_t": "/tuː wɛər kloʊðz/",
+      "ru": "носить одежду",
+      "ee": "riideid kandma",
+      "ee_da": "riideid kanda",
+      "ee_mina": "kannan riideid"
+    },
+    {
+      "en": "sweet",
+      "en_t": "/swiːt/",
+      "ru": "сладость",
+      "ee": "maiustus",
+      "ee_2": "maiustuse",
+      "ee_3": "maiustust"
+    },
+    {
+      "en": "real",
+      "en_t": "/rɪəl/",
+      "ru": "настоящий",
+      "ee": "tõeline",
+      "ee_2": "tõelise",
+      "ee_3": "tõelist"
+    },
+    {
+      "en": "admirer",
+      "en_t": "/ədˈmaɪrər/",
+      "ru": "поклонник",
+      "ee": "austaja",
+      "ee_2": "austaja",
+      "ee_3": "austajat"
+    },
+    {
+      "en": "dense",
+      "en_t": "/dɛns/",
+      "ru": "плотный",
+      "ee": "tihe",
+      "ee_2": "tiheda",
+      "ee_3": "tihedat"
+    },
+    {
+      "en": "special",
+      "en_t": "/ˈspɛʃəl/",
+      "ru": "особенный",
+      "ee": "eriline",
+      "ee_2": "erilise",
+      "ee_3": "erilist"
+    },
+    {
+      "en": "beautiful",
+      "en_t": "/ˈbjuːtɪfəl/",
+      "ru": "прекрасный",
+      "ee": "imeilus",
+      "ee_2": "imeilusa",
+      "ee_3": "imeilusat"
+    },
+    {
+      "en": "main character",
+      "en_t": "/meɪn ˈkærɪktər/",
+      "ru": "главный герой",
+      "ee": "peategelane",
+      "ee_2": "peategelase",
+      "ee_3": "peategelast"
+    },
+    {
+      "en": "in a forest farm",
+      "en_t": "/ɪn ə ˈfɒrɪst fɑːrm/",
+      "ru": "в лесной усадьбе",
+      "ee": "metsatalus"
+    },
+    {
+      "en": "to iron",
+      "en_t": "/tuː ˈaɪərn/",
+      "ru": "гладить",
+      "ee": "triikima",
+      "ee_da": "triikida",
+      "ee_mina": "triigin"
+    },
+    {
+      "en": "to exercise",
+      "en_t": "/tuː ˈɛksərsaɪz/",
+      "ru": "делать гимнастику",
+      "ee": "võimlema",
+      "ee_da": "võimelda",
+      "ee_mina": "võimlen"
+    },
+    {
+      "en": "to spend (money)",
+      "en_t": "/tuː spɛnd/",
+      "ru": "тратить",
+      "ee": "kulutama",
+      "ee_da": "kulutada",
+      "ee_mina": "kulutan"
+    },
+    {
+      "en": "to get dressed",
+      "en_t": "/tuː ɡɛt drɛst/",
+      "ru": "одеваться",
+      "ee": "riidesse panema",
+      "ee_da": "riidesse panna",
+      "ee_mina": "panen riidesse"
+    },
+    {
+      "en": "to be allowed to",
+      "en_t": "/tuː bi əˈlaʊd tuː/",
+      "ru": "иметь разрешение",
+      "ee": "tohtima",
+      "ee_da": "tohtida",
+      "ee_mina": "tohin"
+    },
+    {
+      "en": "to intend",
+      "en_t": "/tuː ɪnˈtɛnd/",
+      "ru": "намереваться",
+      "ee": "kavatsema",
+      "ee_da": "kavatseda",
+      "ee_mina": "kavatsen"
+    },
+    {
+      "en": "to mow",
+      "en_t": "/tuː moʊ/",
+      "ru": "косить",
+      "ee": "niitma",
+      "ee_da": "niita",
+      "ee_mina": "niidan"
+    },
+    {
+      "en": "to feel like",
+      "en_t": "/tuː fiːl laɪk/",
+      "ru": "иметь желание",
+      "ee": "viitsima",
+      "ee_da": "viitsida",
+      "ee_mina": "viitsin"
+    },
+    {
+      "en": "to take",
+      "en_t": "/tuː teɪk/",
+      "ru": "относить",
+      "ee": "viima",
+      "ee_da": "viia",
+      "ee_mina": "viin"
+    },
+    {
+      "en": "to sail",
+      "en_t": "/tuː seɪl/",
+      "ru": "плавать под парусом",
+      "ee": "purjetama",
+      "ee_da": "purjetada",
+      "ee_mina": "purjetan"
+    },
+    {
+      "en": "to prepare oneself",
+      "en_t": "/tuː prɪˈpɛər wʌnˈsɛlf/",
+      "ru": "готовиться",
+      "ee": "valmistuma",
+      "ee_da": "valmistuda",
+      "ee_mina": "valmistun"
+    },
+    {
+      "en": "must",
+      "en_t": "/mʌst/",
+      "ru": "должен",
+      "ee": "pidama",
+      "ee_da": "pidada",
+      "ee_mina": "pean"
+    },
+    {
+      "en": "to be accustomed to",
+      "en_t": "/tuː bi əˈkʌstəmd tuː/",
+      "ru": "быть привыкшим",
+      "ee": "harjunud olema"
+    },
+    {
+      "en": "to be ready",
+      "en_t": "/tuː bi ˈrɛdi/",
+      "ru": "быть готовым",
+      "ee": "valmis olema"
+    },
+    {
+      "en": "to agree",
+      "en_t": "/tuː əˈɡriː/",
+      "ru": "соглашаться",
+      "ee": "nõus olema"
+    },
+    {
+      "en": "to teach",
+      "en_t": "/tuː tiːtʃ/",
+      "ru": "учить",
+      "ee": "õpetama",
+      "ee_da": "õpetada",
+      "ee_mina": "õpetan"
+    },
+    {
+      "en": "to stand",
+      "en_t": "/tuː stænd/",
+      "ru": "стоять",
+      "ee": "seisma",
+      "ee_da": "seista",
+      "ee_mina": "seisan"
+    },
+    {
+      "en": "to give up",
+      "en_t": "/tuː ɡɪv ʌp/",
+      "ru": "отказаться",
+      "ee": "loobuma",
+      "ee_da": "loobuda",
+      "ee_mina": "loobun"
+    },
+    {
+      "en": "to be able to",
+      "en_t": "/tuː bi ˈeɪbəl tuː/",
+      "ru": "мочь",
+      "ee": "suutma",
+      "ee_da": "suuta",
+      "ee_mina": "suudan"
+    },
+    {
+      "en": "to appear",
+      "en_t": "/tuː əˈpɪər/",
+      "ru": "появляться",
+      "ee": "ilmuma",
+      "ee_da": "ilmuda",
+      "ee_mina": "ilmun"
+    },
+    {
+      "en": "to trust",
+      "en_t": "/tuː trʌst/",
+      "ru": "доверять",
+      "ee": "usaldama",
+      "ee_da": "usaldata",
+      "ee_mina": "usaldan"
+    },
+    {
+      "en": "to convince",
+      "en_t": "/tuː kənˈvɪns/",
+      "ru": "убеждать",
+      "ee": "veenma",
+      "ee_da": "veenda",
+      "ee_mina": "veenan"
+    },
+    {
+      "en": "to participate",
+      "en_t": "/tuː pɑːˈtɪsɪpeɪt/",
+      "ru": "участвовать",
+      "ee": "osalema",
+      "ee_da": "osaleda",
+      "ee_mina": "osalen"
+    },
+    {
+      "en": "to perform",
+      "en_t": "/tuː pərˈfɔːrm/",
+      "ru": "выступать",
+      "ee": "esinema",
+      "ee_da": "esineda",
+      "ee_mina": "esinen"
+    },
+    {
+      "en": "to engage in",
+      "en_t": "/tuː ɪnˈɡeɪdʒ ɪn/",
+      "ru": "заниматься",
+      "ee": "tegelema",
+      "ee_da": "tegeleda",
+      "ee_mina": "tegelen"
+    },
+    {
+      "en": "to wear",
+      "en_t": "/tuː wɛər/",
+      "ru": "носить",
+      "ee": "kandma",
+      "ee_da": "kanda",
+      "ee_mina": "kannan"
+    },
+    {
+      "en": "to waste",
+      "en_t": "/tuː weɪst/",
+      "ru": "тратить впустую",
+      "ee": "raiskama",
+      "ee_da": "raisata",
+      "ee_mina": "raiskan"
+    },
+    {
+      "en": "to furnish",
+      "en_t": "/tuː ˈfɜːrnɪʃ/",
+      "ru": "обставлять",
+      "ee": "sisustama",
+      "ee_da": "sisustada",
+      "ee_mina": "sisustan"
+    },
+    {
+      "en": "to take (time)",
+      "en_t": "/tuː teɪk/",
+      "ru": "требоваться",
+      "ee": "kuluma",
+      "ee_da": "kuluda",
+      "ee_mina": "kulun"
+    },
+    {
+      "en": "appearance",
+      "en_t": "/əˈpɪərəns/",
+      "ru": "внешность",
+      "ee": "välimus",
+      "ee_2": "välimuse",
+      "ee_3": "välimust"
+    },
+    {
+      "en": "to disturb",
+      "en_t": "/tuː dɪsˈtɜːrb/",
+      "ru": "мешать",
+      "ee": "segama",
+      "ee_da": "segada",
+      "ee_mina": "segan"
+    },
+    {
+      "en": "to move (house)",
+      "en_t": "/tuː muːv/",
+      "ru": "переезжать",
+      "ee": "kolima",
+      "ee_da": "kolida",
+      "ee_mina": "kolin"
+    },
+    {
+      "en": "to decide",
+      "en_t": "/tuː dɪˈsaɪd/",
+      "ru": "решать",
+      "ee": "otsustama",
+      "ee_da": "otsustada",
+      "ee_mina": "otsustan"
+    }
+  ]
+}
