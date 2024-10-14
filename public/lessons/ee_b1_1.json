@@ -1,0 +1,1097 @@
+{
+  "lesson": "B1 1",
+  "date": "2024-08-27",
+  "language": "ee",
+  "words": [
+    {
+      "en": "around",
+      "en_t": "/əˈraʊnd/",
+      "ru": "вокруг",
+      "ee": "ümber"
+    },
+    {
+      "en": "gap",
+      "en_t": "/ɡæp/",
+      "ru": "пробел",
+      "ee": "lünk",
+      "ee_2": "lünga",
+      "ee_3": "lünka"
+    },
+    {
+      "en": "through",
+      "en_t": "/θruː/",
+      "ru": "через",
+      "ee": "läbi"
+    },
+    {
+      "en": "explanation",
+      "en_t": "/ˌɛkspləˈneɪʃən/",
+      "ru": "объяснение",
+      "ee": "selgitus",
+      "ee_2": "selgituse",
+      "ee_3": "selgitust"
+    },
+    {
+      "en": "box",
+      "en_t": "/bɒks/",
+      "ru": "коробка",
+      "ee": "kast",
+      "ee_2": "kasti",
+      "ee_3": "kasti"
+    },
+    {
+      "en": "boss",
+      "en_t": "/bɒs/",
+      "ru": "начальник",
+      "ee": "ülemus",
+      "ee_2": "ülemuse",
+      "ee_3": "ülemust"
+    },
+    {
+      "en": "subordinate",
+      "en_t": "/səˈbɔːdɪnɪt/",
+      "ru": "подчинённый",
+      "ee": "alluv",
+      "ee_2": "alluva",
+      "ee_3": "alluvat"
+    },
+    {
+      "en": "official",
+      "en_t": "/əˈfɪʃəl/",
+      "ru": "чиновник",
+      "ee": "ametnik",
+      "ee_2": "ametniku",
+      "ee_3": "ametnikku"
+    },
+    {
+      "en": "stranger",
+      "en_t": "/ˈstreɪndʒər/",
+      "ru": "незнакомец",
+      "ee": "võõras",
+      "ee_2": "võõra",
+      "ee_3": "võõrast"
+    },
+    {
+      "en": "other",
+      "en_t": "/ˈʌðər/",
+      "ru": "другой",
+      "ee": "muu",
+      "ee_2": "muu",
+      "ee_3": "muud"
+    },
+    {
+      "en": "at least",
+      "en_t": "/æt liːst/",
+      "ru": "по крайней мере",
+      "ee": "vähemalt"
+    },
+    {
+      "en": "often",
+      "en_t": "/ˈɒfən/",
+      "ru": "часто",
+      "ee": "sageli"
+    },
+    {
+      "en": "quite often",
+      "en_t": "/kwaɪt ˈɒfən/",
+      "ru": "довольно часто",
+      "ee": "päris sageli"
+    },
+    {
+      "en": "case (grammar)",
+      "en_t": "/keɪs/",
+      "ru": "падеж",
+      "ee": "kääne",
+      "ee_2": "käände",
+      "ee_3": "käänet"
+    },
+    {
+      "en": "rarely",
+      "en_t": "/ˈreəli/",
+      "ru": "редко",
+      "ee": "harva"
+    },
+    {
+      "en": "city government",
+      "en_t": "/ˈsɪti ˈɡʌvənmənt/",
+      "ru": "городская администрация",
+      "ee": "linnavalitsus",
+      "ee_2": "linnavalitsuse",
+      "ee_3": "linnavalitsust"
+    },
+    {
+      "en": "quite",
+      "en_t": "/kwaɪt/",
+      "ru": "довольно",
+      "ee": "üsna"
+    },
+    {
+      "en": "quite often",
+      "en_t": "/kwaɪt ˈɒfən/",
+      "ru": "довольно часто",
+      "ee": "üsna tihti"
+    },
+    {
+      "en": "quite rarely",
+      "en_t": "/kwaɪt ˈreəli/",
+      "ru": "довольно редко",
+      "ee": "üsna harva"
+    },
+    {
+      "en": "to talk about the weather",
+      "en_t": "/tuː tɔːk əˈbaʊt ðə ˈwɛðər/",
+      "ru": "говорить о погоде",
+      "ee": "rääkida ilmast"
+    },
+    {
+      "en": "fuel price",
+      "en_t": "/fjuːl praɪs/",
+      "ru": "цена на топливо",
+      "ee": "kütusehind",
+      "ee_2": "kütusehinna",
+      "ee_3": "kütusehinda"
+    },
+    {
+      "en": "body weight",
+      "en_t": "/ˈbɒdi weɪt/",
+      "ru": "вес тела",
+      "ee": "kehakaal",
+      "ee_2": "kehakaalu",
+      "ee_3": "kehakaalu"
+    },
+    {
+      "en": "constantly",
+      "en_t": "/ˈkɒnstəntli/",
+      "ru": "постоянно",
+      "ee": "pidevalt"
+    },
+    {
+      "en": "from time to time",
+      "en_t": "/frəm taɪm tuː taɪm/",
+      "ru": "время от времени",
+      "ee": "aeg-ajalt"
+    },
+    {
+      "en": "never",
+      "en_t": "/ˈnɛvər/",
+      "ru": "никогда",
+      "ee": "mitte kunagi"
+    },
+    {
+      "en": "sometimes",
+      "en_t": "/ˈsʌmtaɪmz/",
+      "ru": "иногда",
+      "ee": "vahetevahel"
+    },
+    {
+      "en": "it depends",
+      "en_t": "/ɪt dɪˈpɛndz/",
+      "ru": "как когда",
+      "ee": "kuidas kunagi"
+    },
+    {
+      "en": "very rarely",
+      "en_t": "/ˈvɛri ˈreəli/",
+      "ru": "очень редко",
+      "ee": "haruharva"
+    },
+    {
+      "en": "writing tool",
+      "en_t": "/ˈraɪtɪŋ tuːl/",
+      "ru": "письменная принадлежность",
+      "ee": "kirjutusvahend",
+      "ee_2": "kirjutusvahendi",
+      "ee_3": "kirjutusvahendit"
+    },
+    {
+      "en": "high",
+      "en_t": "/haɪ/",
+      "ru": "высокий",
+      "ee": "kõrge",
+      "ee_2": "kõrge",
+      "ee_3": "kõrget"
+    },
+    {
+      "en": "both",
+      "en_t": "/boʊθ/",
+      "ru": "оба",
+      "ee": "mõlemad"
+    },
+    {
+      "en": "therefore",
+      "en_t": "/ˈðɛərfɔːr/",
+      "ru": "поэтому",
+      "ee": "seetõttu"
+    },
+    {
+      "en": "Nordic walking",
+      "en_t": "/ˈnɔːrdɪk ˈwɔːkɪŋ/",
+      "ru": "скандинавская ходьба",
+      "ee": "kepikõnd",
+      "ee_2": "kepikõnni",
+      "ee_3": "kepikõndi"
+    },
+    {
+      "en": "violin",
+      "en_t": "/ˌvaɪəˈlɪn/",
+      "ru": "скрипка",
+      "ee": "viiul",
+      "ee_2": "viiuli",
+      "ee_3": "viiulit"
+    },
+    {
+      "en": "because",
+      "en_t": "/bɪˈkɒz/",
+      "ru": "потому что",
+      "ee": "kuna"
+    },
+    {
+      "en": "greenhouse",
+      "en_t": "/ˈɡriːnhaʊs/",
+      "ru": "теплица",
+      "ee": "kasvuhoone",
+      "ee_2": "kasvuhoone",
+      "ee_3": "kasvuhoonet"
+    },
+    {
+      "en": "I have been lucky",
+      "en_t": "/aɪ hæv biːn ˈlʌki/",
+      "ru": "Мне повезло",
+      "ee": "Mul on vedanud"
+    },
+    {
+      "en": "certainly",
+      "en_t": "/ˈsɜːtnli/",
+      "ru": "конечно",
+      "ee": "kindlasti"
+    },
+    {
+      "en": "to compare",
+      "en_t": "/tuː kəmˈpɛər/",
+      "ru": "сравнивать",
+      "ee": "võrdlema",
+      "ee_da": "võrrelda",
+      "ee_mina": "võrdlen"
+    },
+    {
+      "en": "carefully",
+      "en_t": "/ˈkɛəfəli/",
+      "ru": "внимательно",
+      "ee": "hoolikalt"
+    },
+    {
+      "en": "statement",
+      "en_t": "/ˈsteɪtmənt/",
+      "ru": "утверждение",
+      "ee": "väide",
+      "ee_2": "väite",
+      "ee_3": "väidet"
+    },
+    {
+      "en": "nationality",
+      "en_t": "/ˌnæʃəˈnælɪti/",
+      "ru": "национальность",
+      "ee": "rahvus",
+      "ee_2": "rahvuse",
+      "ee_3": "rahvust"
+    },
+    {
+      "en": "customer service representative",
+      "en_t": "/ˈkʌstəmər ˈsɜːvɪs ˌrɛprɪˈzɛntətɪv/",
+      "ru": "специалист по работе с клиентами",
+      "ee": "klienditeenindaja",
+      "ee_2": "klienditeenindaja",
+      "ee_3": "klienditeenindajat"
+    },
+    {
+      "en": "government agency",
+      "en_t": "/ˈɡʌvənmənt ˈeɪdʒənsi/",
+      "ru": "государственное учреждение",
+      "ee": "ametiasutus",
+      "ee_2": "ametiasutuse",
+      "ee_3": "ametiasutust"
+    },
+    {
+      "en": "student",
+      "en_t": "/ˈstjuːdənt/",
+      "ru": "студент",
+      "ee": "tudeng",
+      "ee_2": "tudengi",
+      "ee_3": "tudengit"
+    },
+    {
+      "en": "similar",
+      "en_t": "/ˈsɪmɪlər/",
+      "ru": "похожий",
+      "ee": "sarnane",
+      "ee_2": "sarnase",
+      "ee_3": "sarnast"
+    },
+    {
+      "en": "request",
+      "en_t": "/rɪˈkwɛst/",
+      "ru": "просьба",
+      "ee": "palve",
+      "ee_2": "palve",
+      "ee_3": "palvet"
+    },
+    {
+      "en": "family member",
+      "en_t": "/ˈfæmɪli ˈmɛmbər/",
+      "ru": "член семьи",
+      "ee": "pereliige",
+      "ee_2": "pereliikme",
+      "ee_3": "pereliiget"
+    },
+    {
+      "en": "more carefully",
+      "en_t": "/mɔːr ˈkɛəfəli/",
+      "ru": "более осторожно",
+      "ee": "ettevaatlikumalt"
+    },
+    {
+      "en": "louder",
+      "en_t": "/ˈlaʊdər/",
+      "ru": "громче",
+      "ee": "kõvemini"
+    },
+    {
+      "en": "suitcase",
+      "en_t": "/ˈsuːtkeɪs/",
+      "ru": "чемодан",
+      "ee": "kohver",
+      "ee_2": "kohvri",
+      "ee_3": "kohvrit"
+    },
+    {
+      "en": "quietly",
+      "en_t": "/ˈkwaɪətli/",
+      "ru": "тихо",
+      "ee": "tasa"
+    },
+    {
+      "en": "advice",
+      "en_t": "/ədˈvaɪs/",
+      "ru": "совет",
+      "ee": "nõu",
+      "ee_2": "nõu",
+      "ee_3": "nõu"
+    },
+    {
+      "en": "earlier",
+      "en_t": "/ˈɜːrlɪər/",
+      "ru": "раньше",
+      "ee": "varem"
+    },
+    {
+      "en": "Would you allow me to pass?",
+      "en_t": "/wʊd ju əˈlaʊ miː tuː pɑːs/",
+      "ru": "Позволите мне пройти?",
+      "ee": "Kas te lubaksite mind mööda?"
+    },
+    {
+      "en": "Could you close the window?",
+      "en_t": "/kʊd ju kloʊz ðə ˈwɪndoʊ/",
+      "ru": "Мог бы ты закрыть окно?",
+      "ee": "Kas sa saaksid akna kinni panna?"
+    },
+    {
+      "en": "Could you bring the menu?",
+      "en_t": "/kʊd ju brɪŋ ðə ˈmɛnjuː/",
+      "ru": "Не могли бы вы принести меню?",
+      "ee": "Kas te võiksite menüü tuua?"
+    },
+    {
+      "en": "contract",
+      "en_t": "/ˈkɒntrækt/",
+      "ru": "договор",
+      "ee": "leping",
+      "ee_2": "lepingu",
+      "ee_3": "lepingut"
+    },
+    {
+      "en": "some",
+      "en_t": "/sʌm/",
+      "ru": "некоторый",
+      "ee": "mõni"
+    },
+    {
+      "en": "some (plural)",
+      "en_t": "/sʌm/",
+      "ru": "некоторые",
+      "ee": "mõned"
+    },
+    {
+      "en": "more often",
+      "en_t": "/mɔːr ˈɒfən/",
+      "ru": "чаще",
+      "ee": "sagedamini"
+    },
+    {
+      "en": "less",
+      "en_t": "/lɛs/",
+      "ru": "меньше",
+      "ee": "vähem"
+    },
+    {
+      "en": "public transport",
+      "en_t": "/ˈpʌblɪk ˈtrænspɔːrt/",
+      "ru": "общественный транспорт",
+      "ee": "ühistransport",
+      "ee_2": "ühistranspordi",
+      "ee_3": "ühistransporti"
+    },
+    {
+      "en": "differently",
+      "en_t": "/ˈdɪfərəntli/",
+      "ru": "иначе",
+      "ee": "erinevalt"
+    },
+    {
+      "en": "lecturer",
+      "en_t": "/ˈlɛktʃərər/",
+      "ru": "преподаватель",
+      "ee": "õppejõud",
+      "ee_2": "õppejõu",
+      "ee_3": "õppejõudu"
+    },
+    {
+      "en": "almost",
+      "en_t": "/ˈɔːlməʊst/",
+      "ru": "почти",
+      "ee": "peaaegu"
+    },
+    {
+      "en": "eagerly",
+      "en_t": "/ˈiːɡərli/",
+      "ru": "с нетерпением",
+      "ee": "pikisilmi"
+    },
+    {
+      "en": "count me in",
+      "en_t": "/kaʊnt miː ɪn/",
+      "ru": "я в деле",
+      "ee": "on käpp"
+    },
+    {
+      "en": "downpour",
+      "en_t": "/ˈdaʊnpɔːr/",
+      "ru": "ливень",
+      "ee": "paduvihm",
+      "ee_2": "paduvihma",
+      "ee_3": "paduvihma"
+    },
+    {
+      "en": "trouble",
+      "en_t": "/ˈtrʌbəl/",
+      "ru": "неприятность",
+      "ee": "pahandus",
+      "ee_2": "pahanduse",
+      "ee_3": "pahandust"
+    },
+    {
+      "en": "activity",
+      "en_t": "/ækˈtɪvɪti/",
+      "ru": "деятельность",
+      "ee": "tegevus",
+      "ee_2": "tegevuse",
+      "ee_3": "tegevust"
+    },
+    {
+      "en": "quarrel",
+      "en_t": "/ˈkwɒrəl/",
+      "ru": "ссора",
+      "ee": "tüli",
+      "ee_2": "tüli",
+      "ee_3": "tüli"
+    },
+    {
+      "en": "smart",
+      "en_t": "/smɑːrt/",
+      "ru": "умный",
+      "ee": "nutikas",
+      "ee_2": "nutika",
+      "ee_3": "nutikat"
+    },
+    {
+      "en": "own",
+      "en_t": "/oʊn/",
+      "ru": "свой",
+      "ee": "enda"
+    },
+    {
+      "en": "personal quality",
+      "en_t": "/ˈpɜːrsənəl ˈkwɒlɪti/",
+      "ru": "личное качество",
+      "ee": "isikuomadus",
+      "ee_2": "isikuomaduse",
+      "ee_3": "isikuomadust"
+    },
+    {
+      "en": "honest",
+      "en_t": "/ˈɒnɪst/",
+      "ru": "честный",
+      "ee": "aus",
+      "ee_2": "ausa",
+      "ee_3": "ausat"
+    },
+    {
+      "en": "confident",
+      "en_t": "/ˈkɒnfɪdənt/",
+      "ru": "уверенный",
+      "ee": "enesekindel",
+      "ee_2": "enesekindla",
+      "ee_3": "enesekindlat"
+    },
+    {
+      "en": "absent-minded",
+      "en_t": "/ˈæbsəntˌmaɪndɪd/",
+      "ru": "рассеянный",
+      "ee": "hajameelne",
+      "ee_2": "hajameelse",
+      "ee_3": "hajameelset"
+    },
+    {
+      "en": "conscientious",
+      "en_t": "/ˌkɒnʃɪˈɛnʃəs/",
+      "ru": "добросовестный",
+      "ee": "kohusetundlik",
+      "ee_2": "kohusetundliku",
+      "ee_3": "kohusetundlikku"
+    },
+    {
+      "en": "cheerful",
+      "en_t": "/ˈtʃɪəfəl/",
+      "ru": "весёлый",
+      "ee": "rõõmsameelne",
+      "ee_2": "rõõmsameelse",
+      "ee_3": "rõõmsameelset"
+    },
+    {
+      "en": "modest",
+      "en_t": "/ˈmɒdɪst/",
+      "ru": "скромный",
+      "ee": "tagasihoidlik",
+      "ee_2": "tagasihoidliku",
+      "ee_3": "tagasihoidlikku"
+    },
+    {
+      "en": "sociable",
+      "en_t": "/ˈsəʊʃəbəl/",
+      "ru": "общительный",
+      "ee": "seltskondlik",
+      "ee_2": "seltskondliku",
+      "ee_3": "seltskondlikku"
+    },
+    {
+      "en": "precise",
+      "en_t": "/prɪˈsaɪs/",
+      "ru": "точный",
+      "ee": "täpne",
+      "ee_2": "täpse",
+      "ee_3": "täpset"
+    },
+    {
+      "en": "properly",
+      "en_t": "/ˈprɒpəli/",
+      "ru": "аккуратно",
+      "ee": "korralikult"
+    },
+    {
+      "en": "mood",
+      "en_t": "/muːd/",
+      "ru": "настроение",
+      "ee": "tuju",
+      "ee_2": "tuju",
+      "ee_3": "tuju"
+    },
+    {
+      "en": "truth",
+      "en_t": "/truːθ/",
+      "ru": "правда",
+      "ee": "tõde",
+      "ee_2": "tõe",
+      "ee_3": "tõtt"
+    },
+    {
+      "en": "certain",
+      "en_t": "/ˈsɜːtən/",
+      "ru": "уверенный",
+      "ee": "kindel",
+      "ee_2": "kindla",
+      "ee_3": "kindlat"
+    },
+    {
+      "en": "Do you know someone who is helpful?",
+      "en_t": "/duː juː noʊ ˈsʌmwʌn huː ɪz ˈhɛlpfʊl/",
+      "ru": "Ты знаешь кого-нибудь, кто готов помочь?",
+      "ee": "Kas sa tunned kedagi, kes on abivalmis?"
+    },
+    {
+      "en": "for",
+      "en_t": "/fɔːr/",
+      "ru": "для",
+      "ee": "jaoks"
+    },
+    {
+      "en": "tip",
+      "en_t": "/tɪp/",
+      "ru": "совет",
+      "ee": "nipp",
+      "ee_2": "nipi",
+      "ee_3": "nippi"
+    },
+    {
+      "en": "The price has risen",
+      "en_t": "/ðə praɪs hæz ˈrɪzən/",
+      "ru": "Цена поднялась",
+      "ee": "Hind on tõusnud"
+    },
+    {
+      "en": "The price has fallen",
+      "en_t": "/ðə praɪs hæz ˈfɔːlən/",
+      "ru": "Цена упала",
+      "ee": "Hind on langenud"
+    },
+    {
+      "en": "I am lucky",
+      "en_t": "/aɪ æm ˈlʌki/",
+      "ru": "Мне везёт",
+      "ee": "Mul veab"
+    },
+    {
+      "en": "I am unlucky",
+      "en_t": "/aɪ æm ʌnˈlʌki/",
+      "ru": "Мне не везёт",
+      "ee": "Mul ei vea"
+    },
+    {
+      "en": "Rather less",
+      "en_t": "/ˈrɑːðər lɛs/",
+      "ru": "Скорее меньше",
+      "ee": "Ennem vähem"
+    },
+    {
+      "en": "What's the matter?",
+      "en_t": "/wɒts ðə ˈmætər/",
+      "ru": "В чём дело?",
+      "ee": "Milles asi?"
+    },
+    {
+      "en": "What is the problem?",
+      "en_t": "/wɒt ɪz ðə ˈprɒbləm/",
+      "ru": "Какая проблема?",
+      "ee": "Milline probleem on?"
+    },
+    {
+      "en": "Are you getting off at the next stop?",
+      "en_t": "/ɑːr juː ˈɡɛtɪŋ ɒf æt ðə nɛkst stɒp/",
+      "ru": "Вы выходите на следующей остановке?",
+      "ee": "Kas te väljute järgmises peatuses?"
+    },
+    {
+      "en": "dry",
+      "en_t": "/draɪ/",
+      "ru": "сухой",
+      "ee": "kuiv",
+      "ee_2": "kuiva",
+      "ee_3": "kuiva"
+    },
+    {
+      "en": "dry ingredient",
+      "en_t": "/draɪ ɪnˈɡriːdiənt/",
+      "ru": "сухой ингредиент",
+      "ee": "kuivaine",
+      "ee_2": "kuivaine",
+      "ee_3": "kuivainet"
+    },
+    {
+      "en": "I send messages",
+      "en_t": "/aɪ sɛnd ˈmɛsɪdʒɪz/",
+      "ru": "Я отправляю сообщения",
+      "ee": "Saadan sõnumeid"
+    },
+    {
+      "en": "I receive messages",
+      "en_t": "/aɪ rɪˈsiːv ˈmɛsɪdʒɪz/",
+      "ru": "Я получаю сообщения",
+      "ee": "Saan sõnumeid"
+    },
+    {
+      "en": "to discuss",
+      "en_t": "/tuː dɪsˈkʌs/",
+      "ru": "обсуждать",
+      "ee": "arutama",
+      "ee_da": "arutada",
+      "ee_mina": "arutan"
+    },
+    {
+      "en": "to spend",
+      "en_t": "/tuː spɛnd/",
+      "ru": "проводить (время)",
+      "ee": "veetma",
+      "ee_da": "veeta",
+      "ee_mina": "veedan"
+    },
+    {
+      "en": "to reach",
+      "en_t": "/tuː riːtʃ/",
+      "ru": "достигать",
+      "ee": "jõudma",
+      "ee_da": "jõuda",
+      "ee_mina": "jõuan"
+    },
+    {
+      "en": "to exchange",
+      "en_t": "/tuː ɪksˈtʃeɪndʒ/",
+      "ru": "обменивать",
+      "ee": "vahetama",
+      "ee_da": "vahetada",
+      "ee_mina": "vahetan"
+    },
+    {
+      "en": "to communicate",
+      "en_t": "/tuː kəˈmjuːnɪkeɪt/",
+      "ru": "общаться",
+      "ee": "suhtlema",
+      "ee_da": "suhelda",
+      "ee_mina": "suhtlen"
+    },
+    {
+      "en": "to get acquainted",
+      "en_t": "/tuː ɡɛt əˈkweɪntɪd/",
+      "ru": "познакомиться",
+      "ee": "tutvuma",
+      "ee_da": "tutvuda",
+      "ee_mina": "tutvun"
+    },
+    {
+      "en": "to meet",
+      "en_t": "/tuː miːt/",
+      "ru": "встречаться",
+      "ee": "kohtuma",
+      "ee_da": "kohtuda",
+      "ee_mina": "kohtun"
+    },
+    {
+      "en": "to get along",
+      "en_t": "/tuː ɡɛt əˈlɒŋ/",
+      "ru": "ладить",
+      "ee": "läbi saama",
+      "ee_da": "läbi saada",
+      "ee_mina": "saan läbi"
+    },
+    {
+      "en": "to chat",
+      "en_t": "/tuː tʃæt/",
+      "ru": "болтать",
+      "ee": "juttu ajama",
+      "ee_da": "juttu ajada",
+      "ee_mina": "ajan juttu"
+    },
+    {
+      "en": "to lend",
+      "en_t": "/tuː lɛnd/",
+      "ru": "одалживать",
+      "ee": "laenama",
+      "ee_da": "laenata",
+      "ee_mina": "laenan"
+    },
+    {
+      "en": "to be satisfied",
+      "en_t": "/tuː bi ˈsætɪsfaɪd/",
+      "ru": "быть довольным",
+      "ee": "rahul olema",
+      "ee_da": "rahul olla",
+      "ee_mina": "olen rahul"
+    },
+    {
+      "en": "to rent",
+      "en_t": "/tuː rɛnt/",
+      "ru": "арендовать",
+      "ee": "üürima",
+      "ee_da": "üürida",
+      "ee_mina": "üüritan"
+    },
+    {
+      "en": "to fill",
+      "en_t": "/tuː fɪl/",
+      "ru": "заполнять",
+      "ee": "täitma",
+      "ee_da": "täita",
+      "ee_mina": "täidan"
+    },
+    {
+      "en": "to offer",
+      "en_t": "/tuː ˈɒfər/",
+      "ru": "предлагать",
+      "ee": "pakkuma",
+      "ee_da": "pakkuda",
+      "ee_mina": "pakun"
+    },
+    {
+      "en": "to catch fish",
+      "en_t": "/tuː kætʃ fɪʃ/",
+      "ru": "ловить рыбу",
+      "ee": "kala püüdma",
+      "ee_da": "kala püüda",
+      "ee_mina": "püün kala"
+    },
+    {
+      "en": "to fish",
+      "en_t": "/tuː fɪʃ/",
+      "ru": "рыбачить",
+      "ee": "kalastama",
+      "ee_da": "kalastada",
+      "ee_mina": "kalastan"
+    },
+    {
+      "en": "to order",
+      "en_t": "/tuː ˈɔːdər/",
+      "ru": "заказывать",
+      "ee": "tellima",
+      "ee_da": "tellida",
+      "ee_mina": "tellin"
+    },
+    {
+      "en": "to give",
+      "en_t": "/tuː ɡɪv/",
+      "ru": "давать",
+      "ee": "andma",
+      "ee_da": "anda",
+      "ee_mina": "annan"
+    },
+    {
+      "en": "to be",
+      "en_t": "/tuː biː/",
+      "ru": "быть",
+      "ee": "olema",
+      "ee_da": "olla",
+      "ee_mina": "olen"
+    },
+    {
+      "en": "to get",
+      "en_t": "/tuː ɡɛt/",
+      "ru": "получать",
+      "ee": "saama",
+      "ee_da": "saada",
+      "ee_mina": "saan"
+    },
+    {
+      "en": "to hand over",
+      "en_t": "/tuː hænd ˈoʊvər/",
+      "ru": "передавать",
+      "ee": "ulatama",
+      "ee_da": "ulata",
+      "ee_mina": "ulatan"
+    },
+    {
+      "en": "to use",
+      "en_t": "/tuː juːz/",
+      "ru": "использовать",
+      "ee": "kasutama",
+      "ee_da": "kasutada",
+      "ee_mina": "kasutan"
+    },
+    {
+      "en": "to intend",
+      "en_t": "/tuː ɪnˈtɛnd/",
+      "ru": "намереваться",
+      "ee": "kavatsema",
+      "ee_da": "kavatseda",
+      "ee_mina": "kavatsen"
+    },
+    {
+      "en": "to give up",
+      "en_t": "/tuː ɡɪv ʌp/",
+      "ru": "отказываться",
+      "ee": "loobuma",
+      "ee_da": "loobuda",
+      "ee_mina": "loobun"
+    },
+    {
+      "en": "to stay",
+      "en_t": "/tuː steɪ/",
+      "ru": "пребывать",
+      "ee": "viibima",
+      "ee_da": "viibida",
+      "ee_mina": "viibin"
+    },
+    {
+      "en": "to ask",
+      "en_t": "/tuː ɑːsk/",
+      "ru": "просить",
+      "ee": "paluma",
+      "ee_da": "paluda",
+      "ee_mina": "palun"
+    },
+    {
+      "en": "to open",
+      "en_t": "/tuː ˈoʊpən/",
+      "ru": "открываться",
+      "ee": "avanema",
+      "ee_da": "avaneda",
+      "ee_mina": "avanen"
+    },
+    {
+      "en": "to hope",
+      "en_t": "/tuː hoʊp/",
+      "ru": "надеяться",
+      "ee": "lootma",
+      "ee_da": "loota",
+      "ee_mina": "loodan"
+    },
+    {
+      "en": "to quarrel",
+      "en_t": "/tuː ˈkwɒrəl/",
+      "ru": "ссориться",
+      "ee": "tülitsema",
+      "ee_da": "tülitseda",
+      "ee_mina": "tülitsen"
+    },
+    {
+      "en": "to argue",
+      "en_t": "/tuː ˈɑːɡjuː/",
+      "ru": "спорить",
+      "ee": "vaidlema",
+      "ee_da": "vaielda",
+      "ee_mina": "vaidlen"
+    },
+    {
+      "en": "to keep a secret",
+      "en_t": "/tuː kiːp ə ˈsiːkrɪt/",
+      "ru": "держать в секрете",
+      "ee": "saladuses hoidma",
+      "ee_da": "saladuses hoida",
+      "ee_mina": "hoian saladuses"
+    },
+    {
+      "en": "to sled",
+      "en_t": "/tuː slɛd/",
+      "ru": "кататься на санках",
+      "ee": "kelgutama",
+      "ee_da": "kelgutada",
+      "ee_mina": "kelgutan"
+    },
+    {
+      "en": "to feel like",
+      "en_t": "/tuː fiːl laɪk/",
+      "ru": "иметь желание",
+      "ee": "viitsima",
+      "ee_da": "viitsida",
+      "ee_mina": "viitsin"
+    },
+    {
+      "en": "to move",
+      "en_t": "/tuː muːv/",
+      "ru": "двигаться",
+      "ee": "liikuma",
+      "ee_da": "liikuda",
+      "ee_mina": "liigun"
+    },
+    {
+      "en": "to freeze",
+      "en_t": "/tuː friːz/",
+      "ru": "замерзать",
+      "ee": "külmuma",
+      "ee_da": "külmuda",
+      "ee_mina": "külmun"
+    },
+    {
+      "en": "to dream",
+      "en_t": "/tuː driːm/",
+      "ru": "мечтать",
+      "ee": "unistama",
+      "ee_da": "unistada",
+      "ee_mina": "unistan"
+    },
+    {
+      "en": "to perform",
+      "en_t": "/tuː pərˈfɔːrm/",
+      "ru": "выступать",
+      "ee": "esinema",
+      "ee_da": "esineda",
+      "ee_mina": "esinen"
+    },
+    {
+      "en": "to ski",
+      "en_t": "/tuː skiː/",
+      "ru": "кататься на лыжах",
+      "ee": "suusatama",
+      "ee_da": "suusatada",
+      "ee_mina": "suusatan"
+    },
+    {
+      "en": "to smile",
+      "en_t": "/tuː smaɪl/",
+      "ru": "улыбаться",
+      "ee": "naeratama",
+      "ee_da": "naeratada",
+      "ee_mina": "naeratan"
+    },
+    {
+      "en": "to laugh",
+      "en_t": "/tuː lɑːf/",
+      "ru": "смеяться",
+      "ee": "naerma",
+      "ee_da": "naerda",
+      "ee_mina": "naeran"
+    },
+    {
+      "en": "to forget",
+      "en_t": "/tuː fərˈɡɛt/",
+      "ru": "забывать",
+      "ee": "unustama",
+      "ee_da": "unustada",
+      "ee_mina": "unustan"
+    },
+    {
+      "en": "to lose",
+      "en_t": "/tuː luːz/",
+      "ru": "терять",
+      "ee": "kaotama",
+      "ee_da": "kaotada",
+      "ee_mina": "kaotan"
+    },
+    {
+      "en": "to lie",
+      "en_t": "/tuː laɪ/",
+      "ru": "лгать",
+      "ee": "valetama",
+      "ee_da": "valetada",
+      "ee_mina": "valetan"
+    },
+    {
+      "en": "to name",
+      "en_t": "/tuː neɪm/",
+      "ru": "называть",
+      "ee": "nimetama",
+      "ee_da": "nimetada",
+      "ee_mina": "nimetan"
+    },
+    {
+      "en": "to engage in",
+      "en_t": "/tuː ɪnˈɡeɪdʒ ɪn/",
+      "ru": "заниматься",
+      "ee": "tegelema",
+      "ee_da": "tegeleda",
+      "ee_mina": "tegelen"
+    },
+    {
+      "en": "to imagine",
+      "en_t": "/tuː ɪˈmædʒɪn/",
+      "ru": "представлять",
+      "ee": "kujutama",
+      "ee_da": "kujutada",
+      "ee_mina": "kujutan"
+    },
+    {
+      "en": "to skate",
+      "en_t": "/tuː skeɪt/",
+      "ru": "кататься на коньках",
+      "ee": "uisutama",
+      "ee_da": "uisutada",
+      "ee_mina": "uisutan"
+    }
+  ]
+}
