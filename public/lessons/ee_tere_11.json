@@ -1,0 +1,279 @@
+{
+  "lesson": "Tere 11",
+  "date": "2024-10-22",
+  "language": "ee",
+  "words": [
+    {
+      "en": "to go",
+      "en_t": "/tuː ɡoʊ/",
+      "ru": "ехать",
+      "ee": "sõitma",
+      "ee_da": "sõita",
+      "ee_mina": "sõidan"
+    },
+    {
+      "en": "to pay",
+      "en_t": "/tuː peɪ/",
+      "ru": "платить",
+      "ee": "maksma",
+      "ee_da": "maksta",
+      "ee_mina": "maksan"
+    },
+    {
+      "en": "to depart",
+      "en_t": "/tuː dɪˈpɑːrt/",
+      "ru": "отправляться",
+      "ee": "väljuma",
+      "ee_da": "väljuda",
+      "ee_mina": "väljun"
+    },
+    {
+      "en": "ticket office",
+      "en_t": "/ˈtɪkɪt ˈɒfɪs/",
+      "ru": "касса",
+      "ee": "kassa",
+      "ee_2": "kassa",
+      "ee_3": "kassat"
+    },
+    {
+      "en": "ticket",
+      "en_t": "/ˈtɪkɪt/",
+      "ru": "билет",
+      "ee": "pilet",
+      "ee_2": "pileti",
+      "ee_3": "piletit"
+    },
+    {
+      "en": "full ticket",
+      "en_t": "/fʊl ˈtɪkɪt/",
+      "ru": "полный билет",
+      "ee": "täispilet",
+      "ee_2": "täispileti",
+      "ee_3": "täispiletit"
+    },
+    {
+      "en": "how much",
+      "en_t": "/haʊ mʌtʃ/",
+      "ru": "сколько",
+      "ee": "kui palju"
+    },
+    {
+      "en": "discounted ticket",
+      "en_t": "/ˈdɪskaʊntɪd ˈtɪkɪt/",
+      "ru": "льготный билет",
+      "ee": "sooduspilet",
+      "ee_2": "sooduspileti",
+      "ee_3": "sooduspiletit"
+    },
+    {
+      "en": "in total / together",
+      "en_t": "/ɪn ˈtoʊtəl/ /təˈɡɛðər/",
+      "ru": "всего/вместе",
+      "ee": "kokku"
+    },
+    {
+      "en": "pensioner",
+      "en_t": "/ˈpɛnʃənər/",
+      "ru": "пенсионер",
+      "ee": "pensionär",
+      "ee_2": "pensionäri",
+      "ee_3": "pensionäri"
+    },
+    {
+      "en": "preschooler / preschool",
+      "en_t": "/ˈpriːskuːlər/ /ˈpriːskuːl/",
+      "ru": "дошкольник/дошкольный",
+      "ee": "eelkooliealine",
+      "ee_2": "eelkooliealise",
+      "ee_3": "eelkooliealist"
+    },
+    {
+      "en": "cash",
+      "en_t": "/kæʃ/",
+      "ru": "наличные",
+      "ee": "sularaha",
+      "ee_2": "sularaha",
+      "ee_3": "sularaha"
+    },
+    {
+      "en": "expensive",
+      "en_t": "/ɪkˈspɛnsɪv/",
+      "ru": "дорогой",
+      "ee": "kallis",
+      "ee_2": "kalli",
+      "ee_3": "kallist"
+    },
+    {
+      "en": "to stand",
+      "en_t": "/tuː stænd/",
+      "ru": "стоять",
+      "ee": "seisma",
+      "ee_da": "seista",
+      "ee_mina": "seisan"
+    },
+    {
+      "en": "nearest",
+      "en_t": "/ˈnɪərɪst/",
+      "ru": "ближайший",
+      "ee": "lähim",
+      "ee_2": "lähima",
+      "ee_3": "lähimat"
+    },
+    {
+      "en": "which",
+      "en_t": "/wɪtʃ/",
+      "ru": "какой",
+      "ee": "milline"
+    },
+    {
+      "en": "free of charge",
+      "en_t": "/friː əv tʃɑːrdʒ/",
+      "ru": "бесплатно",
+      "ee": "tasuta"
+    },
+    {
+      "en": "Where is the person going?",
+      "en_t": "/wɛər ɪz ðə ˈpɜːrsən ˈɡoʊɪŋ/",
+      "ru": "Куда едет человек?",
+      "ee": "Kuhu inimene sõidab?"
+    },
+    {
+      "en": "At what time and from where does the bus depart?",
+      "en_t": "/æt wɒt taɪm ænd frəm wɛər dʌz ðə bʌs dɪˈpɑːrt/",
+      "ru": "Во сколько и откуда отправляется автобус?",
+      "ee": "Mis kell ja kust buss väljub?"
+    },
+    {
+      "en": "How much does a full ticket cost?",
+      "en_t": "/haʊ mʌtʃ dʌz ə fʊl ˈtɪkɪt kɒst/",
+      "ru": "Сколько стоит полный билет?",
+      "ee": "Kui palju maksab täispilet?"
+    },
+    {
+      "en": "How much does a discounted ticket cost?",
+      "en_t": "/haʊ mʌtʃ dʌz ə ˈdɪskaʊntɪd ˈtɪkɪt kɒst/",
+      "ru": "Сколько стоит льготный билет?",
+      "ee": "Kui palju maksab sooduspilet?"
+    },
+    {
+      "en": "Which stop?",
+      "en_t": "/wɪtʃ stɒp/",
+      "ru": "Какая остановка?",
+      "ee": "Milline peatus?"
+    },
+    {
+      "en": "This bus does not depart today",
+      "en_t": "/ðɪs bʌs dʌz nɒt dɪˈpɑːrt təˈdeɪ/",
+      "ru": "Этот автобус сегодня не отправляется",
+      "ee": "See buss täna ei välju"
+    },
+    {
+      "en": "Please, one full ticket",
+      "en_t": "/pliːz, wʌn fʊl ˈtɪkɪt/",
+      "ru": "Пожалуйста, 1 полный билет",
+      "ee": "Palun üks täispilet"
+    },
+    {
+      "en": "Are there tickets to Tartu?",
+      "en_t": "/ɑːr ðɛər ˈtɪkɪts tuː ˈtɑːrtuː/",
+      "ru": "В Тарту есть билеты?",
+      "ee": "Kas Tartusse on pileteid?"
+    },
+    {
+      "en": "Can I pay by card?",
+      "en_t": "/kæn aɪ peɪ baɪ kɑːrd/",
+      "ru": "Карточкой можно платить?",
+      "ee": "Kas kaardiga saab maksta?"
+    },
+    {
+      "en": "No, you can't",
+      "en_t": "/noʊ, juː kɑːnt/",
+      "ru": "Нельзя",
+      "ee": "Ei saa"
+    },
+    {
+      "en": "We accept only cash",
+      "en_t": "/wiː əkˈsɛpt ˈoʊnli kæʃ/",
+      "ru": "У нас можно платить только наличными",
+      "ee": "Meil saab maksta ainult sularahas"
+    },
+    {
+      "en": "Such an expensive ticket!",
+      "en_t": "/sʌtʃ ən ɪkˈspɛnsɪv ˈtɪkɪt/",
+      "ru": "Такой дорогой билет!",
+      "ee": "Kui kallis pilet!"
+    },
+    {
+      "en": "When does the first/nearest/next bus to Sillamäe leave?",
+      "en_t": "/wɛn dʌz ðə fɜːrst/ˈnɪərɪst/nɛkst bʌs tuː Sillamäe liːv/",
+      "ru": "Какой идёт первый / ближайший / следующий автобус в Силламяэ?",
+      "ee": "Millal läheb esimene/lähim/järgmine buss Sillamäele?"
+    },
+    {
+      "en": "Tickets are sold out",
+      "en_t": "/ˈtɪkɪts ɑːr soʊld aʊt/",
+      "ru": "Билеты распроданы",
+      "ee": "Piletid on välja müüdud"
+    },
+    {
+      "en": "Thank you for the information",
+      "en_t": "/θæŋk juː fɔːr ði ˌɪnfərˈmeɪʃən/",
+      "ru": "Спасибо за информацию.",
+      "ee": "Tänan informatsiooni eest"
+    },
+    {
+      "en": "For preschoolers, it's free",
+      "en_t": "/fɔːr ˈpriːskuːlərz, ɪts friː/",
+      "ru": "Дошкольникам бесплатно",
+      "ee": "Eelkooliealistele tasuta"
+    },
+    {
+      "en": "Where is he going?",
+      "en_t": "/wɛər ɪz hiː ˈɡoʊɪŋ/",
+      "ru": "Куда он едет?",
+      "ee": "Kuhu ta sõidab?"
+    },
+    {
+      "en": "From where?",
+      "en_t": "/frəm wɛər/",
+      "ru": "Откуда?",
+      "ee": "Kust?"
+    },
+    {
+      "en": "From work",
+      "en_t": "/frəm wɜːrk/",
+      "ru": "С работы",
+      "ee": "Töölt"
+    },
+    {
+      "en": "From the theater",
+      "en_t": "/frəm ðə ˈθɪətər/",
+      "ru": "Из театра",
+      "ee": "Teatrist"
+    },
+    {
+      "en": "From the table",
+      "en_t": "/frəm ðə ˈteɪbəl/",
+      "ru": "Со стола",
+      "ee": "Laualt"
+    },
+    {
+      "en": "At the doctor's",
+      "en_t": "/æt ðə ˈdɒktərz/",
+      "ru": "У врача",
+      "ee": "Arsti juures"
+    },
+    {
+      "en": "To the doctor",
+      "en_t": "/tuː ðə ˈdɒktər/",
+      "ru": "К врачу",
+      "ee": "Arsti juurde"
+    },
+    {
+      "en": "From the doctor",
+      "en_t": "/frəm ðə ˈdɒktər/",
+      "ru": "От врача",
+      "ee": "Arsti juurest"
+    }
+  ]
+}
