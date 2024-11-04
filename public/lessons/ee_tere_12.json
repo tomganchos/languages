@@ -1,0 +1,355 @@
+{
+  "lesson": "Tere 12",
+  "date": "2024-10-29",
+  "language": "ee",
+  "words": [
+    {
+      "en": "railway station",
+      "en_t": "/ˈreɪlweɪ ˈsteɪʃən/",
+      "ru": "железнодорожный вокзал",
+      "ee": "raudteejaam",
+      "ee_2": "raudteejaama",
+      "ee_3": "raudteejaama"
+    },
+    {
+      "en": "bus station",
+      "en_t": "/bʌs ˈsteɪʃən/",
+      "ru": "автобусный вокзал",
+      "ee": "bussijaam",
+      "ee_2": "bussijaama",
+      "ee_3": "bussijaama"
+    },
+    {
+      "en": "airport",
+      "en_t": "/ˈɛərpɔːrt/",
+      "ru": "аэропорт",
+      "ee": "lennujaam",
+      "ee_2": "lennujaama",
+      "ee_3": "lennujaama"
+    },
+    {
+      "en": "port",
+      "en_t": "/pɔːrt/",
+      "ru": "порт",
+      "ee": "sadam",
+      "ee_2": "sadama",
+      "ee_3": "sadamat"
+    },
+    {
+      "en": "taxi",
+      "en_t": "/ˈtæksi/",
+      "ru": "такси",
+      "ee": "takso",
+      "ee_2": "takso",
+      "ee_3": "taksot"
+    },
+    {
+      "en": "Black Mountain (district in Tallinn)",
+      "en_t": "/blæk ˈmaʊntən/",
+      "ru": "чёрная гора",
+      "ee": "Mustamäe",
+      "ee_2": "Mustamäe",
+      "ee_3": "Mustamäed"
+    },
+    {
+      "en": "yellow",
+      "en_t": "/ˈjɛloʊ/",
+      "ru": "жёлтый",
+      "ee": "kollane",
+      "ee_2": "kollase",
+      "ee_3": "kollast"
+    },
+    {
+      "en": "address",
+      "en_t": "/əˈdrɛs/",
+      "ru": "адрес",
+      "ee": "aadress",
+      "ee_2": "aadressi",
+      "ee_3": "aadressi"
+    },
+    {
+      "en": "kilometer",
+      "en_t": "/kɪˈlɒmɪtər/",
+      "ru": "километр",
+      "ee": "kilomeeter",
+      "ee_2": "kilomeetri",
+      "ee_3": "kilomeetrit"
+    },
+    {
+      "en": "small",
+      "en_t": "/smɔːl/",
+      "ru": "маленький",
+      "ee": "väike",
+      "ee_2": "väikese",
+      "ee_3": "väikest"
+    },
+    {
+      "en": "phone number",
+      "en_t": "/foʊn ˈnʌmbər/",
+      "ru": "номер телефона",
+      "ee": "telefoninumber",
+      "ee_2": "telefoninumbri",
+      "ee_3": "telefoninumbrit"
+    },
+    {
+      "en": "trip",
+      "en_t": "/trɪp/",
+      "ru": "поездка",
+      "ee": "sõit",
+      "ee_2": "sõidu",
+      "ee_3": "sõitu"
+    },
+    {
+      "en": "to wish, to want",
+      "en_t": "/tuː wɪʃ/, /tuː wɒnt/",
+      "ru": "желать, хотеть",
+      "ee": "soovima",
+      "ee_da": "soovida",
+      "ee_mina": "soovin"
+    },
+    {
+      "en": "to order",
+      "en_t": "/tuː ˈɔːdər/",
+      "ru": "заказывать",
+      "ee": "tellima",
+      "ee_da": "tellida",
+      "ee_mina": "tellin"
+    },
+    {
+      "en": "to owe",
+      "en_t": "/tuː oʊ/",
+      "ru": "быть должным",
+      "ee": "võlgnema",
+      "ee_da": "võlgneda",
+      "ee_mina": "võlgnen"
+    },
+    {
+      "en": "to wait",
+      "en_t": "/tuː weɪt/",
+      "ru": "ждать",
+      "ee": "ootama",
+      "ee_da": "oodata",
+      "ee_mina": "ootan"
+    },
+    {
+      "en": "later, in (time)",
+      "en_t": "/ˈleɪtər/, /ɪn/",
+      "ru": "потом, через",
+      "ee": "pärast"
+    },
+    {
+      "en": "client",
+      "en_t": "/ˈklaɪənt/",
+      "ru": "клиент",
+      "ee": "klient",
+      "ee_2": "kliendi",
+      "ee_3": "klienti"
+    },
+    {
+      "en": "company",
+      "en_t": "/ˈkʌmpəni/",
+      "ru": "фирма",
+      "ee": "firma",
+      "ee_2": "firma",
+      "ee_3": "firmat"
+    },
+    {
+      "en": "I want to order a taxi",
+      "en_t": "/aɪ wɒnt tuː ˈɔːdər ə ˈtæksi/",
+      "ru": "Хочу заказать такси",
+      "ee": "Soovin taksot tellida"
+    },
+    {
+      "en": "Under whose name?",
+      "en_t": "/ˈʌndər huːz neɪm/",
+      "ru": "На чьё имя?",
+      "ee": "Kelle nimele?"
+    },
+    {
+      "en": "Where are you going?",
+      "en_t": "/wɛər ɑːr juː ˈɡoʊɪŋ/",
+      "ru": "Куда вы едете?",
+      "ee": "Kuhu te sõidate?"
+    },
+    {
+      "en": "To which address?",
+      "en_t": "/tuː wɪtʃ əˈdrɛs/",
+      "ru": "По какому адресу?",
+      "ee": "Mis aadressile?"
+    },
+    {
+      "en": "Your address, please!",
+      "en_t": "/jɔːr əˈdrɛs, pliːz/",
+      "ru": "Ваш адрес, пожалуйста!",
+      "ee": "Teie aadress, palun!"
+    },
+    {
+      "en": "Your phone number?",
+      "en_t": "/jɔːr foʊn ˈnʌmbər/",
+      "ru": "Ваш номер телефона?",
+      "ee": "Mis on teie telefoninumber?"
+    },
+    {
+      "en": "Please wait",
+      "en_t": "/pliːz weɪt/",
+      "ru": "Пожалуйста, положите",
+      "ee": "Palun oodake"
+    },
+    {
+      "en": "The taxi will arrive in 10 minutes",
+      "en_t": "/ðə ˈtæksi wɪl əˈraɪv ɪn tɛn ˈmɪnɪts/",
+      "ru": "Такси приедет через 10 минут",
+      "ee": "Takso tuleb kümne minuti pärast"
+    },
+    {
+      "en": "Does that suit?",
+      "en_t": "/dʌz ðæt suːt/",
+      "ru": "Подходит?",
+      "ee": "Kas sobib?"
+    },
+    {
+      "en": "The taxi is coming now",
+      "en_t": "/ðə ˈtæksi ɪz ˈkʌmɪŋ naʊ/",
+      "ru": "Такси сейчас приедет",
+      "ee": "Takso tuleb kohe"
+    },
+    {
+      "en": "The taxi will be on site shortly",
+      "en_t": "/ðə ˈtæksi wɪl biː ɒn saɪt ˈʃɔːtli/",
+      "ru": "Такси сейчас будет на месте",
+      "ee": "Takso on kohe kohal"
+    },
+    {
+      "en": "Very good",
+      "en_t": "/ˈvɛri ɡʊd/",
+      "ru": "Очень хорошо",
+      "ee": "Väga kena"
+    },
+    {
+      "en": "A yellow Mercedes with number 456 NGY will come to you",
+      "en_t": "/ə ˈjɛloʊ mɜːrˈseɪdiːz wɪð ˈnʌmbər fɔːr faɪv sɪks ɛn dʒiː waɪ wɪl kʌm tuː juː/",
+      "ru": "К вам приедет жёлтый Мерседес, номер 456 NGY",
+      "ee": "Teile tuleb kollane Mercedes, number 456 NGY"
+    },
+    {
+      "en": "Are you free?",
+      "en_t": "/ɑːr juː friː/",
+      "ru": "Вы свободны?",
+      "ee": "Kas te olete vaba?"
+    },
+    {
+      "en": "How much do I owe?",
+      "en_t": "/haʊ mʌtʃ duː aɪ oʊ/",
+      "ru": "Сколько я должен?",
+      "ee": "Kui palju ma võlgnen?"
+    },
+    {
+      "en": "How much will the trip to Mustamäe cost?",
+      "en_t": "/haʊ mʌtʃ wɪl ðə trɪp tuː Mustamäe kɒst/",
+      "ru": "Сколько будет стоять поездка в Мустамяэ?",
+      "ee": "Kui palju maksab sõit Mustamäele?"
+    },
+    {
+      "en": "How much does a kilometer cost?",
+      "en_t": "/haʊ mʌtʃ dʌz ə kɪˈlɒmɪtər kɒst/",
+      "ru": "Сколько стоит километр?",
+      "ee": "Kui palju maksab kilomeeter?"
+    },
+    {
+      "en": "We're going to Lasnamäe, Punane 37",
+      "en_t": "/wɪər ˈɡoʊɪŋ tuː Lasnamäe, Punane ˈθɜːrtiː ˈsɛvən/",
+      "ru": "Едем в Ласнамяе, Пунане 37",
+      "ee": "Sõidame Lasnamäele, Punane 37"
+    },
+    {
+      "en": "To the department store, please",
+      "en_t": "/tuː ðə dɪˈpɑːrtmənt stɔːr, pliːz/",
+      "ru": "Пожалуйста, к универмагу",
+      "ee": "Palun kaubamaja juurde"
+    },
+    {
+      "en": "Do you have smaller money?",
+      "en_t": "/duː juː hæv ˈsmɔːlər ˈmʌni/",
+      "ru": "У вас нет денег поменьше?",
+      "ee": "Kas teil väiksemat raha pole?"
+    },
+    {
+      "en": "Do you have two euros?",
+      "en_t": "/duː juː hæv tuː ˈjʊəroʊz/",
+      "ru": "У вас есть два евро?",
+      "ee": "On teil kaht eurot?"
+    },
+    {
+      "en": "Keep the change",
+      "en_t": "/kiːp ðə tʃeɪndʒ/",
+      "ru": "Сдачи не надо",
+      "ee": "Tagasi pole vaja"
+    },
+    {
+      "en": "Here's the exact amount",
+      "en_t": "/hɪərz ði ɪɡˈzækt əˈmaʊnt/",
+      "ru": "Здесь точные деньги",
+      "ee": "Siin on täpne raha"
+    },
+    {
+      "en": "I don't have change",
+      "en_t": "/aɪ doʊnt hæv tʃeɪndʒ/",
+      "ru": "У меня нет сдачи",
+      "ee": "Mul pole tagasi anda"
+    },
+    {
+      "en": "Let it be",
+      "en_t": "/lɛt ɪt biː/",
+      "ru": "Пусть останется / будет",
+      "ee": "Las ta jääda / olla"
+    },
+    {
+      "en": "Wait!",
+      "en_t": "/weɪt/",
+      "ru": "Подожди!",
+      "ee": "Oota!"
+    },
+    {
+      "en": "Don't wait!",
+      "en_t": "/doʊnt weɪt/",
+      "ru": "Не жди!",
+      "ee": "Ära oota!"
+    },
+    {
+      "en": "Wait! (formal)",
+      "en_t": "/weɪt/",
+      "ru": "Подождите!",
+      "ee": "Oodake!"
+    },
+    {
+      "en": "Don't wait! (formal)",
+      "en_t": "/doʊnt weɪt/",
+      "ru": "Не ждите!",
+      "ee": "Ärge oodake!"
+    },
+    {
+      "en": "Go!",
+      "en_t": "/ɡoʊ/",
+      "ru": "Иди!",
+      "ee": "Mine!"
+    },
+    {
+      "en": "Go! (formal)",
+      "en_t": "/ɡoʊ/",
+      "ru": "Идите!",
+      "ee": "Minge!"
+    },
+    {
+      "en": "Don't go!",
+      "en_t": "/doʊnt ɡoʊ/",
+      "ru": "Не иди!",
+      "ee": "Ära mine!"
+    },
+    {
+      "en": "Don't go! (formal)",
+      "en_t": "/doʊnt ɡoʊ/",
+      "ru": "Не идите!",
+      "ee": "Ärge minge!"
+    }
+  ]
+}
