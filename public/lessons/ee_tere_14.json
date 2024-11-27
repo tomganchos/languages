@@ -1,0 +1,219 @@
+{
+  "lesson": "Tere 14",
+  "date": "2024-11-12",
+  "language": "ee",
+  "words": [
+    {
+      "en": "to be mistaken",
+      "en_t": "/tuː bi mɪsˈteɪkən/",
+      "ru": "ошибаться",
+      "ee": "eksima",
+      "ee_da": "eksida",
+      "ee_mina": "eksin"
+    },
+    {
+      "en": "to happen",
+      "en_t": "/tuː ˈhæpən/",
+      "ru": "случаться",
+      "ee": "juhtuma",
+      "ee_da": "juhtuda",
+      "ee_mina": "juhtub"
+    },
+    {
+      "en": "to watch",
+      "en_t": "/tuː wɒtʃ/",
+      "ru": "смотреть",
+      "ee": "vaatama",
+      "ee_da": "vaadata",
+      "ee_mina": "vaatan"
+    },
+    {
+      "en": "to bother",
+      "en_t": "/tuː ˈbʌðər/",
+      "ru": "беспокоить",
+      "ee": "tülitama",
+      "ee_da": "tülitada",
+      "ee_mina": "tülitan"
+    },
+    {
+      "en": "back, backwards",
+      "en_t": "/bæk/, /ˈbækwərdz/",
+      "ru": "обратно, назад",
+      "ee": "tagasi"
+    },
+    {
+      "en": "announcement",
+      "en_t": "/əˈnaʊnsmənt/",
+      "ru": "объявление",
+      "ee": "kuulutus",
+      "ee_2": "kuulutuse",
+      "ee_3": "kuulutust"
+    },
+    {
+      "en": "thought",
+      "en_t": "/θɔːt/",
+      "ru": "мысль",
+      "ee": "mõte",
+      "ee_2": "mõtte",
+      "ee_3": "mõtet"
+    },
+    {
+      "en": "probably",
+      "en_t": "/ˈprɒbəbli/",
+      "ru": "наверное",
+      "ee": "vist"
+    },
+    {
+      "en": "therefore",
+      "en_t": "/ˈðɛərfɔːr/",
+      "ru": "поэтому",
+      "ee": "sellepärast"
+    },
+    {
+      "en": "I watched, you watched, he watched",
+      "en_t": "/aɪ wɒtʃt, juː wɒtʃt, hiː wɒtʃt/",
+      "ru": "я смотрел, ты смотрел, он смотрел",
+      "ee": "ma vaatasin, sa vaatasid, ta vaatas"
+    },
+    {
+      "en": "he could",
+      "en_t": "/hi kʊd/",
+      "ru": "он умел",
+      "ee": "ta oskas"
+    },
+    {
+      "en": "he gave",
+      "en_t": "/hi ɡeɪv/",
+      "ru": "он дал",
+      "ee": "ta andis"
+    },
+    {
+      "en": "to be late",
+      "en_t": "/tuː bi leɪt/",
+      "ru": "опаздывать",
+      "ee": "hilinema",
+      "ee_da": "hilineda",
+      "ee_mina": "hilinen"
+    },
+    {
+      "en": "I didn't watch, you didn't watch, he didn't watch",
+      "en_t": "/aɪ dɪdnt wɒtʃ, juː dɪdnt wɒtʃ, hi dɪdnt wɒtʃ/",
+      "ru": "я не смотрел, ты не смотрел, он не смотрел",
+      "ee": "ma ei vaadanud, sa ei vaadanud, ta ei vaadanud"
+    },
+    {
+      "en": "I went, you went, he went, we went, you went, they went",
+      "en_t": "/aɪ wɛnt, ju wɛnt, hi wɛnt, wi wɛnt, ju wɛnt, ðeɪ wɛnt/",
+      "ru": "я пошёл, ты пошёл, он пошёл, мы пошли, вы пошли, они пошли",
+      "ee": "ma läksin, sa läksid, ta läks, me läksime, te läksite, nad läksid"
+    },
+    {
+      "en": "I didn't go",
+      "en_t": "/aɪ dɪdnt ɡoʊ/",
+      "ru": "я не пошёл",
+      "ee": "ma ei läinud"
+    },
+    {
+      "en": "Could I speak with Toomas Kass?",
+      "en_t": "/kʊd aɪ spiːk wɪð ˈtoʊmɑːs kɑːs/",
+      "ru": "Я мог бы поговорить с Томасом Касс?",
+      "ee": "Kas ma saaks Toomas Kassiga rääkida?"
+    },
+    {
+      "en": "Do you have a moment?",
+      "en_t": "/duː juː hæv ə ˈmoʊmənt/",
+      "ru": "У вас есть минутка (мгновение времени)?",
+      "ee": "Kas teil on hetk aega?"
+    },
+    {
+      "en": "Wait a moment",
+      "en_t": "/weɪt ə ˈmoʊmənt/",
+      "ru": "Подождите одно мгновение",
+      "ee": "Oodake üks hetk"
+    },
+    {
+      "en": "Can you talk now?",
+      "en_t": "/kæn juː tɔːk naʊ/",
+      "ru": "Вы можете сейчас говорить?",
+      "ee": "Kas te saate praegu rääkida?"
+    },
+    {
+      "en": "I can",
+      "en_t": "/aɪ kæn/",
+      "ru": "Могу",
+      "ee": "Saan"
+    },
+    {
+      "en": "Not exactly",
+      "en_t": "/nɒt ɪɡˈzæktli/",
+      "ru": "Не совсем",
+      "ee": "Hästi ei saa"
+    },
+    {
+      "en": "This is Anna",
+      "en_t": "/ðɪs ɪz ˈænə/",
+      "ru": "Это Анна",
+      "ee": "Anna on siin"
+    },
+    {
+      "en": "Inge Kotkas is calling you",
+      "en_t": "/ˈɪŋɡə ˈkɒtkɑːs ɪz ˈkɔːlɪŋ juː/",
+      "ru": "Вас беспокоит Инге Коткас",
+      "ee": "Teid tülitab Inge Kotkas"
+    },
+    {
+      "en": "The thing is that...",
+      "en_t": "/ðə θɪŋ ɪz ðæt/",
+      "ru": "Дело в том, что..",
+      "ee": "Asi on selles, et..."
+    },
+    {
+      "en": "I wanted to know / ask that...",
+      "en_t": "/aɪ ˈwɒntɪd tuː nəʊ / ɑːsk ðæt/",
+      "ru": "Я хотел узнать / спросить, что...",
+      "ee": "Ma tahtsin teada / küsida, et..."
+    },
+    {
+      "en": "What are you doing?",
+      "en_t": "/wɒt ɑːr juː ˈduːɪŋ/",
+      "ru": "Что ты делаешь?",
+      "ee": "Mida sa teed?"
+    },
+    {
+      "en": "I can't talk right now",
+      "en_t": "/aɪ kɑːnt tɔːk raɪt naʊ/",
+      "ru": "Я не могу сейчас говорить",
+      "ee": "Ma ei saa praegu rääkida"
+    },
+    {
+      "en": "Can I call you back?",
+      "en_t": "/kæn aɪ kɔːl juː bæk/",
+      "ru": "Вам можно перезвонить?",
+      "ee": "Kas teile saab tagasi helistada?"
+    },
+    {
+      "en": "Waiting",
+      "en_t": "/ˈweɪtɪŋ/",
+      "ru": "Жду",
+      "ee": "Jään ootama"
+    },
+    {
+      "en": "I'm calling you about the advertisement",
+      "en_t": "/aɪm ˈkɔːlɪŋ juː əˈbaʊt ði ədˈvɜːtɪsmənt/",
+      "ru": "Я звоню вам по объявлению",
+      "ee": "Helistan teile kuulutuse peale"
+    },
+    {
+      "en": "Thank you for calling",
+      "en_t": "/θæŋk juː fɔːr ˈkɔːlɪŋ/",
+      "ru": "Спасибо, что позвонили",
+      "ee": "Aitäh, et helistasite"
+    },
+    {
+      "en": "You probably dialed the wrong number",
+      "en_t": "/juː ˈprɒbəbli ˈdaɪəld ðə rɒŋ ˈnʌmbər/",
+      "ru": "Вы, наверное, ошиблись номером",
+      "ee": "Te vist eksisite numbriga"
+    }
+  ]
+}

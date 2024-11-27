@@ -1,0 +1,585 @@
+{
+  "lesson": "Tere 13",
+  "date": "2024-11-05",
+  "language": "ee",
+  "words": [
+    {
+      "en": "to push",
+      "en_t": "/tuː pʊʃ/",
+      "ru": "толкать",
+      "ee": "lükkama",
+      "ee_da": "lükata",
+      "ee_mina": "lükkan"
+    },
+    {
+      "en": "to pull",
+      "en_t": "/tuː pʊl/",
+      "ru": "тянуть",
+      "ee": "tõmbama",
+      "ee_da": "tõmmata",
+      "ee_mina": "tõmban"
+    },
+    {
+      "en": "to press",
+      "en_t": "/tuː prɛs/",
+      "ru": "нажать",
+      "ee": "vajutama",
+      "ee_da": "vajutada",
+      "ee_mina": "vajutan"
+    },
+    {
+      "en": "to prohibit",
+      "en_t": "/tuː prəˈhɪbɪt/",
+      "ru": "запрещать",
+      "ee": "keelama",
+      "ee_da": "keelata",
+      "ee_mina": "keelan"
+    },
+    {
+      "en": "to allow",
+      "en_t": "/tuː əˈlaʊ/",
+      "ru": "разрешать",
+      "ee": "lubama",
+      "ee_da": "lubada",
+      "ee_mina": "luban"
+    },
+    {
+      "en": "to keep",
+      "en_t": "/tuː kiːp/",
+      "ru": "хранить",
+      "ee": "hoidma",
+      "ee_da": "hoida",
+      "ee_mina": "hoian"
+    },
+    {
+      "en": "to guard",
+      "en_t": "/tuː ɡɑːrd/",
+      "ru": "охранять",
+      "ee": "valvama",
+      "ee_da": "valvata",
+      "ee_mina": "valvan"
+    },
+    {
+      "en": "entrance (for vehicles)",
+      "en_t": "/ˈɛntrəns/",
+      "ru": "въезд",
+      "ee": "sissesõit",
+      "ee_2": "sissesõidu",
+      "ee_3": "sissesõitu"
+    },
+    {
+      "en": "passage",
+      "en_t": "/ˈpæsɪdʒ/",
+      "ru": "проход",
+      "ee": "läbikäik",
+      "ee_2": "läbikäigu",
+      "ee_3": "läbikäiku"
+    },
+    {
+      "en": "local",
+      "en_t": "/ˈloʊkəl/",
+      "ru": "местный",
+      "ee": "kohalik",
+      "ee_2": "kohaliku",
+      "ee_3": "kohalikku"
+    },
+    {
+      "en": "resident",
+      "en_t": "/ˈrɛzɪdənt/",
+      "ru": "житель",
+      "ee": "elanik",
+      "ee_2": "elaniku",
+      "ee_3": "elanikku"
+    },
+    {
+      "en": "public transport",
+      "en_t": "/ˈpʌblɪk ˈtrænspɔːrt/",
+      "ru": "общественный транспорт",
+      "ee": "ühistransport",
+      "ee_2": "ühistranspordi",
+      "ee_3": "ühistransporti"
+    },
+    {
+      "en": "entrance",
+      "en_t": "/ˈɛntrəns/",
+      "ru": "вход, въезд",
+      "ee": "sissepääs",
+      "ee_2": "sissepääsu",
+      "ee_3": "sissepääsu"
+    },
+    {
+      "en": "exit",
+      "en_t": "/ˈɛksɪt/",
+      "ru": "выход, выезд",
+      "ee": "väljapääs",
+      "ee_2": "väljapääsu",
+      "ee_3": "väljapääsu"
+    },
+    {
+      "en": "button",
+      "en_t": "/ˈbʌtən/",
+      "ru": "кнопка",
+      "ee": "nupp",
+      "ee_2": "nupu",
+      "ee_3": "nuppu"
+    },
+    {
+      "en": "card",
+      "en_t": "/kɑːrd/",
+      "ru": "карта",
+      "ee": "kaart",
+      "ee_2": "kaardi",
+      "ee_3": "kaarti"
+    },
+    {
+      "en": "last",
+      "en_t": "/lɑːst/",
+      "ru": "последний",
+      "ee": "viimane",
+      "ee_2": "viimase",
+      "ee_3": "viimast"
+    },
+    {
+      "en": "lunch",
+      "en_t": "/lʌntʃ/",
+      "ru": "обед",
+      "ee": "lõuna",
+      "ee_2": "lõuna",
+      "ee_3": "lõunat"
+    },
+    {
+      "en": "regular customer",
+      "en_t": "/ˈrɛɡjʊlər ˈkʌstəmər/",
+      "ru": "постоянный клиент",
+      "ee": "püsiklient",
+      "ee_2": "püsikliendi",
+      "ee_3": "püsiklienti"
+    },
+    {
+      "en": "job advertisement",
+      "en_t": "/dʒɒb ədˈvɜːrtɪsmənt/",
+      "ru": "объявление о работе",
+      "ee": "töökuulutus",
+      "ee_2": "töökuulutuse",
+      "ee_3": "töökuulutust"
+    },
+    {
+      "en": "city newspaper",
+      "en_t": "/ˈsɪti ˈnjuːzpeɪpər/",
+      "ru": "городская газета",
+      "ee": "linnaleht",
+      "ee_2": "linnalehe",
+      "ee_3": "linnalehte"
+    },
+    {
+      "en": "hand wash",
+      "en_t": "/hænd wɒʃ/",
+      "ru": "ручная мойка",
+      "ee": "käsipesu",
+      "ee_2": "käsipesu",
+      "ee_3": "käsipesu"
+    },
+    {
+      "en": "automatic wash",
+      "en_t": "/ˌɔːtəˈmætɪk wɒʃ/",
+      "ru": "автоматическая мойка",
+      "ee": "automaatpesu",
+      "ee_2": "automaatpesu",
+      "ee_3": "automaatpesu"
+    },
+    {
+      "en": "door",
+      "en_t": "/dɔːr/",
+      "ru": "дверь",
+      "ee": "uks",
+      "ee_2": "ukse",
+      "ee_3": "ust"
+    },
+    {
+      "en": "paid",
+      "en_t": "/peɪd/",
+      "ru": "платный",
+      "ee": "tasuline",
+      "ee_2": "tasulise",
+      "ee_3": "tasulist"
+    },
+    {
+      "en": "interval, difference",
+      "en_t": "/ˈɪntərvəl/, /ˈdɪfrəns/",
+      "ru": "промежуток, разница",
+      "ee": "vahe",
+      "ee_2": "vahe",
+      "ee_3": "vahet"
+    },
+    {
+      "en": "owner",
+      "en_t": "/ˈoʊnər/",
+      "ru": "владелец",
+      "ee": "valdaja",
+      "ee_2": "valdaja",
+      "ee_3": "valdajat"
+    },
+    {
+      "en": "except",
+      "en_t": "/ɪkˈsɛpt/",
+      "ru": "за исключением",
+      "ee": "välja arvatud"
+    },
+    {
+      "en": "caution",
+      "en_t": "/ˈkɔːʃən/",
+      "ru": "осторожно",
+      "ee": "ettevaatust"
+    },
+    {
+      "en": "parking machine",
+      "en_t": "/ˈpɑːrkɪŋ məˈʃiːn/",
+      "ru": "парковочный автомат",
+      "ee": "parkimisautomaat",
+      "ee_2": "parkimisautomaadi",
+      "ee_3": "parkimisautomaati"
+    },
+    {
+      "en": "coin",
+      "en_t": "/kɔɪn/",
+      "ru": "монета",
+      "ee": "münt",
+      "ee_2": "mündi",
+      "ee_3": "münti"
+    },
+    {
+      "en": "exchange",
+      "en_t": "/ɪksˈtʃeɪndʒ/",
+      "ru": "размен, обмен",
+      "ee": "vahetus",
+      "ee_2": "vahetuse",
+      "ee_3": "vahetust"
+    },
+    {
+      "en": "rent",
+      "en_t": "/rɛnt/",
+      "ru": "аренда",
+      "ee": "rent",
+      "ee_2": "rendi",
+      "ee_3": "renti"
+    },
+    {
+      "en": "commercial space",
+      "en_t": "/kəˈmɜːrʃəl speɪs/",
+      "ru": "коммерческая площадь",
+      "ee": "äripind",
+      "ee_2": "äripinna",
+      "ee_3": "äripinda"
+    },
+    {
+      "en": "parking time",
+      "en_t": "/ˈpɑːrkɪŋ taɪm/",
+      "ru": "время парковки",
+      "ee": "parkimisaeg",
+      "ee_2": "parkimisaja",
+      "ee_3": "parkimisaega"
+    },
+    {
+      "en": "technical inspection",
+      "en_t": "/ˈtɛknɪkəl ɪnˈspɛkʃən/",
+      "ru": "технический осмотр",
+      "ee": "tehnoülevaatus",
+      "ee_2": "tehnoülevaatuse",
+      "ee_3": "tehnoülevaatust"
+    },
+    {
+      "en": "parking",
+      "en_t": "/ˈpɑːrkɪŋ/",
+      "ru": "парковка",
+      "ee": "parkimismaja",
+      "ee_2": "parkimismaja",
+      "ee_3": "parkimismaja"
+    },
+    {
+      "en": "permission",
+      "en_t": "/pərˈmɪʃən/",
+      "ru": "разрешение",
+      "ee": "luba",
+      "ee_2": "loa",
+      "ee_3": "luba"
+    },
+    {
+      "en": "dangerous",
+      "en_t": "/ˈdeɪndʒərəs/",
+      "ru": "опасный",
+      "ee": "ohtlik",
+      "ee_2": "ohtliku",
+      "ee_3": "ohtlikku"
+    },
+    {
+      "en": "area, territory",
+      "en_t": "/ˈɛəriə/, /ˈtɛrɪtəri/",
+      "ru": "участок, территория",
+      "ee": "ala",
+      "ee_2": "ala",
+      "ee_3": "ala"
+    },
+    {
+      "en": "nor, neither",
+      "en_t": "/nɔːr/, /ˈniːðər/",
+      "ru": "ни, не",
+      "ee": "ega"
+    },
+    {
+      "en": "security",
+      "en_t": "/sɪˈkjʊərɪti/",
+      "ru": "охрана",
+      "ee": "valve",
+      "ee_2": "valve",
+      "ee_3": "valvet"
+    },
+    {
+      "en": "must, have to",
+      "en_t": "/mʌst/, /hæv tuː/",
+      "ru": "быть должным",
+      "ee": "pidama",
+      "ee_da": "pidada",
+      "ee_mina": "pean"
+    },
+    {
+      "en": "to begin",
+      "en_t": "/tuː bɪˈɡɪn/",
+      "ru": "начать",
+      "ee": "hakkama",
+      "ee_da": "hakata",
+      "ee_mina": "hakkan"
+    },
+    {
+      "en": "to stay",
+      "en_t": "/tuː steɪ/",
+      "ru": "оставаться",
+      "ee": "jääma",
+      "ee_da": "jääda",
+      "ee_mina": "jään"
+    },
+    {
+      "en": "to wash",
+      "en_t": "/tuː wɒʃ/",
+      "ru": "стирать, мыть",
+      "ee": "pesema",
+      "ee_da": "pesta",
+      "ee_mina": "pesen"
+    },
+    {
+      "en": "to think",
+      "en_t": "/tuː θɪŋk/",
+      "ru": "думать",
+      "ee": "mõtlema",
+      "ee_da": "mõelda",
+      "ee_mina": "mõtlen"
+    },
+    {
+      "en": "to try",
+      "en_t": "/tuː traɪ/",
+      "ru": "пробовать",
+      "ee": "proovima",
+      "ee_da": "proovida",
+      "ee_mina": "proovin"
+    },
+    {
+      "en": "first of all",
+      "en_t": "/fɜːrst əv ɔːl/",
+      "ru": "прежде всего",
+      "ee": "kõigepealt"
+    },
+    {
+      "en": "because",
+      "en_t": "/bɪˈkɒz/",
+      "ru": "поскольку",
+      "ee": "sest"
+    },
+    {
+      "en": "then",
+      "en_t": "/ðɛn/",
+      "ru": "затем",
+      "ee": "seejärel"
+    },
+    {
+      "en": "fortunately",
+      "en_t": "/ˈfɔːrtʃənətli/",
+      "ru": "к счастью",
+      "ee": "õnneks"
+    },
+    {
+      "en": "for a moment",
+      "en_t": "/fɔːr ə ˈmoʊmənt/",
+      "ru": "на минутку (на непродолжительное время)",
+      "ee": "korraks"
+    },
+    {
+      "en": "to park",
+      "en_t": "/tuː pɑːrk/",
+      "ru": "парковаться",
+      "ee": "parkima",
+      "ee_da": "parkida",
+      "ee_mina": "pargin"
+    },
+    {
+      "en": "No entry",
+      "en_t": "/noʊ ˈɛntri/",
+      "ru": "проезд запрещён",
+      "ee": "Sissesõit keelatud"
+    },
+    {
+      "en": "No passage",
+      "en_t": "/noʊ ˈpæsɪdʒ/",
+      "ru": "проход запрещён",
+      "ee": "Läbikäik keelatud"
+    },
+    {
+      "en": "Except local residents",
+      "en_t": "/ɪkˈsɛpt ˈloʊkəl ˈrɛzɪdənts/",
+      "ru": "за исключением местных жителей",
+      "ee": "Välja arvatud kohalik elanik"
+    },
+    {
+      "en": "Except public transport",
+      "en_t": "/ɪkˈsɛpt ˈpʌblɪk ˈtrænspɔːrt/",
+      "ru": "за исключением общественного транспорта",
+      "ee": "Välja arvatud ühistransport"
+    },
+    {
+      "en": "Pull (formal)",
+      "en_t": "/pʊl/",
+      "ru": "тяните",
+      "ee": "Tõmmake"
+    },
+    {
+      "en": "Pull (informal)",
+      "en_t": "/pʊl/",
+      "ru": "тяни",
+      "ee": "Tõmba"
+    },
+    {
+      "en": "Push (informal)",
+      "en_t": "/pʊʃ/",
+      "ru": "толкай",
+      "ee": "Lükka"
+    },
+    {
+      "en": "Push (formal)",
+      "en_t": "/pʊʃ/",
+      "ru": "толкайте",
+      "ee": "Lükake"
+    },
+    {
+      "en": "Press the button and take a ticket",
+      "en_t": "/prɛs ðə ˈbʌtən ænd teɪk ə ˈtɪkɪt/",
+      "ru": "нажмите на кнопку и возьмите билет",
+      "ee": "Vajutage nuppu ja võtke pilet"
+    },
+    {
+      "en": "Open",
+      "en_t": "/ˈoʊpən/",
+      "ru": "открыто",
+      "ee": "Avatud"
+    },
+    {
+      "en": "Closed",
+      "en_t": "/kloʊzd/",
+      "ru": "закрыто",
+      "ee": "Suletud"
+    },
+    {
+      "en": "Open (alternative)",
+      "en_t": "/ˈoʊpən/",
+      "ru": "открыто (другая версия)",
+      "ee": "Lahti"
+    },
+    {
+      "en": "Closed (alternative)",
+      "en_t": "/kloʊzd/",
+      "ru": "закрыто (другая версия)",
+      "ee": "Kinni"
+    },
+    {
+      "en": "Parking allowed for clients for 30 minutes",
+      "en_t": "/ˈpɑːrkɪŋ əˈlaʊd fɔːr ˈklaɪənts fɔːr ˈθɜːrti ˈmɪnɪts/",
+      "ru": "Парковка разрешена клиентам 30 минут",
+      "ee": "Parkimine klientidele lubatud 30 minutit"
+    },
+    {
+      "en": "Free parking",
+      "en_t": "/friː ˈpɑːrkɪŋ/",
+      "ru": "Бесплатная парковка",
+      "ee": "Tasuta parkimine"
+    },
+    {
+      "en": "Paid parking",
+      "en_t": "/peɪd ˈpɑːrkɪŋ/",
+      "ru": "Платная парковка",
+      "ee": "Tasuline parkimine"
+    },
+    {
+      "en": "Payment at the cashier",
+      "en_t": "/ˈpeɪmənt æt ðə ˈkæʃər/",
+      "ru": "Оплата в кассе",
+      "ee": "Maksmine kassas"
+    },
+    {
+      "en": "Keep your distance!",
+      "en_t": "/kiːp jɔːr ˈdɪstəns/",
+      "ru": "Соблюдай дистанцию!",
+      "ee": "Hoia vahet!"
+    },
+    {
+      "en": "Caution!",
+      "en_t": "/ˈkɔːʃən/",
+      "ru": "Осторожно!",
+      "ee": "Ettevaatust!"
+    },
+    {
+      "en": "Parking machine",
+      "en_t": "/ˈpɑːrkɪŋ məˈʃiːn/",
+      "ru": "Парковочный автомат",
+      "ee": "Parkimisautomaat"
+    },
+    {
+      "en": "Coin exchange",
+      "en_t": "/kɔɪn ɪksˈtʃeɪndʒ/",
+      "ru": "Размен монет",
+      "ee": "Müntide vahetus"
+    },
+    {
+      "en": "Commercial spaces for rent",
+      "en_t": "/kəˈmɜːrʃəl ˈspeɪsɪz fɔːr rɛnt/",
+      "ru": "Сдаются в аренду коммерческие площади",
+      "ee": "Anda rendile äripinnad"
+    },
+    {
+      "en": "Parking clock - 2 hours free!",
+      "en_t": "/ˈpɑːrkɪŋ klɒk - tuː ˈaʊərz friː/",
+      "ru": "Парковочные часы - 2 часа бесплатно!",
+      "ee": "Parkimiskell 2 tundi tasuta!"
+    },
+    {
+      "en": "Technical inspection",
+      "en_t": "/ˈtɛknɪkəl ɪnˈspɛkʃən/",
+      "ru": "Техосмотр",
+      "ee": "Tehnoülevaatus"
+    },
+    {
+      "en": "Car wash. To wash",
+      "en_t": "/kɑːr wɒʃ. tuː wɒʃ/",
+      "ru": "Автомойка. На мойку",
+      "ee": "Automaatpesula. Pesulasse"
+    },
+    {
+      "en": "Hand car wash",
+      "en_t": "/hænd kɑːr wɒʃ/",
+      "ru": "Ручная мойка автомашин",
+      "ee": "Auto käsipesu"
+    },
+    {
+      "en": "Free every day from 8 to 23",
+      "en_t": "/friː ˈɛvri deɪ frɒm eɪt tuː twɛnti θriː/",
+      "ru": "Бесплатно каждый день с 8 до 23",
+      "ee": "Tasuta iga päev 8-23"
+    }
+  ]
+}

@@ -1,0 +1,849 @@
+{
+  "lesson": "Tere 15",
+  "date": "2024-11-19",
+  "language": "ee",
+  "words": [
+    {
+      "en": "grocery store",
+      "en_t": "/ˈɡroʊsəri stɔːr/",
+      "ru": "продуктовый магазин",
+      "ee": "toidupood",
+      "ee_2": "toidupoe",
+      "ee_3": "toidupoodi"
+    },
+    {
+      "en": "price",
+      "en_t": "/praɪs/",
+      "ru": "цена",
+      "ee": "hind",
+      "ee_2": "hinna",
+      "ee_3": "hinda"
+    },
+    {
+      "en": "expired, passed",
+      "en_t": "/ɪkˈspaɪərd/, /pɑːst/",
+      "ru": "истёк, прошёл",
+      "ee": "möödas"
+    },
+    {
+      "en": "control weight",
+      "en_t": "/kənˈtroʊl weɪt/",
+      "ru": "контрольный вес",
+      "ee": "kontrollkaal",
+      "ee_2": "kontrollkaalu",
+      "ee_3": "kontrollkaalu"
+    },
+    {
+      "en": "queue number",
+      "en_t": "/kjuː ˈnʌmbər/",
+      "ru": "номер очереди",
+      "ee": "järjekorranumber",
+      "ee_2": "järjekorranumbri",
+      "ee_3": "järjekorranumbrit"
+    },
+    {
+      "en": "weekend",
+      "en_t": "/ˈwiːkɛnd/",
+      "ru": "конец недели",
+      "ee": "nädalalõpp",
+      "ee_2": "nädalalõpu",
+      "ee_3": "nädalalõppu"
+    },
+    {
+      "en": "offer",
+      "en_t": "/ˈɒfər/",
+      "ru": "предложение",
+      "ee": "pakkumine",
+      "ee_2": "pakkumise",
+      "ee_3": "pakkumist"
+    },
+    {
+      "en": "until",
+      "en_t": "/ʌnˈtɪl/",
+      "ru": "до",
+      "ee": "kuni"
+    },
+    {
+      "en": "valid",
+      "en_t": "/ˈvælɪd/",
+      "ru": "годный",
+      "ee": "kõlblik"
+    },
+    {
+      "en": "before, earlier",
+      "en_t": "/bɪˈfɔːr/, /ˈɜːrlɪər/",
+      "ru": "раньше, до",
+      "ee": "enne"
+    },
+    {
+      "en": "product, goods",
+      "en_t": "/ˈprɒdʌkt/, /ɡʊdz/",
+      "ru": "товар",
+      "ee": "kaup",
+      "ee_2": "kauba",
+      "ee_3": "kaupa"
+    },
+    {
+      "en": "to weigh",
+      "en_t": "/tuː weɪ/",
+      "ru": "взвешивать",
+      "ee": "kaaluma",
+      "ee_da": "kaaluda",
+      "ee_mina": "kaalun"
+    },
+    {
+      "en": "purchase",
+      "en_t": "/ˈpɜːrtʃəs/",
+      "ru": "покупка",
+      "ee": "ost",
+      "ee_2": "ostu",
+      "ee_3": "ostu"
+    },
+    {
+      "en": "to buy",
+      "en_t": "/tuː baɪ/",
+      "ru": "покупать",
+      "ee": "ostma",
+      "ee_da": "osta",
+      "ee_mina": "ostan"
+    },
+    {
+      "en": "to thank (for something)",
+      "en_t": "/tuː θæŋk/",
+      "ru": "благодарить (за что-то)",
+      "ee": "tänama (mille?) eest",
+      "ee_da": "tänada",
+      "ee_mina": "tänan"
+    },
+    {
+      "en": "to use",
+      "en_t": "/tuː juːz/",
+      "ru": "использовать",
+      "ee": "kasutama",
+      "ee_da": "kasutada",
+      "ee_mina": "kasutan"
+    },
+    {
+      "en": "to turn to, to contact",
+      "en_t": "/tuː tɜːrn tuː/, /tuː ˈkɒntækt/",
+      "ru": "обращаться",
+      "ee": "pöörduma",
+      "ee_da": "pöörduda",
+      "ee_mina": "pöördun"
+    },
+    {
+      "en": "adjacent cashier",
+      "en_t": "/əˈdʒeɪsənt ˈkæʃər/",
+      "ru": "соседняя касса",
+      "ee": "kõrvalkassa",
+      "ee_2": "kõrvalkassa",
+      "ee_3": "kõrvalkassat"
+    },
+    {
+      "en": "battery",
+      "en_t": "/ˈbætəri/",
+      "ru": "батарейка",
+      "ee": "patarei",
+      "ee_2": "patarei",
+      "ee_3": "patareid"
+    },
+    {
+      "en": "accumulator",
+      "en_t": "/əˈkjuːmjəleɪtər/",
+      "ru": "аккумулятор",
+      "ee": "aku",
+      "ee_2": "aku",
+      "ee_3": "akut"
+    },
+    {
+      "en": "kilogram",
+      "en_t": "/ˈkɪləɡræm/",
+      "ru": "килограмм",
+      "ee": "kilogramm",
+      "ee_2": "kilogrammi",
+      "ee_3": "kilogrammi"
+    },
+    {
+      "en": "discount",
+      "en_t": "/ˈdɪskaʊnt/",
+      "ru": "уценка, скидка",
+      "ee": "allahindlus",
+      "ee_2": "allahindluse",
+      "ee_3": "allahindlust"
+    },
+    {
+      "en": "bill, invoice",
+      "en_t": "/bɪl/, /ˈɪnvɔɪs/",
+      "ru": "счёт",
+      "ee": "arve",
+      "ee_2": "arve",
+      "ee_3": "arvet"
+    },
+    {
+      "en": "coffee",
+      "en_t": "/ˈkɒfi/",
+      "ru": "кофе",
+      "ee": "kohv",
+      "ee_2": "kohvi",
+      "ee_3": "kohvi"
+    },
+    {
+      "en": "tea",
+      "en_t": "/tiː/",
+      "ru": "чай",
+      "ee": "tee",
+      "ee_2": "tee",
+      "ee_3": "teed"
+    },
+    {
+      "en": "cocoa",
+      "en_t": "/ˈkoʊkoʊ/",
+      "ru": "какао",
+      "ee": "kakao",
+      "ee_2": "kakao",
+      "ee_3": "kakaod"
+    },
+    {
+      "en": "sugar",
+      "en_t": "/ˈʃʊɡər/",
+      "ru": "сахар",
+      "ee": "suhkur",
+      "ee_2": "suhkru",
+      "ee_3": "suhkrut"
+    },
+    {
+      "en": "pasta",
+      "en_t": "/ˈpɑːstə/",
+      "ru": "макароны",
+      "ee": "makaronid",
+      "ee_2": "makaronide",
+      "ee_3": "makarone"
+    },
+    {
+      "en": "rice",
+      "en_t": "/raɪs/",
+      "ru": "рис",
+      "ee": "riis",
+      "ee_2": "riisi",
+      "ee_3": "riisi"
+    },
+    {
+      "en": "nut",
+      "en_t": "/nʌt/",
+      "ru": "орех",
+      "ee": "pähkel",
+      "ee_2": "pähkli",
+      "ee_3": "pähklit"
+    },
+    {
+      "en": "bread",
+      "en_t": "/brɛd/",
+      "ru": "хлеб",
+      "ee": "leib",
+      "ee_2": "leiva",
+      "ee_3": "leiba"
+    },
+    {
+      "en": "bun, white bread",
+      "en_t": "/bʌn/, /waɪt brɛd/",
+      "ru": "булка",
+      "ee": "sai",
+      "ee_2": "sai",
+      "ee_3": "saia"
+    },
+    {
+      "en": "salt",
+      "en_t": "/sɒlt/",
+      "ru": "соль",
+      "ee": "sool",
+      "ee_2": "soola",
+      "ee_3": "soola"
+    },
+    {
+      "en": "spice",
+      "en_t": "/spaɪs/",
+      "ru": "приправа",
+      "ee": "maitseaine",
+      "ee_2": "maitseaine",
+      "ee_3": "maitseainet"
+    },
+    {
+      "en": "flour",
+      "en_t": "/ˈflaʊər/",
+      "ru": "мука",
+      "ee": "jahu",
+      "ee_2": "jahu",
+      "ee_3": "jahu"
+    },
+    {
+      "en": "vinegar",
+      "en_t": "/ˈvɪnɪɡər/",
+      "ru": "уксус",
+      "ee": "äädikas",
+      "ee_2": "äädika",
+      "ee_3": "äädikat"
+    },
+    {
+      "en": "chips",
+      "en_t": "/tʃɪps/",
+      "ru": "чипсы",
+      "ee": "krõpsud",
+      "ee_2": "krõpsude",
+      "ee_3": "krõpse"
+    },
+    {
+      "en": "biscuit, cookie",
+      "en_t": "/ˈbɪskɪt/, /ˈkʊki/",
+      "ru": "печенье",
+      "ee": "küpsis",
+      "ee_2": "küpsise",
+      "ee_3": "küpsist"
+    },
+    {
+      "en": "ketchup",
+      "en_t": "/ˈkɛtʃʌp/",
+      "ru": "кетчуп",
+      "ee": "ketšup",
+      "ee_2": "ketšupi",
+      "ee_3": "ketšupit"
+    },
+    {
+      "en": "broth",
+      "en_t": "/brɒθ/",
+      "ru": "бульон",
+      "ee": "puljong",
+      "ee_2": "puljongi",
+      "ee_3": "puljongit"
+    },
+    {
+      "en": "soup",
+      "en_t": "/suːp/",
+      "ru": "суп",
+      "ee": "supp",
+      "ee_2": "supi",
+      "ee_3": "suppi"
+    },
+    {
+      "en": "soft drink",
+      "en_t": "/sɒft drɪŋk/",
+      "ru": "безалкогольный напиток",
+      "ee": "karastusjook",
+      "ee_2": "karastusjoogi",
+      "ee_3": "karastusjooki"
+    },
+    {
+      "en": "water",
+      "en_t": "/ˈwɔːtər/",
+      "ru": "вода",
+      "ee": "vesi",
+      "ee_2": "vee",
+      "ee_3": "vett"
+    },
+    {
+      "en": "juice",
+      "en_t": "/dʒuːs/",
+      "ru": "сок",
+      "ee": "mahl",
+      "ee_2": "mahla",
+      "ee_3": "mahla"
+    },
+    {
+      "en": "wine",
+      "en_t": "/waɪn/",
+      "ru": "вино",
+      "ee": "vein",
+      "ee_2": "veini",
+      "ee_3": "veini"
+    },
+    {
+      "en": "red",
+      "en_t": "/rɛd/",
+      "ru": "красный",
+      "ee": "punane",
+      "ee_2": "punase",
+      "ee_3": "punast"
+    },
+    {
+      "en": "white",
+      "en_t": "/waɪt/",
+      "ru": "белый",
+      "ee": "valge",
+      "ee_2": "valge",
+      "ee_3": "valget"
+    },
+    {
+      "en": "vodka",
+      "en_t": "/ˈvɒdkə/",
+      "ru": "водка",
+      "ee": "viin",
+      "ee_2": "viina",
+      "ee_3": "viina"
+    },
+    {
+      "en": "beer",
+      "en_t": "/bɪər/",
+      "ru": "пиво",
+      "ee": "õlu",
+      "ee_2": "õlle",
+      "ee_3": "õlut"
+    },
+    {
+      "en": "cider",
+      "en_t": "/ˈsaɪdər/",
+      "ru": "сидр",
+      "ee": "siider",
+      "ee_2": "siidri",
+      "ee_3": "siidrit"
+    },
+    {
+      "en": "margarine",
+      "en_t": "/ˌmɑːrdʒəˈriːn/",
+      "ru": "маргарин",
+      "ee": "margariin",
+      "ee_2": "margariini",
+      "ee_3": "margariini"
+    },
+    {
+      "en": "butter",
+      "en_t": "/ˈbʌtər/",
+      "ru": "масло",
+      "ee": "või",
+      "ee_2": "või",
+      "ee_3": "võid"
+    },
+    {
+      "en": "egg",
+      "en_t": "/ɛɡ/",
+      "ru": "яйцо",
+      "ee": "muna",
+      "ee_2": "muna",
+      "ee_3": "muna"
+    },
+    {
+      "en": "yogurt",
+      "en_t": "/ˈjoʊɡərt/",
+      "ru": "йогурт",
+      "ee": "jogurt",
+      "ee_2": "jogurti",
+      "ee_3": "jogurtit"
+    },
+    {
+      "en": "sweetness, candy",
+      "en_t": "/ˈswiːtnəs/, /ˈkændi/",
+      "ru": "сладость",
+      "ee": "maiustus",
+      "ee_2": "maiustuse",
+      "ee_3": "maiustust"
+    },
+    {
+      "en": "dessert",
+      "en_t": "/dɪˈzɜːrt/",
+      "ru": "сладкое блюдо",
+      "ee": "magustoit",
+      "ee_2": "magustoidu",
+      "ee_3": "magustoitu"
+    },
+    {
+      "en": "candy",
+      "en_t": "/ˈkændi/",
+      "ru": "конфета",
+      "ee": "kompvek",
+      "ee_2": "kompveki",
+      "ee_3": "kompvekki"
+    },
+    {
+      "en": "jam",
+      "en_t": "/dʒæm/",
+      "ru": "варенье",
+      "ee": "moos",
+      "ee_2": "moosi",
+      "ee_3": "moosi"
+    },
+    {
+      "en": "honey",
+      "en_t": "/ˈhʌni/",
+      "ru": "мёд",
+      "ee": "mesi",
+      "ee_2": "mee",
+      "ee_3": "mett"
+    },
+    {
+      "en": "cheese",
+      "en_t": "/tʃiːz/",
+      "ru": "сыр",
+      "ee": "juust",
+      "ee_2": "juustu",
+      "ee_3": "juustu"
+    },
+    {
+      "en": "fruits",
+      "en_t": "/fruːts/",
+      "ru": "фрукты",
+      "ee": "puuviljad",
+      "ee_2": "puuviljade",
+      "ee_3": "puuvilju"
+    },
+    {
+      "en": "vegetables",
+      "en_t": "/ˈvɛdʒtəblz/",
+      "ru": "овощи",
+      "ee": "köögiviljad",
+      "ee_2": "köögiviljade",
+      "ee_3": "köögivilju"
+    },
+    {
+      "en": "ice cream",
+      "en_t": "/aɪs kriːm/",
+      "ru": "мороженое",
+      "ee": "jäätis",
+      "ee_2": "jäätise",
+      "ee_3": "jäätist"
+    },
+    {
+      "en": "mayonnaise",
+      "en_t": "/ˌmeɪəˈneɪz/",
+      "ru": "майонез",
+      "ee": "majonees",
+      "ee_2": "majoneesi",
+      "ee_3": "majoneesi"
+    },
+    {
+      "en": "vegetable oil",
+      "en_t": "/ˈvɛdʒtəbl ɔɪl/",
+      "ru": "растительное масло",
+      "ee": "õli",
+      "ee_2": "õli",
+      "ee_3": "õli"
+    },
+    {
+      "en": "ready-made food",
+      "en_t": "/ˈrɛdi meɪd fuːd/",
+      "ru": "готовая пища",
+      "ee": "valmistoit",
+      "ee_2": "valmistoidu",
+      "ee_3": "valmistoitu"
+    },
+    {
+      "en": "mustard",
+      "en_t": "/ˈmʌstərd/",
+      "ru": "горчица",
+      "ee": "sinep",
+      "ee_2": "sinepi",
+      "ee_3": "sinepit"
+    },
+    {
+      "en": "canned food",
+      "en_t": "/kænd fuːd/",
+      "ru": "консервы",
+      "ee": "konservid",
+      "ee_2": "konservide",
+      "ee_3": "konserve"
+    },
+    {
+      "en": "fish",
+      "en_t": "/fɪʃ/",
+      "ru": "рыба",
+      "ee": "kala",
+      "ee_2": "kala",
+      "ee_3": "kala"
+    },
+    {
+      "en": "sausage",
+      "en_t": "/ˈsɒsɪdʒ/",
+      "ru": "колбаса",
+      "ee": "vorst",
+      "ee_2": "vorsti",
+      "ee_3": "vorsti"
+    },
+    {
+      "en": "meat",
+      "en_t": "/miːt/",
+      "ru": "мясо",
+      "ee": "liha",
+      "ee_2": "liha",
+      "ee_3": "liha"
+    },
+    {
+      "en": "to drink",
+      "en_t": "/tuː drɪŋk/",
+      "ru": "пить",
+      "ee": "jooma",
+      "ee_da": "juua",
+      "ee_mina": "joon"
+    },
+    {
+      "en": "to bring",
+      "en_t": "/tuː brɪŋ/",
+      "ru": "приносить",
+      "ee": "tooma",
+      "ee_da": "tuua",
+      "ee_mina": "toon"
+    },
+    {
+      "en": "to eat",
+      "en_t": "/tuː iːt/",
+      "ru": "есть",
+      "ee": "sööma",
+      "ee_da": "süüa",
+      "ee_mina": "söön"
+    },
+    {
+      "en": "cupboard",
+      "en_t": "/ˈkʌbərd/",
+      "ru": "шкаф",
+      "ee": "kapp",
+      "ee_2": "kapi",
+      "ee_3": "kappi"
+    },
+    {
+      "en": "refrigerator",
+      "en_t": "/rɪˈfrɪdʒəreɪtər/",
+      "ru": "холодильник",
+      "ee": "külmkapp",
+      "ee_2": "külmkapi",
+      "ee_3": "külmkappi"
+    },
+    {
+      "en": "chair",
+      "en_t": "/tʃɛər/",
+      "ru": "стул",
+      "ee": "tool",
+      "ee_2": "tooli",
+      "ee_3": "tooli"
+    },
+    {
+      "en": "shelf",
+      "en_t": "/ʃɛlf/",
+      "ru": "полка",
+      "ee": "riiul",
+      "ee_2": "riiuli",
+      "ee_3": "riiulit"
+    },
+    {
+      "en": "recipe",
+      "en_t": "/ˈrɛsɪpi/",
+      "ru": "рецепт",
+      "ee": "retsept",
+      "ee_2": "retsepti",
+      "ee_3": "retsepti"
+    },
+    {
+      "en": "sauce",
+      "en_t": "/sɔːs/",
+      "ru": "соус",
+      "ee": "kaste",
+      "ee_2": "kastme",
+      "ee_3": "kastet"
+    },
+    {
+      "en": "teaspoon",
+      "en_t": "/ˈtiːspuːn/",
+      "ru": "чайная ложка",
+      "ee": "teelusikas",
+      "ee_2": "teelusika",
+      "ee_3": "teelusikat"
+    },
+    {
+      "en": "tablespoon",
+      "en_t": "/ˈteɪblspuːn/",
+      "ru": "столовая ложка",
+      "ee": "supilusikas",
+      "ee_2": "supilusika",
+      "ee_3": "supilusikat"
+    },
+    {
+      "en": "to ask, to request",
+      "en_t": "/tuː ɑːsk/, /tuː rɪˈkwɛst/",
+      "ru": "просить",
+      "ee": "paluma",
+      "ee_da": "paluda",
+      "ee_mina": "palun"
+    },
+    {
+      "en": "big discounts",
+      "en_t": "/bɪɡ ˈdɪskaʊnts/",
+      "ru": "большие скидки",
+      "ee": "SAH/suur allahindlus"
+    },
+    {
+      "en": "weekend discounts",
+      "en_t": "/ˈwiːkɛnd ˈdɪskaʊnts/",
+      "ru": "скидки в конце недели",
+      "ee": "nädalalõpu pakkumine"
+    },
+    {
+      "en": "good price",
+      "en_t": "/ɡʊd praɪs/",
+      "ru": "хорошая цена",
+      "ee": "hea hind"
+    },
+    {
+      "en": "goods are weighed at the cashier",
+      "en_t": "/ɡʊdz ɑːr weɪd æt ðə ˈkæʃər/",
+      "ru": "товары взвешиваются на кассе",
+      "ee": "kaubad kaalutakse kassas"
+    },
+    {
+      "en": "best before...",
+      "en_t": "/bɛst bɪˈfɔːr/",
+      "ru": "годен до...",
+      "ee": "kõlblik kuni..."
+    },
+    {
+      "en": "pay attention to the price",
+      "en_t": "/peɪ əˈtɛnʃən tuː ðə praɪs/",
+      "ru": "обрати внимание на цену",
+      "ee": "vaata hinda"
+    },
+    {
+      "en": "expiry date has passed",
+      "en_t": "/ɪkˈspaɪəri deɪt hæz pɑːst/",
+      "ru": "срок годности истёк",
+      "ee": "parim enne möödas"
+    },
+    {
+      "en": "please contact the adjacent cashier",
+      "en_t": "/pliːz ˈkɒntækt ði əˈdʒeɪsənt ˈkæʃər/",
+      "ru": "обращайтесь в соседнюю кассу",
+      "ee": "pöörduge kõrvalkassasse"
+    },
+    {
+      "en": "crazy days",
+      "en_t": "/ˈkreɪzi deɪz/",
+      "ru": "сумасшедшие дни",
+      "ee": "hullud päevad"
+    },
+    {
+      "en": "shopping rally",
+      "en_t": "/ˈʃɒpɪŋ ˈræli/",
+      "ru": "ралли покупок",
+      "ee": "osturalli"
+    },
+    {
+      "en": "used batteries and accumulators",
+      "en_t": "/juːzd ˈbætəriz ænd əˈkjuːmjəleɪtərz/",
+      "ru": "используемые батарейки и аккумуляторы",
+      "ee": "kasutatud patareid ja akud"
+    },
+    {
+      "en": "expiry date",
+      "en_t": "/ɪkˈspaɪəri deɪt/",
+      "ru": "срок годности",
+      "ee": "parim enne"
+    },
+    {
+      "en": "dear customers, please take a number",
+      "en_t": "/dɪər ˈkʌstəmərz, pliːz teɪk ə ˈnʌmbər/",
+      "ru": "уважаемые клиенты, возьмите, пожалуйста, номерок",
+      "ee": "head kliendid palun võtke järjekorranumber"
+    },
+    {
+      "en": "I bought at the store",
+      "en_t": "/aɪ bɔːt æt ðə stɔːr/",
+      "ru": "я купил в магазине",
+      "ee": "ostsin poest"
+    },
+    {
+      "en": "I bought at the market",
+      "en_t": "/aɪ bɔːt æt ðə ˈmɑːrkɪt/",
+      "ru": "я купил на рынке",
+      "ee": "ostsin turult"
+    },
+    {
+      "en": "I bought at the cashier",
+      "en_t": "/aɪ bɔːt æt ðə ˈkæʃər/",
+      "ru": "я купил в кассе",
+      "ee": "ostsin kassast"
+    },
+    {
+      "en": "I was, you were, he was, we were, you were, they were, I was not",
+      "en_t": "/aɪ wɒz, ju wɜːr, hi wɒz, wi wɜːr, ju wɜːr, ðeɪ wɜːr, aɪ wɒz nɒt/",
+      "ru": "я был, ты был, он был, мы были, вы были, они были, я не был",
+      "ee": "ma olin, sa olid, ta oli, me olime, te olite, nad olid, ma ei olnud"
+    },
+    {
+      "en": "I came, you came, he came, we came, you came, they came, I didn't come",
+      "en_t": "/aɪ keɪm, ju keɪm, hi keɪm, wi keɪm, ju keɪm, ðeɪ keɪm, aɪ dɪdnt kʌm/",
+      "ru": "я пришёл, ты пришёл, он пришёл, мы пришли, вы пришли, они пришли, я не пришёл",
+      "ee": "ma tulin, sa tulid, ta tuli, me tulime, te tulite, nad tulid, ma ei tulnud"
+    },
+    {
+      "en": "I put, you put, he put, we put, you put, they put, I didn't put",
+      "en_t": "/aɪ pʊt, ju pʊt, hi pʊt, wi pʊt, ju pʊt, ðeɪ pʊt, aɪ dɪdnt pʊt/",
+      "ru": "я положил, ты положил, он положил, мы положили, вы положили, они положили, я не положил",
+      "ee": "ma panin, sa panid, ta pani, me panime, te panite, nad panid, ma ei pannud"
+    },
+    {
+      "en": "I washed, you washed, he washed, we washed, you washed, they washed, I didn't wash",
+      "en_t": "/aɪ wɒʃt, ju wɒʃt, hi wɒʃt, wi wɒʃt, ju wɒʃt, ðeɪ wɒʃt, aɪ dɪdnt wɒʃ/",
+      "ru": "я мыл, ты мыл, он мыл, мы мыли, вы мыли, они мыли, я не мыл",
+      "ee": "ma pesin, sa pesid, ta pesi, me pesime, te pesite, nad pesid, ma ei pesnud"
+    },
+    {
+      "en": "I did, you did, he did, we did, you did, they did, I didn't do",
+      "en_t": "/aɪ dɪd, ju dɪd, hi dɪd, wi dɪd, ju dɪd, ðeɪ dɪd, aɪ dɪdnt duː/",
+      "ru": "я сделал, ты сделал, он сделал, мы сделали, вы сделали, они сделали, я не сделал",
+      "ee": "ma tegin, sa tegid, ta tegi, me tegime, te tegite, nad tegid, ma ei teinud"
+    },
+    {
+      "en": "I saw, you saw, he saw, we saw, you saw, they saw, I didn't see",
+      "en_t": "/aɪ sɔː, ju sɔː, hi sɔː, wi sɔː, ju sɔː, ðeɪ sɔː, aɪ dɪdnt siː/",
+      "ru": "я видел, ты видел, он видел, мы видели, вы видели, они видели, я не видел",
+      "ee": "ma nägin, sa nägid, ta nägi, me nägime, te nägite, nad nägid, ma ei näinud"
+    },
+    {
+      "en": "I drank, you drank, he drank, we drank, you drank, they drank, I didn't drink",
+      "en_t": "/aɪ dræŋk, ju dræŋk, hi dræŋk, wi dræŋk, ju dræŋk, ðeɪ dræŋk, aɪ dɪdnt drɪŋk/",
+      "ru": "я пил, ты пил, он пил, мы пили, вы пили, они пили, я не пил",
+      "ee": "ma jõin, sa jõid, ta jõi, me jõime, te jõite, nad jõid, ma ei joonud"
+    },
+    {
+      "en": "I brought, you brought, he brought, we brought, you brought, they brought, I didn't bring",
+      "en_t": "/aɪ brɔːt, ju brɔːt, hi brɔːt, wi brɔːt, ju brɔːt, ðeɪ brɔːt, aɪ dɪdnt brɪŋ/",
+      "ru": "я принёс, ты принёс, он принёс, мы принесли, вы принесли, они принесли, я не принёс",
+      "ee": "ma tõin, sa tõid, ta tõi, me tõime, te tõite, nad tõid, ma ei toonud"
+    },
+    {
+      "en": "I created, you created, he created, we created, you created, they created, I didn't create",
+      "en_t": "/aɪ kriˈeɪtɪd, ju kriˈeɪtɪd, hi kriˈeɪtɪd, wi kriˈeɪtɪd, ju kriˈeɪtɪd, ðeɪ kriˈeɪtɪd, aɪ dɪdnt kriˈeɪt/",
+      "ru": "я создал, ты создал, он создал, мы создали, вы создали, они создали, я не создал",
+      "ee": "ma lõin, sa lõid, ta lõi, me lõime, te lõite, nad lõid, ma ei loonud"
+    },
+    {
+      "en": "I ate, you ate, he ate, we ate, you ate, they ate, I didn't eat",
+      "en_t": "/aɪ eɪt, ju eɪt, hi eɪt, wi eɪt, ju eɪt, ðeɪ eɪt, aɪ dɪdnt iːt/",
+      "ru": "я ел, ты ел, он ел, мы ели, вы ели, они ели, я не ел",
+      "ee": "ma sõin, sa sõid, ta sõi, me sõime, te sõite, nad sõid, ma ei söönud"
+    },
+    {
+      "en": "I hit, you hit, he hit, we hit, you hit, they hit, I didn't hit",
+      "en_t": "/aɪ hɪt, ju hɪt, hi hɪt, wi hɪt, ju hɪt, ðeɪ hɪt, aɪ dɪdnt hɪt/",
+      "ru": "я ударил, ты ударил, он ударил, мы ударили, вы ударили, они ударили, я не ударил",
+      "ee": "ma lõin, sa lõid, ta lõi, me lõime, te lõite, nad lõid, ma ei löönud"
+    },
+    {
+      "en": "I received, you received, he received, we received, you received, they received, I didn't receive",
+      "en_t": "/aɪ rɪˈsiːvd, ju rɪˈsiːvd, hi rɪˈsiːvd, wi rɪˈsiːvd, ju rɪˈsiːvd, ðeɪ rɪˈsiːvd, aɪ dɪdnt rɪˈsiːv/",
+      "ru": "я получил, ты получил, он получил, мы получили, вы получили, они получили, я не получил",
+      "ee": "ma sain, sa said, ta sai, me saime, te saite, nad said, ma ei saanud"
+    },
+    {
+      "en": "I stayed, you stayed, he stayed, we stayed, you stayed, they stayed, I didn't stay",
+      "en_t": "/aɪ steɪd, ju steɪd, hi steɪd, wi steɪd, ju steɪd, ðeɪ steɪd, aɪ dɪdnt steɪ/",
+      "ru": "я остался, ты остался, он остался, мы остались, вы остались, они остались, я не остался",
+      "ee": "ma jäin, sa jäid, ta jäi, me jäime, te jäite, nad jäid, ma ei jäänud"
+    },
+    {
+      "en": "I had to, you had to, he had to, we had to, you had to, they had to, I didn't have to",
+      "en_t": "/aɪ hæd tuː, ju hæd tuː, hi hæd tuː, wi hæd tuː, ju hæd tuː, ðeɪ hæd tuː, aɪ dɪdnt hæv tuː/",
+      "ru": "я должен был, ты должен был, он должен был, мы должны были, вы должны были, они должны были, я не должен был",
+      "ee": "ma pidin, sa pidid, ta pidi, me pidime, te pidite, nad pidid, ma ei pidanud"
+    },
+    {
+      "en": "I celebrated, you celebrated, he celebrated, we celebrated, you celebrated, they celebrated, I didn't celebrate",
+      "en_t": "/aɪ ˈsɛlɪbreɪtɪd, ju ˈsɛlɪbreɪtɪd, hi ˈsɛlɪbreɪtɪd, wi ˈsɛlɪbreɪtɪd, ju ˈsɛlɪbreɪtɪd, ðeɪ ˈsɛlɪbreɪtɪd, aɪ dɪdnt ˈsɛlɪbreɪt/",
+      "ru": "я отмечал, ты отмечал, он отмечал, мы отмечали, вы отмечали, они отмечали, я не отмечал",
+      "ee": "ma pidasin, sa pidasid, ta pidas, me pidasime, te pidasite, nad pidasid, ma ei pidanud"
+    }
+  ]
+}

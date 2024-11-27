@@ -1,0 +1,627 @@
+{
+  "lesson": "Tere 16",
+  "date": "2024-11-26",
+  "language": "ee",
+  "words": [
+    {
+      "en": "kefir",
+      "en_t": "/kəˈfɪər/",
+      "ru": "кефир",
+      "ee": "keefir",
+      "ee_2": "keefiri",
+      "ee_3": "keefirit"
+    },
+    {
+      "en": "milk",
+      "en_t": "/mɪlk/",
+      "ru": "молоко",
+      "ee": "piim",
+      "ee_2": "piima",
+      "ee_3": "piima"
+    },
+    {
+      "en": "syrup",
+      "en_t": "/ˈsɪrəp/",
+      "ru": "сироп",
+      "ee": "siirup",
+      "ee_2": "siirupi",
+      "ee_3": "siirupit"
+    },
+    {
+      "en": "lemonade",
+      "en_t": "/ˌlɛməˈneɪd/",
+      "ru": "лимонад",
+      "ee": "limonaad",
+      "ee_2": "limonaadi",
+      "ee_3": "limonaadi"
+    },
+    {
+      "en": "fruit drink",
+      "en_t": "/fruːt drɪŋk/",
+      "ru": "морс",
+      "ee": "morss",
+      "ee_2": "morsi",
+      "ee_3": "morssi"
+    },
+    {
+      "en": "kvass",
+      "en_t": "/kvɑːs/",
+      "ru": "квас",
+      "ee": "kali",
+      "ee_2": "kali",
+      "ee_3": "kalja"
+    },
+    {
+      "en": "bun",
+      "en_t": "/bʌn/",
+      "ru": "булочка",
+      "ee": "saiake",
+      "ee_2": "saiakese",
+      "ee_3": "saiakest"
+    },
+    {
+      "en": "pastry",
+      "en_t": "/ˈpeɪstri/",
+      "ru": "пирожное",
+      "ee": "kook",
+      "ee_2": "koogi",
+      "ee_3": "kooki"
+    },
+    {
+      "en": "donut",
+      "en_t": "/ˈdoʊnʌt/",
+      "ru": "пончик",
+      "ee": "sõõrik",
+      "ee_2": "sõõriku",
+      "ee_3": "sõõrikut"
+    },
+    {
+      "en": "pie",
+      "en_t": "/paɪ/",
+      "ru": "пирожок",
+      "ee": "pirukas",
+      "ee_2": "piruka",
+      "ee_3": "pirukat"
+    },
+    {
+      "en": "pancake",
+      "en_t": "/ˈpænkeɪk/",
+      "ru": "блин",
+      "ee": "pannkook",
+      "ee_2": "pannkoogi",
+      "ee_3": "pannkooki"
+    },
+    {
+      "en": "sausage (thick)",
+      "en_t": "/ˈsɒsɪdʒ/",
+      "ru": "сарделька",
+      "ee": "sardell",
+      "ee_2": "sardelli",
+      "ee_3": "sardelli"
+    },
+    {
+      "en": "ham",
+      "en_t": "/hæm/",
+      "ru": "ветчина",
+      "ee": "sink",
+      "ee_2": "singi",
+      "ee_3": "sinki"
+    },
+    {
+      "en": "beef",
+      "en_t": "/biːf/",
+      "ru": "говядина",
+      "ee": "veiseliha",
+      "ee_2": "veiseliha",
+      "ee_3": "veiseliha"
+    },
+    {
+      "en": "beef (alternative)",
+      "en_t": "/biːf/",
+      "ru": "говядина (другой вариант)",
+      "ee": "loomaliha",
+      "ee_2": "loomaliha",
+      "ee_3": "loomaliha"
+    },
+    {
+      "en": "pork",
+      "en_t": "/pɔːrk/",
+      "ru": "свинина",
+      "ee": "sealiha",
+      "ee_2": "sealiha",
+      "ee_3": "sealiha"
+    },
+    {
+      "en": "sausage",
+      "en_t": "/ˈsɒsɪdʒ/",
+      "ru": "сосиска",
+      "ee": "viiner",
+      "ee_2": "viineri",
+      "ee_3": "viinerit"
+    },
+    {
+      "en": "chicken",
+      "en_t": "/ˈtʃɪkɪn/",
+      "ru": "курица",
+      "ee": "kana",
+      "ee_2": "kana",
+      "ee_3": "kana"
+    },
+    {
+      "en": "minced meat",
+      "en_t": "/mɪnst miːt/",
+      "ru": "фарш",
+      "ee": "hakkliha",
+      "ee_2": "hakkliha",
+      "ee_3": "hakkliha"
+    },
+    {
+      "en": "sour cream",
+      "en_t": "/saʊər kriːm/",
+      "ru": "сметана",
+      "ee": "hapukoor",
+      "ee_2": "hapukoore",
+      "ee_3": "hapukoort"
+    },
+    {
+      "en": "cottage cheese",
+      "en_t": "/ˈkɒtɪdʒ tʃiːz/",
+      "ru": "зернистый творог",
+      "ee": "kodujuust",
+      "ee_2": "kodujuustu",
+      "ee_3": "kodujuustu"
+    },
+    {
+      "en": "whipped cream (35%)",
+      "en_t": "/wɪpt kriːm/",
+      "ru": "взбитые сливки (сливки 35%)",
+      "ee": "vahukoor",
+      "ee_2": "vahukoore",
+      "ee_3": "vahukoort"
+    },
+    {
+      "en": "curd snack",
+      "en_t": "/kɜːrd snæk/",
+      "ru": "сырок",
+      "ee": "kohuke",
+      "ee_2": "kohukese",
+      "ee_3": "kohukest"
+    },
+    {
+      "en": "curd",
+      "en_t": "/kɜːrd/",
+      "ru": "творог",
+      "ee": "kohupiim",
+      "ee_2": "kohupiima",
+      "ee_3": "kohupiima"
+    },
+    {
+      "en": "cream (10%)",
+      "en_t": "/kriːm/",
+      "ru": "сливки 10%",
+      "ee": "rõõsk koor / kohvikoor",
+      "ee_2": "rõõsa koore / kohvikoore",
+      "ee_3": "rõõska koort / kohvikoort"
+    },
+    {
+      "en": "Baltic herring",
+      "en_t": "/ˈbɔːltɪk ˈhɛrɪŋ/",
+      "ru": "салака",
+      "ee": "räim",
+      "ee_2": "räime",
+      "ee_3": "räime"
+    },
+    {
+      "en": "salmon",
+      "en_t": "/ˈsæmən/",
+      "ru": "лосось",
+      "ee": "lõhe",
+      "ee_2": "lõhe",
+      "ee_3": "lõhet"
+    },
+    {
+      "en": "trout",
+      "en_t": "/traʊt/",
+      "ru": "форель",
+      "ee": "forell",
+      "ee_2": "forelli",
+      "ee_3": "forelli"
+    },
+    {
+      "en": "caviar",
+      "en_t": "/ˈkævɪɑːr/",
+      "ru": "икра",
+      "ee": "kalamari",
+      "ee_2": "kalamarja",
+      "ee_3": "kalamarja"
+    },
+    {
+      "en": "herring",
+      "en_t": "/ˈhɛrɪŋ/",
+      "ru": "селёдка",
+      "ee": "heeringas",
+      "ee_2": "heeringa",
+      "ee_3": "heeringat"
+    },
+    {
+      "en": "sprat",
+      "en_t": "/spræt/",
+      "ru": "килька",
+      "ee": "kilu",
+      "ee_2": "kilu",
+      "ee_3": "kilu"
+    },
+    {
+      "en": "watermelon",
+      "en_t": "/ˈwɔːtərmɛlən/",
+      "ru": "арбуз",
+      "ee": "arbuus",
+      "ee_2": "arbuusi",
+      "ee_3": "arbuusi"
+    },
+    {
+      "en": "cranberry",
+      "en_t": "/ˈkrænbəri/",
+      "ru": "клюква",
+      "ee": "jõhvikas",
+      "ee_2": "jõhvika",
+      "ee_3": "jõhvikat"
+    },
+    {
+      "en": "bilberry",
+      "en_t": "/ˈbɪlbəri/",
+      "ru": "черника",
+      "ee": "mustikas",
+      "ee_2": "mustika",
+      "ee_3": "mustikat"
+    },
+    {
+      "en": "raspberry",
+      "en_t": "/ˈræzbəri/",
+      "ru": "малина",
+      "ee": "vaarikas",
+      "ee_2": "vaarika",
+      "ee_3": "vaarikat"
+    },
+    {
+      "en": "strawberry",
+      "en_t": "/ˈstrɔːbəri/",
+      "ru": "клубника",
+      "ee": "maasikas",
+      "ee_2": "maasika",
+      "ee_3": "maasikat"
+    },
+    {
+      "en": "wild strawberry",
+      "en_t": "/waɪld ˈstrɔːbəri/",
+      "ru": "земляника",
+      "ee": "metsmaasikas",
+      "ee_2": "metsmaasika",
+      "ee_3": "metsmaasikat"
+    },
+    {
+      "en": "sweet cherry",
+      "en_t": "/swiːt ˈtʃɛri/",
+      "ru": "черешня",
+      "ee": "murel",
+      "ee_2": "mureli",
+      "ee_3": "murelit"
+    },
+    {
+      "en": "currant",
+      "en_t": "/ˈkʌrənt/",
+      "ru": "смородина",
+      "ee": "sõstar",
+      "ee_2": "sõstra",
+      "ee_3": "sõstart"
+    },
+    {
+      "en": "cherry",
+      "en_t": "/ˈtʃɛri/",
+      "ru": "вишня",
+      "ee": "kirss",
+      "ee_2": "kirsi",
+      "ee_3": "kirssi"
+    },
+    {
+      "en": "orange",
+      "en_t": "/ˈɔːrɪndʒ/",
+      "ru": "апельсин",
+      "ee": "apelsin",
+      "ee_2": "apelsini",
+      "ee_3": "apelsini"
+    },
+    {
+      "en": "lemon",
+      "en_t": "/ˈlɛmən/",
+      "ru": "лимон",
+      "ee": "sidrun",
+      "ee_2": "sidruni",
+      "ee_3": "sidrunit"
+    },
+    {
+      "en": "apple",
+      "en_t": "/ˈæpəl/",
+      "ru": "яблоко",
+      "ee": "õun",
+      "ee_2": "õuna",
+      "ee_3": "õuna"
+    },
+    {
+      "en": "pear",
+      "en_t": "/pɛər/",
+      "ru": "груша",
+      "ee": "pirn",
+      "ee_2": "pirni",
+      "ee_3": "pirni"
+    },
+    {
+      "en": "product / food",
+      "en_t": "/ˈprɒdʌkt/ /fuːd/",
+      "ru": "продукт / еда",
+      "ee": "toode / toit",
+      "ee_2": "toote / toidu",
+      "ee_3": "toodet / toitu"
+    },
+    {
+      "en": "banana",
+      "en_t": "/bəˈnɑːn/",
+      "ru": "банан",
+      "ee": "banaan",
+      "ee_2": "banaani",
+      "ee_3": "banaani"
+    },
+    {
+      "en": "cabbage",
+      "en_t": "/ˈkæbɪdʒ/",
+      "ru": "капуста",
+      "ee": "kapsas",
+      "ee_2": "kapsa",
+      "ee_3": "kapsast"
+    },
+    {
+      "en": "pumpkin",
+      "en_t": "/ˈpʌmpkɪn/",
+      "ru": "тыква",
+      "ee": "kõrvits",
+      "ee_2": "kõrvitsa",
+      "ee_3": "kõrvitsat"
+    },
+    {
+      "en": "cucumber",
+      "en_t": "/ˈkjuːkʌmbər/",
+      "ru": "огурец",
+      "ee": "kurk",
+      "ee_2": "kurgi",
+      "ee_3": "kurki"
+    },
+    {
+      "en": "tomato",
+      "en_t": "/təˈmeɪtoʊ/",
+      "ru": "помидор",
+      "ee": "tomat",
+      "ee_2": "tomati",
+      "ee_3": "tomatit"
+    },
+    {
+      "en": "potato",
+      "en_t": "/pəˈteɪtoʊ/",
+      "ru": "картофель",
+      "ee": "kartul",
+      "ee_2": "kartuli",
+      "ee_3": "kartulit"
+    },
+    {
+      "en": "carrot",
+      "en_t": "/ˈkærət/",
+      "ru": "морковь",
+      "ee": "porgand",
+      "ee_2": "porgandi",
+      "ee_3": "porgandit"
+    },
+    {
+      "en": "to taste (like)",
+      "en_t": "/tuː teɪst/",
+      "ru": "нравится (по вкусу)",
+      "ee": "maitsema",
+      "ee_da": "maitsta",
+      "ee_mina": "maitsen"
+    },
+    {
+      "en": "beetroot",
+      "en_t": "/ˈbiːtruːt/",
+      "ru": "свёкла",
+      "ee": "peet",
+      "ee_2": "peedi",
+      "ee_3": "peeti"
+    },
+    {
+      "en": "onion",
+      "en_t": "/ˈʌnjən/",
+      "ru": "лук",
+      "ee": "sibul",
+      "ee_2": "sibula",
+      "ee_3": "sibulat"
+    },
+    {
+      "en": "baking soda",
+      "en_t": "/ˈbeɪkɪŋ ˈsoʊdə/",
+      "ru": "сода",
+      "ee": "sooda",
+      "ee_2": "sooda",
+      "ee_3": "soodat"
+    },
+    {
+      "en": "garlic",
+      "en_t": "/ˈɡɑːrlɪk/",
+      "ru": "чеснок",
+      "ee": "küüslauk",
+      "ee_2": "küüslaugu",
+      "ee_3": "küüslauku"
+    },
+    {
+      "en": "I think that...",
+      "en_t": "/aɪ θɪŋk ðæt/",
+      "ru": "Я считаю, что...",
+      "ee": "Ma arvan, et..."
+    },
+    {
+      "en": "pepper",
+      "en_t": "/ˈpɛpər/",
+      "ru": "перец",
+      "ee": "pipar",
+      "ee_2": "pipra",
+      "ee_3": "pipart"
+    },
+    {
+      "en": "glass",
+      "en_t": "/ɡlɑːs/",
+      "ru": "стакан, стекло",
+      "ee": "klaas",
+      "ee_2": "klaasi",
+      "ee_3": "klaasi"
+    },
+    {
+      "en": "sandwich",
+      "en_t": "/ˈsænwɪtʃ/",
+      "ru": "бутерброд",
+      "ee": "võileib",
+      "ee_2": "võileiva",
+      "ee_3": "võileiba"
+    },
+    {
+      "en": "ice",
+      "en_t": "/aɪs/",
+      "ru": "лёд",
+      "ee": "jää",
+      "ee_2": "jää",
+      "ee_3": "jääd"
+    },
+    {
+      "en": "train",
+      "en_t": "/treɪn/",
+      "ru": "поезд",
+      "ee": "rong",
+      "ee_2": "rongi",
+      "ee_3": "rongi"
+    },
+    {
+      "en": "plane",
+      "en_t": "/pleɪn/",
+      "ru": "самолёт",
+      "ee": "lennuk",
+      "ee_2": "lennuki",
+      "ee_3": "lennukit"
+    },
+    {
+      "en": "gas",
+      "en_t": "/ɡæs/",
+      "ru": "газ",
+      "ee": "gaas",
+      "ee_2": "gaasi",
+      "ee_3": "gaasi"
+    },
+    {
+      "en": "chocolate",
+      "en_t": "/ˈtʃɒklət/",
+      "ru": "шоколад",
+      "ee": "šokolaad",
+      "ee_2": "šokolaadi",
+      "ee_3": "šokolaadi"
+    },
+    {
+      "en": "tram",
+      "en_t": "/træm/",
+      "ru": "трамвай",
+      "ee": "tramm",
+      "ee_2": "trammi",
+      "ee_3": "trammi"
+    },
+    {
+      "en": "trolleybus",
+      "en_t": "/ˈtrɒlibʌs/",
+      "ru": "троллейбус",
+      "ee": "troll",
+      "ee_2": "trolli",
+      "ee_3": "trolli"
+    },
+    {
+      "en": "on foot",
+      "en_t": "/ɒn fʊt/",
+      "ru": "пешком",
+      "ee": "jalgsi"
+    },
+    {
+      "en": "I like honey",
+      "en_t": "/aɪ laɪk ˈhʌni/",
+      "ru": "Мне нравится мёд",
+      "ee": "Mulle maitseb mesi"
+    },
+    {
+      "en": "I like going to the store",
+      "en_t": "/aɪ laɪk ˈɡoʊɪŋ tuː ðə stɔːr/",
+      "ru": "Мне нравится ходить в магазин",
+      "ee": "Mulle meeldib poes käia"
+    },
+    {
+      "en": "With whom?",
+      "en_t": "/wɪð huːm/",
+      "ru": "С кем?",
+      "ee": "Kellega?"
+    },
+    {
+      "en": "With me",
+      "en_t": "/wɪð miː/",
+      "ru": "Со мной",
+      "ee": "Minuga"
+    },
+    {
+      "en": "With what?",
+      "en_t": "/wɪð wɒt/",
+      "ru": "С чем?",
+      "ee": "Millega?"
+    },
+    {
+      "en": "With sugar",
+      "en_t": "/wɪð ˈʃʊɡər/",
+      "ru": "С сахаром",
+      "ee": "Suhkruga"
+    },
+    {
+      "en": "By car",
+      "en_t": "/baɪ kɑːr/",
+      "ru": "На машине",
+      "ee": "Autoga"
+    },
+    {
+      "en": "To talk on the phone",
+      "en_t": "/tuː tɔːk ɒn ðə fəʊn/",
+      "ru": "Говорить по телефону",
+      "ee": "Telefoniga rääkima"
+    },
+    {
+      "en": "Without whom?",
+      "en_t": "/wɪˈðaʊt huːm/",
+      "ru": "Без кого?",
+      "ee": "Kelleta?"
+    },
+    {
+      "en": "Without me",
+      "en_t": "/wɪˈðaʊt miː/",
+      "ru": "Без меня",
+      "ee": "Minuta"
+    },
+    {
+      "en": "Without what?",
+      "en_t": "/wɪˈðaʊt wɒt/",
+      "ru": "Без чего?",
+      "ee": "Milleta?"
+    },
+    {
+      "en": "Without cream",
+      "en_t": "/wɪˈðaʊt kriːm/",
+      "ru": "Без сливок",
+      "ee": "Kooreta"
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "lesson": "Tere 17",
+  "date": "2024-11-28",
+  "language": "ee",
+  "words": [
+    {
+      "en": "salad",
+      "en_t": "/ˈsæləd/",
+      "ru": "салат",
+      "ee": "salat",
+      "ee_2": "salati",
+      "ee_3": "salatit"
+    },
+    {
+      "en": "mixed juice",
+      "en_t": "/mɪkst dʒuːs/",
+      "ru": "смешанный сок",
+      "ee": "segumahl",
+      "ee_2": "segumahla",
+      "ee_3": "segumahla"
+    },
+    {
+      "en": "finished",
+      "en_t": "/ˈfɪnɪʃt/",
+      "ru": "закончилось",
+      "ee": "otsas"
+    },
+    {
+      "en": "warm",
+      "en_t": "/wɔːm/",
+      "ru": "тёплый",
+      "ee": "soe",
+      "ee_2": "sooja",
+      "ee_3": "sooja"
+    },
+    {
+      "en": "to pay for someone",
+      "en_t": "/tuː peɪ fɔːr ˈsʌmwʌn/",
+      "ru": "платить за кого-то",
+      "ee": "välja tegema",
+      "ee_da": "välja teha",
+      "ee_mina": "teen välja"
+    },
+    {
+      "en": "tip",
+      "en_t": "/tɪp/",
+      "ru": "чаевые",
+      "ee": "jootraha",
+      "ee_2": "jootraha",
+      "ee_3": "jootraha"
+    },
+    {
+      "en": "to leave",
+      "en_t": "/tuː liːv/",
+      "ru": "оставлять",
+      "ee": "jätma",
+      "ee_da": "jätta",
+      "ee_mina": "jätan"
+    },
+    {
+      "en": "with pleasure",
+      "en_t": "/wɪð ˈplɛʒər/",
+      "ru": "с удовольствием",
+      "ee": "hea meelega"
+    },
+    {
+      "en": "rather",
+      "en_t": "/ˈrɑːðər/",
+      "ru": "скорее",
+      "ee": "pigem"
+    },
+    {
+      "en": "toilet",
+      "en_t": "/ˈtɔɪlət/",
+      "ru": "туалет",
+      "ee": "tualett",
+      "ee_2": "tualeti",
+      "ee_3": "tualetti"
+    },
+    {
+      "en": "toilet (alternative)",
+      "en_t": "/ˈtɔɪlət/",
+      "ru": "туалет (другой вариант)",
+      "ee": "WC",
+      "ee_2": "WC",
+      "ee_3": "WC-d"
+    },
+    {
+      "en": "to sit",
+      "en_t": "/tuː sɪt/",
+      "ru": "сидеть",
+      "ee": "istuma",
+      "ee_da": "istuda",
+      "ee_mina": "istun"
+    },
+    {
+      "en": "offer of the day",
+      "en_t": "/ˈɒfər əv ðə deɪ/",
+      "ru": "предложение дня",
+      "ee": "päevapakkumine",
+      "ee_2": "päevapakkumise",
+      "ee_3": "päevapakkumist"
+    },
+    {
+      "en": "roast (main course)",
+      "en_t": "/rəʊst/",
+      "ru": "жаркое (второе блюдо)",
+      "ee": "praad",
+      "ee_2": "prae",
+      "ee_3": "praadi"
+    },
+    {
+      "en": "house wine",
+      "en_t": "/haʊs waɪn/",
+      "ru": "вино данного заведения",
+      "ee": "maja vein",
+      "ee_2": "maja veini",
+      "ee_3": "maja veini"
+    },
+    {
+      "en": "shot",
+      "en_t": "/ʃɒt/",
+      "ru": "стопка",
+      "ee": "pits",
+      "ee_2": "pitsi",
+      "ee_3": "pitsi"
+    },
+    {
+      "en": "centiliter",
+      "en_t": "/ˈsɛntɪliːtər/",
+      "ru": "сантилитр",
+      "ee": "sentiliiter",
+      "ee_2": "sentiliitri",
+      "ee_3": "sentiliitrit"
+    },
+    {
+      "en": "together",
+      "en_t": "/təˈɡɛðər/",
+      "ru": "вместе",
+      "ee": "koos"
+    },
+    {
+      "en": "separately",
+      "en_t": "/ˈsɛpərətli/",
+      "ru": "отдельно",
+      "ee": "eraldi"
+    },
+    {
+      "en": "Visit us again",
+      "en_t": "/ˈvɪzɪt ʌs əˈɡɛn/",
+      "ru": "Посетите нас ещё",
+      "ee": "Külastage meid jälle"
+    },
+    {
+      "en": "pizza",
+      "en_t": "/ˈpiːtsə/",
+      "ru": "пицца",
+      "ee": "pitsa",
+      "ee_2": "pitsa",
+      "ee_3": "pitsat"
+    },
+    {
+      "en": "to take away",
+      "en_t": "/tuː teɪk əˈweɪ/",
+      "ru": "с собой",
+      "ee": "kaasa"
+    },
+    {
+      "en": "I would like, you would like, he would like",
+      "en_t": "/aɪ wʊd laɪk, ju wʊd laɪk, hi wʊd laɪk/",
+      "ru": "Я хотел бы, ты хотел бы, он хотел бы",
+      "ee": "Ma tahaks, sa tahaks, ta tahaks"
+    },
+    {
+      "en": "I would not like, you would not like, he would not like",
+      "en_t": "/aɪ wʊd nɒt laɪk, ju wʊd nɒt laɪk, hi wʊd nɒt laɪk/",
+      "ru": "Я не хотел бы, ты не хотел бы, он не хотел бы",
+      "ee": "Ma ei tahaks, sa ei tahaks, ta ei tahaks"
+    }
+  ]
+}
