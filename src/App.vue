@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    {{ telegram }}
     <Header @settingsClicked="showSettings = !showSettings"/>
     <main v-if="allLoaded">
       <RouterView v-if="!showSettings"
@@ -33,7 +34,8 @@ export default {
   data () {
     return {
       showSettings: false,
-      allLoaded: false
+      allLoaded: false,
+      telegram: window.Telegram?.WebApp
     }
   },
   computed: {
