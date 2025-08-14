@@ -1,0 +1,705 @@
+{
+  "lesson": "B1 õppik 2 teema 1",
+"date": "2025-02-01",
+"language": "ee",
+"words": [
+{
+"en": "virtue",
+"en_t": "/ˈvɜːtʃuː/",
+"ru": "добродетель",
+"ee": "voorus",
+"ee_2": "vooruse",
+"ee_3": "voorust",
+"ee_p": "voorused",
+"ee_p2": "vooruste",
+"ee_p3": "voorusi"
+},
+{
+"en": "mostly",
+"en_t": "/ˈmoʊstli/",
+"ru": "в основном",
+"ee": "enamasti"
+},
+{
+"en": "embarrassing to say",
+"en_t": "/ɪmˈbærəsɪŋ tə seɪ/",
+"ru": "неловко говорить",
+"ee": "piinlik öelda"
+},
+{
+"en": "command",
+"en_t": "/kəˈmɑːnd/",
+"ru": "приказ",
+"ee": "käsk",
+"ee_2": "käsu",
+"ee_3": "käsku",
+"ee_p": "käsud",
+"ee_p2": "käskude",
+"ee_p3": "käske"
+},
+{
+"en": "commands and requests",
+"en_t": "/kəˈmɑːndz ənd rɪˈkwɛsts/",
+"ru": "приказы и просьбы",
+"ee": "käsud ja palved"
+},
+{
+"en": "request",
+"en_t": "/rɪˈkwɛst/",
+"ru": "просьба; молитва",
+"ee": "palve",
+"ee_2": "palve",
+"ee_3": "palvet",
+"ee_p": "palved",
+"ee_p2": "palvete",
+"ee_p3": "palveid"
+},
+{
+"en": "what do you mean?",
+"en_t": "/wɒt dʊ juː miːn/",
+"ru": "в каком смысле?",
+"ee": "Mis mõttes?"
+},
+{
+"en": "pigsty",
+"en_t": "/ˈpɪɡstaɪ/",
+"ru": "свинарник",
+"ee": "seapesa",
+"ee_2": "seapesa",
+"ee_3": "seapesa",
+"ee_p": "seapesad",
+"ee_p2": "seapesade",
+"ee_p3": "seapesi"
+},
+{
+"en": "pleasant",
+"en_t": "/ˈplɛzənt/",
+"ru": "приятный",
+"ee": "mõnus"
+},
+{
+"en": "front-seat passenger",
+"en_t": "/ˈfrʌnt siːt ˈpæsɪndʒər/",
+"ru": "пассажир на переднем сиденье",
+"ee": "kõrvalistuja",
+"ee_2": "kõrvalistuja",
+"ee_3": "kõrvalistujat",
+"ee_p": "kõrvalistujad",
+"ee_p2": "kõrvalistujate",
+"ee_p3": "kõrvalistujaid"
+},
+{
+"en": "motto",
+"en_t": "/ˈmɒtəʊ/",
+"ru": "девиз",
+"ee": "moto",
+"ee_2": "moto",
+"ee_3": "motot",
+"ee_p": "motod",
+"ee_p2": "motode",
+"ee_p3": "motosid"
+},
+{
+"en": "properly",
+"en_t": "/ˈprɒpəli/",
+"ru": "как следует",
+"ee": "korralikult"
+},
+{
+"en": "challenge",
+"en_t": "/ˈtʃælɪndʒ/",
+"ru": "вызов; задача",
+"ee": "väljakutse",
+"ee_2": "väljakutse",
+"ee_3": "väljakutset",
+"ee_p": "väljakutsed",
+"ee_p2": "väljakutsete",
+"ee_p3": "väljakutseid"
+},
+{
+"en": "The wise don’t rush",
+"en_t": "/ðə waɪz doʊnt rʌʃ/",
+"ru": "умный не спешит",
+"ee": "Tark ei torma"
+},
+{
+"en": "obstacle",
+"en_t": "/ˈɒbstəkl/",
+"ru": "препятствие",
+"ee": "takistus",
+"ee_2": "takistuse",
+"ee_3": "takistust",
+"ee_p": "takistused",
+"ee_p2": "takistuste",
+"ee_p3": "takistusi"
+},
+{
+"en": "annoying",
+"en_t": "/əˈnɔɪɪŋ/",
+"ru": "надоедливый",
+"ee": "tüütu"
+},
+{
+"en": "overweight",
+"en_t": "/ˌoʊvərˈweɪt/",
+"ru": "лишний вес",
+"ee": "ülekaal",
+"ee_2": "ülekaalu",
+"ee_3": "ülekaalu"
+},
+{
+"en": "more often",
+"en_t": "/mɔːr ˈɒfən/",
+"ru": "чаще",
+"ee": "sagedamini"
+},
+{
+"en": "impossible (plural)",
+"en_t": "/ɪmˈpɒsəbl/",
+"ru": "невозможные",
+"ee": "võimatud"
+},
+{
+"en": "cartwheel",
+"en_t": "/ˈkɑːrtwiːl/",
+"ru": "колесо (акробатический элемент)",
+"ee": "hundiratas",
+"ee_2": "hundiratta",
+"ee_3": "hundiratast",
+"ee_p": "hundirattad",
+"ee_p2": "hundirataste",
+"ee_p3": "hundirattaid"
+},
+{
+"en": "diary",
+"en_t": "/ˈdaɪəri/",
+"ru": "дневник",
+"ee": "päevik",
+"ee_2": "päeviku",
+"ee_3": "päevikut",
+"ee_p": "päevikud",
+"ee_p2": "päevikute",
+"ee_p3": "päevikuid"
+},
+{
+"en": "in turn; alternately",
+"en_t": "/ɪn tɜːrn; ˈɔːltərnətli/",
+"ru": "по очереди",
+"ee": "kordamööda"
+},
+{
+"en": "to regret",
+"en_t": "/tə rɪˈɡrɛt/",
+"ru": "сожалеть",
+"ee": "kahetsema",
+"ee_da": "kahetseda",
+"ee_mina": "kahetsen",
+"ee_past_mina": "kahetsesin",
+"ee_past_tema": "kahetses",
+"ee_past_neg": "ei kahetsenud"
+},
+{
+"en": "a little; slightly",
+"en_t": "/ə ˈlɪtl; ˈslaɪtli/",
+"ru": "чуть-чуть; немного",
+"ee": "pisut"
+},
+{
+"en": "I felt bad in the morning",
+"en_t": "/aɪ fɛlt bæd ɪn ðə ˈmɔːrnɪŋ/",
+"ru": "Мне утром было плохо",
+"ee": "Mul oli hommikul paha olla"
+},
+{
+"en": "unexpectedly",
+"en_t": "/ˌʌnɪkˈspɛktɪdli/",
+"ru": "неожиданно",
+"ee": "ootamatult"
+},
+{
+"en": "former",
+"en_t": "/ˈfɔːrmər/",
+"ru": "бывший",
+"ee": "endine"
+},
+{
+"en": "conversation",
+"en_t": "/ˌkɒnvəˈseɪʃn/",
+"ru": "беседа; разговор",
+"ee": "vestlus",
+"ee_2": "vestluse",
+"ee_3": "vestlust",
+"ee_p": "vestlused",
+"ee_p2": "vestluste",
+"ee_p3": "vestlusi"
+},
+{
+"en": "In your place I would call the man",
+"en_t": "/ɪn jɔːr pleɪs aɪ wʊd kɔːl ðə mæn/",
+"ru": "На твоём месте я бы позвонил мужчине",
+"ee": "Minu sinu asemel helistaksin mehele"
+},
+{
+"en": "loud music",
+"en_t": "/laʊd ˈmjuːzɪk/",
+"ru": "громкая музыка",
+"ee": "vali muusika"
+},
+{
+"en": "He/She is in trouble",
+"en_t": "/hiː ɪz ɪn ˈtrʌbl/",
+"ru": "Он/Она в беде",
+"ee": "Ta hädas on"
+},
+{
+"en": "great wealth",
+"en_t": "/ɡreɪt wɛlθ/",
+"ru": "большое богатство",
+"ee": "suur rikkus"
+},
+{
+"en": "soft drink",
+"en_t": "/sɒft drɪŋk/",
+"ru": "безалкогольный напиток",
+"ee": "karastusjook",
+"ee_2": "karastusjoogi",
+"ee_3": "karastusjooki",
+"ee_p": "karastusjoogid",
+"ee_p2": "karastusjookide",
+"ee_p3": "karastusjooke"
+},
+{
+"en": "naughty dog",
+"en_t": "/ˈnɔːti dɒɡ/",
+"ru": "шалый (непослушный) пёс",
+"ee": "ulakas koer"
+},
+{
+"en": "frugal lifestyle",
+"en_t": "/ˈfruːɡl ˈlaɪfstaɪl/",
+"ru": "экономичный образ жизни",
+"ee": "säästlik eluviis"
+},
+{
+"en": "quarrelsome neighbor",
+"en_t": "/ˈkwɒrəlsəm ˈneɪbər/",
+"ru": "склочная соседка",
+"ee": "kiuslik naaber"
+},
+{
+"en": "consumption",
+"en_t": "/kənˈsʌmpʃn/",
+"ru": "потребление",
+"ee": "tarbimine",
+"ee_2": "tarbimise",
+"ee_3": "tarbimist",
+"ee_p": "tarbimised",
+"ee_p2": "tarbimiste",
+"ee_p3": "tarbimisi"
+},
+{
+"en": "disobedient",
+"en_t": "/ˌdɪsəˈbiːdiənt/",
+"ru": "непослушный",
+"ee": "sõnakuulmatu"
+},
+
+{
+"en": "to whine",
+"en_t": "/tuː waɪn/",
+"ru": "ныть",
+"ee": "virisema",
+"ee_da": "viriseda",
+"ee_mina": "virisen",
+"ee_past_mina": "virisesin",
+"ee_past_tema": "virises",
+"ee_past_neg": "ei virisenud"
+},
+{
+"en": "to complain",
+"en_t": "/tuː kəmˈpleɪn/",
+"ru": "жаловаться",
+"ee": "kurtma",
+"ee_da": "kurta",
+"ee_mina": "kurdan",
+"ee_past_mina": "kurtsin",
+"ee_past_tema": "kurtis",
+"ee_past_neg": "ei kurtnud"
+},
+{
+"en": "to step forward",
+"en_t": "/tuː stɛp ˈfɔːrwərd/",
+"ru": "шагнуть вперёд",
+"ee": "edasi astuma",
+"ee_da": "edasi astuda",
+"ee_mina": "astun edasi",
+"ee_past_mina": "astusin edasi",
+"ee_past_tema": "astus edasi",
+"ee_past_neg": "ei astunud edasi"
+},
+{
+"en": "to keep; to hold",
+"en_t": "/tuː kiːp; tuː hoʊld/",
+"ru": "держать; сохранять",
+"ee": "hoidma",
+"ee_da": "hoida",
+"ee_mina": "hoian",
+"ee_past_mina": "hoidsin",
+"ee_past_tema": "hoidis",
+"ee_past_neg": "ei hoidnud"
+},
+{
+"en": "to confirm; to fasten",
+"en_t": "/tuː kənˈfɜːm; tuː ˈfɑːsn/",
+"ru": "подтверждать; закреплять",
+"ee": "kinnitama",
+"ee_da": "kinnitada",
+"ee_mina": "kinnitan",
+"ee_past_mina": "kinnitasin",
+"ee_past_tema": "kinnitas",
+"ee_past_neg": "ei kinnitanud"
+},
+{
+"en": "to allow; to promise",
+"en_t": "/tuː əˈlaʊ; tuː ˈprɒmɪs/",
+"ru": "разрешать; обещать",
+"ee": "lubama",
+"ee_da": "lubada",
+"ee_mina": "luban",
+"ee_past_mina": "lubasin",
+"ee_past_tema": "lubas",
+"ee_past_neg": "ei lubanud"
+},
+{
+"en": "to cut",
+"en_t": "/tuː kʌt/",
+"ru": "резать",
+"ee": "lõikama",
+"ee_da": "lõigata",
+"ee_mina": "lõikan",
+"ee_past_mina": "lõikasin",
+"ee_past_tema": "lõikas",
+"ee_past_neg": "ei lõiganud"
+},
+{
+"en": "to read through",
+"en_t": "/tuː riːd θruː/",
+"ru": "прочитать (целиком)",
+"ee": "läbi lugema",
+"ee_da": "läbi lugeda",
+"ee_mina": "loen läbi",
+"ee_past_mina": "lugesin läbi",
+"ee_past_tema": "luges läbi",
+"ee_past_neg": "ei lugenud läbi"
+},
+{
+"en": "to let pass",
+"en_t": "/tuː lɛt pɑːs/",
+"ru": "пропускать",
+"ee": "mööda lubama",
+"ee_da": "mööda lubada",
+"ee_mina": "luban mööda",
+"ee_past_mina": "lubasin mööda",
+"ee_past_tema": "lubas mööda",
+"ee_past_neg": "ei lubanud mööda"
+},
+{
+"en": "to blink; to wink",
+"en_t": "/tuː blɪŋk; tuː wɪŋk/",
+"ru": "моргать; подмигивать",
+"ee": "pilgutama",
+"ee_da": "pilgutada",
+"ee_mina": "pilgutan",
+"ee_past_mina": "pilgutasin",
+"ee_past_tema": "pilgutas",
+"ee_past_neg": "ei pilgutanud"
+},
+{
+"en": "to come in",
+"en_t": "/tuː kʌm ɪn/",
+"ru": "входить",
+"ee": "sisse tulema",
+"ee_da": "sisse tulla",
+"ee_mina": "tulen sisse",
+"ee_past_mina": "tulin sisse",
+"ee_past_tema": "tuli sisse",
+"ee_past_neg": "ei tulnud sisse"
+},
+{
+"en": "to put away",
+"en_t": "/tuː pʊt əˈweɪ/",
+"ru": "убирать; откладывать",
+"ee": "ära panema",
+"ee_da": "ära panna",
+"ee_mina": "panen ära",
+"ee_past_mina": "panin ära",
+"ee_past_tema": "pani ära",
+"ee_past_neg": "ei pannud ära"
+},
+{
+"en": "to get something done",
+"en_t": "/tuː ɡɛt ˈsʌmθɪŋ dʌn/",
+"ru": "сделать; завершить",
+"ee": "ära tegema",
+"ee_da": "ära teha",
+"ee_mina": "teen ära",
+"ee_past_mina": "tegin ära",
+"ee_past_tema": "tegi ära",
+"ee_past_neg": "ei teinud ära"
+},
+{
+"en": "to hate",
+"en_t": "/tuː heɪt/",
+"ru": "ненавидеть",
+"ee": "vihkama",
+"ee_da": "vihata",
+"ee_mina": "vihkan",
+"ee_past_mina": "vihkasin",
+"ee_past_tema": "vihkas",
+"ee_past_neg": "ei vihkanud"
+},
+{
+"en": "to endure; to hold out",
+"en_t": "/tuː ɪnˈdjʊə; hoʊld aʊt/",
+"ru": "выдерживать; держаться",
+"ee": "vastu pidama",
+"ee_da": "vastu pidada",
+"ee_mina": "pean vastu",
+"ee_past_mina": "pidasin vastu",
+"ee_past_tema": "pidas vastu",
+"ee_past_neg": "ei pidanud vastu"
+},
+{
+"en": "to remain unfinished",
+"en_t": "/tuː rɪˈmeɪn ʌnˈfɪnɪʃt/",
+"ru": "оставаться незаконченным",
+"ee": "pooleli jääma",
+"ee_da": "pooleli jääda",
+"ee_mina": "jään pooleli",
+"ee_past_mina": "jäin pooleli",
+"ee_past_tema": "jäi pooleli",
+"ee_past_neg": "ei jäänud pooleli"
+},
+{
+"en": "to avoid",
+"en_t": "/tuː əˈvɔɪd/",
+"ru": "избегать",
+"ee": "vältima",
+"ee_da": "vältida",
+"ee_mina": "väldin",
+"ee_past_mina": "vältisin",
+"ee_past_tema": "vältis",
+"ee_past_neg": "ei vältinud"
+},
+{
+"en": "to get rid of; to become free",
+"en_t": "/tuː ɡɛt rɪd ɒv; tuː bɪˈkʌm friː/",
+"ru": "избавляться; освобождаться",
+"ee": "vabanema",
+"ee_da": "vabaneda",
+"ee_mina": "vabanen",
+"ee_past_mina": "vabanesin",
+"ee_past_tema": "vabanes",
+"ee_past_neg": "ei vabanenud"
+},
+{
+"en": "to develop; to take shape",
+"en_t": "/tuː dɪˈvɛləp; tuː teɪk ʃeɪp/",
+"ru": "складываться; формироваться",
+"ee": "kujunema",
+"ee_da": "kujuneda",
+"ee_mina": "kujunen",
+"ee_past_mina": "kujunEsin",
+"ee_past_tema": "kujunEs",
+"ee_past_neg": "ei kujunenud"
+},
+{
+"en": "to mention",
+"en_t": "/tuː ˈmɛnʃən/",
+"ru": "упоминать",
+"ee": "mainima",
+"ee_da": "mainida",
+"ee_mina": "mainin",
+"ee_past_mina": "mainisin",
+"ee_past_tema": "mainis",
+"ee_past_neg": "ei maininud"
+},
+{
+"en": "to touch; to concern",
+"en_t": "/tuː tʌtʃ; tuː kənˈsɜːn/",
+"ru": "касаться; относиться к",
+"ee": "puutuma",
+"ee_da": "puutuda",
+"ee_mina": "puutun",
+"ee_past_mina": "puutusin",
+"ee_past_tema": "puutus",
+"ee_past_neg": "ei puutunud"
+},
+{
+"en": "to give up",
+"en_t": "/tuː ɡɪv ʌp/",
+"ru": "отказываться",
+"ee": "loobuma",
+"ee_da": "loobuda",
+"ee_mina": "loobun",
+"ee_past_mina": "loobusin",
+"ee_past_tema": "loobus",
+"ee_past_neg": "ei loobunud"
+},
+{
+"en": "to arrest",
+"en_t": "/tuː əˈrɛst/",
+"ru": "арестовывать",
+"ee": "arreteerima",
+"ee_da": "arreteerida",
+"ee_mina": "arreteerin",
+"ee_past_mina": "arreteerisin",
+"ee_past_tema": "arreteeris",
+"ee_past_neg": "ei arreteerinud"
+},
+{
+"en": "to take (time); to be used up",
+"en_t": "/tuː teɪk taɪm; tuː biː juːzd ʌp/",
+"ru": "требоваться (о времени); изнашиваться/исчерпываться",
+"ee": "kuluma",
+"ee_da": "kuluda",
+"ee_mina": "kulun",
+"ee_past_mina": "kulusin",
+"ee_past_tema": "kulus",
+"ee_past_neg": "ei kulunud"
+},
+{
+"en": "to oversleep",
+"en_t": "/tuː ˌoʊvərˈsliːp/",
+"ru": "проспать",
+"ee": "sisse magama",
+"ee_da": "sisse magada",
+"ee_mina": "magan sisse",
+"ee_past_mina": "magasin sisse",
+"ee_past_tema": "magas sisse",
+"ee_past_neg": "ei maganud sisse"
+},
+{
+"en": "to spend; to expend",
+"en_t": "/tuː spɛnd; tuː ɪkˈspɛnd/",
+"ru": "тратить",
+"ee": "kulutama",
+"ee_da": "kulutada",
+"ee_mina": "kulutan",
+"ee_past_mina": "kulutasin",
+"ee_past_tema": "kulutas",
+"ee_past_neg": "ei kulutanud"
+},
+{
+"en": "to take; to carry",
+"en_t": "/tuː teɪk; tuː ˈkæri/",
+"ru": "относить; отвозить; вести",
+"ee": "viima",
+"ee_da": "viia",
+"ee_mina": "viin",
+"ee_past_mina": "viisin",
+"ee_past_tema": "viis",
+"ee_past_neg": "ei viinud"
+},
+{
+"en": "to get lost",
+"en_t": "/tuː ɡɛt lɒst/",
+"ru": "заблудиться",
+"ee": "ära eksima",
+"ee_da": "ära eksida",
+"ee_mina": "eksin ära",
+"ee_past_mina": "eksisin ära",
+"ee_past_tema": "eksis ära",
+"ee_past_neg": "ei eksinud ära"
+},
+{
+"en": "to chat; to converse",
+"en_t": "/tuː tʃæt; tuː kənˈvɜːs/",
+"ru": "беседовать",
+"ee": "vestlema",
+"ee_da": "vestelda",
+"ee_mina": "vestlen",
+"ee_past_mina": "vestlesin",
+"ee_past_tema": "vestles",
+"ee_past_neg": "ei vestelnud"
+},
+{
+"en": "to be resolved",
+"en_t": "/tuː bi rɪˈzɒlvd/",
+"ru": "разрешаться",
+"ee": "lahenema",
+"ee_da": "laheneda",
+"ee_mina": "lahenen",
+"ee_past_mina": "lahenesin",
+"ee_past_tema": "lahenes",
+"ee_past_neg": "ei lahenenud"
+},
+{
+"en": "to arise; to occur",
+"en_t": "/tuː əˈraɪz; tuː əˈkɜːr/",
+"ru": "возникать",
+"ee": "tekkima",
+"ee_da": "tekkida",
+"ee_mina": "tekin",
+"ee_past_mina": "tekkisin",
+"ee_past_tema": "tekkis",
+"ee_past_neg": "ei tekkinud"
+},
+{
+"en": "to try",
+"en_t": "/tuː traɪ/",
+"ru": "пытаться",
+"ee": "üritama",
+"ee_da": "üritada",
+"ee_mina": "üritan",
+"ee_past_mina": "üritasin",
+"ee_past_tema": "üritas",
+"ee_past_neg": "ei üritanud"
+},
+{
+"en": "to discover",
+"en_t": "/tuː dɪˈskʌvər/",
+"ru": "обнаруживать; открывать",
+"ee": "avastama",
+"ee_da": "avastada",
+"ee_mina": "avastan",
+"ee_past_mina": "avastasin",
+"ee_past_tema": "avastas",
+"ee_past_neg": "ei avastanud"
+},
+{
+"en": "to switch; to turn on/off",
+"en_t": "/tuː swɪtʃ; tuː tɜːrn ɒn/ɒf/",
+"ru": "включать/выключать",
+"ee": "lülitama",
+"ee_da": "lülitada",
+"ee_mina": "lülitan",
+"ee_past_mina": "lülitasin",
+"ee_past_tema": "lülitas",
+"ee_past_neg": "ei lülitanud"
+},
+{
+"en": "to focus (on)",
+"en_t": "/tuː ˈfoʊkəs ɒn/",
+"ru": "сосредотачиваться (на)",
+"ee": "keskenduma",
+"ee_da": "keskenduda",
+"ee_mina": "keskendun",
+"ee_past_mina": "keskendusin",
+"ee_past_tema": "keskendus",
+"ee_past_neg": "ei keskendunud"
+},
+{
+"en": "to burn; to be on",
+"en_t": "/tuː bɜːrn; tuː biː ɒn/",
+"ru": "гореть",
+"ee": "põlema",
+"ee_da": "põleda",
+"ee_mina": "põlen",
+"ee_past_mina": "põlesin",
+"ee_past_tema": "põles",
+"ee_past_neg": "ei põlenud"
+}
+
+]
+}

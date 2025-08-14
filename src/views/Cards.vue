@@ -10,8 +10,14 @@
         <p v-if="primaryLanguage !== 'ee'" class="translation">{{ currentCard.ee }}</p>
         <p v-if="primaryLanguage !== 'ee' && currentCard.ee_2" class="transcription">{{ currentCard.ee_2 }}</p>
         <p v-if="primaryLanguage !== 'ee' && currentCard.ee_3" class="transcription">{{ currentCard.ee_3 }}</p>
+        <p v-if="primaryLanguage !== 'ee' && currentCard.ee_p" class="transcription">{{ currentCard.ee_p }}</p>
+        <p v-if="primaryLanguage !== 'ee' && currentCard.ee_p2" class="transcription">{{ currentCard.ee_p2 }}</p>
+        <p v-if="primaryLanguage !== 'ee' && currentCard.ee_p3" class="transcription">{{ currentCard.ee_p3 }}</p>
         <p v-if="primaryLanguage !== 'ee' && currentCard.ee_da" class="transcription">{{ currentCard.ee_da }}</p>
         <p v-if="primaryLanguage !== 'ee' && currentCard.ee_mina" class="transcription">{{ currentCard.ee_mina }}</p>
+        <p v-if="primaryLanguage !== 'ee' && currentCard.ee_past_mina" class="transcription">{{ currentCard.ee_past_mina }}</p>
+        <p v-if="primaryLanguage !== 'ee' && currentCard.ee_past_tema" class="transcription">{{ currentCard.ee_past_tema }}</p>
+        <p v-if="primaryLanguage !== 'ee' && currentCard.ee_past_neg" class="transcription">{{ currentCard.ee_past_neg }}</p>
       </div>
     </div>
     <div class="buttons" v-if="cards.length > 0">
