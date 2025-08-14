@@ -1,0 +1,640 @@
+{
+  "lesson": "B1 õppik 2 teema 2",
+"date": "2025-03-01",
+"language": "ee",
+"words": [
+{
+"en": "time-out",
+"en_t": "/taɪm aʊt/",
+"ru": "тайм-аут",
+"ee": "Aeg maha"
+},
+{
+"en": "Do you work overtime?",
+"en_t": "/duː juː wɜːk ˈoʊvərtaɪm/",
+"ru": "Ты делаешь сверхурочные?",
+"ee": "Kas sa teed ületunde?"
+},
+{
+"en": "firefighter",
+"en_t": "/ˈfaɪəˌfaɪtər/",
+"ru": "пожарный",
+"ee": "tuletõrjuja"
+},
+{
+"en": "hats off",
+"en_t": "/hæts ɒf/",
+"ru": "снимаю шляпу",
+"ee": "müts maha"
+},
+{
+"en": "digging",
+"en_t": "/ˈdɪɡɪŋ/",
+"ru": "копание",
+"ee": "kaevamine"
+},
+{
+"en": "weeding",
+"en_t": "/ˈwiːdɪŋ/",
+"ru": "прополка",
+"ee": "Rohimine"
+},
+{
+"en": "planting",
+"en_t": "/ˈplɑːntɪŋ/",
+"ru": "посадка",
+"ee": "Istutamine"
+},
+{
+"en": "craft fair",
+"en_t": "/krɑːft fɛə(r)/",
+"ru": "ярмарка рукоделия",
+"ee": "Käsitöölaat"
+},
+{
+"en": "appetite",
+"en_t": "/ˈæpɪtaɪt/",
+"ru": "аппетит",
+"ee": "söögiisu"
+},
+{
+"en": "sleep",
+"en_t": "/sliːp/",
+"ru": "сон",
+"ee": "uni"
+},
+{
+"en": "day after day",
+"en_t": "/deɪ ˈɑːftə deɪ/",
+"ru": "изо дня в день",
+"ee": "Päevast päeva"
+},
+{
+"en": "care, caring",
+"en_t": "/keə(r)/",
+"ru": "забота (уход)",
+"ee": "hoolitsemine"
+},
+{
+"en": "feeding",
+"en_t": "/ˈfiːdɪŋ/",
+"ru": "кормление",
+"ee": "Toitmine"
+},
+{
+"en": "wool",
+"en_t": "/wʊl/",
+"ru": "шерсть",
+"ee": "vill"
+},
+{
+"en": "selling",
+"en_t": "/ˈsɛlɪŋ/",
+"ru": "продажа",
+"ee": "Müümine"
+},
+{
+"en": "carefully",
+"en_t": "/ˈkeəfəli/",
+"ru": "тщательно",
+"ee": "hoolikalt"
+},
+{
+"en": "chatterbox",
+"en_t": "/ˈtʃætərbɒks/",
+"ru": "болтушка",
+"ee": "jutupaunik"
+},
+{
+"en": "that’s enough for me",
+"en_t": "/ðæts ɪˈnʌf fə miː/",
+"ru": "мне хватит",
+"ee": "Mulle aitab"
+},
+{
+"en": "I need",
+"en_t": "/aɪ niːd/",
+"ru": "мне нужно",
+"ee": "Mul on tarvis"
+},
+{
+"en": "grasshopper",
+"en_t": "/ˈɡræsˌhɒpə/",
+"ru": "кузнечик",
+"ee": "rohutirts"
+},
+{
+"en": "destination",
+"en_t": "/ˌdɛstɪˈneɪʃn/",
+"ru": "пункт назначения",
+"ee": "sihtkoht"
+},
+{
+"en": "about a hundred",
+"en_t": "/əˈbaʊt ə ˈhʌndrəd/",
+"ru": "около сотни",
+"ee": "sadakond"
+},
+{
+"en": "travel party",
+"en_t": "/ˈtrævəl ˈpɑːti/",
+"ru": "туристическая группа",
+"ee": "reisiseltskond"
+},
+{
+"en": "crowded",
+"en_t": "/ˈkraʊdɪd/",
+"ru": "многолюдный",
+"ee": "Rahvarohke"
+},
+{
+"en": "picturesque",
+"en_t": "/ˌpɪk.tʃəˈrɛsk/",
+"ru": "живописный",
+"ee": "maaliline"
+},
+{
+"en": "manageable, within one’s ability",
+"en_t": "/ˈmænɪdʒəbl/",
+"ru": "посильный",
+"ee": "jõukohane"
+},
+{
+"en": "overcrowded",
+"en_t": "/ˌoʊvərˈkraʊdɪd/",
+"ru": "переполненный людьми",
+"ee": "Ülerahvastatud"
+},
+{
+"en": "cozy",
+"en_t": "/ˈkəʊzi/",
+"ru": "уютный",
+"ee": "Hubane"
+},
+{
+"en": "full of experiences",
+"en_t": "/fʊl əv ɪkˈspɪəriənsɪz/",
+"ru": "богатый впечатлениями",
+"ee": "Elamusterohke"
+},
+{
+"en": "lively",
+"en_t": "/ˈlaɪvli/",
+"ru": "оживлённый",
+"ee": "Vilgas"
+},
+{
+"en": "deserted",
+"en_t": "/dɪˈzɜːtɪd/",
+"ru": "безлюдный",
+"ee": "Inimtühi"
+},
+{
+"en": "landscape",
+"en_t": "/ˈlændskeɪp/",
+"ru": "ландшафт",
+"ee": "Maastik"
+},
+{
+"en": "desert",
+"en_t": "/ˈdɛzət/",
+"ru": "пустыня",
+"ee": "Kõrb"
+},
+{
+"en": "product",
+"en_t": "/ˈprɒdʌkt/",
+"ru": "продукт; товар",
+"ee": "toode"
+},
+{
+"en": "useful",
+"en_t": "/ˈjuːsfəl/",
+"ru": "полезный",
+"ee": "kasulik"
+},
+{
+"en": "flour",
+"en_t": "/ˈflaʊə/",
+"ru": "мука",
+"ee": "jahu"
+},
+{
+"en": "thriller",
+"en_t": "/ˈθrɪlə/",
+"ru": "триллер",
+"ee": "põnevusfilm"
+},
+{
+"en": "in Western Estonia",
+"en_t": "/ɪn ˈwɛstən ɛsˈtoʊniə/",
+"ru": "в Западной Эстонии",
+"ee": "Lääne-Eestis"
+},
+{
+"en": "on the riverbank",
+"en_t": "/ɒn ðə ˈrɪvəbæŋk/",
+"ru": "на берегу реки",
+"ee": "Jõe kaldal"
+},
+{
+"en": "Estonian Rescue Board",
+"en_t": "/ɛsˈtoʊniən ˈrɛskjuː bɔːd/",
+"ru": "Департамент спасения Эстонии",
+"ee": "Päästeamet"
+},
+{
+"en": "umbrella",
+"en_t": "/ʌmˈbrɛlə/",
+"ru": "зонт",
+"ee": "Vihmavari"
+},
+{
+"en": "poem",
+"en_t": "/ˈpəʊɪm/",
+"ru": "стихотворение",
+"ee": "luuletus"
+},
+{
+"en": "adventure camp",
+"en_t": "/ədˈvɛntʃə kæmp/",
+"ru": "лагерь приключений",
+"ee": "Seikluslaager"
+},
+{
+"en": "time of event",
+"en_t": "/taɪm əv ɪˈvɛnt/",
+"ru": "время проведения",
+"ee": "Toimumisaeg"
+},
+{
+"en": "duration",
+"en_t": "/djʊˈreɪʃn/",
+"ru": "продолжительность",
+"ee": "Kestus"
+},
+{
+"en": "safe",
+"en_t": "/seɪf/",
+"ru": "безопасный",
+"ee": "Ohutu"
+},
+{
+"en": "traffic rules",
+"en_t": "/ˈtræfɪk ruːlz/",
+"ru": "правила дорожного движения",
+"ee": "liikluseeskirja"
+},
+{
+"en": "tent",
+"en_t": "/tɛnt/",
+"ru": "палатка",
+"ee": "telk"
+},
+{
+"en": "the best; goodies",
+"en_t": "/ðə bɛst; ˈɡʊdiz/",
+"ru": "всё самое лучшее",
+"ee": "hea-parem"
+},
+{
+"en": "convincing",
+"en_t": "/kənˈvɪnsɪŋ/",
+"ru": "убедительный",
+"ee": "Veenev"
+},
+{
+"en": "not particularly",
+"en_t": "/nɒt pəˈtɪkjʊləli/",
+"ru": "не особенно",
+"ee": "Mitte eriti"
+},
+
+{
+"en": "to know; to feel",
+"en_t": "/tuː nəʊ; tuː fiːl/",
+"ru": "знать; чувствовать",
+"ee": "tundma",
+"ee_da": "tunda",
+"ee_mina": "tunnen",
+"ee_past_mina": "tundsin",
+"ee_past_tema": "tundis",
+"ee_past_neg": "ei tundnud"
+},
+{
+"en": "to burn out",
+"en_t": "/tuː bɜːn aʊt/",
+"ru": "выгорать",
+"ee": "läbi põlema",
+"ee_da": "läbi põleda",
+"ee_mina": "põlen läbi",
+"ee_past_mina": "põlesin läbi",
+"ee_past_tema": "põles läbi",
+"ee_past_neg": "ei põlenud läbi"
+},
+{
+"en": "to take care (of)",
+"en_t": "/tuː teɪk keə(r) ɒv/",
+"ru": "заботиться (о)",
+"ee": "hoolitsema",
+"ee_da": "hoolitseda",
+"ee_mina": "hoolitsen",
+"ee_past_mina": "hoolitsesin",
+"ee_past_tema": "hoolitses",
+"ee_past_neg": "ei hoolitsenud"
+},
+{
+"en": "to fear",
+"en_t": "/tuː fɪə(r)/",
+"ru": "бояться",
+"ee": "kartma",
+"ee_da": "karta",
+"ee_mina": "kardan",
+"ee_past_mina": "kartsin",
+"ee_past_tema": "kartis",
+"ee_past_neg": "ei kartnud"
+},
+{
+"en": "to force",
+"en_t": "/tuː fɔːs/",
+"ru": "принуждать",
+"ee": "sundima",
+"ee_da": "sundida",
+"ee_mina": "sunnin",
+"ee_past_mina": "sundisin",
+"ee_past_tema": "sundis",
+"ee_past_neg": "ei sundinud"
+},
+{
+"en": "to stay; to remain",
+"en_t": "/tuː steɪ; rɪˈmeɪn/",
+"ru": "оставаться",
+"ee": "jääma",
+"ee_da": "jääda",
+"ee_mina": "jään",
+"ee_past_mina": "jäin",
+"ee_past_tema": "jäi",
+"ee_past_neg": "ei jäänud"
+},
+{
+"en": "to demand",
+"en_t": "/tuː dɪˈmɑːnd/",
+"ru": "требовать",
+"ee": "nõudma",
+"ee_da": "nõuda",
+"ee_mina": "nõuan",
+"ee_past_mina": "nõudsin",
+"ee_past_tema": "nõudis",
+"ee_past_neg": "ei nõudnud"
+},
+{
+"en": "to make a mistake; to err",
+"en_t": "/tuː meɪk ə mɪˈsteɪk/",
+"ru": "ошибаться",
+"ee": "eksima",
+"ee_da": "eksida",
+"ee_mina": "eksin",
+"ee_past_mina": "eksisin",
+"ee_past_tema": "eksis",
+"ee_past_neg": "ei eksinud"
+},
+{
+"en": "to save; to economize",
+"en_t": "/tuː seɪv; ɪˈkɒnəmaɪz/",
+"ru": "экономить",
+"ee": "kokku hoidma",
+"ee_da": "kokku hoida",
+"ee_mina": "hoian kokku",
+"ee_past_mina": "hoidsin kokku",
+"ee_past_tema": "hoidis kokku",
+"ee_past_neg": "ei hoidnud kokku"
+},
+{
+"en": "to let through",
+"en_t": "/tuː lɛt θruː/",
+"ru": "пропускать",
+"ee": "läbi laskma",
+"ee_da": "läbi lasta",
+"ee_mina": "lasen läbi",
+"ee_past_mina": "lasin läbi",
+"ee_past_tema": "lasi läbi",
+"ee_past_neg": "ei lasknud läbi"
+},
+{
+"en": "to fall behind",
+"en_t": "/tuː fɔːl bɪˈhaɪnd/",
+"ru": "отставать",
+"ee": "maha jääma",
+"ee_da": "maha jääda",
+"ee_mina": "jään maha",
+"ee_past_mina": "jäin maha",
+"ee_past_tema": "jäi maha",
+"ee_past_neg": "ei jäänud maha"
+},
+{
+"en": "to infect",
+"en_t": "/tuː ɪnˈfɛkt/",
+"ru": "заражать",
+"ee": "nakatama",
+"ee_da": "nakatada",
+"ee_mina": "nakatan",
+"ee_past_mina": "nakatasin",
+"ee_past_tema": "nakatas",
+"ee_past_neg": "ei nakatanud"
+},
+{
+"en": "to celebrate",
+"en_t": "/tuː ˈsɛlɪbreɪt/",
+"ru": "праздновать",
+"ee": "tähistama",
+"ee_da": "tähistada",
+"ee_mina": "tähistan",
+"ee_past_mina": "tähistasin",
+"ee_past_tema": "tähistas",
+"ee_past_neg": "ei tähistanud"
+},
+{
+"en": "to take out",
+"en_t": "/tuː teɪk aʊt/",
+"ru": "вынимать",
+"ee": "välja võtma",
+"ee_da": "välja võtta",
+"ee_mina": "võtan välja",
+"ee_past_mina": "võtsin välja",
+"ee_past_tema": "võttis välja",
+"ee_past_neg": "ei võtnud välja"
+},
+{
+"en": "to avoid",
+"en_t": "/tuː əˈvɔɪd/",
+"ru": "избегать",
+"ee": "vältima",
+"ee_da": "vältida",
+"ee_mina": "väldin",
+"ee_past_mina": "vältisin",
+"ee_past_tema": "vältis",
+"ee_past_neg": "ei vältinud"
+},
+{
+"en": "to hurry",
+"en_t": "/tuː ˈhʌri/",
+"ru": "спешить",
+"ee": "kiirustama",
+"ee_da": "kiirustada",
+"ee_mina": "kiirustan",
+"ee_past_mina": "kiirustasin",
+"ee_past_tema": "kiirustas",
+"ee_past_neg": "ei kiirustanud"
+},
+{
+"en": "to waste",
+"en_t": "/tuː weɪst/",
+"ru": "тратить впустую",
+"ee": "raiskama",
+"ee_da": "raisata",
+"ee_mina": "raiskan",
+"ee_past_mina": "raiskasin",
+"ee_past_tema": "raiskas",
+"ee_past_neg": "ei raisanud"
+},
+{
+"en": "to admire",
+"en_t": "/tuː ədˈmaɪə/",
+"ru": "восхищаться",
+"ee": "imetlema",
+"ee_da": "imetleda",
+"ee_mina": "imetlen",
+"ee_past_mina": "imetlesin",
+"ee_past_tema": "imetles",
+"ee_past_neg": "ei imetlenud"
+},
+{
+"en": "to be remembered",
+"en_t": "/tuː bi rɪˈmɛmbəd/",
+"ru": "запоминаться",
+"ee": "meelde jääma",
+"ee_da": "meelde jääda",
+"ee_mina": "jään meelde",
+"ee_past_mina": "jäin meelde",
+"ee_past_tema": "jäi meelde",
+"ee_past_neg": "ei jäänud meelde"
+},
+{
+"en": "to memorize",
+"en_t": "/tuː ˈmɛmәraɪz/",
+"ru": "запоминать",
+"ee": "meelde jätma",
+"ee_da": "meelde jätta",
+"ee_mina": "jätan meelde",
+"ee_past_mina": "jätsin meelde",
+"ee_past_tema": "jätis meelde",
+"ee_past_neg": "ei jätnud meelde"
+},
+{
+"en": "to come to mind",
+"en_t": "/tuː kʌm tə maɪnd/",
+"ru": "приходить на ум",
+"ee": "meelde tulema",
+"ee_da": "meelde tulla",
+"ee_mina": "tulen meelde",
+"ee_past_mina": "tulin meelde",
+"ee_past_tema": "tuli meelde",
+"ee_past_neg": "ei tulnud meelde"
+},
+{
+"en": "to remind",
+"en_t": "/tuː rɪˈmaɪnd/",
+"ru": "напоминать",
+"ee": "meelde tuletama",
+"ee_da": "meelde tuletada",
+"ee_mina": "tuletan meelde",
+"ee_past_mina": "tuletasin meelde",
+"ee_past_tema": "tuletas meelde",
+"ee_past_neg": "ei tuletanud meelde"
+},
+{
+"en": "to remember; to keep in mind",
+"en_t": "/tuː rɪˈmɛmbə/",
+"ru": "помнить; держать в памяти",
+"ee": "meeles pidama",
+"ee_da": "meeles pidada",
+"ee_mina": "pean meeles",
+"ee_past_mina": "pidasin meeles",
+"ee_past_tema": "pidas meeles",
+"ee_past_neg": "ei pidanud meeles"
+},
+{
+"en": "to slip one's mind",
+"en_t": "/tuː slɪp wʌnz maɪnd/",
+"ru": "вылетать из головы",
+"ee": "meelest minema"
+},
+{
+"en": "to expire",
+"en_t": "/tuː ɪkˈspaɪə/",
+"ru": "истекать (о сроке)",
+"ee": "aeguma",
+"ee_da": "aeguda",
+"ee_mina": "aegun",
+"ee_past_mina": "aegusin",
+"ee_past_tema": "aegus",
+"ee_past_neg": "ei aegunud"
+},
+{
+"en": "to plant",
+"en_t": "/tuː plɑːnt/",
+"ru": "сажать",
+"ee": "istutama",
+"ee_da": "istutada",
+"ee_mina": "istutan",
+"ee_past_mina": "istutasin",
+"ee_past_tema": "istutas",
+"ee_past_neg": "ei istutanud"
+},
+{
+"en": "to carry; to wear",
+"en_t": "/tuː ˈkæri; tuː weə(r)/",
+"ru": "нести; носить",
+"ee": "kandma",
+"ee_da": "kanda",
+"ee_mina": "kannan",
+"ee_past_mina": "kandsin",
+"ee_past_tema": "kandis",
+"ee_past_neg": "ei kandnud"
+},
+{
+"en": "to change",
+"en_t": "/tuː tʃeɪndʒ/",
+"ru": "менять",
+"ee": "muutma",
+"ee_da": "muuta",
+"ee_mina": "muudan",
+"ee_past_mina": "muutsin",
+"ee_past_tema": "muutis",
+"ee_past_neg": "ei muutnud"
+},
+{
+"en": "to throw",
+"en_t": "/tuː θrəʊ/",
+"ru": "бросать",
+"ee": "viskama",
+"ee_da": "visata",
+"ee_mina": "viskan",
+"ee_past_mina": "viskasin",
+"ee_past_tema": "viskas",
+"ee_past_neg": "ei visanud"
+},
+{
+"en": "to violate; to spoil",
+"en_t": "/tuː ˈvaɪəleɪt; tuː spɔɪl/",
+"ru": "нарушать",
+"ee": "rikkuma",
+"ee_da": "rikkuda",
+"ee_mina": "rikun",
+"ee_past_mina": "rikkusin",
+"ee_past_tema": "rikkus",
+"ee_past_neg": "ei rikkunud"
+}
+
+]
+}
