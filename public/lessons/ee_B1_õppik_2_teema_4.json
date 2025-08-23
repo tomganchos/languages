@@ -1,0 +1,1062 @@
+{
+  "lesson": "B1 õppik 2 teema 4",
+  "date": "2025-05-01",
+  "language": "ee",
+  "words": [
+    {
+      "en": "a healthy mind in a healthy body",
+      "ru": "в здоровом теле здоровый дух",
+      "ee": "terves kehas terve vaim"
+    },
+    {
+      "en": "lifestyle",
+      "ru": "образ жизни",
+      "ee": "eluviis",
+      "ee_2": "eluviisi",
+      "ee_3": "eluviisi",
+      "ee_p": "eluviisid",
+      "ee_p2": "eluviiside",
+      "ee_p3": "eluviise"
+    },
+    {
+      "en": "excessive stress",
+      "ru": "чрезмерный стресс",
+      "ee": "liigne stress"
+    },
+    {
+      "en": "cold exposure; hardening",
+      "ru": "закаливание",
+      "ee": "karastamine",
+      "ee_2": "karastamise",
+      "ee_3": "karastamist",
+      "ee_p": "karastamised",
+      "ee_p2": "karastamiste",
+      "ee_p3": "karastamisi"
+    },
+    {
+      "en": "afternoon nap",
+      "ru": "дневной сон",
+      "ee": "lõunauinak",
+      "ee_2": "lõunauinaku",
+      "ee_3": "lõunauinakut",
+      "ee_p": "lõunauinakud",
+      "ee_p2": "lõunauinakute",
+      "ee_p3": "lõunauinakuid"
+    },
+    {
+      "en": "fasting",
+      "ru": "паст/голодание",
+      "ee": "paastumine",
+      "ee_2": "paastumise",
+      "ee_3": "paastumist"
+    },
+    {
+      "en": "sufficient sleep",
+      "ru": "достаточный сон",
+      "ee": "piisav uni"
+    },
+    {
+      "en": "realistic goals",
+      "ru": "реалистичные цели",
+      "ee": "realistlikud eesmärgid"
+    },
+    {
+      "en": "eating junk food",
+      "ru": "употребление фастфуда",
+      "ee": "rämpstoidu söömine"
+    },
+    {
+      "en": "little physical activity",
+      "ru": "недостаток движения",
+      "ee": "vähene liikumine"
+    },
+    {
+      "en": "moderately",
+      "ru": "умеренно",
+      "ee": "mõõdukalt"
+    },
+    {
+      "en": "around seven o’clock",
+      "ru": "около семи часов",
+      "ee": "kella seitsme ajal"
+    },
+    {
+      "en": "sleep well!",
+      "ru": "спокойной ночи!",
+      "ee": "head und!"
+    },
+    {
+      "en": "I am barefoot",
+      "ru": "я босиком",
+      "ee": "ma olen paljajalu"
+    },
+    {
+      "en": "eagerly, longingly",
+      "ru": "с нетерпением",
+      "ee": "pikisilmi"
+    },
+    {
+      "en": "Restoration of Independence Day",
+      "ru": "день восстанов independence Эстонии",
+      "ee": "taasiseseisvumispäev",
+      "ee_2": "taasiseseisvumispäeva",
+      "ee_3": "taasiseseisvumispäeva",
+      "ee_p": "taasiseseisvumispäevad",
+      "ee_p2": "taasiseseisvumispäevade",
+      "ee_p3": "taasiseseisvumispäevi"
+    },
+    {
+      "en": "comic characters",
+      "ru": "персонажи комиксов",
+      "ee": "koomiksitegelased",
+      "ee_p2": "koomiksitegelaste",
+      "ee_p3": "koomiksitegelasi"
+    },
+    {
+      "en": "Second World War",
+      "ru": "Вторая мировая война",
+      "ee": "teine maailmasõda"
+    },
+    {
+      "en": "among",
+      "ru": "среди",
+      "ee": "hulgas"
+    },
+    {
+      "en": "boyish haircut (pixie)",
+      "ru": "короткая стрижка «под мальчика»",
+      "ee": "poisipea",
+      "ee_2": "poisipea",
+      "ee_3": "poisipead",
+      "ee_p": "poisipead",
+      "ee_p2": "poisipeade",
+      "ee_p3": "poisipeid"
+    },
+    {
+      "en": "pedometer",
+      "ru": "шагомер",
+      "ee": "sammulugeja",
+      "ee_2": "sammulugeja",
+      "ee_3": "sammulugejat",
+      "ee_p": "sammulugejad",
+      "ee_p2": "sammulugejate",
+      "ee_p3": "sammulugejaid"
+    },
+    {
+      "en": "bone",
+      "ru": "кость",
+      "ee": "luu",
+      "ee_2": "luu",
+      "ee_3": "luud",
+      "ee_p": "luud",
+      "ee_p2": "luude",
+      "ee_p3": "luid"
+    },
+    {
+      "en": "muscle",
+      "ru": "мышца",
+      "ee": "lihas",
+      "ee_2": "lihase",
+      "ee_3": "lihast",
+      "ee_p": "lihased",
+      "ee_p2": "lihaste",
+      "ee_p3": "lihaseid"
+    },
+    {
+      "en": "smart device",
+      "ru": "умное устройство",
+      "ee": "nutiseade",
+      "ee_2": "nutiseadme",
+      "ee_3": "nutiseadet",
+      "ee_p": "nutiseadmed",
+      "ee_p2": "nutiseadmete",
+      "ee_p3": "nutiseadmeid"
+    },
+    {
+      "en": "feature phone",
+      "ru": "кнопочный телефон",
+      "ee": "nuputelefon",
+      "ee_2": "nuputelefoni",
+      "ee_3": "nuputelefoni",
+      "ee_p": "nuputelefonid",
+      "ee_p2": "nuputelefonide",
+      "ee_p3": "nuputelefone"
+    },
+    {
+      "en": "landline telephone",
+      "ru": "стационарный телефон",
+      "ee": "lauatelefon",
+      "ee_2": "lauatelefoni",
+      "ee_3": "lauatelefoni",
+      "ee_p": "lauatelefonid",
+      "ee_p2": "lauatelefonide",
+      "ee_p3": "lauatelefone"
+    },
+    {
+      "en": "piece of jewelry",
+      "ru": "украшение",
+      "ee": "ehe",
+      "ee_2": "ehte",
+      "ee_3": "ehet",
+      "ee_p": "ehted",
+      "ee_p2": "ehete",
+      "ee_p3": "ehteid"
+    },
+    {
+      "en": "at least",
+      "ru": "как минимум",
+      "ee": "vähemalt"
+    },
+    {
+      "en": "goal, aim",
+      "ru": "цель",
+      "ee": "eesmärk",
+      "ee_2": "eesmärgi",
+      "ee_3": "eesmärki",
+      "ee_p": "eesmärgid",
+      "ee_p2": "eesmärkide",
+      "ee_p3": "eesmärke"
+    },
+    {
+      "en": "magical",
+      "ru": "магический",
+      "ee": "maagiline"
+    },
+    {
+      "en": "round",
+      "ru": "круглый",
+      "ee": "ümmargune"
+    },
+    {
+      "en": "strawberry mousse",
+      "ru": "клубничный мусс",
+      "ee": "maasikavaht",
+      "ee_2": "maasikavahu",
+      "ee_3": "maasikavahtu",
+      "ee_p": "maasikavahud",
+      "ee_p2": "maasikavahtude",
+      "ee_p3": "maasikavahtusid"
+    },
+    {
+      "en": "life events",
+      "ru": "жизненные события",
+      "ee": "elu sündmused"
+    },
+    {
+      "en": "have a nice weekend",
+      "ru": "хороших выходных",
+      "ee": "head nädala lõppu"
+    },
+    {
+      "en": "personal events",
+      "ru": "личные события",
+      "ee": "isiklikud sündmused"
+    },
+    {
+      "en": "so lame",
+      "ru": "так тупо/нелепо",
+      "ee": "nii nõme"
+    },
+    {
+      "en": "groom; fiancé",
+      "ru": "жених",
+      "ee": "peigmees",
+      "ee_2": "peigmehe",
+      "ee_3": "peigmeest",
+      "ee_p": "peigmehed",
+      "ee_p2": "peigmeeste",
+      "ee_p3": "peigmehi"
+    },
+    {
+      "en": "boyfriend (colloq.)",
+      "ru": "парень",
+      "ee": "peika",
+      "ee_2": "peika",
+      "ee_3": "peikat",
+      "ee_p": "peikad",
+      "ee_p2": "peikade",
+      "ee_p3": "peikasid"
+    },
+    {
+      "en": "serious",
+      "ru": "серьезный",
+      "ee": "tõsine"
+    },
+    {
+      "en": "my condolences",
+      "ru": "сочувствую",
+      "ee": "tunnen kaasa"
+    },
+    {
+      "en": "you’re kidding",
+      "ru": "ты шутишь",
+      "ee": "sa teed nalja"
+    },
+    {
+      "en": "no worries",
+      "ru": "ничего страшного",
+      "ee": "ei ole hullu"
+    },
+    {
+      "en": "very strange",
+      "ru": "очень странно",
+      "ee": "väga imelik"
+    },
+    {
+      "en": "that’s terrible",
+      "ru": "это ужасно",
+      "ee": "see on kohutav"
+    },
+    {
+      "en": "my dream came true",
+      "ru": "моя мечта сбылась",
+      "ee": "mu unistus täitus"
+    },
+    {
+      "en": "I’m happy for you",
+      "ru": "я рад за тебя",
+      "ee": "mul on sinu üle hea meel"
+    },
+    {
+      "en": "what luck!",
+      "ru": "какая удача!",
+      "ee": "milline vedamine"
+    },
+    {
+      "en": "what a misfortune!",
+      "ru": "какое невезение!",
+      "ee": "milline ebaõnn"
+    },
+    {
+      "en": "in love",
+      "ru": "влюбленный",
+      "ee": "armunud"
+    },
+    {
+      "en": "I’m embarrassed",
+      "ru": "мне неловко",
+      "ee": "mul on piinlik"
+    },
+    {
+      "en": "proud",
+      "ru": "гордый",
+      "ee": "uhke"
+    },
+    {
+      "en": "he/she is offended",
+      "ru": "он/она обижен(а)",
+      "ee": "ta on solvunud"
+    },
+    {
+      "en": "he/she is disappointed",
+      "ru": "он/она разочарован(а)",
+      "ee": "ta on pettunud"
+    },
+    {
+      "en": "he/she is jealous",
+      "ru": "он/она завидует",
+      "ee": "ta on kade"
+    },
+    {
+      "en": "he/she is grateful",
+      "ru": "он/она благодарен(на)",
+      "ee": "ta on tänulik"
+    },
+    {
+      "en": "he/she is worried",
+      "ru": "он/она обеспокоен(а)",
+      "ee": "ta on murelik"
+    },
+    {
+      "en": "he/she is surprised",
+      "ru": "он/она удивлён(а)",
+      "ee": "ta on üllatunud"
+    },
+    {
+      "en": "he/she is angry",
+      "ru": "он/она злой(ая)",
+      "ee": "ta on vihane"
+    },
+    {
+      "en": "he/she is annoyed",
+      "ru": "он/она раздражён(а)",
+      "ee": "ta on pahane"
+    },
+    {
+      "en": "he/she is sad",
+      "ru": "он/она грустный(ая)",
+      "ee": "ta on nukker"
+    },
+    {
+      "en": "paid appointment",
+      "ru": "платный визит/приём",
+      "ee": "tasuline visiit",
+      "ee_2": "tasulise visiidi",
+      "ee_3": "tasulist visiiti"
+    },
+    {
+      "en": "reminder",
+      "ru": "напоминание",
+      "ee": "meeldetuletus",
+      "ee_2": "meeldetuletuse",
+      "ee_3": "meeldetuletust",
+      "ee_p": "meeldetuletused",
+      "ee_p2": "meeldetuletuste",
+      "ee_p3": "meeldetuletusi"
+    },
+    {
+      "en": "none; not any",
+      "ru": "никакой, ни один",
+      "ee": "ükski"
+    },
+    {
+      "en": "to make a mistake",
+      "ru": "ошибаться",
+      "ee": "eksima",
+      "ee_da": "eksida",
+      "ee_mina": "eksin",
+      "ee_past_mina": "eksisin",
+      "ee_past_tema": "eksis",
+      "ee_past_neg": "ei eksinud"
+    },
+    {
+      "en": "data",
+      "ru": "данные",
+      "ee": "andmed",
+      "ee_p2": "andmete",
+      "ee_p3": "andmeid"
+    },
+    {
+      "en": "to update",
+      "ru": "обновлять",
+      "ee": "uuendama",
+      "ee_da": "uuendada",
+      "ee_mina": "uuendan",
+      "ee_past_mina": "uuendasin",
+      "ee_past_tema": "uuendas",
+      "ee_past_neg": "ei uuendanud"
+    },
+    {
+      "en": "which side (direction)",
+      "ru": "с какой стороны",
+      "ee": "kuspool"
+    },
+    {
+      "en": "towards where",
+      "ru": "в какую сторону",
+      "ee": "kuhupoole"
+    },
+    {
+      "en": "from which direction",
+      "ru": "с какой стороны (откуда)",
+      "ee": "kustpoolt"
+    },
+    {
+      "en": "what do you feel?",
+      "ru": "что ты чувствуешь?",
+      "ee": "mida sa tunned"
+    },
+    {
+      "en": "sunset",
+      "ru": "закат",
+      "ee": "päikeseloojang",
+      "ee_2": "päikeseloojangu",
+      "ee_3": "päikeseloojangut",
+      "ee_p": "päikeseloojangud",
+      "ee_p2": "päikeseloojangute",
+      "ee_p3": "päikeseloojanguid"
+    },
+    {
+      "en": "I didn’t notice",
+      "ru": "я не обратил внимания",
+      "ee": "ma ei pannud tähele"
+    },
+    {
+      "en": "each other’s",
+      "ru": "друг друга (род./прит.)",
+      "ee": "teineteise"
+    },
+    {
+      "en": "leave me alone",
+      "ru": "оставь меня в покое",
+      "ee": "jäta mind rahule"
+    },
+    {
+      "en": "awarding (ceremony)",
+      "ru": "награждение",
+      "ee": "autasustamine",
+      "ee_2": "autasustamise",
+      "ee_3": "autasustamist"
+    },
+    {
+      "en": "dark; blind",
+      "ru": "тёмный; слепой",
+      "ee": "pime"
+    },
+    {
+      "en": "amusement park",
+      "ru": "парк аттракционов",
+      "ee": "lõbustuspark",
+      "ee_2": "lõbustuspargi",
+      "ee_3": "lõbustusparki",
+      "ee_p": "lõbustuspargid",
+      "ee_p2": "lõbustusparkide",
+      "ee_p3": "lõbustusparke"
+    },
+    {
+      "en": "roller coaster",
+      "ru": "американские горки",
+      "ee": "ameerika mäed"
+    },
+    {
+      "en": "presentation",
+      "ru": "презентация",
+      "ee": "esitlus",
+      "ee_2": "esitluse",
+      "ee_3": "esitlust",
+      "ee_p": "esitlused",
+      "ee_p2": "esitluste",
+      "ee_p3": "esitlusi"
+    },
+    {
+      "en": "diary",
+      "ru": "дневник",
+      "ee": "päevik",
+      "ee_2": "päeviku",
+      "ee_3": "päevikut",
+      "ee_p": "päevikud",
+      "ee_p2": "päevikute",
+      "ee_p3": "päevikuid"
+    },
+    {
+      "en": "are you holding your breath?",
+      "ru": "ты задерживаешь дыхание?",
+      "ee": "kas sa hoiad hinge kinni?"
+    },
+    {
+      "en": "close (person); loved one",
+      "ru": "близкий человек",
+      "ee": "lähedane",
+      "ee_2": "lähedase",
+      "ee_3": "lähedast",
+      "ee_p": "lähedased",
+      "ee_p2": "lähedaste",
+      "ee_p3": "lähedasi"
+    },
+    {
+      "en": "achievement",
+      "ru": "достижение",
+      "ee": "saavutus",
+      "ee_2": "saavutuse",
+      "ee_3": "saavutust",
+      "ee_p": "saavutused",
+      "ee_p2": "saavutuste",
+      "ee_p3": "saavutusi"
+    },
+    {
+      "en": "how do you take care of your pet?",
+      "ru": "как ты заботишься о своём питомце?",
+      "ee": "kuidas sa oma lemmiklooma eest hoolitsed?"
+    },
+    {
+      "en": "secret",
+      "ru": "секрет",
+      "ee": "saladus",
+      "ee_2": "saladuse",
+      "ee_3": "saladust",
+      "ee_p": "saladused",
+      "ee_p2": "saladuste",
+      "ee_p3": "saladusi"
+    },
+    {
+      "en": "tax-free income",
+      "ru": "необлагаемый налогом доход",
+      "ee": "maksuvaba tulu"
+    },
+    {
+      "en": "Rescue Board",
+      "ru": "спасательный департамент",
+      "ee": "päästeamet",
+      "ee_2": "päästeameti",
+      "ee_3": "päästeametit"
+    },
+    {
+      "en": "gorgeous",
+      "ru": "восхитительный",
+      "ee": "imekaunis"
+    },
+    {
+      "en": "the politician left a good impression on the viewers",
+      "ru": "политик произвел на зрителей хорошее впечатление",
+      "ee": "poliitik jättis vaatajatele hea mulje"
+    },
+    {
+      "en": "weather forecast",
+      "ru": "прогноз погоды",
+      "ee": "ilmateade",
+      "ee_2": "ilmateate",
+      "ee_3": "ilmateadet"
+    },
+    {
+      "en": "crime news",
+      "ru": "криминальные новости",
+      "ee": "krimiuudised",
+      "ee_p2": "krimiuudiste",
+      "ee_p3": "krimiuudiseid"
+    },
+    {
+      "en": "business news",
+      "ru": "экономические новости",
+      "ee": "majandusuudised",
+      "ee_p2": "majandusuudiste",
+      "ee_p3": "majandusuudiseid"
+    },
+    {
+      "en": "entertainment show",
+      "ru": "развлекательная передача",
+      "ee": "meelelahutussaade",
+      "ee_2": "meelelahutussaate",
+      "ee_3": "meelelahutussaadet",
+      "ee_p": "meelelahutussaated",
+      "ee_p2": "meelelahutussaadete",
+      "ee_p3": "meelelahutussaateid"
+    },
+    {
+      "en": "women’s magazine",
+      "ru": "женский журнал",
+      "ee": "naisteajakiri",
+      "ee_2": "naisteajakirja",
+      "ee_3": "naisteajakirja",
+      "ee_p": "naisteajakirjad",
+      "ee_p2": "naisteajakirjade",
+      "ee_p3": "naisteajakirju"
+    },
+    {
+      "en": "live broadcast/show",
+      "ru": "прямой эфир",
+      "ee": "otsesaade",
+      "ee_2": "otsesaate",
+      "ee_3": "otsesaadet",
+      "ee_p": "otsesaated",
+      "ee_p2": "otsesaadete",
+      "ee_p3": "otsesaateid"
+    },
+    {
+      "en": "editor-in-chief",
+      "ru": "главный редактор",
+      "ee": "peatoimetaja",
+      "ee_2": "peatoimetaja",
+      "ee_3": "peatoimetajat",
+      "ee_p": "peatoimetajad",
+      "ee_p2": "peatoimetajate",
+      "ee_p3": "peatoimetajaid"
+    },
+    {
+      "en": "host, presenter",
+      "ru": "ведущий",
+      "ee": "saatejuht",
+      "ee_2": "saatejuhi",
+      "ee_3": "saatejuhti",
+      "ee_p": "saatejuhid",
+      "ee_p2": "saatejuhtide",
+      "ee_p3": "saatejuhte"
+    },
+    {
+      "en": "TV series",
+      "ru": "телесериал",
+      "ee": "telesari",
+      "ee_2": "telesarja",
+      "ee_3": "telesarja",
+      "ee_p": "telesarjad",
+      "ee_p2": "telesarjade",
+      "ee_p3": "telesarju"
+    },
+    {
+      "en": "investigative journalism",
+      "ru": "расследовательская журналистика",
+      "ee": "uuriv ajakirjandus"
+    },
+    {
+      "en": "foreign news",
+      "ru": "зарубежные новости",
+      "ee": "välisuudised",
+      "ee_p2": "välisuudiste",
+      "ee_p3": "välisuudiseid"
+    },
+    {
+      "en": "public service television",
+      "ru": "общественно-правовое телевидение",
+      "ee": "avalik-õiguslik televisioon"
+    },
+    {
+      "en": "thoroughly",
+      "ru": "тщательно",
+      "ee": "põhjalikult"
+    },
+    {
+      "en": "it’s quite chilly here",
+      "ru": "здесь довольно прохладно",
+      "ee": "siin on üsna jahe"
+    },
+    {
+      "en": "to affect; to have an effect",
+      "ru": "действовать, влиять",
+      "ee": "mõjuma",
+      "ee_da": "mõjuda",
+      "ee_mina": "mõjun",
+      "ee_past_mina": "mõjusin",
+      "ee_past_tema": "mõjus",
+      "ee_past_neg": "ei mõjunud"
+    },
+    {
+      "en": "to switch off",
+      "ru": "выключать",
+      "ee": "välja lülitama",
+      "ee_da": "välja lülitada",
+      "ee_mina": "lülitan välja",
+      "ee_past_mina": "lülitasin välja",
+      "ee_past_tema": "lülitas välja",
+      "ee_past_neg": "ei lülitanud välja"
+    },
+    {
+      "en": "to wear out; be spent",
+      "ru": "изнашиваться; тратиться",
+      "ee": "kuluma",
+      "ee_da": "kuluda",
+      "ee_mina": "kulun",
+      "ee_past_mina": "kulusin",
+      "ee_past_tema": "kulus",
+      "ee_past_neg": "ei kulunud"
+    },
+    {
+      "en": "to take into account",
+      "ru": "учитывать",
+      "ee": "arvestama",
+      "ee_da": "arvestada",
+      "ee_mina": "arvestan",
+      "ee_past_mina": "arvestasin",
+      "ee_past_tema": "arvestas",
+      "ee_past_neg": "ei arvestanud"
+    },
+    {
+      "en": "to be the reason",
+      "ru": "быть причиной",
+      "ee": "põhjuseks olema",
+      "ee_da": "põhjuseks olla",
+      "ee_mina": "olen põhjuseks",
+      "ee_past_mina": "olin põhjuseks",
+      "ee_past_tema": "oli põhjuseks",
+      "ee_past_neg": "ei olnud põhjuseks"
+    },
+    {
+      "en": "to strengthen",
+      "ru": "укреплять",
+      "ee": "tugevdama",
+      "ee_da": "tugevdada",
+      "ee_mina": "tugevdan",
+      "ee_past_mina": "tugevdasin",
+      "ee_past_tema": "tugevdas",
+      "ee_past_neg": "ei tugevdanud"
+    },
+    {
+      "en": "to fall apart",
+      "ru": "разваливаться",
+      "ee": "lagunema",
+      "ee_da": "laguneda",
+      "ee_mina": "lagunen",
+      "ee_past_mina": "lagunesin",
+      "ee_past_tema": "lagunes",
+      "ee_past_neg": "ei lagunenud"
+    },
+    {
+      "en": "to perceive",
+      "ru": "воспринимать",
+      "ee": "tajuma",
+      "ee_da": "tajuda",
+      "ee_mina": "tajun",
+      "ee_past_mina": "tajusin",
+      "ee_past_tema": "tajus",
+      "ee_past_neg": "ei tajunud"
+    },
+    {
+      "en": "to decorate",
+      "ru": "украшать",
+      "ee": "kaunistama",
+      "ee_da": "kaunistada",
+      "ee_mina": "kaunistan",
+      "ee_past_mina": "kaunistasin",
+      "ee_past_tema": "kaunistas",
+      "ee_past_neg": "ei kaunistanud"
+    },
+    {
+      "en": "to get engaged",
+      "ru": "обручиться",
+      "ee": "kihluma",
+      "ee_da": "kihluda",
+      "ee_mina": "kihlun",
+      "ee_past_mina": "kihlusin",
+      "ee_past_tema": "kihlus",
+      "ee_past_neg": "ei kihlunud"
+    },
+    {
+      "en": "to lose",
+      "ru": "терять",
+      "ee": "kaotama",
+      "ee_da": "kaotada",
+      "ee_mina": "kaotan",
+      "ee_past_mina": "kaotasin",
+      "ee_past_tema": "kaotas",
+      "ee_past_neg": "ei kaotanud"
+    },
+    {
+      "en": "to fail the exam",
+      "ru": "провалить экзамен",
+      "ee": "kukkuma eksamil läbi",
+      "ee_da": "eksamil läbi kukkuda",
+      "ee_mina": "kukun eksamil läbi",
+      "ee_past_mina": "kukkusin eksamil läbi",
+      "ee_past_tema": "kukkus eksamil läbi",
+      "ee_past_neg": "ei kukkunud eksamil läbi"
+    },
+    {
+      "en": "to break up (separate)",
+      "ru": "расстаться",
+      "ee": "minema lahku",
+      "ee_da": "lahku minna",
+      "ee_mina": "lähen lahku",
+      "ee_past_mina": "läksin lahku",
+      "ee_past_tema": "läks lahku",
+      "ee_past_neg": "ei läinud lahku"
+    },
+    {
+      "en": "to inherit",
+      "ru": "получить наследство",
+      "ee": "saama päranduse",
+      "ee_da": "päranduse saada",
+      "ee_mina": "saan päranduse",
+      "ee_past_mina": "sain päranduse",
+      "ee_past_tema": "sai päranduse",
+      "ee_past_neg": "ei saanud pärandust"
+    },
+    {
+      "en": "to get into an accident",
+      "ru": "попасть в аварию",
+      "ee": "sattuma avariisse",
+      "ee_da": "avariisse sattuda",
+      "ee_mina": "sattun avariisse",
+      "ee_past_mina": "sattusin avariisse",
+      "ee_past_tema": "sattus avariisse",
+      "ee_past_neg": "ei sattunud avariisse"
+    },
+    {
+      "en": "to pass (take) an exam",
+      "ru": "сдать экзамен",
+      "ee": "sooritama eksami",
+      "ee_da": "eksami sooritada",
+      "ee_mina": "sooritan eksami",
+      "ee_past_mina": "sooritasin eksami",
+      "ee_past_tema": "sooritas eksami",
+      "ee_past_neg": "ei sooritanud eksamit"
+    },
+    {
+      "en": "to raffle; draw lots",
+      "ru": "разыгрывать (жребий/приз)",
+      "ee": "loosima",
+      "ee_da": "loosida",
+      "ee_mina": "loosin",
+      "ee_past_mina": "loosisin",
+      "ee_past_tema": "loosis",
+      "ee_past_neg": "ei loosinud"
+    },
+    {
+      "en": "to sympathize",
+      "ru": "сочувствовать",
+      "ee": "kaasa tundma",
+      "ee_da": "kaasa tunda",
+      "ee_mina": "tunnen kaasa",
+      "ee_past_mina": "tundsin kaasa",
+      "ee_past_tema": "tundis kaasa",
+      "ee_past_neg": "ei tundnud kaasa"
+    },
+    {
+      "en": "to express condolences",
+      "ru": "выражать соболезнования",
+      "ee": "kaastunnet avaldama",
+      "ee_da": "kaastunnet avaldada",
+      "ee_mina": "avaldan kaastunnet",
+      "ee_past_mina": "avaldasin kaastunnet",
+      "ee_past_tema": "avaldas kaastunnet",
+      "ee_past_neg": "ei avaldanud kaastunnet"
+    },
+    {
+      "en": "to surprise",
+      "ru": "удивлять",
+      "ee": "üllatama",
+      "ee_da": "üllatada",
+      "ee_mina": "üllatan",
+      "ee_past_mina": "üllatasin",
+      "ee_past_tema": "üllatas",
+      "ee_past_neg": "ei üllatanud"
+    },
+    {
+      "en": "to break (smash)",
+      "ru": "ломать, разбивать",
+      "ee": "lõhkuma",
+      "ee_da": "lõhkuda",
+      "ee_mina": "lõhun",
+      "ee_past_mina": "lõhkusin",
+      "ee_past_tema": "lõhkus",
+      "ee_past_neg": "ei lõhkunud"
+    },
+    {
+      "en": "to praise",
+      "ru": "хвалить",
+      "ee": "kiitma",
+      "ee_da": "kiita",
+      "ee_mina": "kiidan",
+      "ee_past_mina": "kiitsin",
+      "ee_past_tema": "kiitis",
+      "ee_past_neg": "ei kiitnud"
+    },
+    {
+      "en": "to take offense",
+      "ru": "обижаться",
+      "ee": "solvuma",
+      "ee_da": "solvuda",
+      "ee_mina": "solvun",
+      "ee_past_mina": "solvusin",
+      "ee_past_tema": "solvus",
+      "ee_past_neg": "ei solvunud"
+    },
+    {
+      "en": "to cancel",
+      "ru": "отменять",
+      "ee": "tühistama",
+      "ee_da": "tühistada",
+      "ee_mina": "tühistan",
+      "ee_past_mina": "tühistasin",
+      "ee_past_tema": "tühistas",
+      "ee_past_neg": "ei tühistanud"
+    },
+    {
+      "en": "to shout; call out",
+      "ru": "крикнуть; звать",
+      "ee": "hüüdma",
+      "ee_da": "hüüda",
+      "ee_mina": "hüian",
+      "ee_past_mina": "hüüdsin",
+      "ee_past_tema": "hüüdis",
+      "ee_past_neg": "ei hüüdnud"
+    },
+    {
+      "en": "to leave",
+      "ru": "уходить, уезжать",
+      "ee": "lahkuma",
+      "ee_da": "lahkuda",
+      "ee_mina": "lahkun",
+      "ee_past_mina": "lahkusin",
+      "ee_past_tema": "lahkus",
+      "ee_past_neg": "ei lahkunud"
+    },
+    {
+      "en": "to walk",
+      "ru": "ходить (пешком)",
+      "ee": "kõndima",
+      "ee_da": "kõndida",
+      "ee_mina": "kõnnin",
+      "ee_past_mina": "kõndisin",
+      "ee_past_tema": "kõndis",
+      "ee_past_neg": "ei kõndinud"
+    },
+    {
+      "en": "to bark",
+      "ru": "лаять",
+      "ee": "haukuma",
+      "ee_da": "haukuda",
+      "ee_mina": "haukun",
+      "ee_past_mina": "haukusin",
+      "ee_past_tema": "haukus",
+      "ee_past_neg": "ei haukunud"
+    },
+    {
+      "en": "to believe",
+      "ru": "верить",
+      "ee": "uskuma",
+      "ee_da": "uskuda",
+      "ee_mina": "usun",
+      "ee_past_mina": "uskusin",
+      "ee_past_tema": "uskus",
+      "ee_past_neg": "ei uskunud"
+    },
+    {
+      "en": "to hiccup",
+      "ru": "икать",
+      "ee": "luksuma",
+      "ee_da": "luksuda",
+      "ee_mina": "luksun",
+      "ee_past_mina": "luksusin",
+      "ee_past_tema": "luksus",
+      "ee_past_neg": "ei luksunud"
+    },
+    {
+      "en": "to fall out",
+      "ru": "выпасть",
+      "ee": "välja kukkuma",
+      "ee_da": "välja kukkuda",
+      "ee_mina": "kukun välja",
+      "ee_past_mina": "kukkusin välja",
+      "ee_past_tema": "kukkus välja",
+      "ee_past_neg": "ei kukkunud välja"
+    },
+    {
+      "en": "to pay attention",
+      "ru": "обращать внимание",
+      "ee": "tähelepanu pöörama",
+      "ee_da": "tähelepanu pöörata",
+      "ee_mina": "pööran tähelepanu",
+      "ee_past_mina": "pöörasin tähelepanu",
+      "ee_past_tema": "pööras tähelepanu",
+      "ee_past_neg": "ei pööranud tähelepanu"
+    },
+    {
+      "en": "to conceal",
+      "ru": "скрывать",
+      "ee": "varjama",
+      "ee_da": "varjata",
+      "ee_mina": "varjan",
+      "ee_past_mina": "varjasin",
+      "ee_past_tema": "varjas",
+      "ee_past_neg": "ei varjanud"
+    },
+    {
+      "en": "to record; save",
+      "ru": "записывать; сохранять",
+      "ee": "salvestama",
+      "ee_da": "salvestada",
+      "ee_mina": "salvestan",
+      "ee_past_mina": "salvestasin",
+      "ee_past_tema": "salvestas",
+      "ee_past_neg": "ei salvestanud"
+    },
+    {
+      "en": "to avoid",
+      "ru": "избегать",
+      "ee": "vältima",
+      "ee_da": "vältida",
+      "ee_mina": "väldin",
+      "ee_past_mina": "vältisin",
+      "ee_past_tema": "vältis",
+      "ee_past_neg": "ei vältinud"
+    },
+    {
+      "en": "to kiss",
+      "ru": "целовать",
+      "ee": "suudlema",
+      "ee_da": "suudelda",
+      "ee_mina": "suudlen",
+      "ee_past_mina": "suudlesin",
+      "ee_past_tema": "suudles",
+      "ee_past_neg": "ei suudelnud"
+    }
+  ]
+}

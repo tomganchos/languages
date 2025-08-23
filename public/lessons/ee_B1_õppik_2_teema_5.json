@@ -1,0 +1,1037 @@
+{
+  "lesson": "B1 õppik 2 teema 5",
+  "date": "2025-05-15",
+  "language": "ee",
+  "words": [
+    {
+      "en": "I assume",
+      "ru": "я предполагаю",
+      "ee": "ma oletan"
+    },
+    {
+      "en": "eyewitness",
+      "ru": "очевидец",
+      "ee": "pealtnägija",
+      "ee_2": "pealtnägija",
+      "ee_3": "pealtnägijat",
+      "ee_p": "pealtnägijad",
+      "ee_p2": "pealtnägijate",
+      "ee_p3": "pealtnägijaid"
+    },
+    {
+      "en": "security",
+      "ru": "безопасность",
+      "ee": "julgeolek",
+      "ee_2": "julgeoleku",
+      "ee_3": "julgeolekut"
+    },
+    {
+      "en": "loss (financial)",
+      "ru": "убыток",
+      "ee": "kahjum",
+      "ee_2": "kahjumi",
+      "ee_3": "kahjumit",
+      "ee_p": "kahjumid",
+      "ee_p2": "kahjumite",
+      "ee_p3": "kahjumeid"
+    },
+    {
+      "en": "magazine",
+      "ru": "журнал",
+      "ee": "ajakiri",
+      "ee_2": "ajakirja",
+      "ee_3": "ajakirja",
+      "ee_p": "ajakirjad",
+      "ee_p2": "ajakirjade",
+      "ee_p3": "ajakirju"
+    },
+    {
+      "en": "artificial intelligence",
+      "ru": "искусственный интеллект",
+      "ee": "tehisaru"
+    },
+    {
+      "en": "value-added tax (VAT)",
+      "ru": "НДС",
+      "ee": "käibemaks",
+      "ee_2": "käibemaksu",
+      "ee_3": "käibemaksu"
+    },
+    {
+      "en": "decathlon",
+      "ru": "десятиборье",
+      "ee": "kümnevõistlus",
+      "ee_2": "kümnevõistluse",
+      "ee_3": "kümnevõistlust"
+    },
+    {
+      "en": "successful",
+      "ru": "успешный",
+      "ee": "edukas"
+    },
+    {
+      "en": "auction",
+      "ru": "аукцион",
+      "ee": "oksjon",
+      "ee_2": "oksjoni",
+      "ee_3": "oksjonit",
+      "ee_p": "oksjonid",
+      "ee_p2": "oksjonite",
+      "ee_p3": "oksjoneid"
+    },
+    {
+      "en": "bomb",
+      "ru": "бомба",
+      "ee": "pomm",
+      "ee_2": "pommi",
+      "ee_3": "pommi",
+      "ee_p": "pommid",
+      "ee_p2": "pommide",
+      "ee_p3": "pomme"
+    },
+    {
+      "en": "bomb squad",
+      "ru": "сапёрная группа",
+      "ee": "pommigrupp",
+      "ee_2": "pommigrupi",
+      "ee_3": "pommigruppi",
+      "ee_p": "pommigrupid",
+      "ee_p2": "pommigruppide",
+      "ee_p3": "pommigruppe"
+    },
+    {
+      "en": "scene (of an event/crime)",
+      "ru": "место происшествия",
+      "ee": "sündmuskoht",
+      "ee_2": "sündmuskoha",
+      "ee_3": "sündmuskohta"
+    },
+    {
+      "en": "budget",
+      "ru": "бюджет",
+      "ee": "eelarve",
+      "ee_2": "eelarve",
+      "ee_3": "eelarvet"
+    },
+    {
+      "en": "company",
+      "ru": "компания",
+      "ee": "ettevõte",
+      "ee_2": "ettevõtte",
+      "ee_3": "ettevõtet",
+      "ee_p": "ettevõtted",
+      "ee_p2": "ettevõtete",
+      "ee_p3": "ettevõtteid"
+    },
+    {
+      "en": "season",
+      "ru": "сезон",
+      "ee": "hooaeg",
+      "ee_2": "hooaja",
+      "ee_3": "hooaega",
+      "ee_p": "hooajad",
+      "ee_p2": "hooaegade",
+      "ee_p3": "hooaegasid"
+    },
+    {
+      "en": "suspect",
+      "ru": "подозреваемый",
+      "ee": "kahtlustatav",
+      "ee_2": "kahtlustatava",
+      "ee_3": "kahtlustatavat",
+      "ee_p": "kahtlustatavad",
+      "ee_p2": "kahtlustatavate",
+      "ee_p3": "kahtlustatavaid"
+    },
+    {
+      "en": "costly",
+      "ru": "затратный",
+      "ee": "kulukas"
+    },
+    {
+      "en": "criminal (person)",
+      "ru": "преступник",
+      "ee": "kurjategija",
+      "ee_2": "kurjategija",
+      "ee_3": "kurjategijat",
+      "ee_p": "kurjategijad",
+      "ee_p2": "kurjategijate",
+      "ee_p3": "kurjategijaid"
+    },
+    {
+      "en": "explosion",
+      "ru": "взрыв",
+      "ee": "plahvatus",
+      "ee_2": "plahvatuse",
+      "ee_3": "plahvatust"
+    },
+    {
+      "en": "money heist",
+      "ru": "ограбление (денег)",
+      "ee": "raharööv",
+      "ee_2": "raharöövi",
+      "ee_3": "raharöövi"
+    },
+    {
+      "en": "relationship",
+      "ru": "отношение, связь",
+      "ee": "suhe",
+      "ee_2": "suhte",
+      "ee_3": "suhet",
+      "ee_p": "suhted",
+      "ee_p2": "suhete",
+      "ee_p3": "suhteid"
+    },
+    {
+      "en": "unsupervised",
+      "ru": "без присмотра",
+      "ee": "järelevalveta"
+    },
+    {
+      "en": "application (app)",
+      "ru": "приложение",
+      "ee": "rakendus",
+      "ee_2": "rakenduse",
+      "ee_3": "rakendust"
+    },
+    {
+      "en": "got in touch",
+      "ru": "связался",
+      "ee": "võttis ühendust"
+    },
+    {
+      "en": "punctuation mark",
+      "ru": "знак препинания",
+      "ee": "kirjavahemärk",
+      "ee_2": "kirjavahemärgi",
+      "ee_3": "kirjavahemärki",
+      "ee_p": "kirjavahemärgid",
+      "ee_p2": "kirjavahemärkide",
+      "ee_p3": "kirjavahemärke"
+    },
+    {
+      "en": "colloquial",
+      "ru": "разговорный",
+      "ee": "kõnekeelne"
+    },
+    {
+      "en": "abbreviation",
+      "ru": "сокращение",
+      "ee": "lühend",
+      "ee_2": "lühendi",
+      "ee_3": "lühendit",
+      "ee_p": "lühendid",
+      "ee_p2": "lühendite",
+      "ee_p3": "lühendeid"
+    },
+    {
+      "en": "emoji (smiley)",
+      "ru": "эмодзи, смайлик",
+      "ee": "tujukuju"
+    },
+    {
+      "en": "may I have your attention",
+      "ru": "прошу внимания",
+      "ee": "ma palun tähelepanu"
+    },
+    {
+      "en": "lecture",
+      "ru": "лекция",
+      "ee": "loeng",
+      "ee_2": "loengu",
+      "ee_3": "loengut",
+      "ee_p": "loengud",
+      "ee_p2": "loengute",
+      "ee_p3": "loenguid"
+    },
+    {
+      "en": "the dog demands attention",
+      "ru": "собака требует внимания",
+      "ee": "koer nõuab tähelepanu"
+    },
+    {
+      "en": "complete; total",
+      "ru": "полный; абсолютный",
+      "ee": "täielik"
+    },
+    {
+      "en": "the study draws attention",
+      "ru": "исследование привлекает внимание",
+      "ee": "teadusuuring juhib tähelepanu"
+    },
+    {
+      "en": "the event got a lot of media attention",
+      "ru": "мероприятие получило много внимания в СМИ",
+      "ee": "üritus sai meedias palju tähelepanu"
+    },
+    {
+      "en": "he enjoyed the attention",
+      "ru": "он наслаждался вниманием",
+      "ee": "ta nautis tähelepanu"
+    },
+    {
+      "en": "kept; held",
+      "ru": "держал, сохранял",
+      "ee": "hoidis"
+    },
+    {
+      "en": "he attracted attention",
+      "ru": "он привлёк внимание",
+      "ee": "ta äratas tähelepanu"
+    },
+    {
+      "en": "charity concert",
+      "ru": "благотворительный концерт",
+      "ee": "heategevuskontsert",
+      "ee_2": "heategevuskontserdi",
+      "ee_3": "heategevuskontserti"
+    },
+    {
+      "en": "blow; strike",
+      "ru": "удар",
+      "ee": "löök",
+      "ee_2": "löögi",
+      "ee_3": "löök i",
+      "ee_p": "löö gid",
+      "ee_p2": "löö kide",
+      "ee_p3": "lööke"
+    },
+    {
+      "en": "negatively (answer)",
+      "ru": "отрицательно",
+      "ee": "eitavalt"
+    },
+    {
+      "en": "stage production",
+      "ru": "постановка",
+      "ee": "lavastus",
+      "ee_2": "lavastuse",
+      "ee_3": "lavastust"
+    },
+    {
+      "en": "landmark",
+      "ru": "ориентир, достопримечательность",
+      "ee": "maamärk",
+      "ee_2": "maamärgi",
+      "ee_3": "maamärki"
+    },
+    {
+      "en": "printing press",
+      "ru": "печатный пресс",
+      "ee": "trükipress",
+      "ee_2": "trükipressi",
+      "ee_3": "trükipressi"
+    },
+    {
+      "en": "forged; fake",
+      "ru": "поддельный",
+      "ee": "võltsitud"
+    },
+    {
+      "en": "humane; human",
+      "ru": "человечный; человеческий",
+      "ee": "inimlik"
+    },
+    {
+      "en": "deep",
+      "ru": "глубокий",
+      "ee": "sügav"
+    },
+    {
+      "en": "secretly",
+      "ru": "тайно",
+      "ee": "salaja"
+    },
+    {
+      "en": "guy; type",
+      "ru": "тип, парень",
+      "ee": "tüüp",
+      "ee_2": "tüübi",
+      "ee_3": "tüüpi",
+      "ee_p": "tüübid",
+      "ee_p2": "tüüpide",
+      "ee_p3": "tüüpe"
+    },
+    {
+      "en": "study; research",
+      "ru": "исследование",
+      "ee": "uuring",
+      "ee_2": "uuringu",
+      "ee_3": "uuringut"
+    },
+    {
+      "en": "huge",
+      "ru": "огромный",
+      "ee": "hiigelsuur"
+    },
+    {
+      "en": "because of",
+      "ru": "из-за",
+      "ee": "tõttu"
+    },
+    {
+      "en": "face-to-face communication",
+      "ru": "общение лицом к лицу",
+      "ee": "näost näkku suhtlemine"
+    },
+    {
+      "en": "social network",
+      "ru": "социальная сеть",
+      "ee": "suhtlusvõrgustik",
+      "ee_2": "suhtlusvõrgustiku",
+      "ee_3": "suhtlusvõrgustikku"
+    },
+    {
+      "en": "class reunion",
+      "ru": "встреча выпускников",
+      "ee": "klassikokkutulek",
+      "ee_2": "klassikokkutuleku",
+      "ee_3": "klassikokkutulekut"
+    },
+    {
+      "en": "excitement; enthusiasm",
+      "ru": "восторг",
+      "ee": "vaimustus",
+      "ee_2": "vaimustuse",
+      "ee_3": "vaimustust"
+    },
+    {
+      "en": "how many emails do you get/send per day?",
+      "ru": "сколько e-писем ты получаешь/отправляешь в день?",
+      "ee": "mitu e-kirja sa päevas saad? mitu e-kirja sa päevas saadad?"
+    },
+    {
+      "en": "spelling",
+      "ru": "правописание",
+      "ee": "õigekiri",
+      "ee_2": "õigekirja",
+      "ee_3": "õigekirja"
+    },
+    {
+      "en": "neutral",
+      "ru": "нейтральный",
+      "ee": "neutraalne"
+    },
+    {
+      "en": "formal",
+      "ru": "официальный",
+      "ee": "ametlik"
+    },
+    {
+      "en": "presentation",
+      "ru": "презентация",
+      "ee": "esitlus",
+      "ee_2": "esitluse",
+      "ee_3": "esitlust"
+    },
+    {
+      "en": "awesome presentation!",
+      "ru": "классная презентация!",
+      "ee": "vinge esitlus!"
+    },
+    {
+      "en": "speechless",
+      "ru": "без слов",
+      "ee": "sõnatu"
+    },
+    {
+      "en": "give the info sheet a look",
+      "ru": "кинь взгляд на инфолист",
+      "ee": "viska infolehele pilk peale"
+    },
+    {
+      "en": "this work is a complete mess",
+      "ru": "эта работа полная ерунда",
+      "ee": "see töö on täielik käkk"
+    },
+    {
+      "en": "mess; botch",
+      "ru": "косяк, халтура",
+      "ee": "käkk"
+    },
+    {
+      "en": "proposal",
+      "ru": "предложение",
+      "ee": "ettepanek",
+      "ee_2": "ettepaneku",
+      "ee_3": "ettepanekut"
+    },
+    {
+      "en": "boat",
+      "ru": "лодка",
+      "ee": "paat",
+      "ee_2": "paadi",
+      "ee_3": "paati",
+      "ee_p": "paadid",
+      "ee_p2": "paatide",
+      "ee_p3": "paate"
+    },
+    {
+      "en": "last; past",
+      "ru": "прошедший",
+      "ee": "möödunud"
+    },
+    {
+      "en": "dissatisfied",
+      "ru": "недовольный",
+      "ee": "rahulolematu"
+    },
+    {
+      "en": "constitution",
+      "ru": "конституция",
+      "ee": "põhiseadus",
+      "ee_2": "põhiseaduse",
+      "ee_3": "põhiseadust"
+    },
+    {
+      "en": "substantive; essential",
+      "ru": "содержательный, сущностный",
+      "ee": "sisuline"
+    },
+    {
+      "en": "entertainment show",
+      "ru": "развлекательная передача",
+      "ee": "meelelahutuslik saade"
+    },
+    {
+      "en": "political",
+      "ru": "политический",
+      "ee": "poliitiline"
+    },
+    {
+      "en": "locals",
+      "ru": "местные",
+      "ee": "kohalikud"
+    },
+    {
+      "en": "free",
+      "ru": "свободные",
+      "ee": "vabad"
+    },
+    {
+      "en": "investigative",
+      "ru": "расследовательский",
+      "ee": "uuriv"
+    },
+    {
+      "en": "modern",
+      "ru": "современный",
+      "ee": "kaasaegne"
+    },
+    {
+      "en": "work-related",
+      "ru": "рабочий, по работе",
+      "ee": "tööalane"
+    },
+    {
+      "en": "expression",
+      "ru": "выражение",
+      "ee": "väljend",
+      "ee_2": "väljendi",
+      "ee_3": "väljendit"
+    },
+    {
+      "en": "word order",
+      "ru": "порядок слов",
+      "ee": "sõnajärg",
+      "ee_2": "sõnajärje",
+      "ee_3": "sõnajärge"
+    },
+    {
+      "en": "civil right",
+      "ru": "гражданское право",
+      "ee": "kodanikuõigus",
+      "ee_2": "kodanikuõiguse",
+      "ee_3": "kodanikuõigust"
+    },
+    {
+      "en": "war",
+      "ru": "война",
+      "ee": "sõda",
+      "ee_2": "sõja",
+      "ee_3": "sõda",
+      "ee_p": "sõjad",
+      "ee_p2": "sõdade",
+      "ee_p3": "sõdu"
+    },
+    {
+      "en": "so far; until now",
+      "ru": "до сих пор",
+      "ee": "siiani"
+    },
+    {
+      "en": "noisy person",
+      "ru": "шумный человек",
+      "ee": "mürakaru"
+    },
+    {
+      "en": "sharp mind",
+      "ru": "острый ум",
+      "ee": "terav mõistus"
+    },
+    {
+      "en": "radio listener",
+      "ru": "радиослушатель",
+      "ee": "raadio kuulaja",
+      "ee_2": "raadio kuulaja",
+      "ee_3": "raadio kuulajat",
+      "ee_p": "raadio kuulajad",
+      "ee_p2": "raadio kuulajate",
+      "ee_p3": "raadio kuulajaid"
+    },
+    {
+      "en": "visitor",
+      "ru": "посетитель",
+      "ee": "külastaja",
+      "ee_2": "külastaja",
+      "ee_3": "külastajat",
+      "ee_p": "külastajad",
+      "ee_p2": "külastajate",
+      "ee_p3": "külastajaid"
+    },
+    {
+      "en": "environmental problem",
+      "ru": "проблема окружающей среды",
+      "ee": "keskkonna probleem"
+    },
+    {
+      "en": "editor-in-chief",
+      "ru": "главный редактор",
+      "ee": "pea toimetaja"
+    },
+    {
+      "en": "money robbery",
+      "ru": "разбой/ограбление денег",
+      "ee": "raha rööv"
+    },
+    {
+      "en": "traffic accident",
+      "ru": "дорожное происшествие",
+      "ee": "liiklusõnnetus",
+      "ee_2": "liiklusõnnetuse",
+      "ee_3": "liiklusõnnetust"
+    },
+    {
+      "en": "traffic jam",
+      "ru": "пробка",
+      "ee": "liiklusummik",
+      "ee_2": "liiklusummiku",
+      "ee_3": "liiklusummikut"
+    },
+    {
+      "en": "traffic sign",
+      "ru": "дорожный знак",
+      "ee": "liiklusmärk",
+      "ee_2": "liiklusmärgi",
+      "ee_3": "liiklusmärki"
+    },
+    {
+      "en": "general",
+      "ru": "общий",
+      "ee": "üldine"
+    },
+    {
+      "en": "streaming service",
+      "ru": "стриминговый сервис",
+      "ee": "voogedastusteenus",
+      "ee_2": "voogedastusteenuse",
+      "ee_3": "voogedastusteenust"
+    },
+    {
+      "en": "print media",
+      "ru": "печатные СМИ",
+      "ee": "trükimeedia",
+      "ee_2": "trükimeedia",
+      "ee_3": "trükimeediat"
+    },
+    {
+      "en": "in summary",
+      "ru": "в итоге, подводя итог",
+      "ee": "kokkuvõttes"
+    },
+    {
+      "en": "information request",
+      "ru": "информационный запрос",
+      "ee": "infopäring",
+      "ee_2": "infopäringu",
+      "ee_3": "infopäringut"
+    },
+    {
+      "en": "cloud service",
+      "ru": "облачный сервис",
+      "ee": "pilveteenus",
+      "ee_2": "pilveteenuse",
+      "ee_3": "pilveteenust"
+    },
+    {
+      "en": "to suppose, assume",
+      "ru": "предполагать",
+      "ee": "oletama",
+      "ee_da": "oletada",
+      "ee_mina": "oletan",
+      "ee_past_mina": "oletasin",
+      "ee_past_tema": "oletas",
+      "ee_past_neg": "ei oletanud"
+    },
+    {
+      "en": "to decrease (intr.)",
+      "ru": "уменьшаться",
+      "ee": "vähenema",
+      "ee_da": "väheneda",
+      "ee_mina": "vähenen",
+      "ee_past_mina": "vähenesin",
+      "ee_past_tema": "vähenes",
+      "ee_past_neg": "ei vähenenud"
+    },
+    {
+      "en": "to solve",
+      "ru": "решать",
+      "ee": "lahendama",
+      "ee_da": "lahendada",
+      "ee_mina": "lahendan",
+      "ee_past_mina": "lahendasin",
+      "ee_past_tema": "lahendas",
+      "ee_past_neg": "ei lahendanud"
+    },
+    {
+      "en": "to create",
+      "ru": "создавать",
+      "ee": "looma",
+      "ee_da": "luua",
+      "ee_mina": "loon",
+      "ee_past_mina": "lõin",
+      "ee_past_tema": "lõi",
+      "ee_past_neg": "ei loonud"
+    },
+    {
+      "en": "to discover",
+      "ru": "обнаружить",
+      "ee": "avastama",
+      "ee_da": "avastada",
+      "ee_mina": "avastan",
+      "ee_past_mina": "avastasin",
+      "ee_past_tema": "avastas",
+      "ee_past_neg": "ei avastanud"
+    },
+    {
+      "en": "to forge; fake",
+      "ru": "подделывать",
+      "ee": "võltsima",
+      "ee_da": "võltsida",
+      "ee_mina": "võltsin",
+      "ee_past_mina": "võltsisin",
+      "ee_past_tema": "võltsis",
+      "ee_past_neg": "ei võltsinud"
+    },
+    {
+      "en": "to arrest",
+      "ru": "арестовывать",
+      "ee": "arreteerima",
+      "ee_da": "arreteerida",
+      "ee_mina": "arreteerin",
+      "ee_past_mina": "arreteerisin",
+      "ee_past_tema": "arreteeris",
+      "ee_past_neg": "ei arreteerinud"
+    },
+    {
+      "en": "to restore",
+      "ru": "восстанавливать",
+      "ee": "taastama",
+      "ee_da": "taastada",
+      "ee_mina": "taastan",
+      "ee_past_mina": "taastasin",
+      "ee_past_tema": "taastas",
+      "ee_past_neg": "ei taastanud"
+    },
+    {
+      "en": "to blow up",
+      "ru": "взорвать",
+      "ee": "õhku laskma",
+      "ee_da": "õhku lasta",
+      "ee_mina": "lasen õhku",
+      "ee_past_mina": "lasksin õhku",
+      "ee_past_tema": "las i õhku",
+      "ee_past_neg": "ei lasknud õhku"
+    },
+    {
+      "en": "to knock",
+      "ru": "стучать",
+      "ee": "koputama",
+      "ee_da": "koputada",
+      "ee_mina": "koputan",
+      "ee_past_mina": "koputasin",
+      "ee_past_tema": "koputas",
+      "ee_past_neg": "ei koputanud"
+    },
+    {
+      "en": "to demand",
+      "ru": "требовать",
+      "ee": "nõudma",
+      "ee_da": "nõuda",
+      "ee_mina": "nõuan",
+      "ee_past_mina": "nõudsin",
+      "ee_past_tema": "nõudis",
+      "ee_past_neg": "ei nõudnud"
+    },
+    {
+      "en": "to escape",
+      "ru": "сбегать",
+      "ee": "põgenema",
+      "ee_da": "põgeneda",
+      "ee_mina": "põgenen",
+      "ee_past_mina": "põgenesin",
+      "ee_past_tema": "põgenes",
+      "ee_past_neg": "ei põgenenud"
+    },
+    {
+      "en": "to steal",
+      "ru": "красть",
+      "ee": "varastama",
+      "ee_da": "varastada",
+      "ee_mina": "varastan",
+      "ee_past_mina": "varastasin",
+      "ee_past_tema": "varastas",
+      "ee_past_neg": "ei varastanud"
+    },
+    {
+      "en": "to murder",
+      "ru": "убивать (умышленно)",
+      "ee": "mõrvama",
+      "ee_da": "mõrvata",
+      "ee_mina": "mõrvan",
+      "ee_past_mina": "mõrvasi n",
+      "ee_past_tema": "mõrvas",
+      "ee_past_neg": "ei mõrvanud"
+    },
+    {
+      "en": "to recognize",
+      "ru": "узнавать",
+      "ee": "ära tundma",
+      "ee_da": "ära tunda",
+      "ee_mina": "tunnen ära",
+      "ee_past_mina": "tundsin ära",
+      "ee_past_tema": "tundis ära",
+      "ee_past_neg": "ei tundnud ära"
+    },
+    {
+      "en": "to handle; treat",
+      "ru": "рассматривать, обходиться",
+      "ee": "käsitlema",
+      "ee_da": "käsitleda",
+      "ee_mina": "käsitlen",
+      "ee_past_mina": "käsitlesin",
+      "ee_past_tema": "käsitles",
+      "ee_past_neg": "ei käsitlenud"
+    },
+    {
+      "en": "to threaten",
+      "ru": "угрожать",
+      "ee": "ähvardama",
+      "ee_da": "ähvardada",
+      "ee_mina": "ähvardan",
+      "ee_past_mina": "ähvardasin",
+      "ee_past_tema": "ähvardas",
+      "ee_past_neg": "ei ähvardanud"
+    },
+    {
+      "en": "to increase (intr.)",
+      "ru": "увеличиваться",
+      "ee": "suurenema",
+      "ee_da": "suureneda",
+      "ee_mina": "suurenen",
+      "ee_past_mina": "surenesin",
+      "ee_past_tema": "surenes",
+      "ee_past_neg": "ei suurenenud"
+    },
+    {
+      "en": "to connect",
+      "ru": "соединять",
+      "ee": "ühendama",
+      "ee_da": "ühendada",
+      "ee_mina": "ühendan",
+      "ee_past_mina": "ühendasin",
+      "ee_past_tema": "ühendas",
+      "ee_past_neg": "ei ühendanud"
+    },
+    {
+      "en": "to awaken; arouse",
+      "ru": "пробуждать",
+      "ee": "äratama",
+      "ee_da": "äratada",
+      "ee_mina": "äratan",
+      "ee_past_mina": "äratasin",
+      "ee_past_tema": "äratas",
+      "ee_past_neg": "ei äratanud"
+    },
+    {
+      "en": "to assert; confirm",
+      "ru": "утверждать; подтверждать",
+      "ee": "kinnitama",
+      "ee_da": "kinnitada",
+      "ee_mina": "kinnitan",
+      "ee_past_mina": "kinnitasin",
+      "ee_past_tema": "kinnitas",
+      "ee_past_neg": "ei kinnitanud"
+    },
+    {
+      "en": "flower bed",
+      "ru": "клумба",
+      "ee": "lillepeenar",
+      "ee_2": "lillepeenra",
+      "ee_3": "lillepeenart",
+      "ee_p": "lillepeenrad",
+      "ee_p2": "lillepeenarde",
+      "ee_p3": "lillepeenraid"
+    },
+    {
+      "en": "to express",
+      "ru": "выражать",
+      "ee": "väljendama",
+      "ee_da": "väljendada",
+      "ee_mina": "väljendan",
+      "ee_past_mina": "väljendasin",
+      "ee_past_tema": "väljendas",
+      "ee_past_neg": "ei väljendanud"
+    },
+    {
+      "en": "to forward; transmit",
+      "ru": "передавать, транслировать",
+      "ee": "edastama",
+      "ee_da": "edastada",
+      "ee_mina": "edastan",
+      "ee_past_mina": "edastasin",
+      "ee_past_tema": "edastas",
+      "ee_past_neg": "ei edastanud"
+    },
+    {
+      "en": "to attract attention",
+      "ru": "привлекать внимание",
+      "ee": "tähelepanu äratama",
+      "ee_da": "tähelepanu äratada",
+      "ee_mina": "äratan tähelepanu",
+      "ee_past_mina": "äratasin tähelepanu",
+      "ee_past_tema": "äratas tähelepanu",
+      "ee_past_neg": "ei äratanud tähelepanu"
+    },
+    {
+      "en": "to pay attention",
+      "ru": "обращать внимание",
+      "ee": "tähelepanu pöörama",
+      "ee_da": "tähelepanu pöörata",
+      "ee_mina": "pööran tähelepanu",
+      "ee_past_mina": "pöörasin tähelepanu",
+      "ee_past_tema": "pööras tähelepanu",
+      "ee_past_neg": "ei pööranud tähelepanu"
+    },
+    {
+      "en": "to ask for attention",
+      "ru": "просить внимания",
+      "ee": "tähelepanu paluma",
+      "ee_da": "tähelepanu paluda",
+      "ee_mina": "palun tähelepanu",
+      "ee_past_mina": "palusin tähelepanu",
+      "ee_past_tema": "palus tähelepanu",
+      "ee_past_neg": "ei palunud tähelepanu"
+    },
+    {
+      "en": "to require attention",
+      "ru": "требовать внимания",
+      "ee": "tähelepanu nõudma",
+      "ee_da": "tähelepanu nõuda",
+      "ee_mina": "nõuan tähelepanu",
+      "ee_past_mina": "nõudsin tähelepanu",
+      "ee_past_tema": "nõudis tähelepanu",
+      "ee_past_neg": "ei nõudnud tähelepanu"
+    },
+    {
+      "en": "to draw attention (to)",
+      "ru": "обращать внимание (на)",
+      "ee": "tähelepanu juhtima",
+      "ee_da": "tähelepanu juhtida",
+      "ee_mina": "juhin tähelepanu",
+      "ee_past_mina": "juhtisin tähelepanu",
+      "ee_past_tema": "juhtis tähelepanu",
+      "ee_past_neg": "ei juhtinud tähelepanu"
+    },
+    {
+      "en": "to visit",
+      "ru": "посещать",
+      "ee": "külastama",
+      "ee_da": "külastada",
+      "ee_mina": "külastan",
+      "ee_past_mina": "külastasin",
+      "ee_past_tema": "külastas",
+      "ee_past_neg": "ei külastanud"
+    },
+    {
+      "en": "to make contact",
+      "ru": "связываться",
+      "ee": "ühendust võtma",
+      "ee_da": "ühendust võtta",
+      "ee_mina": "võtan ühendust",
+      "ee_past_mina": "võtsin ühendust",
+      "ee_past_tema": "võttis ühendust",
+      "ee_past_neg": "ei võtnud ühendust"
+    },
+    {
+      "en": "to shout",
+      "ru": "кричать",
+      "ee": "karjuma",
+      "ee_da": "karjuda",
+      "ee_mina": "karjun",
+      "ee_past_mina": "karjusin",
+      "ee_past_tema": "karjus",
+      "ee_past_neg": "ei karjunud"
+    },
+    {
+      "en": "to focus (on)",
+      "ru": "сосредоточиться (на)",
+      "ee": "keskenduma",
+      "ee_da": "keskenduda",
+      "ee_mina": "keskendun",
+      "ee_past_mina": "keskendusin",
+      "ee_past_tema": "keskendus",
+      "ee_past_neg": "ei keskendunud"
+    },
+    {
+      "en": "to believe",
+      "ru": "верить",
+      "ee": "uskuma",
+      "ee_da": "uskuda",
+      "ee_mina": "usun",
+      "ee_past_mina": "uskusin",
+      "ee_past_tema": "uskus",
+      "ee_past_neg": "ei uskunud"
+    },
+    {
+      "en": "to fit (into)",
+      "ru": "помещаться",
+      "ee": "mahtuma",
+      "ee_da": "mahtuda",
+      "ee_mina": "mahun",
+      "ee_past_mina": "mahtusin",
+      "ee_past_tema": "mahtus",
+      "ee_past_neg": "ei mahtunud"
+    },
+    {
+      "en": "to relate to; have an attitude to",
+      "ru": "относиться",
+      "ee": "suhtuma",
+      "ee_da": "suhtuda",
+      "ee_mina": "suhtun",
+      "ee_past_mina": "suhtusin",
+      "ee_past_tema": "suhtus",
+      "ee_past_neg": "ei suhtunud"
+    },
+    {
+      "en": "to research; investigate",
+      "ru": "исследовать",
+      "ee": "uurima",
+      "ee_da": "uurida",
+      "ee_mina": "uurin",
+      "ee_past_mina": "uurisin",
+      "ee_past_tema": "uuris",
+      "ee_past_neg": "ei uurinud"
+    }
+  ]
+}
