@@ -1,0 +1,1255 @@
+{
+  "lesson": "B1 õppik 2 teema 3",
+  "date": "2025-04-01",
+  "language": "ee",
+  "words": [
+    {
+      "en": "spacious restaurant hall",
+      "ru": "просторный ресторанный зал",
+      "ee": "avar restoranisaal",
+      "ee_2": "restoranisaali",
+      "ee_3": "restoranisaali",
+      "ee_p": "restoranisaalid",
+      "ee_p2": "restoranisaalide",
+      "ee_p3": "restoranisaale"
+    },
+    {
+      "en": "quality ratio (price–quality)",
+      "ru": "соотношение качества (цена–качество)",
+      "ee": "kvaliteedi suhe"
+    },
+    {
+      "en": "cozy",
+      "ru": "уютный",
+      "ee": "hubane"
+    },
+    {
+      "en": "modern design",
+      "ru": "современный дизайн",
+      "ee": "kaasaegne disain"
+    },
+    {
+      "en": "local produce/ingredients",
+      "ru": "местные ингредиенты",
+      "ee": "kohalik tooraine",
+      "ee_2": "tooraine",
+      "ee_3": "toorainet",
+      "ee_p": "toorained",
+      "ee_p2": "toorainete",
+      "ee_p3": "tooraineid"
+    },
+    {
+      "en": "vegetarian food",
+      "ru": "вегетарианская еда",
+      "ee": "taimetoit",
+      "ee_2": "taimetoidu",
+      "ee_3": "taimetoitu",
+      "ee_p": "taimetoidud",
+      "ee_p2": "taimetoitude",
+      "ee_p3": "taimetoite"
+    },
+    {
+      "en": "pleasant atmosphere",
+      "ru": "приятная атмосфера",
+      "ee": "meeldiv õhkkond"
+    },
+    {
+      "en": "varied menu",
+      "ru": "разнообразное меню",
+      "ee": "mitmekesine menüü"
+    },
+    {
+      "en": "soft chairs",
+      "ru": "мягкие стулья",
+      "ee": "pehmed toolid"
+    },
+    {
+      "en": "hard",
+      "ru": "твёрдый",
+      "ee": "kõva"
+    },
+    {
+      "en": "to eat out",
+      "ru": "питаться вне дома",
+      "ee": "väljas sööma",
+      "ee_da": "väljas süüa",
+      "ee_mina": "söön väljas",
+      "ee_past_mina": "sõin väljas",
+      "ee_past_tema": "sõi väljas",
+      "ee_past_neg": "ei söönud väljas"
+    },
+    {
+      "en": "sports broadcasts",
+      "ru": "спортивные трансляции",
+      "ee": "spordiülekanded"
+    },
+    {
+      "en": "vegetarian diet",
+      "ru": "вегетарианское питание",
+      "ee": "taimetoide",
+      "ee_2": "taimetoite",
+      "ee_3": "taimetoidet",
+      "ee_p": "taimetoited",
+      "ee_p2": "taimetoidete",
+      "ee_p3": "taimetoiteid"
+    },
+    {
+      "en": "noisy",
+      "ru": "шумный",
+      "ee": "lärmakas"
+    },
+    {
+      "en": "loud",
+      "ru": "громкий",
+      "ee": "vali"
+    },
+    {
+      "en": "mandarins cause allergies",
+      "ru": "мандарины вызывают аллергию",
+      "ee": "mandariinid tekitavad allergiat"
+    },
+    {
+      "en": "many years ago",
+      "ru": "много лет назад",
+      "ee": "palju aastaid tagasi"
+    },
+    {
+      "en": "sleep well (good night wish)",
+      "ru": "спокойной ночи",
+      "ee": "head und"
+    },
+    {
+      "en": "Scottish",
+      "ru": "шотландский",
+      "ee": "šoti"
+    },
+    {
+      "en": "sister",
+      "ru": "сестра (сестрица)",
+      "ee": "sõsar",
+      "ee_2": "sõsara",
+      "ee_3": "sõsarat",
+      "ee_p": "sõsarad",
+      "ee_p2": "sõsarate",
+      "ee_p3": "sõsar aid"
+    },
+    {
+      "en": "candle",
+      "ru": "свеча",
+      "ee": "küünal",
+      "ee_2": "küünla",
+      "ee_3": "küünalt",
+      "ee_p": "küünlad",
+      "ee_p2": "küünalde",
+      "ee_p3": "küünlaid"
+    },
+    {
+      "en": "Scotland",
+      "ru": "Шотландия",
+      "ee": "Šotimaa",
+      "ee_2": "Šotimaa",
+      "ee_3": "Šotimaad"
+    },
+    {
+      "en": "going; departure",
+      "ru": "уход, отправление",
+      "ee": "minek",
+      "ee_2": "mineku",
+      "ee_3": "minekut",
+      "ee_p": "minekud",
+      "ee_p2": "minekute",
+      "ee_p3": "minekuid"
+    },
+    {
+      "en": "since morning",
+      "ru": "с утра",
+      "ee": "hommikust saadik"
+    },
+    {
+      "en": "packed full",
+      "ru": "битком набито",
+      "ee": "puupüsti täis"
+    },
+    {
+      "en": "oh well",
+      "ru": "ну что ж",
+      "ee": "mis siis ikka"
+    },
+    {
+      "en": "seat",
+      "ru": "сиденье, место",
+      "ee": "iste",
+      "ee_2": "istme",
+      "ee_3": "istet",
+      "ee_p": "istmed",
+      "ee_p2": "istmete",
+      "ee_p3": "istmeid"
+    },
+    {
+      "en": "take a seat",
+      "ru": "присаживайтесь",
+      "ee": "võtke istet"
+    },
+    {
+      "en": "seat (place)",
+      "ru": "посадочное место",
+      "ee": "istekoht",
+      "ee_2": "istekoha",
+      "ee_3": "istekohta",
+      "ee_p": "istekohad",
+      "ee_p2": "istekohtade",
+      "ee_p3": "istekohti"
+    },
+    {
+      "en": "counter",
+      "ru": "прилавок",
+      "ee": "lett",
+      "ee_2": "leti",
+      "ee_3": "letti",
+      "ee_p": "letid",
+      "ee_p2": "lettide",
+      "ee_p3": "lette"
+    },
+    {
+      "en": "at the counter",
+      "ru": "у прилавка",
+      "ee": "leti ääres"
+    },
+    {
+      "en": "fresh salad",
+      "ru": "сырой/свежий салат",
+      "ee": "toorsalat",
+      "ee_2": "toorsalati",
+      "ee_3": "toorsalatit",
+      "ee_p": "toorsaladid",
+      "ee_p2": "toorsalatite",
+      "ee_p3": "toorsalateid"
+    },
+    {
+      "en": "pulled meat",
+      "ru": "рваное мясо (pulled pork/beef)",
+      "ee": "rebitud liha"
+    },
+    {
+      "en": "crispy",
+      "ru": "хрустящий",
+      "ee": "krõbe"
+    },
+    {
+      "en": "drink (beverage)",
+      "ru": "напиток",
+      "ee": "jook",
+      "ee_2": "joogi",
+      "ee_3": "jooki",
+      "ee_p": "joogid",
+      "ee_p2": "jookide",
+      "ee_p3": "jooke"
+    },
+    {
+      "en": "a bit",
+      "ru": "немного",
+      "ee": "pisut"
+    },
+    {
+      "en": "stewed",
+      "ru": "тушёный",
+      "ee": "hautatud"
+    },
+    {
+      "en": "spicy; sharp",
+      "ru": "острый",
+      "ee": "terav"
+    },
+    {
+      "en": "lost",
+      "ru": "пропавший",
+      "ee": "kadunud"
+    },
+    {
+      "en": "the wallet is lost",
+      "ru": "кошелёк потерян",
+      "ee": "rahakott on kadunud"
+    },
+    {
+      "en": "accidentally",
+      "ru": "случайно",
+      "ee": "kogemata"
+    },
+    {
+      "en": "it happened accidentally",
+      "ru": "это случилось случайно",
+      "ee": "see juhtus kogemata"
+    },
+    {
+      "en": "all’s well that ends well",
+      "ru": "всё хорошо, что хорошо кончается",
+      "ee": "lõpp hea, kõik hea"
+    },
+    {
+      "en": "tip (gratuity)",
+      "ru": "чаевые",
+      "ee": "jootraha",
+      "ee_2": "jootraha",
+      "ee_3": "jootraha"
+    },
+    {
+      "en": "verb",
+      "ru": "глагол",
+      "ee": "tegusõna",
+      "ee_2": "tegusõna",
+      "ee_3": "tegusõna",
+      "ee_p": "tegusõnad",
+      "ee_p2": "tegusõnade",
+      "ee_p3": "tegusõnu"
+    },
+    {
+      "en": "noun",
+      "ru": "существительное",
+      "ee": "nimisõna",
+      "ee_2": "nimisõna",
+      "ee_3": "nimisõna",
+      "ee_p": "nimisõnad",
+      "ee_p2": "nimisõnade",
+      "ee_p3": "nimisõnu"
+    },
+    {
+      "en": "grated",
+      "ru": "тёртый",
+      "ee": "riivitud"
+    },
+    {
+      "en": "I left home",
+      "ru": "я вышел из дома",
+      "ee": "ma lahkusin kodust"
+    },
+    {
+      "en": "it is light in the daytime",
+      "ru": "днём светло",
+      "ee": "päeval on valge"
+    },
+    {
+      "en": "it is dark at night",
+      "ru": "ночью темно",
+      "ee": "öösel on pime"
+    },
+    {
+      "en": "it is dusk in the evening",
+      "ru": "вечером сумрачно",
+      "ee": "õhtul on hämar"
+    },
+    {
+      "en": "turn the light on",
+      "ru": "включи свет",
+      "ee": "pane tuli põlema"
+    },
+    {
+      "en": "inedible (not edible)",
+      "ru": "несъедобный",
+      "ee": "söödamatu"
+    },
+    {
+      "en": "is overcooked",
+      "ru": "переварено/пережарено",
+      "ee": "on üle keedetud"
+    },
+    {
+      "en": "is hard",
+      "ru": "жёсткий",
+      "ee": "on kõva"
+    },
+    {
+      "en": "spice",
+      "ru": "специя",
+      "ee": "vürts",
+      "ee_2": "vürtsi",
+      "ee_3": "vürtsi",
+      "ee_p": "vürtsid",
+      "ee_p2": "vürtside",
+      "ee_p3": "vürtse"
+    },
+    {
+      "en": "alone",
+      "ru": "в одиночку",
+      "ee": "üksi"
+    },
+    {
+      "en": "as a pair (two of us)",
+      "ru": "вдвоём",
+      "ee": "kahekesi"
+    },
+    {
+      "en": "as three",
+      "ru": "втроём",
+      "ee": "kolmekesi"
+    },
+    {
+      "en": "as four",
+      "ru": "вчетвером",
+      "ee": "neljakesi"
+    },
+    {
+      "en": "as five",
+      "ru": "впятером",
+      "ee": "viiekesi"
+    },
+    {
+      "en": "as eighteen",
+      "ru": "восемнадцатером",
+      "ee": "kaheksateistkümnekesi"
+    },
+    {
+      "en": "how many of you?",
+      "ru": "вас сколько человек?",
+      "ee": "mitmekesi?"
+    },
+    {
+      "en": "sunshade",
+      "ru": "зонтик от солнца",
+      "ee": "päikesevari",
+      "ee_2": "päikesevarju",
+      "ee_3": "päikesevarju",
+      "ee_p": "päikesevarjud",
+      "ee_p2": "päikesevarjude",
+      "ee_p3": "päikesevarje"
+    },
+    {
+      "en": "24-hour shop",
+      "ru": "круглосуточный магазин",
+      "ee": "ööpäevane pood"
+    },
+    {
+      "en": "useful",
+      "ru": "полезный",
+      "ee": "kasulik"
+    },
+    {
+      "en": "how can I be helpful?",
+      "ru": "как я могу быть полезен?",
+      "ee": "kuidas ma saan kasulik olla?"
+    },
+    {
+      "en": "earlier, before",
+      "ru": "раньше",
+      "ee": "varem"
+    },
+    {
+      "en": "situation",
+      "ru": "ситуация",
+      "ee": "olukord",
+      "ee_2": "olukorra",
+      "ee_3": "olukorda",
+      "ee_p": "olukorrad",
+      "ee_p2": "olukordade",
+      "ee_p3": "olukordi"
+    },
+    {
+      "en": "nice to see you!",
+      "ru": "рад тебя видеть!",
+      "ee": "rõõm sind näha!"
+    },
+    {
+      "en": "long time no see",
+      "ru": "давно не виделись",
+      "ee": "pole kaua näinud"
+    },
+    {
+      "en": "company, party (of people)",
+      "ru": "компания (людей)",
+      "ee": "seltskond",
+      "ee_2": "seltskonna",
+      "ee_3": "seltskonda",
+      "ee_p": "seltskonnad",
+      "ee_p2": "seltskondade",
+      "ee_p3": "seltskondi"
+    },
+    {
+      "en": "the party didn’t show up",
+      "ru": "компания не пришла",
+      "ee": "seltskond jättis tulemata"
+    },
+    {
+      "en": "all tables are taken",
+      "ru": "все столики заняты",
+      "ee": "kõik lauad kinni"
+    },
+    {
+      "en": "what else can we do?",
+      "ru": "что же нам остаётся?",
+      "ee": "mis meil ikka üle jääb?"
+    },
+    {
+      "en": "gang, bunch",
+      "ru": "компания, банда",
+      "ee": "kamp",
+      "ee_2": "kamba",
+      "ee_3": "kampa",
+      "ee_p": "kambad",
+      "ee_p2": "kampade",
+      "ee_p3": "kampe"
+    },
+    {
+      "en": "I went to the exam without studying and failed",
+      "ru": "я пошёл на экзамен не подготовившись и провалился",
+      "ee": "ma läksin eksamile õpimata ja kukkusin läbi"
+    },
+    {
+      "en": "fasting",
+      "ru": "пост",
+      "ee": "paast",
+      "ee_2": "paastu",
+      "ee_3": "paastu",
+      "ee_p": "paastud",
+      "ee_p2": "paastude",
+      "ee_p3": "paaste"
+    },
+    {
+      "en": "potato",
+      "ru": "картофель",
+      "ee": "kartul",
+      "ee_2": "kartuli",
+      "ee_3": "kartulit",
+      "ee_p": "kartulid",
+      "ee_p2": "kartulite",
+      "ee_p3": "kartuleid"
+    },
+    {
+      "en": "carrot",
+      "ru": "морковь",
+      "ee": "porgand",
+      "ee_2": "porgandi",
+      "ee_3": "porgandit",
+      "ee_p": "porgandid",
+      "ee_p2": "porgandite",
+      "ee_p3": "porgandeid"
+    },
+    {
+      "en": "tomato",
+      "ru": "помидор",
+      "ee": "tomat",
+      "ee_2": "tomati",
+      "ee_3": "tomatit",
+      "ee_p": "tomatid",
+      "ee_p2": "tomatite",
+      "ee_p3": "tomateid"
+    },
+    {
+      "en": "broccoli",
+      "ru": "брокколи",
+      "ee": "brokoli",
+      "ee_2": "brokoli",
+      "ee_3": "brokolit",
+      "ee_p": "brokolid",
+      "ee_p2": "brokolite",
+      "ee_p3": "brokoleid"
+    },
+    {
+      "en": "orange (fruit)",
+      "ru": "апельсин",
+      "ee": "apelsin",
+      "ee_2": "apelsini",
+      "ee_3": "apelsini",
+      "ee_p": "apelsinid",
+      "ee_p2": "apelsinide",
+      "ee_p3": "apelsine"
+    },
+    {
+      "en": "plum",
+      "ru": "слива",
+      "ee": "ploom",
+      "ee_2": "ploomi",
+      "ee_3": "ploomi",
+      "ee_p": "ploomid",
+      "ee_p2": "ploomide",
+      "ee_p3": "ploome"
+    },
+    {
+      "en": "banana",
+      "ru": "банан",
+      "ee": "banaan",
+      "ee_2": "banaani",
+      "ee_3": "banaani",
+      "ee_p": "banaanid",
+      "ee_p2": "banaanide",
+      "ee_p3": "banaane"
+    },
+    {
+      "en": "pear",
+      "ru": "груша",
+      "ee": "pirn",
+      "ee_2": "pirni",
+      "ee_3": "pirni",
+      "ee_p": "pirnid",
+      "ee_p2": "pirnide",
+      "ee_p3": "pirne"
+    },
+    {
+      "en": "beetroot",
+      "ru": "свёкла",
+      "ee": "peet",
+      "ee_2": "peedi",
+      "ee_3": "peeti",
+      "ee_p": "peedid",
+      "ee_p2": "peetide",
+      "ee_p3": "peete"
+    },
+    {
+      "en": "cucumber",
+      "ru": "огурец",
+      "ee": "kurk",
+      "ee_2": "kurgi",
+      "ee_3": "kurki",
+      "ee_p": "kurgid",
+      "ee_p2": "kurkide",
+      "ee_p3": "kurke"
+    },
+    {
+      "en": "sausage",
+      "ru": "колбаса",
+      "ee": "vorst",
+      "ee_2": "vorsti",
+      "ee_3": "vorsti",
+      "ee_p": "vorstid",
+      "ee_p2": "vorstide",
+      "ee_p3": "vorste"
+    },
+    {
+      "en": "wine",
+      "ru": "вино",
+      "ee": "vein",
+      "ee_2": "veini",
+      "ee_3": "veini",
+      "ee_p": "veinid",
+      "ee_p2": "veinide",
+      "ee_p3": "veine"
+    },
+    {
+      "en": "ham",
+      "ru": "ветчина",
+      "ee": "sink",
+      "ee_2": "sinki",
+      "ee_3": "sinki",
+      "ee_p": "sigid",
+      "ee_p2": "sinkide",
+      "ee_p3": "sinke"
+    },
+    {
+      "en": "cake",
+      "ru": "пирожное/торт",
+      "ee": "kook",
+      "ee_2": "koogi",
+      "ee_3": "kooki",
+      "ee_p": "koogid",
+      "ee_p2": "kookide",
+      "ee_p3": "kooke"
+    },
+    {
+      "en": "soup",
+      "ru": "суп",
+      "ee": "supp",
+      "ee_2": "supi",
+      "ee_3": "suppi",
+      "ee_p": "supid",
+      "ee_p2": "suppide",
+      "ee_p3": "suppe"
+    },
+    {
+      "en": "rice",
+      "ru": "рис",
+      "ee": "riis",
+      "ee_2": "riisi",
+      "ee_3": "riisi",
+      "ee_p": "riisid",
+      "ee_p2": "riiside",
+      "ee_p3": "riise"
+    },
+    {
+      "en": "strawberry",
+      "ru": "клубника",
+      "ee": "maasikas",
+      "ee_2": "maasika",
+      "ee_3": "maasikat",
+      "ee_p": "maasikad",
+      "ee_p2": "maasikate",
+      "ee_p3": "maasikaid"
+    },
+    {
+      "en": "raspberry",
+      "ru": "малина",
+      "ee": "vaarikas",
+      "ee_2": "vaarika",
+      "ee_3": "vaarikat",
+      "ee_p": "vaarikad",
+      "ee_p2": "vaarikate",
+      "ee_p3": "vaarikaid"
+    },
+    {
+      "en": "blueberry/bilberry",
+      "ru": "черника/голубика",
+      "ee": "mustikas",
+      "ee_2": "mustika",
+      "ee_3": "mustikat",
+      "ee_p": "mustikad",
+      "ee_p2": "mustikate",
+      "ee_p3": "mustikaid"
+    },
+    {
+      "en": "pie",
+      "ru": "пирог",
+      "ee": "pirukas",
+      "ee_2": "piruka",
+      "ee_3": "pirukat",
+      "ee_p": "pirukad",
+      "ee_p2": "pirukate",
+      "ee_p3": "pirukaid"
+    },
+    {
+      "en": "bell pepper",
+      "ru": "перец (сладкий)",
+      "ee": "paprika",
+      "ee_2": "paprika",
+      "ee_3": "paprikat",
+      "ee_p": "paprikad",
+      "ee_p2": "paprikate",
+      "ee_p3": "paprikaid"
+    },
+    {
+      "en": "pumpkin",
+      "ru": "тыква",
+      "ee": "kõrvits",
+      "ee_2": "kõrvitsa",
+      "ee_3": "kõrvitsat",
+      "ee_p": "kõrvitsad",
+      "ee_p2": "kõrvitsate",
+      "ee_p3": "kõrvitsaid"
+    },
+    {
+      "en": "onion",
+      "ru": "лук",
+      "ee": "sibul",
+      "ee_2": "sibula",
+      "ee_3": "sibulat",
+      "ee_p": "sibulad",
+      "ee_p2": "sibulate",
+      "ee_p3": "sibulaid"
+    },
+    {
+      "en": "raisin",
+      "ru": "изюм",
+      "ee": "rosin",
+      "ee_2": "rosina",
+      "ee_3": "rosinat",
+      "ee_p": "rosinad",
+      "ee_p2": "rosinate",
+      "ee_p3": "rosinaid"
+    },
+    {
+      "en": "bread",
+      "ru": "хлеб",
+      "ee": "leib",
+      "ee_2": "leiva",
+      "ee_3": "leiba",
+      "ee_p": "leivad",
+      "ee_p2": "leibade",
+      "ee_p3": "leibasid"
+    },
+    {
+      "en": "white bread/roll",
+      "ru": "булка/батон",
+      "ee": "sai",
+      "ee_2": "sai a",
+      "ee_3": "saia",
+      "ee_p": "saiad",
+      "ee_p2": "saiade",
+      "ee_p3": "saiasid"
+    },
+    {
+      "en": "juice",
+      "ru": "сок",
+      "ee": "mahl",
+      "ee_2": "mahla",
+      "ee_3": "mahla",
+      "ee_p": "mahlad",
+      "ee_p2": "mahlade",
+      "ee_p3": "mahlasid"
+    },
+    {
+      "en": "milk",
+      "ru": "молоко",
+      "ee": "piim",
+      "ee_2": "piima",
+      "ee_3": "piima"
+    },
+    {
+      "en": "meat",
+      "ru": "мясо",
+      "ee": "liha",
+      "ee_2": "liha",
+      "ee_3": "liha"
+    },
+    {
+      "en": "fish",
+      "ru": "рыба",
+      "ee": "kala",
+      "ee_2": "kala",
+      "ee_3": "kala",
+      "ee_p": "kalad",
+      "ee_p2": "kalade",
+      "ee_p3": "kalu"
+    },
+    {
+      "en": "chicken",
+      "ru": "курица",
+      "ee": "kana",
+      "ee_2": "kana",
+      "ee_3": "kana",
+      "ee_p": "kanad",
+      "ee_p2": "kanade",
+      "ee_p3": "kanu"
+    },
+    {
+      "en": "egg",
+      "ru": "яйцо",
+      "ee": "muna",
+      "ee_2": "muna",
+      "ee_3": "muna",
+      "ee_p": "munad",
+      "ee_p2": "munade",
+      "ee_p3": "mune"
+    },
+    {
+      "en": "cheese",
+      "ru": "сыр",
+      "ee": "juust",
+      "ee_2": "juustu",
+      "ee_3": "juustu",
+      "ee_p": "juustud",
+      "ee_p2": "juustude",
+      "ee_p3": "juuste"
+    },
+    {
+      "en": "apple",
+      "ru": "яблоко",
+      "ee": "õun",
+      "ee_2": "õuna",
+      "ee_3": "õuna",
+      "ee_p": "õunad",
+      "ee_p2": "õunte",
+      "ee_p3": "õunu"
+    },
+    {
+      "en": "water",
+      "ru": "вода",
+      "ee": "vesi",
+      "ee_2": "vee",
+      "ee_3": "vett"
+    },
+    {
+      "en": "mushroom",
+      "ru": "гриб",
+      "ee": "seen",
+      "ee_2": "seene",
+      "ee_3": "seent",
+      "ee_p": "seened",
+      "ee_p2": "seente",
+      "ee_p3": "seeni"
+    },
+    {
+      "en": "brain-teaser; puzzling",
+      "ru": "задачка на сообразительность",
+      "ee": "nuputamist"
+    },
+    {
+      "en": "any; some (partitive)",
+      "ru": "какого-нибудь (part.)",
+      "ee": "mingit"
+    },
+    {
+      "en": "I love soups",
+      "ru": "я люблю супы",
+      "ee": "ma armastan suppe"
+    },
+    {
+      "en": "I use onion",
+      "ru": "я использую лук",
+      "ee": "ma kasutan sibulat"
+    },
+    {
+      "en": "I prefer garlic",
+      "ru": "я предпочитаю чеснок",
+      "ee": "ma eelistan küüslauku"
+    },
+    {
+      "en": "I want water",
+      "ru": "я хочу воды",
+      "ee": "ma tahan vett"
+    },
+    {
+      "en": "I don’t eat raisins",
+      "ru": "я не ем изюм",
+      "ee": "ma ei söö rosinaid"
+    },
+    {
+      "en": "I bought a kilo of strawberries",
+      "ru": "я купил килограмм клубники",
+      "ee": "ma ostsin kilo maasikaid"
+    },
+    {
+      "en": "I will buy two beets",
+      "ru": "я куплю две свёклы",
+      "ee": "ma ostan kaks peeti"
+    },
+    {
+      "en": "lifestyle",
+      "ru": "образ жизни",
+      "ee": "elustiil",
+      "ee_2": "elustiili",
+      "ee_3": "elustiili"
+    },
+    {
+      "en": "sense of humor",
+      "ru": "чувство юмора",
+      "ee": "huumorimeel",
+      "ee_2": "huumorimeele",
+      "ee_3": "huumorimeelt"
+    },
+    {
+      "en": "high",
+      "ru": "высокий",
+      "ee": "kõrge"
+    },
+    {
+      "en": "diverse",
+      "ru": "разнообразный",
+      "ee": "mitmekesine"
+    },
+    {
+      "en": "region",
+      "ru": "регион",
+      "ee": "piirkond",
+      "ee_2": "piirkonna",
+      "ee_3": "piirkonda",
+      "ee_p": "piirkonnad",
+      "ee_p2": "piirkondade",
+      "ee_p3": "piirkondi"
+    },
+    {
+      "en": "long-lived",
+      "ru": "долгоживущий",
+      "ee": "pikaealine"
+    },
+    {
+      "en": "strict",
+      "ru": "строгий",
+      "ee": "range"
+    },
+    {
+      "en": "slim",
+      "ru": "стройный",
+      "ee": "sale"
+    },
+    {
+      "en": "thin",
+      "ru": "тонкий, худой",
+      "ee": "peenike"
+    },
+    {
+      "en": "stout, corpulent",
+      "ru": "плотный, полный",
+      "ee": "tüse"
+    },
+    {
+      "en": "plant-based",
+      "ru": "растительный",
+      "ee": "taimne"
+    },
+    {
+      "en": "spicy",
+      "ru": "острый",
+      "ee": "terav"
+    },
+    {
+      "en": "unprocessed",
+      "ru": "необработанный",
+      "ee": "töötlemata"
+    },
+    {
+      "en": "mental; spiritual",
+      "ru": "психический; духовный",
+      "ee": "vaimne"
+    },
+    {
+      "en": "drinks are on the house",
+      "ru": "напитки за счёт заведения",
+      "ee": "joogid on maja kulul"
+    },
+    {
+      "en": "preserve; jam",
+      "ru": "консерв/варенье",
+      "ee": "hoidis",
+      "ee_2": "hoidise",
+      "ee_3": "hoidist",
+      "ee_p": "hoidised",
+      "ee_p2": "hoidiste",
+      "ee_p3": "hoidiseid"
+    },
+    {
+      "en": "appetite",
+      "ru": "аппетит",
+      "ee": "isu",
+      "ee_2": "isu",
+      "ee_3": "isu"
+    },
+    {
+      "en": "steaks, patties",
+      "ru": "стейки, котлеты",
+      "ee": "pihvid",
+      "ee_2": "pihvide",
+      "ee_3": "pihve"
+    },
+    {
+      "en": "you won’t believe what happened!",
+      "ru": "ты не поверишь, что случилось!",
+      "ee": "sa ei usu, mis juhtus!"
+    },
+    {
+      "en": "cream sauce",
+      "ru": "сливочный соус",
+      "ee": "koorekaste",
+      "ee_2": "koorekastme",
+      "ee_3": "koorekastet"
+    },
+    {
+      "en": "toast",
+      "ru": "тост",
+      "ee": "röstsai",
+      "ee_2": "röstsai a",
+      "ee_3": "röstsai a"
+    },
+    {
+      "en": "noodle",
+      "ru": "лапша",
+      "ee": "nuudel",
+      "ee_2": "nuudli",
+      "ee_3": "nuudlit",
+      "ee_p": "nuudlid",
+      "ee_p2": "nuudlite",
+      "ee_p3": "nuudleid"
+    },
+    {
+      "en": "refrain (chorus)",
+      "ru": "припев",
+      "ee": "refrään",
+      "ee_2": "refrääni",
+      "ee_3": "refrääni",
+      "ee_p": "refräänid",
+      "ee_p2": "refräänide",
+      "ee_p3": "refrääne"
+    },
+    {
+      "en": "TV series",
+      "ru": "сериал",
+      "ee": "saatesari",
+      "ee_2": "saatesarja",
+      "ee_3": "saatesarja",
+      "ee_p": "saatesarjad",
+      "ee_p2": "saatesarjade",
+      "ee_p3": "saatesarju"
+    },
+    {
+      "en": "to taste",
+      "ru": "по вкусу",
+      "ee": "maitse järgi"
+    },
+    {
+      "en": "cooking show",
+      "ru": "кулинарное шоу",
+      "ee": "kokandussaade",
+      "ee_2": "kokandussaate",
+      "ee_3": "kokandussaadet"
+    },
+    {
+      "en": "host (TV/radio)",
+      "ru": "ведущий",
+      "ee": "saatejuht",
+      "ee_2": "saatejuhi",
+      "ee_3": "saatejuhti",
+      "ee_p": "saatejuhid",
+      "ee_p2": "saatejuhtide",
+      "ee_p3": "saatejuhte"
+    },
+    {
+      "en": "output; production",
+      "ru": "продукция, выпуск",
+      "ee": "toodang",
+      "ee_2": "toodangu",
+      "ee_3": "toodangut"
+    },
+    {
+      "en": "producer, manufacturer",
+      "ru": "производитель",
+      "ee": "tootja",
+      "ee_2": "tootja",
+      "ee_3": "tootjat",
+      "ee_p": "tootjad",
+      "ee_p2": "tootjate",
+      "ee_p3": "tootjaid"
+    },
+    {
+      "en": "bees",
+      "ru": "пчёлы",
+      "ee": "mesilased",
+      "ee_p2": "mesilaste",
+      "ee_p3": "mesilasi"
+    },
+    {
+      "en": "to cause",
+      "ru": "вызывать, причинять",
+      "ee": "tekitama",
+      "ee_da": "tekitada",
+      "ee_mina": "tekitan",
+      "ee_past_mina": "tekitasin",
+      "ee_past_tema": "tekitas",
+      "ee_past_neg": "ei tekitanud"
+    },
+    {
+      "en": "to stretch",
+      "ru": "тянуть, растягивать",
+      "ee": "sirutama",
+      "ee_da": "sirutada",
+      "ee_mina": "sirutan",
+      "ee_past_mina": "sirutasin",
+      "ee_past_tema": "sirutas",
+      "ee_past_neg": "ei sirutanud"
+    },
+    {
+      "en": "to stretch one’s legs",
+      "ru": "размять ноги",
+      "ee": "jalgu sirutama",
+      "ee_da": "jalgu sirutada",
+      "ee_mina": "sirutan jalgu",
+      "ee_past_mina": "sirutasin jalgu",
+      "ee_past_tema": "sirutas jalgu",
+      "ee_past_neg": "ei sirutanud jalgu"
+    },
+    {
+      "en": "to tear, rip",
+      "ru": "рвать",
+      "ee": "rebima",
+      "ee_da": "rebida",
+      "ee_mina": "rebin",
+      "ee_past_mina": "rebisin",
+      "ee_past_tema": "rebis",
+      "ee_past_neg": "ei rebinud"
+    },
+    {
+      "en": "to complain",
+      "ru": "жаловаться",
+      "ee": "kurtma",
+      "ee_da": "kurta",
+      "ee_mina": "kurdan",
+      "ee_past_mina": "kurtsin",
+      "ee_past_tema": "kurtis",
+      "ee_past_neg": "ei kurtnud"
+    },
+    {
+      "en": "to stew",
+      "ru": "тушить (готовить)",
+      "ee": "hautama",
+      "ee_da": "hautada",
+      "ee_mina": "hautan",
+      "ee_past_mina": "hautasin",
+      "ee_past_tema": "hautas",
+      "ee_past_neg": "ei hautanud"
+    },
+    {
+      "en": "to lie (be lying)",
+      "ru": "лежать",
+      "ee": "lamama",
+      "ee_da": "lamada",
+      "ee_mina": "laman",
+      "ee_past_mina": "lamasin",
+      "ee_past_tema": "lamas",
+      "ee_past_neg": "ei lamanud"
+    },
+    {
+      "en": "to leave, depart",
+      "ru": "уезжать, уходить",
+      "ee": "lahkuma",
+      "ee_da": "lahkuda",
+      "ee_mina": "lahkun",
+      "ee_past_mina": "lahkusin",
+      "ee_past_tema": "lahkus",
+      "ee_past_neg": "ei lahkunud"
+    },
+    {
+      "en": "to supplement",
+      "ru": "дополнять",
+      "ee": "täiendama",
+      "ee_da": "täiendada",
+      "ee_mina": "täiendan",
+      "ee_past_mina": "täiendasin",
+      "ee_past_tema": "täiendas",
+      "ee_past_neg": "ei täiendanud"
+    },
+    {
+      "en": "to fail (an exam)",
+      "ru": "провалиться (на экзамене)",
+      "ee": "läbi kukkuma",
+      "ee_da": "läbi kukkuda",
+      "ee_mina": "kukun läbi",
+      "ee_past_mina": "kukkusin läbi",
+      "ee_past_tema": "kukkus läbi",
+      "ee_past_neg": "ei kukkunud läbi"
+    },
+    {
+      "en": "to consist of",
+      "ru": "состоять из",
+      "ee": "koosnema",
+      "ee_da": "koosneda",
+      "ee_mina": "koosnen",
+      "ee_past_mina": "koosnesin",
+      "ee_past_tema": "koosnes",
+      "ee_past_neg": "ei koosnenud"
+    },
+    {
+      "en": "to worry",
+      "ru": "беспокоиться",
+      "ee": "muretsema",
+      "ee_da": "muretseda",
+      "ee_mina": "muretsen",
+      "ee_past_mina": "muretsesin",
+      "ee_past_tema": "muretses",
+      "ee_past_neg": "ei muretsenud"
+    },
+    {
+      "en": "to contain",
+      "ru": "содержать",
+      "ee": "sisaldama",
+      "ee_da": "sisaldada",
+      "ee_mina": "sisaldan",
+      "ee_past_mina": "sisaldasin",
+      "ee_past_tema": "sisaldas",
+      "ee_past_neg": "ei sisaldanud"
+    },
+    {
+      "en": "to carry; to haul",
+      "ru": "везти, перевозить; тащить",
+      "ee": "vedama",
+      "ee_da": "vedada",
+      "ee_mina": "vedan",
+      "ee_past_mina": "vedasin",
+      "ee_past_tema": "vedas",
+      "ee_past_neg": "ei vedanud"
+    },
+    {
+      "en": "to spend (time)",
+      "ru": "проводить (время)",
+      "ee": "veetma",
+      "ee_da": "veeta",
+      "ee_mina": "veedan",
+      "ee_past_mina": "veetsin",
+      "ee_past_tema": "veetis",
+      "ee_past_neg": "ei veetnud"
+    }
+  ]
+}
