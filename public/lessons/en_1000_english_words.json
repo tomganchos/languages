@@ -1,0 +1,7082 @@
+{
+  "lesson": "1000 popular english words",
+  "date": "2025-08-17",
+  "language": "en",
+  "words": [
+    {
+      "en": "chill",
+      "en_t": "/tʃɪl/",
+      "ru": "спокойный",
+      "ee": "rahulik"
+    },
+    {
+      "en": "savage",
+      "en_t": "/ˈsævɪdʒ/",
+      "ru": "жесткий, брутальный",
+      "ee": "metsik"
+    },
+    {
+      "en": "the party is lit",
+      "en_t": "/ðə ˈpɑːti ɪz lɪt/",
+      "ru": "вечеринка началась",
+      "ee": "pidu on täiega käimas"
+    },
+    {
+      "en": "on fleek",
+      "en_t": "/ɒn fliːk/",
+      "ru": "идеально",
+      "ee": "ideaalne"
+    },
+    {
+      "en": "salty",
+      "en_t": "/ˈsɔːlti/",
+      "ru": "недовольный, обиженный",
+      "ee": "solvunud"
+    },
+    {
+      "en": "YOLO",
+      "en_t": "/ˈjoʊloʊ/",
+      "ru": "живёшь лишь раз",
+      "ee": "sa elad ainult korra"
+    },
+    {
+      "en": "vibe",
+      "en_t": "/vaɪb/",
+      "ru": "вайб, атмосфера",
+      "ee": "õhkkond",
+      "ee_2": "õhkkonna",
+      "ee_3": "õhkkonda",
+      "ee_p": "õhkkonnad",
+      "ee_p2": "õhkkondade",
+      "ee_p3": "õhkkondi"
+    },
+    {
+      "en": "snatched",
+      "en_t": "/snætʃt/",
+      "ru": "очень привлекательный",
+      "ee": "väga stiilne"
+    },
+    {
+      "en": "cringe",
+      "en_t": "/krɪndʒ/",
+      "ru": "кринж",
+      "ee": "piinlik"
+    },
+    {
+      "en": "cram",
+      "en_t": "/kræm/",
+      "ru": "интенсивно готовиться, зубрить",
+      "ee": "tuupima",
+      "ee_da": "tuupida",
+      "ee_mina": "tuubin",
+      "ee_past_mina": "tuupisin",
+      "ee_past_tema": "tuupis",
+      "ee_past_neg": "ei tuupinud"
+    },
+    {
+      "en": "crash",
+      "en_t": "/kræʃ/",
+      "ru": "заявляться без приглашения; попадать в аварию",
+      "ee": "ilmuma",
+      "ee_da": "ilmuda",
+      "ee_mina": "ilmun",
+      "ee_past_mina": "ilmusin",
+      "ee_past_tema": "ilmus",
+      "ee_past_neg": "ei ilmunud"
+    },
+    {
+      "en": "dope!",
+      "en_t": "/doʊp/",
+      "ru": "круто!",
+      "ee": "äge!"
+    },
+    {
+      "en": "yikes",
+      "en_t": "/jaɪks/",
+      "ru": "удивлённое восклицание",
+      "ee": "appi!"
+    },
+    {
+      "en": "flex",
+      "en_t": "/flɛks/",
+      "ru": "притворяться, понтоваться",
+      "ee": "eputama",
+      "ee_da": "eputada",
+      "ee_mina": "eputan",
+      "ee_past_mina": "eputasin",
+      "ee_past_tema": "eputas",
+      "ee_past_neg": "ei eputanud"
+    },
+    {
+      "en": "sus",
+      "en_t": "/sʌs/",
+      "ru": "кто-то подозрительный",
+      "ee": "kahtlane"
+    },
+    {
+      "en": "fam",
+      "en_t": "/fæm/",
+      "ru": "близкий друг; семья",
+      "ee": "sõber",
+      "ee_2": "sõbra",
+      "ee_3": "sõpra",
+      "ee_p": "sõbrad",
+      "ee_p2": "sõprade",
+      "ee_p3": "sõpru"
+    },
+    {
+      "en": "snack",
+      "en_t": "/snæk/",
+      "ru": "тот, кто привлекательно выглядит",
+      "ee": "silmamagus",
+      "ee_2": "silmamagusa",
+      "ee_3": "silmamagusat",
+      "ee_p": "silmamagusad",
+      "ee_p2": "silmamagusate",
+      "ee_p3": "silmamagusaid"
+    },
+    {
+      "en": "wig",
+      "en_t": "/wɪɡ/",
+      "ru": "делать что-то мегакруто (восклицание)",
+      "ee": "väga äge!"
+    },
+    {
+      "en": "hot",
+      "en_t": "/hɒt/",
+      "ru": "привлекательный",
+      "ee": "seksikas"
+    },
+    {
+      "en": "hypebeast",
+      "en_t": "/ˈhaɪpˌbiːst/",
+      "ru": "тот, кто постоянно покупает лакшери-бренды",
+      "ee": "brändihull",
+      "ee_2": "brändihullu",
+      "ee_3": "brändihullu",
+      "ee_p": "brändihullud",
+      "ee_p2": "brändihullude",
+      "ee_p3": "brändihulle"
+    },
+    {
+      "en": "corny",
+      "en_t": "/ˈkɔːni/",
+      "ru": "избитый, пошлый",
+      "ee": "labane"
+    },
+    {
+      "en": "cheesy",
+      "en_t": "/ˈtʃiːzi/",
+      "ru": "банальный; слишком драматичный",
+      "ee": "liialt sentimentaalne"
+    },
+    {
+      "en": "bussin’",
+      "en_t": "/ˈbʌsɪn/",
+      "ru": "крутой, на высоком уровне",
+      "ee": "väga äge"
+    },
+    {
+      "en": "chocoholic",
+      "en_t": "/ˌtʃɒkəˈhɒlɪk/",
+      "ru": "«шокоголик», сладкоежка",
+      "ee": "šokolaadisõltlane",
+      "ee_2": "šokolaadisõltlase",
+      "ee_3": "šokolaadisõltlast",
+      "ee_p": "šokolaadisõltlased",
+      "ee_p2": "šokolaadisõltlaste",
+      "ee_p3": "šokolaadisõltlasi"
+    },
+    {
+      "en": "workaholic",
+      "en_t": "/ˌwɜːkəˈhɒlɪk/",
+      "ru": "трудоголик",
+      "ee": "töönarkomaan",
+      "ee_2": "töönarkomaani",
+      "ee_3": "töönarkomaani",
+      "ee_p": "töönarkomaanid",
+      "ee_p2": "töönarkomaanide",
+      "ee_p3": "töönarkomaane"
+    },
+    {
+      "en": "shopaholic",
+      "en_t": "/ˌʃɒpəˈhɒlɪk/",
+      "ru": "шопоголик",
+      "ee": "ostuhull",
+      "ee_2": "ostuhullu",
+      "ee_3": "ostuhullu",
+      "ee_p": "ostuhullud",
+      "ee_p2": "ostuhullude",
+      "ee_p3": "ostuhulle"
+    },
+    {
+      "en": "awesome",
+      "en_t": "/ˈɔːsəm/",
+      "ru": "великолепный",
+      "ee": "suurepärane"
+    },
+    {
+      "en": "screw up",
+      "en_t": "/skruː ʌp/",
+      "ru": "налажать",
+      "ee": "vussi keerama",
+      "ee_da": "vussi keerata",
+      "ee_mina": "keeran vussi",
+      "ee_past_mina": "keerasin vussi",
+      "ee_past_tema": "keeras vussi",
+      "ee_past_neg": "ei keeranud vussi"
+    },
+    {
+      "en": "party animal",
+      "en_t": "/ˈpɑːti ˈænɪməl/",
+      "ru": "любитель вечеринок",
+      "ee": "piduloom",
+      "ee_2": "pidulooma",
+      "ee_3": "pidulooma",
+      "ee_p": "piduloomad",
+      "ee_p2": "piduloomade",
+      "ee_p3": "piduloomi"
+    },
+    {
+      "en": "smart cookie",
+      "en_t": "/smɑːt ˈkʊki/",
+      "ru": "умница",
+      "ee": "taipaja",
+      "ee_2": "taipaja",
+      "ee_3": "taipajat",
+      "ee_p": "taipajad",
+      "ee_p2": "taipajate",
+      "ee_p3": "taipajaid"
+    },
+    {
+      "en": "early bird",
+      "en_t": "/ˈɜːli bɜːd/",
+      "ru": "жаворонок (о человеке)",
+      "ee": "ärkaja",
+      "ee_2": "ärkaja",
+      "ee_3": "ärkajat",
+      "ee_p": "ärkajad",
+      "ee_p2": "ärkajate",
+      "ee_p3": "ärkajaid"
+    },
+    {
+      "en": "creep",
+      "en_t": "/kriːp/",
+      "ru": "очень неприятный, опасный человек",
+      "ee": "tüüp",
+      "ee_2": "tüübi",
+      "ee_3": "tüüpi",
+      "ee_p": "tüübid",
+      "ee_p2": "tüüpide",
+      "ee_p3": "tüüpe"
+    },
+    {
+      "en": "humblebrag",
+      "en_t": "/ˈhʌmblbræɡ/",
+      "ru": "прибедняться (но хвастаться)",
+      "ee": "hooplemine",
+      "ee_2": "hooplemise",
+      "ee_3": "hooplemist",
+      "ee_p": "hooplemised",
+      "ee_p2": "hooplemiste",
+      "ee_p3": "hooplemisi"
+    },
+    {
+      "en": "hustler",
+      "en_t": "/ˈhʌslə/",
+      "ru": "пробивной человек",
+      "ee": "ettevõtlik inimene"
+    },
+    {
+      "en": "troll",
+      "en_t": "/trɒl/",
+      "ru": "троллить",
+      "ee": "trollima",
+      "ee_da": "trollida",
+      "ee_mina": "trollin",
+      "ee_past_mina": "trollisin",
+      "ee_past_tema": "trollis",
+      "ee_past_neg": "ei trollinud"
+    },
+    {
+      "en": "influencer",
+      "en_t": "/ˈɪnfluənsə/",
+      "ru": "инфлюенсер",
+      "ee": "mõjutaja",
+      "ee_2": "mõjutaja",
+      "ee_3": "mõjutajat",
+      "ee_p": "mõjutajad",
+      "ee_p2": "mõjutajate",
+      "ee_p3": "mõjutajaid"
+    },
+    {
+      "en": "meme",
+      "en_t": "/miːm/",
+      "ru": "мем",
+      "ee": "meem",
+      "ee_2": "meemi",
+      "ee_3": "meemi",
+      "ee_p": "meemid",
+      "ee_p2": "meemide",
+      "ee_p3": "meeme"
+    },
+    {
+      "en": "drama queen",
+      "en_t": "/ˈdrɑːmə kwiːn/",
+      "ru": "слишком драматичный человек",
+      "ee": "draamakuninganna",
+      "ee_2": "draamakuninganna",
+      "ee_3": "draamakuningannat",
+      "ee_p": "draamakuningannad",
+      "ee_p2": "draamakuningannade",
+      "ee_p3": "draamakuningannaid"
+    },
+    {
+      "en": "catfish",
+      "en_t": "/ˈkætˌfɪʃ/",
+      "ru": "онлайн-мошенник",
+      "ee": "petis",
+      "ee_2": "petise",
+      "ee_3": "petist",
+      "ee_p": "petised",
+      "ee_p2": "petiste",
+      "ee_p3": "petiseid"
+    },
+    {
+      "en": "the",
+      "en_t": "/ðə, ðiː/",
+      "ru": "определённый артикль",
+      "ee": "määrav artikkel"
+    },
+    {
+      "en": "a (an)",
+      "en_t": "/ə, eɪ/; /æn, ən/",
+      "ru": "неопределённый артикль",
+      "ee": "umbmäärane artikkel"
+    },
+    {
+      "en": "and",
+      "en_t": "/ænd/",
+      "ru": "и",
+      "ee": "ja"
+    },
+    {
+      "en": "if",
+      "en_t": "/ɪf/",
+      "ru": "если",
+      "ee": "kui"
+    },
+    {
+      "en": "or",
+      "en_t": "/ɔːr/",
+      "ru": "или",
+      "ee": "või"
+    },
+    {
+      "en": "but",
+      "en_t": "/bʌt/",
+      "ru": "но",
+      "ee": "aga"
+    },
+    {
+      "en": "because",
+      "en_t": "/bɪˈkɔːz/",
+      "ru": "потому что",
+      "ee": "sest"
+    },
+    {
+      "en": "so",
+      "en_t": "/soʊ/",
+      "ru": "поэтому",
+      "ee": "seega"
+    },
+    {
+      "en": "after",
+      "en_t": "/ˈɑːftər/",
+      "ru": "после того как",
+      "ee": "pärast seda kui"
+    },
+    {
+      "en": "before",
+      "en_t": "/bɪˈfɔːr/",
+      "ru": "до того как",
+      "ee": "enne kui"
+    },
+    {
+      "en": "than",
+      "en_t": "/ðæn, ðən/",
+      "ru": "чем",
+      "ee": "kui (võrdluses)"
+    },
+    {
+      "en": "until",
+      "en_t": "/ənˈtɪl/",
+      "ru": "до тех пор пока",
+      "ee": "kuni"
+    },
+    {
+      "en": "be",
+      "en_t": "/biː/",
+      "ru": "быть",
+      "ee": "olema",
+      "ee_da": "olla",
+      "ee_mina": "olen",
+      "ee_past_mina": "olin",
+      "ee_past_tema": "oli",
+      "ee_past_neg": "ei olnud"
+    },
+    {
+      "en": "to",
+      "en_t": "/tuː, tə/",
+      "ru": "к, в (направление)",
+      "ee": "-le (suund), poole"
+    },
+    {
+      "en": "of",
+      "en_t": "/ʌv, əv/",
+      "ru": "из, от, о",
+      "ee": "—st, kohta"
+    },
+    {
+      "en": "in",
+      "en_t": "/ɪn/",
+      "ru": "в",
+      "ee": "sees; sisse"
+    },
+    {
+      "en": "for",
+      "en_t": "/fɔːr/",
+      "ru": "для",
+      "ee": "jaoks"
+    },
+    {
+      "en": "on",
+      "en_t": "/ɒn/",
+      "ru": "на",
+      "ee": "peal"
+    },
+    {
+      "en": "with",
+      "en_t": "/wɪð/",
+      "ru": "с",
+      "ee": "koos"
+    },
+    {
+      "en": "at",
+      "en_t": "/æt/",
+      "ru": "в, на (место/время)",
+      "ee": "juures; kell (aja ees)"
+    },
+    {
+      "en": "by",
+      "en_t": "/baɪ/",
+      "ru": "к, по; от; посредством",
+      "ee": "kella/ks; poolt"
+    },
+    {
+      "en": "from",
+      "en_t": "/frʌm/",
+      "ru": "из, от",
+      "ee": "—st; alates"
+    },
+    {
+      "en": "into",
+      "en_t": "/ˈɪntuː/",
+      "ru": "в (внутрь), к",
+      "ee": "sisse; —ks"
+    },
+    {
+      "en": "through",
+      "en_t": "/θruː/",
+      "ru": "через",
+      "ee": "läbi"
+    },
+    {
+      "en": "over",
+      "en_t": "/ˈoʊvər/",
+      "ru": "над; через",
+      "ee": "üle"
+    },
+    {
+      "en": "inside",
+      "en_t": "/ɪnˈsaɪd/",
+      "ru": "в, внутрь",
+      "ee": "sees; sisse"
+    },
+    {
+      "en": "above",
+      "en_t": "/əˈbʌv/",
+      "ru": "над",
+      "ee": "üleval; kohal"
+    },
+    {
+      "en": "across",
+      "en_t": "/əˈkrɒs/",
+      "ru": "через, поперёк",
+      "ee": "üle; risti"
+    },
+    {
+      "en": "between",
+      "en_t": "/bɪˈtwiːn/",
+      "ru": "между",
+      "ee": "vahel"
+    },
+    {
+      "en": "near",
+      "en_t": "/nɪr/",
+      "ru": "возле",
+      "ee": "lähedal"
+    },
+    {
+      "en": "all",
+      "en_t": "/ɔːl/",
+      "ru": "все",
+      "ee": "kõik"
+    },
+    {
+      "en": "there",
+      "en_t": "/ðeər/",
+      "ru": "там",
+      "ee": "seal"
+    },
+    {
+      "en": "better",
+      "en_t": "/ˈbɛtər/",
+      "ru": "лучше",
+      "ee": "parem"
+    },
+    {
+      "en": "here",
+      "en_t": "/hɪər/",
+      "ru": "здесь",
+      "ee": "siin"
+    },
+    {
+      "en": "when",
+      "en_t": "/wɛn/",
+      "ru": "когда",
+      "ee": "millal"
+    },
+    {
+      "en": "where",
+      "en_t": "/wɛər/",
+      "ru": "где",
+      "ee": "kus"
+    },
+    {
+      "en": "as",
+      "en_t": "/æz/",
+      "ru": "как",
+      "ee": "nagu; kui (võrdluses)"
+    },
+    {
+      "en": "out",
+      "en_t": "/aʊt/",
+      "ru": "вне",
+      "ee": "väljas; välja"
+    },
+    {
+      "en": "up",
+      "en_t": "/ʌp/",
+      "ru": "вверх",
+      "ee": "üles"
+    },
+    {
+      "en": "only",
+      "en_t": "/ˈoʊnli/",
+      "ru": "только",
+      "ee": "ainult"
+    },
+    {
+      "en": "some",
+      "en_t": "/sʌm/",
+      "ru": "некоторый",
+      "ee": "mõni; mõned"
+    },
+    {
+      "en": "then",
+      "en_t": "/ðɛn/",
+      "ru": "тогда",
+      "ee": "siis"
+    },
+    {
+      "en": "how",
+      "en_t": "/haʊ/",
+      "ru": "как",
+      "ee": "kuidas"
+    },
+    {
+      "en": "lot",
+      "en_t": "/lɒt/",
+      "ru": "много",
+      "ee": "palju"
+    },
+    {
+      "en": "why",
+      "en_t": "/waɪ/",
+      "ru": "почему",
+      "ee": "miks"
+    },
+    {
+      "en": "already",
+      "en_t": "/ɔːlˈrɛdi/",
+      "ru": "уже",
+      "ee": "juba"
+    },
+    {
+      "en": "yet",
+      "en_t": "/jɛt/",
+      "ru": "ещё",
+      "ee": "veel"
+    },
+    {
+      "en": "yesterday",
+      "en_t": "/ˈjɛstərdeɪ/",
+      "ru": "вчера",
+      "ee": "eile"
+    },
+    {
+      "en": "tomorrow",
+      "en_t": "/təˈmɒroʊ/",
+      "ru": "завтра",
+      "ee": "homme"
+    },
+    {
+      "en": "today",
+      "en_t": "/təˈdeɪ/",
+      "ru": "сегодня",
+      "ee": "täna"
+    },
+    {
+      "en": "tonight",
+      "en_t": "/təˈnaɪt/",
+      "ru": "сегодня вечером",
+      "ee": "täna õhtul"
+    },
+    {
+      "en": "exactly",
+      "en_t": "/ɪɡˈzæktli/",
+      "ru": "точно",
+      "ee": "täpselt"
+    },
+    {
+      "en": "back",
+      "en_t": "/bæk/",
+      "ru": "назад",
+      "ee": "tagasi"
+    },
+    {
+      "en": "still",
+      "en_t": "/stɪl/",
+      "ru": "всё ещё",
+      "ee": "endiselt"
+    },
+    {
+      "en": "except",
+      "en_t": "/ɪkˈsɛpt/",
+      "ru": "кроме",
+      "ee": "välja arvatud"
+    },
+    {
+      "en": "too",
+      "en_t": "/tuː/",
+      "ru": "слишком; тоже",
+      "ee": "liiga; ka"
+    },
+    {
+      "en": "down",
+      "en_t": "/daʊn/",
+      "ru": "вниз",
+      "ee": "alla"
+    },
+    {
+      "en": "simply",
+      "en_t": "/ˈsɪmpli/",
+      "ru": "просто",
+      "ee": "lihtsalt"
+    },
+    {
+      "en": "less",
+      "en_t": "/lɛs/",
+      "ru": "меньше",
+      "ee": "vähem"
+    },
+    {
+      "en": "despite",
+      "en_t": "/dɪˈspaɪt/",
+      "ru": "несмотря на",
+      "ee": "hoolimata"
+    },
+    {
+      "en": "beyond",
+      "en_t": "/bɪˈjɒnd/",
+      "ru": "вне, за пределами",
+      "ee": "väljaspool; peale"
+    },
+    {
+      "en": "rather",
+      "en_t": "/ˈrɑːðər/",
+      "ru": "довольно; скорее",
+      "ee": "pigem"
+    },
+    {
+      "en": "suddenly",
+      "en_t": "/ˈsʌd(ə)nli/",
+      "ru": "вдруг",
+      "ee": "äkki; järsku"
+    },
+    {
+      "en": "obviously",
+      "en_t": "/ˈɒbviəsli/",
+      "ru": "очевидно",
+      "ee": "ilmselt"
+    },
+    {
+      "en": "also",
+      "en_t": "/ˈɔːlsoʊ/",
+      "ru": "тоже",
+      "ee": "ka"
+    },
+    {
+      "en": "well",
+      "en_t": "/wɛl/",
+      "ru": "хорошо",
+      "ee": "hästi"
+    },
+    {
+      "en": "soon",
+      "en_t": "/suːn/",
+      "ru": "скоро",
+      "ee": "varsti"
+    },
+    {
+      "en": "again",
+      "en_t": "/əˈɡɛn, əˈɡeɪn/",
+      "ru": "снова",
+      "ee": "jälle"
+    },
+    {
+      "en": "almost",
+      "en_t": "/ˈɔːlmoʊst/",
+      "ru": "почти",
+      "ee": "peaaegu"
+    },
+    {
+      "en": "always",
+      "en_t": "/ˈɔːlweɪz/",
+      "ru": "всегда",
+      "ee": "alati"
+    },
+    {
+      "en": "sometimes",
+      "en_t": "/ˈsʌmtaɪmz/",
+      "ru": "иногда",
+      "ee": "mõnikord"
+    },
+    {
+      "en": "else",
+      "en_t": "/ɛls/",
+      "ru": "ещё; другой",
+      "ee": "veel; muu"
+    },
+    {
+      "en": "enough",
+      "en_t": "/ɪˈnʌf/",
+      "ru": "достаточно",
+      "ee": "piisavalt"
+    },
+    {
+      "en": "ever",
+      "en_t": "/ˈɛvər/",
+      "ru": "когда-либо",
+      "ee": "kunagi"
+    },
+    {
+      "en": "never",
+      "en_t": "/ˈnɛvər/",
+      "ru": "никогда",
+      "ee": "mitte kunagi"
+    },
+    {
+      "en": "far",
+      "en_t": "/fɑːr/",
+      "ru": "далеко",
+      "ee": "kaugel"
+    },
+    {
+      "en": "really",
+      "en_t": "/ˈrɪəli/",
+      "ru": "на самом деле",
+      "ee": "tõesti"
+    },
+    {
+      "en": "ago",
+      "en_t": "/əˈɡoʊ/",
+      "ru": "тому назад",
+      "ee": "tagasi (ajamäärus)"
+    },
+    {
+      "en": "finally",
+      "en_t": "/ˈfaɪnəli/",
+      "ru": "наконец",
+      "ee": "lõpuks"
+    },
+    {
+      "en": "instead",
+      "en_t": "/ɪnˈstɛd/",
+      "ru": "взамен",
+      "ee": "selle asemel"
+    },
+    {
+      "en": "likely",
+      "en_t": "/ˈlaɪkli/",
+      "ru": "вероятно",
+      "ee": "tõenäoliselt"
+    },
+    {
+      "en": "maybe",
+      "en_t": "/ˈmeɪbi/",
+      "ru": "возможно",
+      "ee": "võib-olla"
+    },
+    {
+      "en": "very",
+      "en_t": "/ˈvɛri/",
+      "ru": "очень",
+      "ee": "väga"
+    },
+    {
+      "en": "once",
+      "en_t": "/wʌns/",
+      "ru": "однажды",
+      "ee": "kord; korra"
+    },
+    {
+      "en": "that",
+      "en_t": "/ðæt/",
+      "ru": "тот; который",
+      "ee": "see; et (sidesõna)"
+    },
+    {
+      "en": "I",
+      "en_t": "/aɪ/",
+      "ru": "я",
+      "ee": "mina"
+    },
+    {
+      "en": "any",
+      "en_t": "/ˈɛni/",
+      "ru": "любой",
+      "ee": "ükskõik milline; mingi"
+    },
+    {
+      "en": "it",
+      "en_t": "/ɪt/",
+      "ru": "оно",
+      "ee": "see"
+    },
+    {
+      "en": "he",
+      "en_t": "/hiː/",
+      "ru": "он",
+      "ee": "tema (ta)"
+    },
+    {
+      "en": "you",
+      "en_t": "/juː/",
+      "ru": "ты; вы",
+      "ee": "sina; teie"
+    },
+    {
+      "en": "this",
+      "en_t": "/ðɪs/",
+      "ru": "этот",
+      "ee": "see (siin)"
+    },
+    {
+      "en": "my",
+      "en_t": "/maɪ/",
+      "ru": "мой",
+      "ee": "minu"
+    },
+    {
+      "en": "him",
+      "en_t": "/hɪm/",
+      "ru": "его (кого?)",
+      "ee": "teda"
+    },
+    {
+      "en": "your",
+      "en_t": "/jɔːr/",
+      "ru": "твой",
+      "ee": "sinu; teie"
+    },
+    {
+      "en": "me",
+      "en_t": "/miː/",
+      "ru": "мне, меня",
+      "ee": "mind; mulle"
+    },
+    {
+      "en": "our",
+      "en_t": "/ˈaʊər/",
+      "ru": "наш",
+      "ee": "meie"
+    },
+    {
+      "en": "her",
+      "en_t": "/hɜːr/",
+      "ru": "её (знаю кого?)",
+      "ee": "teda; tema"
+    },
+    {
+      "en": "these",
+      "en_t": "/ðiːz/",
+      "ru": "эти",
+      "ee": "need"
+    },
+    {
+      "en": "us",
+      "en_t": "/ʌs/",
+      "ru": "нас",
+      "ee": "meid"
+    },
+    {
+      "en": "their",
+      "en_t": "/ðeər/",
+      "ru": "их (чьё?)",
+      "ee": "nende"
+    },
+    {
+      "en": "she",
+      "en_t": "/ʃiː/",
+      "ru": "она",
+      "ee": "tema (ta)"
+    },
+    {
+      "en": "we",
+      "en_t": "/wiː/",
+      "ru": "мы",
+      "ee": "meie"
+    },
+    {
+      "en": "they",
+      "en_t": "/ðeɪ/",
+      "ru": "они",
+      "ee": "nemad (nad)"
+    },
+    {
+      "en": "his",
+      "en_t": "/hɪz/",
+      "ru": "его (чей?)",
+      "ee": "tema (meessoost)"
+    },
+    {
+      "en": "its",
+      "en_t": "/ɪts/",
+      "ru": "его (о неодуш.)",
+      "ee": "selle"
+    },
+    {
+      "en": "them",
+      "en_t": "/ðɛm/",
+      "ru": "их (кого?)",
+      "ee": "neid"
+    },
+    {
+      "en": "who",
+      "en_t": "/huː/",
+      "ru": "кто",
+      "ee": "kes"
+    },
+    {
+      "en": "which",
+      "en_t": "/wɪtʃ/",
+      "ru": "который",
+      "ee": "milline"
+    },
+    {
+      "en": "someone",
+      "en_t": "/ˈsʌmwʌn/",
+      "ru": "кто-то",
+      "ee": "keegi"
+    },
+    {
+      "en": "somebody",
+      "en_t": "/ˈsʌmbɒdi/",
+      "ru": "кто-нибудь",
+      "ee": "keegi"
+    },
+    {
+      "en": "everything",
+      "en_t": "/ˈɛvrɪθɪŋ/",
+      "ru": "всё",
+      "ee": "kõik"
+    },
+    {
+      "en": "man",
+      "en_t": "/mæn/",
+      "ru": "человек, мужчина",
+      "ee": "mees",
+      "ee_2": "mehe",
+      "ee_3": "meest",
+      "ee_p": "mehed",
+      "ee_p2": "meeste",
+      "ee_p3": "mehi"
+    },
+    {
+      "en": "woman",
+      "en_t": "/ˈwʊmən/",
+      "ru": "женщина",
+      "ee": "naine",
+      "ee_2": "naise",
+      "ee_3": "naist",
+      "ee_p": "naised",
+      "ee_p2": "naiste",
+      "ee_p3": "naisi"
+    },
+    {
+      "en": "time",
+      "en_t": "/taɪm/",
+      "ru": "время",
+      "ee": "aeg",
+      "ee_2": "aja",
+      "ee_3": "aega",
+      "ee_p": "ajad",
+      "ee_p2": "aegade",
+      "ee_p3": "aegu"
+    },
+    {
+      "en": "state",
+      "en_t": "/steɪt/",
+      "ru": "состояние; государство, штат",
+      "ee": "riik",
+      "ee_2": "riigi",
+      "ee_3": "riiki",
+      "ee_p": "riigid",
+      "ee_p2": "riikide",
+      "ee_p3": "riike"
+    },
+    {
+      "en": "year",
+      "en_t": "/jɪr/",
+      "ru": "год",
+      "ee": "aasta",
+      "ee_2": "aasta",
+      "ee_3": "aastat",
+      "ee_p": "aastad",
+      "ee_p2": "aastate",
+      "ee_p3": "aastaid"
+    },
+    {
+      "en": "people",
+      "en_t": "/ˈpiːpl/",
+      "ru": "люди",
+      "ee": "inimene",
+      "ee_2": "inimese",
+      "ee_3": "inimest",
+      "ee_p": "inimesed",
+      "ee_p2": "inimeste",
+      "ee_p3": "inimesi"
+    },
+    {
+      "en": "work",
+      "en_t": "/wɜːrk/",
+      "ru": "работа",
+      "ee": "töö",
+      "ee_2": "töö",
+      "ee_3": "tööd",
+      "ee_p": "tööd",
+      "ee_p2": "tööde",
+      "ee_p3": "töid"
+    },
+    {
+      "en": "age",
+      "en_t": "/eɪdʒ/",
+      "ru": "возраст",
+      "ee": "vanus",
+      "ee_2": "vanuse",
+      "ee_3": "vanust",
+      "ee_p": "vanused",
+      "ee_p2": "vanuste",
+      "ee_p3": "vanuseid"
+    },
+    {
+      "en": "day",
+      "en_t": "/deɪ/",
+      "ru": "день",
+      "ee": "päev",
+      "ee_2": "päeva",
+      "ee_3": "päeva",
+      "ee_p": "päevad",
+      "ee_p2": "päevade",
+      "ee_p3": "päevi"
+    },
+    {
+      "en": "name",
+      "en_t": "/neɪm/",
+      "ru": "имя",
+      "ee": "nimi",
+      "ee_2": "nime",
+      "ee_3": "nime",
+      "ee_p": "nimed",
+      "ee_p2": "nimede",
+      "ee_p3": "nimesid"
+    },
+    {
+      "en": "light",
+      "en_t": "/laɪt/",
+      "ru": "свет",
+      "ee": "valgus",
+      "ee_2": "valguse",
+      "ee_3": "valgust",
+      "ee_p": "valgused",
+      "ee_p2": "valguste",
+      "ee_p3": "valgusi"
+    },
+    {
+      "en": "information",
+      "en_t": "/ˌɪnfərˈmeɪʃn/",
+      "ru": "информация",
+      "ee": "info",
+      "ee_2": "info",
+      "ee_3": "infot"
+    },
+    {
+      "en": "education",
+      "en_t": "/ˌɛdʒʊˈkeɪʃn/",
+      "ru": "образование",
+      "ee": "haridus",
+      "ee_2": "hariduse",
+      "ee_3": "haridust",
+      "ee_p": "haridused",
+      "ee_p2": "hariduste",
+      "ee_p3": "haridusi"
+    },
+    {
+      "en": "force",
+      "en_t": "/fɔːrs/",
+      "ru": "сила",
+      "ee": "jõud",
+      "ee_2": "jõu",
+      "ee_3": "jõudu",
+      "ee_p": "jõud",
+      "ee_p2": "jõudude",
+      "ee_p3": "jõude"
+    },
+    {
+      "en": "teacher",
+      "en_t": "/ˈtiːtʃər/",
+      "ru": "учитель",
+      "ee": "õpetaja",
+      "ee_2": "õpetaja",
+      "ee_3": "õpetajat",
+      "ee_p": "õpetajad",
+      "ee_p2": "õpetajate",
+      "ee_p3": "õpetajaid"
+    },
+    {
+      "en": "air",
+      "en_t": "/eər/",
+      "ru": "воздух",
+      "ee": "õhk",
+      "ee_2": "õhu",
+      "ee_3": "õhku"
+    },
+    {
+      "en": "moment",
+      "en_t": "/ˈmoʊmənt/",
+      "ru": "момент",
+      "ee": "hetk",
+      "ee_2": "hetke",
+      "ee_3": "hetke",
+      "ee_p": "hetked",
+      "ee_p2": "hetkede",
+      "ee_p3": "hetki"
+    },
+    {
+      "en": "guy",
+      "en_t": "/ɡaɪ/",
+      "ru": "парень",
+      "ee": "kutt",
+      "ee_2": "kuti",
+      "ee_3": "kuttu",
+      "ee_p": "kutid",
+      "ee_p2": "kuttide",
+      "ee_p3": "kutte"
+    },
+    {
+      "en": "girl",
+      "en_t": "/ɡɜːrl/",
+      "ru": "девочка, девушка",
+      "ee": "tüdruk",
+      "ee_2": "tüdruku",
+      "ee_3": "tüdrukut",
+      "ee_p": "tüdrukud",
+      "ee_p2": "tüdrukute",
+      "ee_p3": "tüdrukuid"
+    },
+    {
+      "en": "research",
+      "en_t": "/rɪˈsɜːrtʃ/",
+      "ru": "исследование",
+      "ee": "uuring",
+      "ee_2": "uuringu",
+      "ee_3": "uuringut",
+      "ee_p": "uuringud",
+      "ee_p2": "uuringute",
+      "ee_p3": "uuringuid"
+    },
+    {
+      "en": "list",
+      "en_t": "/lɪst/",
+      "ru": "список",
+      "ee": "nimekiri",
+      "ee_2": "nimekirja",
+      "ee_3": "nimekirja",
+      "ee_p": "nimekirjad",
+      "ee_p2": "nimekirjade",
+      "ee_p3": "nimekirju"
+    },
+    {
+      "en": "reason",
+      "en_t": "/ˈriːzn/",
+      "ru": "причина",
+      "ee": "põhjus",
+      "ee_2": "põhjuse",
+      "ee_3": "põhjust",
+      "ee_p": "põhjused",
+      "ee_p2": "põhjuste",
+      "ee_p3": "põhjusi"
+    },
+    {
+      "en": "morning",
+      "en_t": "/ˈmɔːrnɪŋ/",
+      "ru": "утро",
+      "ee": "hommik",
+      "ee_2": "hommiku",
+      "ee_3": "hommikut",
+      "ee_p": "hommikud",
+      "ee_p2": "hommikute",
+      "ee_p3": "hommikuid"
+    },
+    {
+      "en": "result",
+      "en_t": "/rɪˈzʌlt/",
+      "ru": "результат",
+      "ee": "tulemus",
+      "ee_2": "tulemuse",
+      "ee_3": "tulemust",
+      "ee_p": "tulemused",
+      "ee_p2": "tulemuste",
+      "ee_p3": "tulemusi"
+    },
+    {
+      "en": "party",
+      "en_t": "/ˈpɑːrti/",
+      "ru": "вечеринка",
+      "ee": "pidu",
+      "ee_2": "peo",
+      "ee_3": "pidu",
+      "ee_p": "peod",
+      "ee_p2": "pidude",
+      "ee_p3": "pidusid"
+    },
+    {
+      "en": "history",
+      "en_t": "/ˈhɪstəri/",
+      "ru": "история (наука)",
+      "ee": "ajalugu",
+      "ee_2": "ajaloo",
+      "ee_3": "ajalugu"
+    },
+    {
+      "en": "war",
+      "en_t": "/wɔːr/",
+      "ru": "война",
+      "ee": "sõda",
+      "ee_2": "sõja",
+      "ee_3": "sõda",
+      "ee_p": "sõjad",
+      "ee_p2": "sõdade",
+      "ee_p3": "sõdasid"
+    },
+    {
+      "en": "art",
+      "en_t": "/ɑːrt/",
+      "ru": "искусство",
+      "ee": "kunst",
+      "ee_2": "kunsti",
+      "ee_3": "kunsti"
+    },
+    {
+      "en": "person",
+      "en_t": "/ˈpɜːrsn/",
+      "ru": "человек, персона",
+      "ee": "isik",
+      "ee_2": "isiku",
+      "ee_3": "isikut",
+      "ee_p": "isikud",
+      "ee_p2": "isikute",
+      "ee_p3": "isikuid"
+    },
+    {
+      "en": "health",
+      "en_t": "/hɛlθ/",
+      "ru": "здоровье",
+      "ee": "tervis",
+      "ee_2": "tervise",
+      "ee_3": "tervist"
+    },
+    {
+      "en": "window",
+      "en_t": "/ˈwɪndoʊ/",
+      "ru": "окно",
+      "ee": "aken",
+      "ee_2": "akna",
+      "ee_3": "akent",
+      "ee_p": "aknad",
+      "ee_p2": "akende",
+      "ee_p3": "aknaid"
+    },
+    {
+      "en": "door",
+      "en_t": "/dɔːr/",
+      "ru": "дверь",
+      "ee": "uks",
+      "ee_2": "ukse",
+      "ee_3": "ust",
+      "ee_p": "uksed",
+      "ee_p2": "uste",
+      "ee_p3": "uksi"
+    },
+    {
+      "en": "office",
+      "en_t": "/ˈɔːfɪs/",
+      "ru": "офис",
+      "ee": "kontor",
+      "ee_2": "kontori",
+      "ee_3": "kontorit",
+      "ee_p": "kontorid",
+      "ee_p2": "kontorite",
+      "ee_p3": "kontoreid"
+    },
+    {
+      "en": "level",
+      "en_t": "/ˈlɛvl/",
+      "ru": "уровень",
+      "ee": "tase",
+      "ee_2": "taseme",
+      "ee_3": "taset",
+      "ee_p": "tasemed",
+      "ee_p2": "tasemete",
+      "ee_p3": "tasemeid"
+    },
+    {
+      "en": "face",
+      "en_t": "/feɪs/",
+      "ru": "лицо",
+      "ee": "nägu",
+      "ee_2": "näo",
+      "ee_3": "nägu",
+      "ee_p": "näod",
+      "ee_p2": "nägude",
+      "ee_p3": "nägusid"
+    },
+    {
+      "en": "parent",
+      "en_t": "/ˈpɛrənt/",
+      "ru": "родитель",
+      "ee": "vanem",
+      "ee_2": "vanema",
+      "ee_3": "vanemat",
+      "ee_p": "vanemad",
+      "ee_p2": "vanemate",
+      "ee_p3": "vanemaid"
+    },
+    {
+      "en": "body",
+      "en_t": "/ˈbɒdi/",
+      "ru": "тело",
+      "ee": "keha",
+      "ee_2": "keha",
+      "ee_3": "keha",
+      "ee_p": "kehad",
+      "ee_p2": "kehade",
+      "ee_p3": "kehasid"
+    },
+    {
+      "en": "kid",
+      "en_t": "/kɪd/",
+      "ru": "ребенок",
+      "ee": "laps",
+      "ee_2": "lapse",
+      "ee_3": "last",
+      "ee_p": "lapsed",
+      "ee_p2": "laste",
+      "ee_p3": "lapsi"
+    },
+    {
+      "en": "century",
+      "en_t": "/ˈsɛntʃəri/",
+      "ru": "век",
+      "ee": "sajand",
+      "ee_2": "sajandi",
+      "ee_3": "sajandit",
+      "ee_p": "sajandid",
+      "ee_p2": "sajandite",
+      "ee_p3": "sajandeid"
+    },
+    {
+      "en": "evidence",
+      "en_t": "/ˈɛvɪdəns/",
+      "ru": "доказательство",
+      "ee": "tõend",
+      "ee_2": "tõendi",
+      "ee_3": "tõendit",
+      "ee_p": "tõendid",
+      "ee_p2": "tõendite",
+      "ee_p3": "tõendeid"
+    },
+    {
+      "en": "chance",
+      "en_t": "/tʃæns/",
+      "ru": "шанс",
+      "ee": "võimalus",
+      "ee_2": "võimaluse",
+      "ee_3": "võimalust",
+      "ee_p": "võimalused",
+      "ee_p2": "võimaluste",
+      "ee_p3": "võimalusi"
+    },
+    {
+      "en": "period",
+      "en_t": "/ˈpɪəriəd/",
+      "ru": "период",
+      "ee": "periood",
+      "ee_2": "perioodi",
+      "ee_3": "perioodi",
+      "ee_p": "perioodid",
+      "ee_p2": "perioodide",
+      "ee_p3": "perioode"
+    },
+    {
+      "en": "future",
+      "en_t": "/ˈfjuːtʃər/",
+      "ru": "будущее",
+      "ee": "tulevik",
+      "ee_2": "tuleviku",
+      "ee_3": "tulevikku"
+    },
+    {
+      "en": "behaviour",
+      "en_t": "/bɪˈheɪvjər/",
+      "ru": "поведение",
+      "ee": "käitumine",
+      "ee_2": "käitumise",
+      "ee_3": "käitumist"
+    },
+    {
+      "en": "performance",
+      "en_t": "/pərˈfɔːrməns/",
+      "ru": "выступление",
+      "ee": "esinemine",
+      "ee_2": "esinemise",
+      "ee_3": "esinemist",
+      "ee_p": "esinemised",
+      "ee_p2": "esinemiste",
+      "ee_p3": "esinemisi"
+    },
+    {
+      "en": "blood",
+      "en_t": "/blʌd/",
+      "ru": "кровь",
+      "ee": "veri",
+      "ee_2": "vere",
+      "ee_3": "verd"
+    },
+    {
+      "en": "colour",
+      "en_t": "/ˈkʌlər/",
+      "ru": "цвет",
+      "ee": "värv",
+      "ee_2": "värvi",
+      "ee_3": "värvi",
+      "ee_p": "värvid",
+      "ee_p2": "värvide",
+      "ee_p3": "värve"
+    },
+    {
+      "en": "idea",
+      "en_t": "/aɪˈdiːə/",
+      "ru": "идея",
+      "ee": "idee",
+      "ee_2": "idee",
+      "ee_3": "ideed",
+      "ee_p": "ideed",
+      "ee_p2": "ideede",
+      "ee_p3": "ideid"
+    },
+    {
+      "en": "minute",
+      "en_t": "/ˈmɪnɪt/",
+      "ru": "минута",
+      "ee": "minut",
+      "ee_2": "minuti",
+      "ee_3": "minutit",
+      "ee_p": "minutid",
+      "ee_p2": "minutite",
+      "ee_p3": "minuteid"
+    },
+    {
+      "en": "team",
+      "en_t": "/tiːm/",
+      "ru": "команда",
+      "ee": "meeskond",
+      "ee_2": "meeskonna",
+      "ee_3": "meeskonda",
+      "ee_p": "meeskonnad",
+      "ee_p2": "meeskondade",
+      "ee_p3": "meeskondi"
+    },
+    {
+      "en": "comfort",
+      "en_t": "/ˈkʌmfərt/",
+      "ru": "комфорт",
+      "ee": "mugavus",
+      "ee_2": "mugavuse",
+      "ee_3": "mugavust",
+      "ee_p": "mugavused",
+      "ee_p2": "mugavuste",
+      "ee_p3": "mugavusi"
+    },
+    {
+      "en": "president",
+      "en_t": "/ˈprɛzɪdənt/",
+      "ru": "президент",
+      "ee": "president",
+      "ee_2": "presidendi",
+      "ee_3": "presidenti",
+      "ee_p": "presidendid",
+      "ee_p2": "presidentide",
+      "ee_p3": "presidente"
+    },
+    {
+      "en": "eye",
+      "en_t": "/aɪ/",
+      "ru": "глаз",
+      "ee": "silm",
+      "ee_2": "silma",
+      "ee_3": "silma",
+      "ee_p": "silmad",
+      "ee_p2": "silmade",
+      "ee_p3": "silmi"
+    },
+    {
+      "en": "book",
+      "en_t": "/bʊk/",
+      "ru": "книга",
+      "ee": "raamat",
+      "ee_2": "raamatu",
+      "ee_3": "raamatut",
+      "ee_p": "raamatud",
+      "ee_p2": "raamatute",
+      "ee_p3": "raamatuid"
+    },
+    {
+      "en": "month",
+      "en_t": "/mʌnθ/",
+      "ru": "месяц",
+      "ee": "kuu",
+      "ee_2": "kuu",
+      "ee_3": "kuud",
+      "ee_p": "kuud",
+      "ee_p2": "kuude",
+      "ee_p3": "kuid"
+    },
+    {
+      "en": "number",
+      "en_t": "/ˈnʌmbər/",
+      "ru": "номер; число",
+      "ee": "number",
+      "ee_2": "numbri",
+      "ee_3": "numbrit",
+      "ee_p": "numbrid",
+      "ee_p2": "numbrite",
+      "ee_p3": "numbreid"
+    },
+    {
+      "en": "store",
+      "en_t": "/stɔːr/",
+      "ru": "магазин",
+      "ee": "pood",
+      "ee_2": "poe",
+      "ee_3": "poodi",
+      "ee_p": "poed",
+      "ee_p2": "poodide",
+      "ee_p3": "poode"
+    },
+    {
+      "en": "movement",
+      "en_t": "/ˈmuːvmənt/",
+      "ru": "движение",
+      "ee": "liikumine",
+      "ee_2": "liikumise",
+      "ee_3": "liikumist",
+      "ee_p": "liikumised",
+      "ee_p2": "liikumiste",
+      "ee_p3": "liikumisi"
+    },
+    {
+      "en": "decade",
+      "en_t": "/ˈdɛkeɪd/",
+      "ru": "десятилетие",
+      "ee": "kümnend",
+      "ee_2": "kümnendi",
+      "ee_3": "kümnendit",
+      "ee_p": "kümnendid",
+      "ee_p2": "kümnendite",
+      "ee_p3": "kümnendeid"
+    },
+    {
+      "en": "treatment",
+      "en_t": "/ˈtriːtmənt/",
+      "ru": "уход; отношение",
+      "ee": "kohtlemine",
+      "ee_2": "kohtlemise",
+      "ee_3": "kohtlemist"
+    },
+    {
+      "en": "dream",
+      "en_t": "/driːm/",
+      "ru": "мечта",
+      "ee": "unistus",
+      "ee_2": "unistuse",
+      "ee_3": "unistust",
+      "ee_p": "unistused",
+      "ee_p2": "unistuste",
+      "ee_p3": "unistusi"
+    },
+    {
+      "en": "middle",
+      "en_t": "/ˈmɪdl/",
+      "ru": "середина",
+      "ee": "keskpaik",
+      "ee_2": "keskpaiga",
+      "ee_3": "keskpaika",
+      "ee_p": "keskpaigad",
+      "ee_p2": "keskpaikade",
+      "ee_p3": "keskpaiku"
+    },
+    {
+      "en": "trouble",
+      "en_t": "/ˈtrʌbl/",
+      "ru": "неудача",
+      "ee": "ebaõnn"
+    },
+    {
+      "en": "pain",
+      "en_t": "/peɪn/",
+      "ru": "боль",
+      "ee": "valu",
+      "ee_2": "valu",
+      "ee_3": "valu",
+      "ee_p": "valud",
+      "ee_p2": "valude",
+      "ee_p3": "valusid"
+    },
+    {
+      "en": "peace",
+      "en_t": "/piːs/",
+      "ru": "мир, покой",
+      "ee": "rahu",
+      "ee_2": "rahu",
+      "ee_3": "rahu"
+    },
+    {
+      "en": "fact",
+      "en_t": "/fækt/",
+      "ru": "факт",
+      "ee": "fakt",
+      "ee_2": "fakti",
+      "ee_3": "fakti",
+      "ee_p": "faktid",
+      "ee_p2": "faktide",
+      "ee_p3": "fakte"
+    },
+    {
+      "en": "story",
+      "en_t": "/ˈstɔːri/",
+      "ru": "рассказ",
+      "ee": "jutt",
+      "ee_2": "jutu",
+      "ee_3": "juttu",
+      "ee_p": "jutud",
+      "ee_p2": "juttude",
+      "ee_p3": "jutte"
+    },
+    {
+      "en": "money",
+      "en_t": "/ˈmʌni/",
+      "ru": "деньги",
+      "ee": "raha",
+      "ee_2": "raha",
+      "ee_3": "raha"
+    },
+    {
+      "en": "area",
+      "en_t": "/ˈɛəriə/",
+      "ru": "место, зона",
+      "ee": "ala",
+      "ee_2": "ala",
+      "ee_3": "ala",
+      "ee_p": "alad",
+      "ee_p2": "alade",
+      "ee_p3": "alasid"
+    },
+    {
+      "en": "mother",
+      "en_t": "/ˈmʌðər/",
+      "ru": "мать",
+      "ee": "ema",
+      "ee_2": "ema",
+      "ee_3": "ema",
+      "ee_p": "emad",
+      "ee_p2": "emade",
+      "ee_p3": "emasid"
+    },
+    {
+      "en": "room",
+      "en_t": "/ruːm/",
+      "ru": "комната, номер",
+      "ee": "tuba",
+      "ee_2": "toa",
+      "ee_3": "tuba",
+      "ee_p": "toad",
+      "ee_p2": "tubade",
+      "ee_p3": "tubasid"
+    },
+    {
+      "en": "water",
+      "en_t": "/ˈwɔːtər/",
+      "ru": "вода",
+      "ee": "vesi",
+      "ee_2": "vee",
+      "ee_3": "vett"
+    },
+    {
+      "en": "home",
+      "en_t": "/hoʊm/",
+      "ru": "дом",
+      "ee": "kodu",
+      "ee_2": "kodu",
+      "ee_3": "kodu",
+      "ee_p": "kodud",
+      "ee_p2": "kodude",
+      "ee_p3": "kodusid"
+    },
+    {
+      "en": "point",
+      "en_t": "/pɔɪnt/",
+      "ru": "точка",
+      "ee": "punkt",
+      "ee_2": "punkti",
+      "ee_3": "punkti",
+      "ee_p": "punktid",
+      "ee_p2": "punktide",
+      "ee_p3": "punkte"
+    },
+    {
+      "en": "night",
+      "en_t": "/naɪt/",
+      "ru": "ночь",
+      "ee": "öö",
+      "ee_2": "öö",
+      "ee_3": "ööd",
+      "ee_p": "ööd",
+      "ee_p2": "ööde",
+      "ee_p3": "öid"
+    },
+    {
+      "en": "type",
+      "en_t": "/taɪp/",
+      "ru": "тип",
+      "ee": "tüüp",
+      "ee_2": "tüübi",
+      "ee_3": "tüüpi",
+      "ee_p": "tüübid",
+      "ee_p2": "tüüpide",
+      "ee_p3": "tüüpe"
+    },
+    {
+      "en": "nation",
+      "en_t": "/ˈneɪʃn/",
+      "ru": "нация",
+      "ee": "rahvus",
+      "ee_2": "rahvuse",
+      "ee_3": "rahvust",
+      "ee_p": "rahvused",
+      "ee_p2": "rahvuste",
+      "ee_p3": "rahvusi"
+    },
+    {
+      "en": "heart",
+      "en_t": "/hɑːrt/",
+      "ru": "сердце",
+      "ee": "süda",
+      "ee_2": "südame",
+      "ee_3": "südant",
+      "ee_p": "südamed",
+      "ee_p2": "südamete",
+      "ee_p3": "südameid"
+    },
+    {
+      "en": "value",
+      "en_t": "/ˈvæljuː/",
+      "ru": "ценность, значение",
+      "ee": "väärtus",
+      "ee_2": "väärtuse",
+      "ee_3": "väärtust",
+      "ee_p": "väärtused",
+      "ee_p2": "väärtuste",
+      "ee_p3": "väärtusi"
+    },
+    {
+      "en": "report",
+      "en_t": "/rɪˈpɔːrt/",
+      "ru": "отчет",
+      "ee": "aruanne",
+      "ee_2": "aruande",
+      "ee_3": "aruannet",
+      "ee_p": "aruanded",
+      "ee_p2": "aruannete",
+      "ee_p3": "aruandeid"
+    },
+    {
+      "en": "government",
+      "en_t": "/ˈɡʌvərnmənt/",
+      "ru": "правительство",
+      "ee": "valitsus",
+      "ee_2": "valitsuse",
+      "ee_3": "valitsust",
+      "ee_p": "valitsused",
+      "ee_p2": "valitsuste",
+      "ee_p3": "valitsusi"
+    },
+    {
+      "en": "question",
+      "en_t": "/ˈkwɛstʃən/",
+      "ru": "вопрос",
+      "ee": "küsimus",
+      "ee_2": "küsimuse",
+      "ee_3": "küsimust",
+      "ee_p": "küsimused",
+      "ee_p2": "küsimuste",
+      "ee_p3": "küsimusi"
+    },
+    {
+      "en": "way",
+      "en_t": "/weɪ/",
+      "ru": "путь",
+      "ee": "tee",
+      "ee_2": "tee",
+      "ee_3": "teed",
+      "ee_p": "teed",
+      "ee_p2": "teede",
+      "ee_p3": "teid"
+    },
+    {
+      "en": "system",
+      "en_t": "/ˈsɪstəm/",
+      "ru": "система",
+      "ee": "süsteem",
+      "ee_2": "süsteemi",
+      "ee_3": "süsteemi",
+      "ee_p": "süsteemid",
+      "ee_p2": "süsteemide",
+      "ee_p3": "süsteeme"
+    },
+    {
+      "en": "company",
+      "en_t": "/ˈkʌmpəni/",
+      "ru": "компания",
+      "ee": "ettevõte",
+      "ee_2": "ettevõtte",
+      "ee_3": "ettevõtet",
+      "ee_p": "ettevõtted",
+      "ee_p2": "ettevõtete",
+      "ee_p3": "ettevõtteid"
+    },
+    {
+      "en": "case",
+      "en_t": "/keɪs/",
+      "ru": "случай",
+      "ee": "juhtum",
+      "ee_2": "juhtumi",
+      "ee_3": "juhtumit",
+      "ee_p": "juhtumid",
+      "ee_p2": "juhtumite",
+      "ee_p3": "juhtumeid"
+    },
+    {
+      "en": "place",
+      "en_t": "/pleɪs/",
+      "ru": "место",
+      "ee": "koht",
+      "ee_2": "koha",
+      "ee_3": "kohta",
+      "ee_p": "kohad",
+      "ee_p2": "kohtade",
+      "ee_p3": "kohti"
+    },
+    {
+      "en": "hand",
+      "en_t": "/hænd/",
+      "ru": "кисть руки",
+      "ee": "käsi",
+      "ee_2": "käe",
+      "ee_3": "kätt",
+      "ee_p": "käed",
+      "ee_p2": "käte",
+      "ee_p3": "käsi"
+    },
+    {
+      "en": "country",
+      "en_t": "/ˈkʌntri/",
+      "ru": "страна",
+      "ee": "riik",
+      "ee_2": "riigi",
+      "ee_3": "riiki",
+      "ee_p": "riigid",
+      "ee_p2": "riikide",
+      "ee_p3": "riike"
+    },
+    {
+      "en": "group",
+      "en_t": "/ɡruːp/",
+      "ru": "группа",
+      "ee": "rühm",
+      "ee_2": "rühma",
+      "ee_3": "rühma",
+      "ee_p": "rühmad",
+      "ee_p2": "rühmade",
+      "ee_p3": "rühmi"
+    },
+    {
+      "en": "world",
+      "en_t": "/wɜːrld/",
+      "ru": "мир, вселенная",
+      "ee": "maailm",
+      "ee_2": "maailma",
+      "ee_3": "maailma",
+      "ee_p": "maailmad",
+      "ee_p2": "maailmade",
+      "ee_p3": "maailmu"
+    },
+    {
+      "en": "life",
+      "en_t": "/laɪf/",
+      "ru": "жизнь",
+      "ee": "elu",
+      "ee_2": "elu",
+      "ee_3": "elu"
+    },
+    {
+      "en": "daughter",
+      "en_t": "/ˈdɔːtər/",
+      "ru": "дочь",
+      "ee": "tütar",
+      "ee_2": "tütre",
+      "ee_3": "tütart",
+      "ee_p": "tütred",
+      "ee_p2": "tütarde",
+      "ee_p3": "tütreid"
+    },
+    {
+      "en": "son",
+      "en_t": "/sʌn/",
+      "ru": "сын",
+      "ee": "poeg",
+      "ee_2": "poja",
+      "ee_3": "poega",
+      "ee_p": "pojad",
+      "ee_p2": "poegade",
+      "ee_p3": "poegi"
+    },
+    {
+      "en": "grandma",
+      "en_t": "/ˈɡræn(d)mɑː/",
+      "ru": "бабушка",
+      "ee": "vanaema",
+      "ee_2": "vanaema",
+      "ee_3": "vanaema",
+      "ee_p": "vanaemad",
+      "ee_p2": "vanaemade",
+      "ee_p3": "vanaemasid"
+    },
+    {
+      "en": "brother",
+      "en_t": "/ˈbrʌðər/",
+      "ru": "брат",
+      "ee": "vend",
+      "ee_2": "venna",
+      "ee_3": "venda",
+      "ee_p": "vennad",
+      "ee_p2": "vendade",
+      "ee_p3": "vendi"
+    },
+    {
+      "en": "sister",
+      "en_t": "/ˈsɪstər/",
+      "ru": "сестра",
+      "ee": "õde",
+      "ee_2": "õe",
+      "ee_3": "õde",
+      "ee_p": "õed",
+      "ee_p2": "õdede",
+      "ee_p3": "õdesid"
+    },
+    {
+      "en": "grandpa",
+      "en_t": "/ˈɡrænpɑː/",
+      "ru": "дедушка",
+      "ee": "vanaisa",
+      "ee_2": "vanaisa",
+      "ee_3": "vanaisa",
+      "ee_p": "vanaisad",
+      "ee_p2": "vanaisade",
+      "ee_p3": "vanaisasid"
+    },
+    {
+      "en": "dad",
+      "en_t": "/dæd/",
+      "ru": "папа",
+      "ee": "isa",
+      "ee_2": "isa",
+      "ee_3": "isa",
+      "ee_p": "isad",
+      "ee_p2": "isade",
+      "ee_p3": "isasid"
+    },
+    {
+      "en": "mum",
+      "en_t": "/mʌm/",
+      "ru": "мама",
+      "ee": "ema",
+      "ee_2": "ema",
+      "ee_3": "ema",
+      "ee_p": "emad",
+      "ee_p2": "emade",
+      "ee_p3": "emasid"
+    },
+    {
+      "en": "autumn",
+      "en_t": "/ˈɔːtəm/",
+      "ru": "осень",
+      "ee": "sügis",
+      "ee_2": "sügise",
+      "ee_3": "sügist",
+      "ee_p": "sügised",
+      "ee_p2": "sügiste",
+      "ee_p3": "sügiseid"
+    },
+    {
+      "en": "spring",
+      "en_t": "/sprɪŋ/",
+      "ru": "весна",
+      "ee": "kevad",
+      "ee_2": "kevade",
+      "ee_3": "kevadet",
+      "ee_p": "kevaded",
+      "ee_p2": "kevade",
+      "ee_p3": "kevadeid"
+    },
+    {
+      "en": "winter",
+      "en_t": "/ˈwɪntər/",
+      "ru": "зима",
+      "ee": "talv",
+      "ee_2": "talve",
+      "ee_3": "talve",
+      "ee_p": "talved",
+      "ee_p2": "talvede",
+      "ee_p3": "talvi"
+    },
+    {
+      "en": "summer",
+      "en_t": "/ˈsʌmər/",
+      "ru": "лето",
+      "ee": "suvi",
+      "ee_2": "suve",
+      "ee_3": "suve",
+      "ee_p": "suved",
+      "ee_p2": "suvede",
+      "ee_p3": "suvesid"
+    },
+    {
+      "en": "end",
+      "en_t": "/ɛnd/",
+      "ru": "конец",
+      "ee": "lõpp",
+      "ee_2": "lõpu",
+      "ee_3": "lõppu",
+      "ee_p": "lõpud",
+      "ee_p2": "lõpude",
+      "ee_p3": "lõppe"
+    },
+    {
+      "en": "line",
+      "en_t": "/laɪn/",
+      "ru": "очередь; линия",
+      "ee": "järjekord",
+      "ee_2": "järjekorra",
+      "ee_3": "järjekorda",
+      "ee_p": "järjekorrad",
+      "ee_p2": "järjekordade",
+      "ee_p3": "järjekordi"
+    },
+    {
+      "en": "power",
+      "en_t": "/ˈpaʊər/",
+      "ru": "сила",
+      "ee": "võim",
+      "ee_2": "võimu",
+      "ee_3": "võimu",
+      "ee_p": "võimud",
+      "ee_p2": "võimude",
+      "ee_p3": "võime"
+    },
+    {
+      "en": "father",
+      "en_t": "/ˈfɑːðər/",
+      "ru": "отец",
+      "ee": "isa",
+      "ee_2": "isa",
+      "ee_3": "isa",
+      "ee_p": "isad",
+      "ee_p2": "isade",
+      "ee_p3": "isasid"
+    },
+    {
+      "en": "weapon",
+      "en_t": "/ˈwɛpən/",
+      "ru": "оружие",
+      "ee": "relv",
+      "ee_2": "relva",
+      "ee_3": "relva",
+      "ee_p": "relvad",
+      "ee_p2": "relvade",
+      "ee_p3": "relvi"
+    },
+    {
+      "en": "stuff",
+      "en_t": "/stʌf/",
+      "ru": "вещи",
+      "ee": "asi",
+      "ee_2": "asja",
+      "ee_3": "asja",
+      "ee_p": "asjad",
+      "ee_p2": "asjade",
+      "ee_p3": "asju"
+    },
+    {
+      "en": "range",
+      "en_t": "/reɪndʒ/",
+      "ru": "ряд, диапазон",
+      "ee": "ulatus",
+      "ee_2": "ulatuse",
+      "ee_3": "ulatust",
+      "ee_p": "ulatused",
+      "ee_p2": "ulatuste",
+      "ee_p3": "ulatusi"
+    },
+    {
+      "en": "weight",
+      "en_t": "/weɪt/",
+      "ru": "вес",
+      "ee": "kaal",
+      "ee_2": "kaalu",
+      "ee_3": "kaalu"
+    },
+    {
+      "en": "service",
+      "en_t": "/ˈsɜːrvɪs/",
+      "ru": "услуга, сервис",
+      "ee": "teenus",
+      "ee_2": "teenuse",
+      "ee_3": "teenust",
+      "ee_p": "teenused",
+      "ee_p2": "teenuste",
+      "ee_p3": "teenuseid"
+    },
+    {
+      "en": "house",
+      "en_t": "/haʊs/",
+      "ru": "дом",
+      "ee": "maja",
+      "ee_2": "maja",
+      "ee_3": "maja",
+      "ee_p": "majad",
+      "ee_p2": "majade",
+      "ee_p3": "maju"
+    },
+    {
+      "en": "measure",
+      "en_t": "/ˈmɛʒər/",
+      "ru": "мера, степень",
+      "ee": "mõõt",
+      "ee_2": "mõõdu",
+      "ee_3": "mõõtu",
+      "ee_p": "mõõdud",
+      "ee_p2": "mõõtude",
+      "ee_p3": "mõõte"
+    },
+    {
+      "en": "head",
+      "en_t": "/hɛd/",
+      "ru": "голова",
+      "ee": "pea",
+      "ee_2": "pea",
+      "ee_3": "pead",
+      "ee_p": "pead",
+      "ee_p2": "peade",
+      "ee_p3": "päid"
+    },
+    {
+      "en": "side",
+      "en_t": "/saɪd/",
+      "ru": "сторона",
+      "ee": "külg",
+      "ee_2": "külje",
+      "ee_3": "külge",
+      "ee_p": "küljed",
+      "ee_p2": "külgede",
+      "ee_p3": "külgi"
+    },
+    {
+      "en": "business",
+      "en_t": "/ˈbɪznəs/",
+      "ru": "бизнес, дело",
+      "ee": "äri",
+      "ee_2": "äri",
+      "ee_3": "äri",
+      "ee_p": "ärid",
+      "ee_p2": "äride",
+      "ee_p3": "ärisid"
+    },
+    {
+      "en": "pharmacy",
+      "en_t": "/ˈfɑːrməsi/",
+      "ru": "аптека",
+      "ee": "apteek",
+      "ee_2": "apteegi",
+      "ee_3": "apteeki",
+      "ee_p": "apteegid",
+      "ee_p2": "apteekide",
+      "ee_p3": "apteeke"
+    },
+    {
+      "en": "lyrics",
+      "en_t": "/ˈlɪrɪks/",
+      "ru": "текст песни",
+      "ee": "laulusõnad",
+      "ee_2": "laulusõnade",
+      "ee_3": "laulusõnu"
+    },
+    {
+      "en": "verse",
+      "en_t": "/vɜːrs/",
+      "ru": "стих",
+      "ee": "värss",
+      "ee_2": "värsi",
+      "ee_3": "värssi",
+      "ee_p": "värsid",
+      "ee_p2": "värsside",
+      "ee_p3": "värsse"
+    },
+    {
+      "en": "record",
+      "en_t": "/ˈrɛkɔːrd/",
+      "ru": "запись",
+      "ee": "salvestis",
+      "ee_2": "salvestise",
+      "ee_3": "salvestist",
+      "ee_p": "salvestised",
+      "ee_p2": "salvestiste",
+      "ee_p3": "salvestisi"
+    },
+    {
+      "en": "rhythm",
+      "en_t": "/ˈrɪðəm/",
+      "ru": "ритм",
+      "ee": "rütm",
+      "ee_2": "rütmi",
+      "ee_3": "rütmi",
+      "ee_p": "rütmid",
+      "ee_p2": "rütmide",
+      "ee_p3": "rütme"
+    },
+    {
+      "en": "job",
+      "en_t": "/dʒɒb/",
+      "ru": "работа, занятие",
+      "ee": "töö",
+      "ee_2": "töö",
+      "ee_3": "tööd",
+      "ee_p": "tööd",
+      "ee_p2": "tööde",
+      "ee_p3": "töid"
+    },
+    {
+      "en": "order",
+      "en_t": "/ˈɔːrdər/",
+      "ru": "заказ",
+      "ee": "tellimus",
+      "ee_2": "tellimuse",
+      "ee_3": "tellimust",
+      "ee_p": "tellimused",
+      "ee_p2": "tellimuste",
+      "ee_p3": "tellimusi"
+    },
+    {
+      "en": "genre",
+      "en_t": "/ˈʒɑːnrə/",
+      "ru": "жанр",
+      "ee": "žanr",
+      "ee_2": "žanri",
+      "ee_3": "žanri",
+      "ee_p": "žanrid",
+      "ee_p2": "žanrite",
+      "ee_p3": "žanre"
+    },
+    {
+      "en": "flat",
+      "en_t": "/flæt/",
+      "ru": "квартира",
+      "ee": "korter",
+      "ee_2": "korteri",
+      "ee_3": "korterit",
+      "ee_p": "korterid",
+      "ee_p2": "korterite",
+      "ee_p3": "kortereid"
+    },
+    {
+      "en": "theory",
+      "en_t": "/ˈθɪəri/",
+      "ru": "теория",
+      "ee": "teooria",
+      "ee_2": "teooria",
+      "ee_3": "teooriat",
+      "ee_p": "teooriad",
+      "ee_p2": "teooriate",
+      "ee_p3": "teooriaid"
+    },
+    {
+      "en": "trainers",
+      "en_t": "/ˈtreɪnərz/",
+      "ru": "кроссовки",
+      "ee": "tossud",
+      "ee_2": "tossude",
+      "ee_3": "tosse"
+    },
+    {
+      "en": "base",
+      "en_t": "/beɪs/",
+      "ru": "база",
+      "ee": "baas",
+      "ee_2": "baasi",
+      "ee_3": "baasi",
+      "ee_p": "baasid",
+      "ee_p2": "baaside",
+      "ee_p3": "baase"
+    },
+    {
+      "en": "pack",
+      "en_t": "/pæk/",
+      "ru": "упаковка",
+      "ee": "pakk",
+      "ee_2": "paki",
+      "ee_3": "pakki",
+      "ee_p": "pakid",
+      "ee_p2": "pakide",
+      "ee_p3": "pakke"
+    },
+    {
+      "en": "bumbag",
+      "en_t": "/ˈbʌmbæɡ/",
+      "ru": "поясная сумка",
+      "ee": "vöökott",
+      "ee_2": "vöökoti",
+      "ee_3": "vöökotti",
+      "ee_p": "vöökotid",
+      "ee_p2": "vöökottide",
+      "ee_p3": "vöökotte"
+    },
+    {
+      "en": "trousers",
+      "en_t": "/ˈtraʊzərz/",
+      "ru": "брюки",
+      "ee": "püksid",
+      "ee_2": "pükste",
+      "ee_3": "pükse"
+    },
+    {
+      "en": "eraser",
+      "en_t": "/ɪˈreɪzər/",
+      "ru": "ластик",
+      "ee": "kustukumm",
+      "ee_2": "kustukummi",
+      "ee_3": "kustukummi",
+      "ee_p": "kustukummid",
+      "ee_p2": "kustukummide",
+      "ee_p3": "kustukumme"
+    },
+    {
+      "en": "box",
+      "en_t": "/bɒks/",
+      "ru": "коробка",
+      "ee": "kast",
+      "ee_2": "kasti",
+      "ee_3": "kasti",
+      "ee_p": "kastid",
+      "ee_p2": "kastide",
+      "ee_p3": "kaste"
+    },
+    {
+      "en": "knowledge",
+      "en_t": "/ˈnɒlɪdʒ/",
+      "ru": "знание",
+      "ee": "teadmised",
+      "ee_2": "teadmiste",
+      "ee_3": "teadmisi"
+    },
+    {
+      "en": "thing",
+      "en_t": "/θɪŋ/",
+      "ru": "вещь",
+      "ee": "asi",
+      "ee_2": "asja",
+      "ee_3": "asja",
+      "ee_p": "asjad",
+      "ee_p2": "asjade",
+      "ee_p3": "asju"
+    },
+    {
+      "en": "school",
+      "en_t": "/skuːl/",
+      "ru": "школа",
+      "ee": "kool",
+      "ee_2": "kooli",
+      "ee_3": "kooli",
+      "ee_p": "koolid",
+      "ee_p2": "koolide",
+      "ee_p3": "koole"
+    },
+    {
+      "en": "problem",
+      "en_t": "/ˈprɒbləm/",
+      "ru": "проблема",
+      "ee": "probleem",
+      "ee_2": "probleemi",
+      "ee_3": "probleemi",
+      "ee_p": "probleemid",
+      "ee_p2": "probleemide",
+      "ee_p3": "probleeme"
+    },
+    {
+      "en": "student",
+      "en_t": "/ˈstjuːdnt/",
+      "ru": "студент",
+      "ee": "õpilane",
+      "ee_2": "õpilase",
+      "ee_3": "õpilast",
+      "ee_p": "õpilased",
+      "ee_p2": "õpilaste",
+      "ee_p3": "õpilasi"
+    },
+    {
+      "en": "truth",
+      "en_t": "/truːθ/",
+      "ru": "правда",
+      "ee": "tõde",
+      "ee_2": "tõe",
+      "ee_3": "tõde",
+      "ee_p": "tõed",
+      "ee_p2": "tõdede",
+      "ee_p3": "tõdesid"
+    },
+    {
+      "en": "food",
+      "en_t": "/fuːd/",
+      "ru": "еда",
+      "ee": "toit",
+      "ee_2": "toidu",
+      "ee_3": "toitu",
+      "ee_p": "toidud",
+      "ee_p2": "toitude",
+      "ee_p3": "toite"
+    },
+    {
+      "en": "city",
+      "en_t": "/ˈsɪti/",
+      "ru": "город",
+      "ee": "linn",
+      "ee_2": "linna",
+      "ee_3": "linna",
+      "ee_p": "linnad",
+      "ee_p2": "linnade",
+      "ee_p3": "linnu"
+    },
+    {
+      "en": "sip",
+      "en_t": "/sɪp/",
+      "ru": "потягивать (напиток)",
+      "ee": "rüüpama",
+      "ee_da": "rüüpata",
+      "ee_mina": "rüüpan",
+      "ee_past_mina": "rüüpasin",
+      "ee_past_tema": "rüüpas",
+      "ee_past_neg": "ei rüüpanud"
+    },
+    {
+      "en": "drink",
+      "en_t": "/drɪŋk/",
+      "ru": "пить",
+      "ee": "jooma",
+      "ee_da": "juua",
+      "ee_mina": "joon",
+      "ee_past_mina": "jõin",
+      "ee_past_tema": "jõi",
+      "ee_past_neg": "ei joonud"
+    },
+    {
+      "en": "savoury",
+      "en_t": "/ˈseɪvəri/",
+      "ru": "пикантный",
+      "ee": "soolane"
+    },
+    {
+      "en": "aperitif",
+      "en_t": "/ˌæpərɪˈtiːf/",
+      "ru": "аперитив",
+      "ee": "aperitiiv",
+      "ee_2": "aperitiivi",
+      "ee_3": "aperitiivi",
+      "ee_p": "aperitiivid",
+      "ee_p2": "aperitiivide",
+      "ee_p3": "aperitiive"
+    },
+    {
+      "en": "beverage",
+      "en_t": "/ˈbevərɪdʒ/",
+      "ru": "напиток",
+      "ee": "jook",
+      "ee_2": "joogi",
+      "ee_3": "jooki",
+      "ee_p": "joogid",
+      "ee_p2": "jookide",
+      "ee_p3": "jooke"
+    },
+    {
+      "en": "bitter",
+      "en_t": "/ˈbɪtə(r)/",
+      "ru": "горький",
+      "ee": "kibe"
+    },
+    {
+      "en": "acerb",
+      "en_t": "/əˈsɜːb/",
+      "ru": "терпкий",
+      "ee": "kirbe"
+    },
+    {
+      "en": "sourness",
+      "en_t": "/ˈsaʊərnəs/",
+      "ru": "кислинка",
+      "ee": "hapukus",
+      "ee_2": "hapukuse",
+      "ee_3": "hapukust",
+      "ee_p": "hapukused",
+      "ee_p2": "hapukuste",
+      "ee_p3": "hapukusi"
+    },
+    {
+      "en": "tasting",
+      "en_t": "/ˈteɪstɪŋ/",
+      "ru": "дегустация",
+      "ee": "degustatsioon",
+      "ee_2": "degustatsiooni",
+      "ee_3": "degustatsiooni",
+      "ee_p": "degustatsioonid",
+      "ee_p2": "degustatsioonide",
+      "ee_p3": "degustatsioone"
+    },
+    {
+      "en": "glass",
+      "en_t": "/ɡlɑːs/",
+      "ru": "стакан",
+      "ee": "klaas",
+      "ee_2": "klaasi",
+      "ee_3": "klaasi",
+      "ee_p": "klaasid",
+      "ee_p2": "klaaside",
+      "ee_p3": "klaase"
+    },
+    {
+      "en": "flight",
+      "en_t": "/flaɪt/",
+      "ru": "перелет",
+      "ee": "lend",
+      "ee_2": "lennu",
+      "ee_3": "lendu",
+      "ee_p": "lennud",
+      "ee_p2": "lendude",
+      "ee_p3": "lende"
+    },
+    {
+      "en": "check in",
+      "en_t": "/tʃek ɪn/",
+      "ru": "зарегистрироваться",
+      "ee": "registreerima",
+      "ee_da": "registreerida",
+      "ee_mina": "registreerin",
+      "ee_past_mina": "registreerisin",
+      "ee_past_tema": "registreeris",
+      "ee_past_neg": "ei registreerinud"
+    },
+    {
+      "en": "explore",
+      "en_t": "/ɪkˈsplɔːr/",
+      "ru": "исследовать",
+      "ee": "avastama",
+      "ee_da": "avastada",
+      "ee_mina": "avastan",
+      "ee_past_mina": "avastasin",
+      "ee_past_tema": "avastas",
+      "ee_past_neg": "ei avastanud"
+    },
+    {
+      "en": "boarding",
+      "en_t": "/ˈbɔːrdɪŋ/",
+      "ru": "посадка",
+      "ee": "pardaleminek",
+      "ee_2": "pardalemineku",
+      "ee_3": "pardaleminekut"
+    },
+    {
+      "en": "suitcase",
+      "en_t": "/ˈsuːtkeɪs/",
+      "ru": "чемодан",
+      "ee": "kohver",
+      "ee_2": "kohvri",
+      "ee_3": "kohvrit",
+      "ee_p": "kohvrid",
+      "ee_p2": "kohvrite",
+      "ee_p3": "kohvreid"
+    },
+    {
+      "en": "bag",
+      "en_t": "/bæɡ/",
+      "ru": "сумка",
+      "ee": "kott",
+      "ee_2": "koti",
+      "ee_3": "kotti",
+      "ee_p": "kotid",
+      "ee_p2": "kottide",
+      "ee_p3": "kotte"
+    },
+    {
+      "en": "itinerary",
+      "en_t": "/aɪˈtɪnərɛri/",
+      "ru": "маршрут",
+      "ee": "marsruut",
+      "ee_2": "marsruudi",
+      "ee_3": "marsruuti"
+    },
+    {
+      "en": "navigate",
+      "en_t": "/ˈnævɪɡeɪt/",
+      "ru": "ориентироваться, перемещаться",
+      "ee": "orienteeruma",
+      "ee_da": "orienteeruda",
+      "ee_mina": "orienteerun",
+      "ee_past_mina": "orienteerusin",
+      "ee_past_tema": "orienteerus",
+      "ee_past_neg": "ei orienteerunud"
+    },
+    {
+      "en": "vacation",
+      "en_t": "/veɪˈkeɪʃn/",
+      "ru": "отпуск",
+      "ee": "puhkus",
+      "ee_2": "puhkuse",
+      "ee_3": "puhkust",
+      "ee_p": "puhkused",
+      "ee_p2": "puhkuste",
+      "ee_p3": "puhkusi"
+    },
+    {
+      "en": "wanderlust",
+      "en_t": "/ˈwɒndəlʌst/",
+      "ru": "страсть к путешествиям",
+      "ee": "rännukihk",
+      "ee_2": "rännukihu",
+      "ee_3": "rännukihku"
+    },
+    {
+      "en": "driver",
+      "en_t": "/ˈdraɪvər/",
+      "ru": "водитель",
+      "ee": "autojuht",
+      "ee_2": "autojuhi",
+      "ee_3": "autojuhti",
+      "ee_p": "autojuhid",
+      "ee_p2": "autojuhtide",
+      "ee_p3": "autojuhte"
+    },
+    {
+      "en": "accommodation",
+      "en_t": "/əˌkɒməˈdeɪʃn/",
+      "ru": "жилье, размещение",
+      "ee": "majutus",
+      "ee_2": "majutuse",
+      "ee_3": "majutust"
+    },
+    {
+      "en": "hotel",
+      "en_t": "/hoʊˈtɛl/",
+      "ru": "отель",
+      "ee": "hotell",
+      "ee_2": "hotelli",
+      "ee_3": "hotelli",
+      "ee_p": "hotellid",
+      "ee_p2": "hotellide",
+      "ee_p3": "hotelle"
+    },
+    {
+      "en": "hostel",
+      "en_t": "/ˈhɒstl/",
+      "ru": "хостел, гостиница",
+      "ee": "hostel",
+      "ee_2": "hosteli",
+      "ee_3": "hostelit",
+      "ee_p": "hostelid",
+      "ee_p2": "hostelite",
+      "ee_p3": "hosteleid"
+    },
+    {
+      "en": "Airbnb",
+      "en_t": "/ˌɛər biː ˈɛn biː/",
+      "ru": "сами знаете",
+      "ee": "Airbnb"
+    },
+    {
+      "en": "visa",
+      "en_t": "/ˈviːzə/",
+      "ru": "виза",
+      "ee": "viisa",
+      "ee_2": "viisa",
+      "ee_3": "viisat"
+    },
+    {
+      "en": "passport control",
+      "en_t": "/ˈpæspɔːrt kənˌtroʊl/",
+      "ru": "паспортный контроль",
+      "ee": "passikontroll",
+      "ee_2": "passikontrolli",
+      "ee_3": "passikontrolli"
+    },
+    {
+      "en": "immigration",
+      "en_t": "/ˌɪmɪˈɡreɪʃn/",
+      "ru": "иммиграция",
+      "ee": "immigratsioon",
+      "ee_2": "immigratsiooni",
+      "ee_3": "immigratsiooni"
+    },
+    {
+      "en": "bus",
+      "en_t": "/bʌs/",
+      "ru": "автобус",
+      "ee": "buss",
+      "ee_2": "bussi",
+      "ee_3": "bussi",
+      "ee_p": "bussid",
+      "ee_p2": "busside",
+      "ee_p3": "busse"
+    },
+    {
+      "en": "take off",
+      "en_t": "/teɪk ɒf/",
+      "ru": "отправляться",
+      "ee": "välja sõitma",
+      "ee_da": "välja sõita",
+      "ee_mina": "sõidan välja",
+      "ee_past_mina": "sõitsin välja",
+      "ee_past_tema": "sõitis välja",
+      "ee_past_neg": "ei sõitnud välja"
+    },
+    {
+      "en": "airport",
+      "en_t": "/ˈɛərpɔːrt/",
+      "ru": "аэропорт",
+      "ee": "lennujaam",
+      "ee_2": "lennujaama",
+      "ee_3": "lennujaama",
+      "ee_p": "lennujaamad",
+      "ee_p2": "lennujaamade",
+      "ee_p3": "lennujaamu"
+    },
+    {
+      "en": "terminal",
+      "en_t": "/ˈtɜːrmɪnl/",
+      "ru": "терминал",
+      "ee": "terminal",
+      "ee_2": "terminali",
+      "ee_3": "terminali",
+      "ee_p": "terminalid",
+      "ee_p2": "terminalide",
+      "ee_p3": "terminale"
+    },
+    {
+      "en": "ticket",
+      "en_t": "/ˈtɪkɪt/",
+      "ru": "билет",
+      "ee": "pilet",
+      "ee_2": "pileti",
+      "ee_3": "piletit",
+      "ee_p": "piletid",
+      "ee_p2": "piletite",
+      "ee_p3": "pileteid"
+    },
+    {
+      "en": "luggage",
+      "en_t": "/ˈlʌɡɪdʒ/",
+      "ru": "багаж",
+      "ee": "pagas",
+      "ee_2": "pagasi",
+      "ee_3": "pagasit"
+    },
+    {
+      "en": "departure",
+      "en_t": "/dɪˈpɑːrtʃər/",
+      "ru": "отправление",
+      "ee": "väljumine",
+      "ee_2": "väljumise",
+      "ee_3": "väljumist"
+    },
+    {
+      "en": "layover",
+      "en_t": "/ˈleɪoʊvər/",
+      "ru": "остановка",
+      "ee": "peatumine",
+      "ee_2": "peatumise",
+      "ee_3": "peatumist"
+    },
+    {
+      "en": "transit",
+      "en_t": "/ˈtrænzɪt/",
+      "ru": "транзит, прохождение",
+      "ee": "transiit",
+      "ee_2": "transiidi",
+      "ee_3": "transiiti"
+    },
+    {
+      "en": "cruise",
+      "en_t": "/kruːz/",
+      "ru": "круиз",
+      "ee": "kruiis",
+      "ee_2": "kruiisi",
+      "ee_3": "kruiisi"
+    },
+    {
+      "en": "ship",
+      "en_t": "/ʃɪp/",
+      "ru": "корабль",
+      "ee": "laev",
+      "ee_2": "laeva",
+      "ee_3": "laeva",
+      "ee_p": "laevad",
+      "ee_p2": "laevade",
+      "ee_p3": "laevu"
+    },
+    {
+      "en": "ferry",
+      "en_t": "/ˈfɛri/",
+      "ru": "паром",
+      "ee": "praam",
+      "ee_2": "praami",
+      "ee_3": "praami",
+      "ee_p": "praamid",
+      "ee_p2": "praamide",
+      "ee_p3": "praame"
+    },
+    {
+      "en": "rent",
+      "en_t": "/rɛnt/",
+      "ru": "арендовать",
+      "ee": "üürima",
+      "ee_da": "üürida",
+      "ee_mina": "üürin",
+      "ee_past_mina": "üürisin",
+      "ee_past_tema": "üüris",
+      "ee_past_neg": "ei üürinud"
+    },
+    {
+      "en": "Uber",
+      "en_t": "/ˈuːbər/",
+      "ru": "ну и это вы знаете",
+      "ee": "Uber"
+    },
+    {
+      "en": "move",
+      "en_t": "/muːv/",
+      "ru": "двигаться",
+      "ee": "liikuma",
+      "ee_da": "liikuda",
+      "ee_mina": "liigun",
+      "ee_past_mina": "liikusin",
+      "ee_past_tema": "liikus",
+      "ee_past_neg": "ei liikunud"
+    },
+    {
+      "en": "come",
+      "en_t": "/kʌm/",
+      "ru": "идти",
+      "ee": "tulema",
+      "ee_da": "tulla",
+      "ee_mina": "tulen",
+      "ee_past_mina": "tulin",
+      "ee_past_tema": "tuli",
+      "ee_past_neg": "ei tulnud"
+    },
+    {
+      "en": "underground",
+      "en_t": "/ˌʌndərˈɡraʊnd/",
+      "ru": "метро",
+      "ee": "metroo",
+      "ee_2": "metroo",
+      "ee_3": "metrood"
+    },
+    {
+      "en": "view",
+      "en_t": "/vjuː/",
+      "ru": "вид",
+      "ee": "vaade",
+      "ee_2": "vaate",
+      "ee_3": "vaadet",
+      "ee_p": "vaated",
+      "ee_p2": "vaadete",
+      "ee_p3": "vaateid"
+    },
+    {
+      "en": "bicycle",
+      "en_t": "/ˈbaɪsɪkl/",
+      "ru": "велосипед",
+      "ee": "jalgratas",
+      "ee_2": "jalgratta",
+      "ee_3": "jalgratast",
+      "ee_p": "jalgrattad",
+      "ee_p2": "jalgrataste",
+      "ee_p3": "jalgrattaid"
+    },
+    {
+      "en": "sightseeing",
+      "en_t": "/ˈsaɪtsiːɪŋ/",
+      "ru": "осмотр достопримечательностей",
+      "ee": "ekskursioon",
+      "ee_2": "ekskursiooni",
+      "ee_3": "ekskursiooni"
+    },
+    {
+      "en": "landmark",
+      "en_t": "/ˈlændmɑːrk/",
+      "ru": "ориентир, знак",
+      "ee": "maamärk",
+      "ee_2": "maamärgi",
+      "ee_3": "maamärki"
+    },
+    {
+      "en": "museum",
+      "en_t": "/mjuˈziːəm/",
+      "ru": "музей",
+      "ee": "muuseum",
+      "ee_2": "muuseumi",
+      "ee_3": "muuseumi"
+    },
+    {
+      "en": "gallery",
+      "en_t": "/ɡəˈlɛri/",
+      "ru": "галерея",
+      "ee": "galerii",
+      "ee_2": "galerii",
+      "ee_3": "galeriid",
+      "ee_p": "galeriid",
+      "ee_p2": "galeriide",
+      "ee_p3": "galeriisid"
+    },
+    {
+      "en": "bank",
+      "en_t": "/bæŋk/",
+      "ru": "банк",
+      "ee": "pank",
+      "ee_2": "panga",
+      "ee_3": "panka",
+      "ee_p": "pangad",
+      "ee_p2": "pankade",
+      "ee_p3": "pankasid"
+    },
+    {
+      "en": "building",
+      "en_t": "/ˈbɪldɪŋ/",
+      "ru": "здание",
+      "ee": "hoone",
+      "ee_2": "hoone",
+      "ee_3": "hoonet",
+      "ee_p": "hooned",
+      "ee_p2": "hoonete",
+      "ee_p3": "hooneid"
+    },
+    {
+      "en": "beach",
+      "en_t": "/biːtʃ/",
+      "ru": "пляж",
+      "ee": "rand",
+      "ee_2": "ranna",
+      "ee_3": "randa",
+      "ee_p": "rannad",
+      "ee_p2": "randade",
+      "ee_p3": "randu"
+    },
+    {
+      "en": "stop",
+      "en_t": "/stɒp/",
+      "ru": "остановка",
+      "ee": "peatus",
+      "ee_2": "peatuse",
+      "ee_3": "peatust",
+      "ee_p": "peatused",
+      "ee_p2": "peatuste",
+      "ee_p3": "peatusi"
+    },
+    {
+      "en": "request",
+      "en_t": "/rɪˈkwɛst/",
+      "ru": "просить",
+      "ee": "paluma",
+      "ee_da": "paluda",
+      "ee_mina": "palun",
+      "ee_past_mina": "palusin",
+      "ee_past_tema": "palus",
+      "ee_past_neg": "ei palunud"
+    },
+    {
+      "en": "delay",
+      "en_t": "/dɪˈleɪ/",
+      "ru": "задерживаться",
+      "ee": "hilinema",
+      "ee_da": "hilineda",
+      "ee_mina": "hilinen",
+      "ee_past_mina": "hilinesin",
+      "ee_past_tema": "hilines",
+      "ee_past_neg": "ei hilinenud"
+    },
+    {
+      "en": "book",
+      "en_t": "/bʊk/",
+      "ru": "бронировать",
+      "ee": "broneerima",
+      "ee_da": "broneerida",
+      "ee_mina": "broneerin",
+      "ee_past_mina": "broneerisin",
+      "ee_past_tema": "broneeris",
+      "ee_past_neg": "ei broneerinud"
+    },
+    {
+      "en": "land",
+      "en_t": "/lænd/",
+      "ru": "приземляться",
+      "ee": "maanduma",
+      "ee_da": "maanduda",
+      "ee_mina": "maandun",
+      "ee_past_mina": "maandusin",
+      "ee_past_tema": "maandus",
+      "ee_past_neg": "ei maandunud"
+    },
+    {
+      "en": "international",
+      "en_t": "/ˌɪntərˈnæʃənl/",
+      "ru": "международный",
+      "ee": "rahvusvaheline"
+    },
+    {
+      "en": "transfer",
+      "en_t": "/ˈtrænsfɜːr/",
+      "ru": "пересадка",
+      "ee": "ümberistumine",
+      "ee_2": "ümberistumise",
+      "ee_3": "ümberistumist"
+    },
+    {
+      "en": "claim",
+      "en_t": "/kleɪm/",
+      "ru": "выдача (а еще претендовать)",
+      "ee": "pagasi väljastus"
+    },
+    {
+      "en": "expect",
+      "en_t": "/ɪkˈspɛkt/",
+      "ru": "ожидать",
+      "ee": "ootama",
+      "ee_da": "oodata",
+      "ee_mina": "ootan",
+      "ee_past_mina": "ootasin",
+      "ee_past_tema": "ootas",
+      "ee_past_neg": "ei oodanud"
+    },
+    {
+      "en": "tourist",
+      "en_t": "/ˈtʊərɪst/",
+      "ru": "турист",
+      "ee": "turist",
+      "ee_2": "turisti",
+      "ee_3": "turisti",
+      "ee_p": "turistid",
+      "ee_p2": "turistide",
+      "ee_p3": "turiste"
+    },
+    {
+      "en": "passenger",
+      "en_t": "/ˈpæsɪndʒər/",
+      "ru": "пассажир",
+      "ee": "reisija",
+      "ee_2": "reisija",
+      "ee_3": "reisijat",
+      "ee_p": "reisijad",
+      "ee_p2": "reisijate",
+      "ee_p3": "reisijaid"
+    },
+    {
+      "en": "stairs",
+      "en_t": "/stɛərz/",
+      "ru": "лестница",
+      "ee": "trepp",
+      "ee_2": "trepi",
+      "ee_3": "treppi",
+      "ee_p": "trepid",
+      "ee_p2": "treppide",
+      "ee_p3": "treppe"
+    },
+    {
+      "en": "cinema",
+      "en_t": "/ˈsɪnəmə/",
+      "ru": "кинотеатр",
+      "ee": "kino",
+      "ee_2": "kino",
+      "ee_3": "kinot",
+      "ee_p": "kinod",
+      "ee_p2": "kinode",
+      "ee_p3": "kinosid"
+    },
+    {
+      "en": "wave",
+      "en_t": "/weɪv/",
+      "ru": "махать",
+      "ee": "lehvitama",
+      "ee_da": "lehvitada",
+      "ee_mina": "lehvitan",
+      "ee_past_mina": "lehvitasin",
+      "ee_past_tema": "lehvitas",
+      "ee_past_neg": "ei lehvitanud"
+    },
+    {
+      "en": "gate",
+      "en_t": "/ɡeɪt/",
+      "ru": "выход на посадку",
+      "ee": "värav",
+      "ee_2": "värava",
+      "ee_3": "väravat",
+      "ee_p": "väravad",
+      "ee_p2": "väravate",
+      "ee_p3": "väravaid"
+    },
+    {
+      "en": "train",
+      "en_t": "/treɪn/",
+      "ru": "поезд",
+      "ee": "rong",
+      "ee_2": "rongi",
+      "ee_3": "rongi",
+      "ee_p": "rongid",
+      "ee_p2": "rongide",
+      "ee_p3": "ronge"
+    },
+    {
+      "en": "exploration",
+      "en_t": "/ˌɛkspˈlɔːˈreɪʃn/",
+      "ru": "исследование",
+      "ee": "uurimine",
+      "ee_2": "uurimise",
+      "ee_3": "uurimist"
+    },
+    {
+      "en": "mountain",
+      "en_t": "/ˈmaʊntən/",
+      "ru": "гора",
+      "ee": "mägi",
+      "ee_2": "mäe",
+      "ee_3": "mäge",
+      "ee_p": "mäed",
+      "ee_p2": "mägede",
+      "ee_p3": "mägesid"
+    },
+    {
+      "en": "hiking",
+      "en_t": "/ˈhaɪkɪŋ/",
+      "ru": "пешие прогулки",
+      "ee": "matkamine",
+      "ee_2": "matkamise",
+      "ee_3": "matkamist"
+    },
+    {
+      "en": "trekking",
+      "en_t": "/ˈtrɛkɪŋ/",
+      "ru": "походы",
+      "ee": "matk",
+      "ee_2": "matka",
+      "ee_3": "matka",
+      "ee_p": "matkad",
+      "ee_p2": "matkade",
+      "ee_p3": "matku"
+    },
+    {
+      "en": "diving",
+      "en_t": "/ˈdaɪvɪŋ/",
+      "ru": "дайвинг",
+      "ee": "sukeldumine",
+      "ee_2": "sukeldumise",
+      "ee_3": "sukeldumist"
+    },
+    {
+      "en": "surfing",
+      "en_t": "/ˈsɜːfɪŋ/",
+      "ru": "серфинг",
+      "ee": "surfamine",
+      "ee_2": "surfamise",
+      "ee_3": "surfamist"
+    },
+    {
+      "en": "skiing",
+      "en_t": "/ˈskiːɪŋ/",
+      "ru": "лыжный спорт",
+      "ee": "suusatamine",
+      "ee_2": "suusatamise",
+      "ee_3": "suusatamist"
+    },
+    {
+      "en": "wonderful",
+      "en_t": "/ˈwʌndəfl/",
+      "ru": "замечательный",
+      "ee": "imeline"
+    },
+    {
+      "en": "cuisine",
+      "en_t": "/kwɪˈziːn/",
+      "ru": "кулинария, кухня",
+      "ee": "köök"
+    },
+    {
+      "en": "taxi",
+      "en_t": "/ˈtæksi/",
+      "ru": "такси",
+      "ee": "takso",
+      "ee_2": "takso",
+      "ee_3": "taksot",
+      "ee_p": "taksod",
+      "ee_p2": "takso(de)",
+      "ee_p3": "taksosid"
+    },
+    {
+      "en": "seat",
+      "en_t": "/siːt/",
+      "ru": "место",
+      "ee": "istekoht",
+      "ee_2": "istekoha",
+      "ee_3": "istekohta"
+    },
+    {
+      "en": "restaurant",
+      "en_t": "/ˈrɛst(ə)rɒnt/",
+      "ru": "ресторан",
+      "ee": "restoran",
+      "ee_2": "restorani",
+      "ee_3": "restorani"
+    },
+    {
+      "en": "street food",
+      "en_t": "/striːt fuːd/",
+      "ru": "уличная еда",
+      "ee": "tänavatoit",
+      "ee_2": "tänavatoidu",
+      "ee_3": "tänavatoitu"
+    },
+    {
+      "en": "market",
+      "en_t": "/ˈmɑːrkɪt/",
+      "ru": "рынок",
+      "ee": "turg",
+      "ee_2": "turu",
+      "ee_3": "turgu",
+      "ee_p": "turud",
+      "ee_p2": "turgude",
+      "ee_p3": "turge"
+    },
+    {
+      "en": "shopping",
+      "en_t": "/ˈʃɒpɪŋ/",
+      "ru": "шопинг",
+      "ee": "ostlemine",
+      "ee_2": "ostlemise",
+      "ee_3": "ostlemist"
+    },
+    {
+      "en": "souvenir",
+      "en_t": "/ˌsuːvəˈnɪr/",
+      "ru": "сувенир",
+      "ee": "suveniir",
+      "ee_2": "suveniiri",
+      "ee_3": "suveniiri",
+      "ee_p": "suveniirid",
+      "ee_p2": "suveniiride",
+      "ee_p3": "suveniire"
+    },
+    {
+      "en": "currency",
+      "en_t": "/ˈkʌrənsi/",
+      "ru": "валюта",
+      "ee": "valuuta",
+      "ee_2": "valuuta",
+      "ee_3": "valuutat"
+    },
+    {
+      "en": "exchange",
+      "en_t": "/ɪksˈtʃeɪndʒ/",
+      "ru": "обмен",
+      "ee": "vahetus",
+      "ee_2": "vahetuse",
+      "ee_3": "vahetust"
+    },
+    {
+      "en": "ATM",
+      "en_t": "/ˌeɪ tiː ˈɛm/",
+      "ru": "банкомат",
+      "ee": "sularahaautomaat",
+      "ee_2": "sularahaautomaadi",
+      "ee_3": "sularahaautomaati"
+    },
+    {
+      "en": "budget",
+      "en_t": "/ˈbʌdʒɪt/",
+      "ru": "бюджет",
+      "ee": "eelarve",
+      "ee_2": "eelarve",
+      "ee_3": "eelarvet"
+    },
+    {
+      "en": "expense",
+      "en_t": "/ɪkˈspɛns/",
+      "ru": "расходы",
+      "ee": "kulu",
+      "ee_2": "kulu",
+      "ee_3": "kulu",
+      "ee_p": "kulud",
+      "ee_p2": "kulude",
+      "ee_p3": "kulusid"
+    },
+    {
+      "en": "insurance",
+      "en_t": "/ɪnˈʃʊrəns/",
+      "ru": "страховка",
+      "ee": "kindlustus",
+      "ee_2": "kindlustuse",
+      "ee_3": "kindlustust"
+    },
+    {
+      "en": "safety",
+      "en_t": "/ˈseɪfti/",
+      "ru": "безопасность",
+      "ee": "ohutus",
+      "ee_2": "ohutuse",
+      "ee_3": "ohutust"
+    },
+    {
+      "en": "vaccination",
+      "en_t": "/ˌvæksɪˈneɪʃn/",
+      "ru": "вакцинация",
+      "ee": "vaktsineerimine",
+      "ee_2": "vaktsineerimise",
+      "ee_3": "vaktsineerimist"
+    },
+    {
+      "en": "culture",
+      "en_t": "/ˈkʌltʃər/",
+      "ru": "культура",
+      "ee": "kultuur",
+      "ee_2": "kultuuri",
+      "ee_3": "kultuuri"
+    },
+    {
+      "en": "local",
+      "en_t": "/ˈloʊkl/",
+      "ru": "местный",
+      "ee": "kohalik"
+    },
+    {
+      "en": "guide",
+      "en_t": "/ɡaɪd/",
+      "ru": "экскурсовод; гайд",
+      "ee": "giid",
+      "ee_2": "giidi",
+      "ee_3": "giidi"
+    },
+    {
+      "en": "map",
+      "en_t": "/mæp/",
+      "ru": "карта",
+      "ee": "kaart",
+      "ee_2": "kaardi",
+      "ee_3": "kaarti",
+      "ee_p": "kaardid",
+      "ee_p2": "kaartide",
+      "ee_p3": "kaarte"
+    },
+    {
+      "en": "GPS",
+      "en_t": "/ˌdʒiː piː ˈɛs/",
+      "ru": "GPS-навигатор",
+      "ee": "GPS-navigaator"
+    },
+    {
+      "en": "tour",
+      "en_t": "/tʊər/",
+      "ru": "тур",
+      "ee": "tuur",
+      "ee_2": "tuuri",
+      "ee_3": "tuuri",
+      "ee_p": "tuurid",
+      "ee_p2": "tuuride",
+      "ee_p3": "tuure"
+    },
+    {
+      "en": "package",
+      "en_t": "/ˈpækɪdʒ/",
+      "ru": "посылка",
+      "ee": "postipakk",
+      "ee_2": "postipaki",
+      "ee_3": "postipakki",
+      "ee_p": "postipakid",
+      "ee_p2": "postipakkide",
+      "ee_p3": "postipakke"
+    },
+    {
+      "en": "festival",
+      "en_t": "/ˈfɛstɪvl/",
+      "ru": "фестиваль",
+      "ee": "festival",
+      "ee_2": "festivali",
+      "ee_3": "festivali",
+      "ee_p": "festivalid",
+      "ee_p2": "festivalide",
+      "ee_p3": "festivale"
+    },
+    {
+      "en": "season",
+      "en_t": "/ˈsiːzn/",
+      "ru": "сезон; время года",
+      "ee": "hooaeg",
+      "ee_2": "hooaja",
+      "ee_3": "hooaega",
+      "ee_p": "hooajad",
+      "ee_p2": "hooaegade",
+      "ee_p3": "hooaegu"
+    },
+    {
+      "en": "climate",
+      "en_t": "/ˈklaɪmət/",
+      "ru": "климат",
+      "ee": "kliima",
+      "ee_2": "kliima",
+      "ee_3": "kliimat"
+    },
+    {
+      "en": "tropical",
+      "en_t": "/ˈtrɒpɪkl/",
+      "ru": "тропический",
+      "ee": "troopiline"
+    },
+    {
+      "en": "sunscreen",
+      "en_t": "/ˈsʌnskriːn/",
+      "ru": "солнцезащитный крем",
+      "ee": "päikesekreem",
+      "ee_2": "päikesekreemi",
+      "ee_3": "päikesekreemi"
+    },
+    {
+      "en": "backpacking",
+      "en_t": "/ˈbækpækɪŋ/",
+      "ru": "путешествия налегке (с рюкзаком)",
+      "ee": "seljakotireis",
+      "ee_2": "seljakotireisi",
+      "ee_3": "seljakotireisi"
+    },
+    {
+      "en": "camping",
+      "en_t": "/ˈkæmpɪŋ/",
+      "ru": "кемпинг; отдых в палатке",
+      "ee": "telkimine",
+      "ee_2": "telkimise",
+      "ee_3": "telkimist"
+    },
+    {
+      "en": "wildlife",
+      "en_t": "/ˈwaɪldlaɪf/",
+      "ru": "дикая природа (фауна)",
+      "ee": "loomastik"
+    },
+    {
+      "en": "nature",
+      "en_t": "/ˈneɪtʃər/",
+      "ru": "природа",
+      "ee": "loodus",
+      "ee_2": "looduse",
+      "ee_3": "loodust"
+    },
+    {
+      "en": "bed and breakfast",
+      "en_t": "/bɛd ənd ˈbrɛkfəst/",
+      "ru": "гостиница с ночлегом и завтраком",
+      "ee": "voodi ja hommikusöök"
+    },
+    {
+      "en": "adventure",
+      "en_t": "/ədˈvɛntʃər/",
+      "ru": "приключение",
+      "ee": "seiklus",
+      "ee_2": "seikluse",
+      "ee_3": "seiklust"
+    },
+    {
+      "en": "national park",
+      "en_t": "/ˈnæʃnəl pɑːrk/",
+      "ru": "национальный парк",
+      "ee": "rahvuspark",
+      "ee_2": "rahvuspargi",
+      "ee_3": "rahvusparki"
+    },
+    {
+      "en": "heritage",
+      "en_t": "/ˈhɛrɪtɪdʒ/",
+      "ru": "наследие",
+      "ee": "pärand",
+      "ee_2": "pärandi",
+      "ee_3": "pärandit"
+    },
+    {
+      "en": "arrive",
+      "en_t": "/əˈraɪv/",
+      "ru": "прибывать",
+      "ee": "saabuma",
+      "ee_da": "saabuda",
+      "ee_mina": "saabun",
+      "ee_past_mina": "saabusin",
+      "ee_past_tema": "saabus",
+      "ee_past_neg": "ei saabunud"
+    },
+    {
+      "en": "architecture",
+      "en_t": "/ˈɑːrkɪtɛktʃər/",
+      "ru": "архитектура",
+      "ee": "arhitektuur",
+      "ee_2": "arhitektuuri",
+      "ee_3": "arhitektuuri"
+    },
+    {
+      "en": "ruins",
+      "en_t": "/ˈruːɪnz/",
+      "ru": "руины",
+      "ee": "varemed",
+      "ee_2": "varemete",
+      "ee_3": "varemeid"
+    },
+    {
+      "en": "temple",
+      "en_t": "/ˈtɛmpl/",
+      "ru": "храм",
+      "ee": "tempel",
+      "ee_2": "templi",
+      "ee_3": "templit",
+      "ee_p": "templid",
+      "ee_p2": "templite",
+      "ee_p3": "templeid"
+    },
+    {
+      "en": "church",
+      "en_t": "/tʃɜːrtʃ/",
+      "ru": "церковь",
+      "ee": "kirik",
+      "ee_2": "kiriku",
+      "ee_3": "kirikut",
+      "ee_p": "kirikud",
+      "ee_p2": "kirikute",
+      "ee_p3": "kirikuid"
+    },
+    {
+      "en": "mosque",
+      "en_t": "/mɒsk/",
+      "ru": "мечеть",
+      "ee": "mošee",
+      "ee_2": "mošee",
+      "ee_3": "mošeed",
+      "ee_p": "mošeed",
+      "ee_p2": "mošeede",
+      "ee_p3": "mošeid"
+    },
+    {
+      "en": "monument",
+      "en_t": "/ˈmɒnjumənt/",
+      "ru": "памятник",
+      "ee": "mälestusmärk",
+      "ee_2": "mälestusmärgi",
+      "ee_3": "mälestusmärki"
+    },
+    {
+      "en": "photography",
+      "en_t": "/fəˈtɒɡrəfi/",
+      "ru": "фотография (как занятие)",
+      "ee": "fotograafia",
+      "ee_2": "fotograafia",
+      "ee_3": "fotograafiat"
+    },
+    {
+      "en": "memory",
+      "en_t": "/ˈmɛməri/",
+      "ru": "память",
+      "ee": "mälu",
+      "ee_2": "mälu",
+      "ee_3": "mälu"
+    },
+    {
+      "en": "experience",
+      "en_t": "/ɪkˈspɪəriəns/",
+      "ru": "опыт",
+      "ee": "kogemus",
+      "ee_2": "kogemuse",
+      "ee_3": "kogemust",
+      "ee_p": "kogemused",
+      "ee_p2": "kogemuste",
+      "ee_p3": "kogemusi"
+    },
+    {
+      "en": "escape",
+      "en_t": "/ɪˈskeɪp/",
+      "ru": "побег",
+      "ee": "põgenemine",
+      "ee_2": "põgenemise",
+      "ee_3": "põgenemist"
+    },
+    {
+      "en": "customs",
+      "en_t": "/ˈkʌstmz/",
+      "ru": "таможня",
+      "ee": "toll",
+      "ee_2": "tolli",
+      "ee_3": "tolli"
+    },
+    {
+      "en": "reservation",
+      "en_t": "/ˌrɛzərˈveɪʃn/",
+      "ru": "бронирование",
+      "ee": "broneering",
+      "ee_2": "broneeringu",
+      "ee_3": "broneeringut"
+    },
+    {
+      "en": "shower",
+      "en_t": "/ˈʃaʊər/",
+      "ru": "душ",
+      "ee": "dušš",
+      "ee_2": "duši",
+      "ee_3": "dušši",
+      "ee_p": "dušid",
+      "ee_p2": "duššide",
+      "ee_p3": "dušše"
+    },
+    {
+      "en": "suite",
+      "en_t": "/swiːt/",
+      "ru": "номер люкс",
+      "ee": "sviit",
+      "ee_2": "sviidi",
+      "ee_3": "sviiti"
+    },
+    {
+      "en": "key",
+      "en_t": "/kiː/",
+      "ru": "ключ",
+      "ee": "võti",
+      "ee_2": "võtme",
+      "ee_3": "võtit",
+      "ee_p": "võtmed",
+      "ee_p2": "võtmete",
+      "ee_p3": "võtmeid"
+    },
+    {
+      "en": "receipt",
+      "en_t": "/rɪˈsiːt/",
+      "ru": "чек",
+      "ee": "tšekk",
+      "ee_2": "tšeki",
+      "ee_3": "tšekki",
+      "ee_p": "tšekid",
+      "ee_p2": "tšekkide",
+      "ee_p3": "tšekke"
+    },
+    {
+      "en": "hairdryer",
+      "en_t": "/ˈheəˌdraɪə/",
+      "ru": "фен",
+      "ee": "föön",
+      "ee_2": "fööni",
+      "ee_3": "fööni",
+      "ee_p": "föönid",
+      "ee_p2": "föönide",
+      "ee_p3": "fööne"
+    },
+    {
+      "en": "battery",
+      "en_t": "/ˈbæt(ə)ri/",
+      "ru": "аккумулятор",
+      "ee": "aku",
+      "ee_2": "aku",
+      "ee_3": "akut",
+      "ee_p": "akud",
+      "ee_p2": "akude",
+      "ee_p3": "akusid"
+    },
+    {
+      "en": "part",
+      "en_t": "/pɑːrt/",
+      "ru": "часть",
+      "ee": "osa",
+      "ee_2": "osa",
+      "ee_3": "osa",
+      "ee_p": "osad",
+      "ee_p2": "osade",
+      "ee_p3": "osi"
+    },
+    {
+      "en": "police",
+      "en_t": "/pəˈliːs/",
+      "ru": "полиция",
+      "ee": "politsei",
+      "ee_2": "politsei",
+      "ee_3": "politseid"
+    },
+    {
+      "en": "station",
+      "en_t": "/ˈsteɪʃn/",
+      "ru": "станция",
+      "ee": "jaam",
+      "ee_2": "jaama",
+      "ee_3": "jaama",
+      "ee_p": "jaamad",
+      "ee_p2": "jaamade",
+      "ee_p3": "jaamu"
+    },
+    {
+      "en": "price",
+      "en_t": "/praɪs/",
+      "ru": "цена",
+      "ee": "hind",
+      "ee_2": "hinna",
+      "ee_3": "hinda",
+      "ee_p": "hinnad",
+      "ee_p2": "hindade",
+      "ee_p3": "hindu"
+    },
+    {
+      "en": "resort",
+      "en_t": "/rɪˈzɔːrt/",
+      "ru": "курорт",
+      "ee": "kuurort",
+      "ee_2": "kuurordi",
+      "ee_3": "kuurorti",
+      "ee_p": "kuurordid",
+      "ee_p2": "kuurordite",
+      "ee_p3": "kuurorte"
+    },
+    {
+      "en": "breakfast",
+      "en_t": "/ˈbrɛkfəst/",
+      "ru": "завтрак",
+      "ee": "hommikusöök",
+      "ee_2": "hommikusöögi",
+      "ee_3": "hommikusööki"
+    },
+    {
+      "en": "air conditioner",
+      "en_t": "/ˈeə kənˌdɪʃənə/",
+      "ru": "кондиционер",
+      "ee": "konditsioneer",
+      "ee_2": "konditsioneeri",
+      "ee_3": "konditsioneeri"
+    },
+    {
+      "en": "bath",
+      "en_t": "/bɑːθ/",
+      "ru": "ванна",
+      "ee": "vann",
+      "ee_2": "vanni",
+      "ee_3": "vanni",
+      "ee_p": "vannid",
+      "ee_p2": "vannide",
+      "ee_p3": "vanne"
+    },
+    {
+      "en": "towel",
+      "en_t": "/ˈtaʊəl/",
+      "ru": "полотенце",
+      "ee": "rätik",
+      "ee_2": "rätiku",
+      "ee_3": "rätikut",
+      "ee_p": "rätikud",
+      "ee_p2": "rätikute",
+      "ee_p3": "rätikuid"
+    },
+    {
+      "en": "tip",
+      "en_t": "/tɪp/",
+      "ru": "чаевые",
+      "ee": "jootraha",
+      "ee_2": "jootraha",
+      "ee_3": "jootraha"
+    },
+    {
+      "en": "cash",
+      "en_t": "/kæʃ/",
+      "ru": "наличные",
+      "ee": "sularaha",
+      "ee_2": "sularaha",
+      "ee_3": "sularaha"
+    },
+    {
+      "en": "rate",
+      "en_t": "/reɪt/",
+      "ru": "стоимость",
+      "ee": "tariif",
+      "ee_2": "tariifi",
+      "ee_3": "tariifi",
+      "ee_p": "tariifid",
+      "ee_p2": "tariifide",
+      "ee_p3": "tariife"
+    },
+    {
+      "en": "electrical",
+      "en_t": "/ɪˈlɛktrɪkəl/",
+      "ru": "электрический",
+      "ee": "elektriline"
+    },
+    {
+      "en": "successful",
+      "en_t": "/səkˈsɛsfəl/",
+      "ru": "успешный",
+      "ee": "edukas"
+    },
+    {
+      "en": "significant",
+      "en_t": "/sɪɡˈnɪfɪkənt/",
+      "ru": "значительный",
+      "ee": "märkimisväärne"
+    },
+    {
+      "en": "former",
+      "en_t": "/ˈfɔːrmər/",
+      "ru": "бывший",
+      "ee": "endine"
+    },
+    {
+      "en": "sick",
+      "en_t": "/sɪk/",
+      "ru": "больной",
+      "ee": "haige"
+    },
+    {
+      "en": "ready",
+      "en_t": "/ˈrɛdi/",
+      "ru": "готовый",
+      "ee": "valmis"
+    },
+    {
+      "en": "bored",
+      "en_t": "/bɔːrd/",
+      "ru": "скучающий",
+      "ee": "igavlev"
+    },
+    {
+      "en": "traditional",
+      "en_t": "/trəˈdɪʃənəl/",
+      "ru": "традиционный",
+      "ee": "traditsiooniline"
+    },
+    {
+      "en": "medical",
+      "en_t": "/ˈmɛdɪkəl/",
+      "ru": "медицинский",
+      "ee": "meditsiiniline"
+    },
+    {
+      "en": "financial",
+      "en_t": "/faɪˈnænʃəl/",
+      "ru": "финансовый",
+      "ee": "finants"
+    },
+    {
+      "en": "major",
+      "en_t": "/ˈmeɪdʒər/",
+      "ru": "основной",
+      "ee": "põhiline"
+    },
+    {
+      "en": "expensive",
+      "en_t": "/ɪkˈspɛnsɪv/",
+      "ru": "дорогой",
+      "ee": "kallis"
+    },
+    {
+      "en": "slow",
+      "en_t": "/sloʊ/",
+      "ru": "медленный",
+      "ee": "aeglane"
+    },
+    {
+      "en": "similar",
+      "en_t": "/ˈsɪmələr/",
+      "ru": "похожий",
+      "ee": "sarnane"
+    },
+    {
+      "en": "weird",
+      "en_t": "/wɪrd/",
+      "ru": "странный",
+      "ee": "imelik"
+    },
+    {
+      "en": "good",
+      "en_t": "/ɡʊd/",
+      "ru": "хороший",
+      "ee": "hea"
+    },
+    {
+      "en": "curious",
+      "en_t": "/ˈkjʊriəs/",
+      "ru": "любопытный",
+      "ee": "uudishimulik"
+    },
+    {
+      "en": "cool",
+      "en_t": "/kuːl/",
+      "ru": "крутой",
+      "ee": "äge"
+    },
+    {
+      "en": "additional",
+      "en_t": "/əˈdɪʃənəl/",
+      "ru": "дополнительный",
+      "ee": "lisa-"
+    },
+    {
+      "en": "mental",
+      "en_t": "/ˈmɛntl/",
+      "ru": "ментальный",
+      "ee": "vaimne"
+    },
+    {
+      "en": "useful",
+      "en_t": "/ˈjuːsfəl/",
+      "ru": "полезный",
+      "ee": "kasulik"
+    },
+    {
+      "en": "late",
+      "en_t": "/leɪt/",
+      "ru": "поздний",
+      "ee": "hiline"
+    },
+    {
+      "en": "shocked",
+      "en_t": "/ʃɒkt/",
+      "ru": "потрясённый",
+      "ee": "šokeeritud"
+    },
+    {
+      "en": "excited",
+      "en_t": "/ɪkˈsaɪtɪd/",
+      "ru": "взволнованный (в хорошем смысле)",
+      "ee": "elevil"
+    },
+    {
+      "en": "difficult",
+      "en_t": "/ˈdɪfɪkəlt/",
+      "ru": "сложный",
+      "ee": "raske"
+    },
+    {
+      "en": "fresh",
+      "en_t": "/frɛʃ/",
+      "ru": "свежий",
+      "ee": "värske"
+    },
+    {
+      "en": "different",
+      "en_t": "/ˈdɪfrənt/",
+      "ru": "другой",
+      "ee": "teistsugune"
+    },
+    {
+      "en": "favourite",
+      "en_t": "/ˈfeɪvərɪt/",
+      "ru": "любимый",
+      "ee": "lemmik"
+    },
+    {
+      "en": "available",
+      "en_t": "/əˈveɪləbl/",
+      "ru": "доступный",
+      "ee": "kättesaadav"
+    },
+    {
+      "en": "possible",
+      "en_t": "/ˈpɒsɪbl/",
+      "ru": "возможный",
+      "ee": "võimalik"
+    },
+    {
+      "en": "physical",
+      "en_t": "/ˈfɪzɪkəl/",
+      "ru": "физический",
+      "ee": "füüsiline"
+    },
+    {
+      "en": "casual",
+      "en_t": "/ˈkæʒjuəl/",
+      "ru": "повседневный",
+      "ee": "igapäevane"
+    },
+    {
+      "en": "happy",
+      "en_t": "/ˈhæpi/",
+      "ru": "счастливый",
+      "ee": "õnnelik"
+    },
+    {
+      "en": "correct",
+      "en_t": "/kəˈrɛkt/",
+      "ru": "правильный",
+      "ee": "õige"
+    },
+    {
+      "en": "personal",
+      "en_t": "/ˈpɜːrsənl/",
+      "ru": "личный",
+      "ee": "isiklik"
+    },
+    {
+      "en": "serious",
+      "en_t": "/ˈsɪəriəs/",
+      "ru": "серьёзный",
+      "ee": "tõsine"
+    },
+    {
+      "en": "visible",
+      "en_t": "/ˈvɪzəbl/",
+      "ru": "видимый",
+      "ee": "nähtav"
+    },
+    {
+      "en": "short",
+      "en_t": "/ʃɔːrt/",
+      "ru": "короткий",
+      "ee": "lühike"
+    },
+    {
+      "en": "right",
+      "en_t": "/raɪt/",
+      "ru": "правый, правильный",
+      "ee": "õige"
+    },
+    {
+      "en": "bad",
+      "en_t": "/bæd/",
+      "ru": "плохой",
+      "ee": "halb"
+    },
+    {
+      "en": "nice",
+      "en_t": "/naɪs/",
+      "ru": "хороший",
+      "ee": "kena"
+    },
+    {
+      "en": "large",
+      "en_t": "/lɑːrdʒ/",
+      "ru": "очень большой",
+      "ee": "väga suur"
+    },
+    {
+      "en": "black",
+      "en_t": "/blæk/",
+      "ru": "чёрный",
+      "ee": "must"
+    },
+    {
+      "en": "white",
+      "en_t": "/waɪt/",
+      "ru": "белый",
+      "ee": "valge"
+    },
+    {
+      "en": "leather",
+      "en_t": "/ˈlɛðər/",
+      "ru": "кожаный",
+      "ee": "nahkne"
+    },
+    {
+      "en": "rare",
+      "en_t": "/rɛər/",
+      "ru": "редкий",
+      "ee": "haruldane"
+    },
+    {
+      "en": "wooden",
+      "en_t": "/ˈwʊdn/",
+      "ru": "деревянный",
+      "ee": "puidust"
+    },
+    {
+      "en": "wide",
+      "en_t": "/waɪd/",
+      "ru": "широкий",
+      "ee": "lai"
+    },
+    {
+      "en": "warm",
+      "en_t": "/wɔːrm/",
+      "ru": "тёплый",
+      "ee": "soe"
+    },
+    {
+      "en": "wrong",
+      "en_t": "/rɔːŋ/",
+      "ru": "неверный",
+      "ee": "vale"
+    },
+    {
+      "en": "common",
+      "en_t": "/ˈkɒmən/",
+      "ru": "общий",
+      "ee": "tavaline"
+    },
+    {
+      "en": "sweet",
+      "en_t": "/swiːt/",
+      "ru": "сладкий",
+      "ee": "magus"
+    },
+    {
+      "en": "safe",
+      "en_t": "/seɪf/",
+      "ru": "безопасный",
+      "ee": "ohutu"
+    },
+    {
+      "en": "round",
+      "en_t": "/raʊnd/",
+      "ru": "круглый",
+      "ee": "ümmargune"
+    },
+    {
+      "en": "rich",
+      "en_t": "/rɪtʃ/",
+      "ru": "богатый",
+      "ee": "rikas"
+    },
+    {
+      "en": "natural",
+      "en_t": "/ˈnætʃrəl/",
+      "ru": "натуральный",
+      "ee": "looduslik"
+    },
+    {
+      "en": "red",
+      "en_t": "/rɛd/",
+      "ru": "красный",
+      "ee": "punane"
+    },
+    {
+      "en": "quick",
+      "en_t": "/kwɪk/",
+      "ru": "быстрый",
+      "ee": "kiire"
+    },
+    {
+      "en": "loud",
+      "en_t": "/laʊd/",
+      "ru": "громкий",
+      "ee": "vali"
+    },
+    {
+      "en": "lonely",
+      "en_t": "/ˈloʊnli/",
+      "ru": "одинокий",
+      "ee": "üksik"
+    },
+    {
+      "en": "long",
+      "en_t": "/lɔːŋ/",
+      "ru": "долгий",
+      "ee": "pikk"
+    },
+    {
+      "en": "poor",
+      "en_t": "/pʊr/",
+      "ru": "бедный",
+      "ee": "vaene"
+    },
+    {
+      "en": "heavy",
+      "en_t": "/ˈhɛvi/",
+      "ru": "тяжёлый",
+      "ee": "raske"
+    },
+    {
+      "en": "green",
+      "en_t": "/ɡriːn/",
+      "ru": "зелёный",
+      "ee": "roheline"
+    },
+    {
+      "en": "full",
+      "en_t": "/fʊl/",
+      "ru": "полный",
+      "ee": "täis"
+    },
+    {
+      "en": "empty",
+      "en_t": "/ˈɛmpti/",
+      "ru": "пустой",
+      "ee": "tühi"
+    },
+    {
+      "en": "deep",
+      "en_t": "/diːp/",
+      "ru": "глубокий",
+      "ee": "sügav"
+    },
+    {
+      "en": "cold",
+      "en_t": "/koʊld/",
+      "ru": "холодный",
+      "ee": "külm"
+    },
+    {
+      "en": "lost",
+      "en_t": "/lɔːst/",
+      "ru": "потерянный",
+      "ee": "eksinud"
+    },
+    {
+      "en": "brown",
+      "en_t": "/braʊn/",
+      "ru": "коричневый",
+      "ee": "pruun"
+    },
+    {
+      "en": "blue",
+      "en_t": "/bluː/",
+      "ru": "синий",
+      "ee": "sinine"
+    },
+    {
+      "en": "recent",
+      "en_t": "/ˈriːsnt/",
+      "ru": "недавний",
+      "ee": "hiljutine"
+    },
+    {
+      "en": "actual",
+      "en_t": "/ˈæktʃuəl/",
+      "ru": "актуальный, действительный",
+      "ee": "tegelik"
+    },
+    {
+      "en": "strong",
+      "en_t": "/strɔːŋ/",
+      "ru": "сильный",
+      "ee": "tugev"
+    },
+    {
+      "en": "basic",
+      "en_t": "/ˈbeɪsɪk/",
+      "ru": "базовый",
+      "ee": "põhiline"
+    },
+    {
+      "en": "important",
+      "en_t": "/ɪmˈpɔːrtənt/",
+      "ru": "важный",
+      "ee": "tähtis"
+    },
+    {
+      "en": "serious",
+      "en_t": "/ˈsɪəriəs/",
+      "ru": "серьёзный",
+      "ee": "tõsine"
+    },
+    {
+      "en": "known",
+      "en_t": "/noʊn/",
+      "ru": "известный",
+      "ee": "tuntud"
+    },
+    {
+      "en": "huge",
+      "en_t": "/hjuːdʒ/",
+      "ru": "огромный",
+      "ee": "hiiglaslik"
+    },
+    {
+      "en": "decent",
+      "en_t": "/ˈdiːsnt/",
+      "ru": "приличный",
+      "ee": "korralik"
+    },
+    {
+      "en": "fun",
+      "en_t": "/fʌn/",
+      "ru": "весёлый",
+      "ee": "lõbus"
+    },
+    {
+      "en": "united",
+      "en_t": "/juːˈnaɪtɪd/",
+      "ru": "объединённый",
+      "ee": "ühendatud"
+    },
+    {
+      "en": "several",
+      "en_t": "/ˈsɛvrəl/",
+      "ru": "несколько",
+      "ee": "mitu"
+    },
+    {
+      "en": "certain",
+      "en_t": "/ˈsɜːrtn/",
+      "ru": "определённый",
+      "ee": "kindel"
+    },
+    {
+      "en": "necessary",
+      "en_t": "/ˈnɛsəsɛri/",
+      "ru": "необходимый",
+      "ee": "vajalik"
+    },
+    {
+      "en": "best",
+      "en_t": "/bɛst/",
+      "ru": "лучший",
+      "ee": "parim"
+    },
+    {
+      "en": "particular",
+      "en_t": "/pərˈtɪkjələr/",
+      "ru": "конкретный",
+      "ee": "konkreetne"
+    },
+    {
+      "en": "entire",
+      "en_t": "/ɪnˈtaɪər/",
+      "ru": "целый",
+      "ee": "terve"
+    },
+    {
+      "en": "various",
+      "en_t": "/ˈvɛəriəs/",
+      "ru": "разнообразный",
+      "ee": "mitmekesine"
+    },
+    {
+      "en": "ugly",
+      "en_t": "/ˈʌɡli/",
+      "ru": "уродливый",
+      "ee": "kole"
+    },
+    {
+      "en": "accurate",
+      "en_t": "/ˈækjərət/",
+      "ru": "точный",
+      "ee": "täpne"
+    },
+    {
+      "en": "great",
+      "en_t": "/ɡreɪt/",
+      "ru": "отличный",
+      "ee": "suurepärane"
+    },
+    {
+      "en": "beautiful",
+      "en_t": "/ˈbjuːtɪfəl/",
+      "ru": "красивый",
+      "ee": "ilus"
+    },
+    {
+      "en": "small",
+      "en_t": "/smɔːl/",
+      "ru": "маленький",
+      "ee": "väike"
+    },
+    {
+      "en": "dark",
+      "en_t": "/dɑːrk/",
+      "ru": "тёмный",
+      "ee": "tume"
+    },
+    {
+      "en": "calm",
+      "en_t": "/kɑːm/",
+      "ru": "спокойный",
+      "ee": "rahulik"
+    },
+    {
+      "en": "relevant",
+      "en_t": "/ˈrɛləvənt/",
+      "ru": "соответствующий, уместный",
+      "ee": "asjakohane"
+    },
+    {
+      "en": "surprised",
+      "en_t": "/sərˈpraɪzd/",
+      "ru": "удивлённый",
+      "ee": "üllatunud"
+    },
+    {
+      "en": "impossible",
+      "en_t": "/ɪmˈpɒsəbl/",
+      "ru": "невозможный",
+      "ee": "võimatu"
+    },
+    {
+      "en": "freezing",
+      "en_t": "/ˈfriːzɪŋ/",
+      "ru": "ледяной",
+      "ee": "jääkülm"
+    },
+    {
+      "en": "warming",
+      "en_t": "/ˈwɔːrmɪŋ/",
+      "ru": "согревающий",
+      "ee": "soojendav"
+    },
+    {
+      "en": "other",
+      "en_t": "/ˈʌðər/",
+      "ru": "другой",
+      "ee": "muu"
+    },
+    {
+      "en": "many",
+      "en_t": "/ˈmɛni/",
+      "ru": "многочисленный",
+      "ee": "palju"
+    },
+    {
+      "en": "same",
+      "en_t": "/seɪm/",
+      "ru": "похожий",
+      "ee": "sama"
+    },
+    {
+      "en": "new",
+      "en_t": "/njuː/",
+      "ru": "новый",
+      "ee": "uus"
+    },
+    {
+      "en": "first",
+      "en_t": "/fɜːrst/",
+      "ru": "первый",
+      "ee": "esimene"
+    },
+    {
+      "en": "last",
+      "en_t": "/læst/",
+      "ru": "последний",
+      "ee": "viimane"
+    },
+    {
+      "en": "little",
+      "en_t": "/ˈlɪtl/",
+      "ru": "маленький",
+      "ee": "väike"
+    },
+    {
+      "en": "own",
+      "en_t": "/oʊn/",
+      "ru": "собственный",
+      "ee": "oma"
+    },
+    {
+      "en": "old",
+      "en_t": "/oʊld/",
+      "ru": "старый",
+      "ee": "vana"
+    },
+    {
+      "en": "big",
+      "en_t": "/bɪɡ/",
+      "ru": "большой",
+      "ee": "suur"
+    },
+    {
+      "en": "next",
+      "en_t": "/nɛkst/",
+      "ru": "следующий",
+      "ee": "järgmine"
+    },
+    {
+      "en": "young",
+      "en_t": "/jʌŋ/",
+      "ru": "молодой",
+      "ee": "noor"
+    },
+    {
+      "en": "public",
+      "en_t": "/ˈpʌblɪk/",
+      "ru": "общественный",
+      "ee": "avalik"
+    },
+    {
+      "en": "bright",
+      "en_t": "/braɪt/",
+      "ru": "яркий",
+      "ee": "ere"
+    },
+    {
+      "en": "fast",
+      "en_t": "/fæst/",
+      "ru": "быстрый",
+      "ee": "kiire"
+    },
+    {
+      "en": "easy",
+      "en_t": "/ˈiːzi/",
+      "ru": "лёгкий",
+      "ee": "lihtne"
+    },
+    {
+      "en": "busy",
+      "en_t": "/ˈbɪzi/",
+      "ru": "занятый",
+      "ee": "hõivatud"
+    },
+    {
+      "en": "dangerous",
+      "en_t": "/ˈdeɪndʒərəs/",
+      "ru": "опасный",
+      "ee": "ohtlik"
+    },
+    {
+      "en": "clean",
+      "en_t": "/kliːn/",
+      "ru": "чистый",
+      "ee": "puhas"
+    },
+    {
+      "en": "quiet",
+      "en_t": "/ˈkwaɪət/",
+      "ru": "тихий",
+      "ee": "vaikne"
+    },
+    {
+      "en": "charming",
+      "en_t": "/ˈtʃɑːmɪŋ/",
+      "ru": "очаровательный",
+      "ee": "võluv"
+    },
+    {
+      "en": "confident",
+      "en_t": "/ˈkɒnfɪdənt/",
+      "ru": "уверенный",
+      "ee": "enesekindel"
+    },
+    {
+      "en": "willing",
+      "en_t": "/ˈwɪlɪŋ/",
+      "ru": "желающий что-то сделать",
+      "ee": "valmis"
+    },
+    {
+      "en": "helpful",
+      "en_t": "/ˈhɛlpfəl/",
+      "ru": "отзывчивый",
+      "ee": "abivalmis"
+    },
+    {
+      "en": "terrible",
+      "en_t": "/ˈtɛrəbl/",
+      "ru": "ужасный",
+      "ee": "kohutav"
+    },
+    {
+      "en": "interesting",
+      "en_t": "/ˈɪntrəstɪŋ/",
+      "ru": "интересный",
+      "ee": "huvitav"
+    },
+    {
+      "en": "responsible",
+      "en_t": "/rɪˈspɒnsəbl/",
+      "ru": "ответственный",
+      "ee": "vastutustundlik"
+    },
+    {
+      "en": "pregnant",
+      "en_t": "/ˈprɛɡnənt/",
+      "ru": "беременный",
+      "ee": "rase"
+    },
+    {
+      "en": "healthy",
+      "en_t": "/ˈhɛlθi/",
+      "ru": "здоровый",
+      "ee": "terve"
+    },
+    {
+      "en": "political",
+      "en_t": "/pəˈlɪtɪkəl/",
+      "ru": "политически активный",
+      "ee": "poliitiline"
+    },
+    {
+      "en": "emotional",
+      "en_t": "/ɪˈmoʊʃənl/",
+      "ru": "эмоциональный",
+      "ee": "emotsionaalne"
+    },
+    {
+      "en": "scared",
+      "en_t": "/skɛrd/",
+      "ru": "испуганный",
+      "ee": "hirmunud"
+    },
+    {
+      "en": "mad",
+      "en_t": "/mæd/",
+      "ru": "сумасшедший",
+      "ee": "hull"
+    },
+    {
+      "en": "sad",
+      "en_t": "/sæd/",
+      "ru": "грустный",
+      "ee": "kurb"
+    },
+    {
+      "en": "smart",
+      "en_t": "/smɑːt/",
+      "ru": "умный",
+      "ee": "tark"
+    },
+    {
+      "en": "aware",
+      "en_t": "/əˈwɛər/",
+      "ru": "осведомленный",
+      "ee": "teadlik"
+    },
+    {
+      "en": "desperate",
+      "en_t": "/ˈdɛspərət/",
+      "ru": "отчаянный",
+      "ee": "meeleheitlik"
+    },
+    {
+      "en": "critical",
+      "en_t": "/ˈkrɪtɪkəl/",
+      "ru": "критичный",
+      "ee": "kriitiline"
+    },
+    {
+      "en": "cute",
+      "en_t": "/kjuːt/",
+      "ru": "милый",
+      "ee": "armas"
+    },
+    {
+      "en": "competitive",
+      "en_t": "/kəmˈpɛtɪtɪv/",
+      "ru": "конкурентный",
+      "ee": "konkurentsivõimeline"
+    },
+    {
+      "en": "kind",
+      "en_t": "/kaɪnd/",
+      "ru": "добрый",
+      "ee": "lahke"
+    },
+    {
+      "en": "capable",
+      "en_t": "/ˈkeɪpəbl/",
+      "ru": "способный",
+      "ee": "võimeline"
+    },
+    {
+      "en": "sexy",
+      "en_t": "/ˈsɛksi/",
+      "ru": "сексуальный",
+      "ee": "seksikas"
+    },
+    {
+      "en": "crazy",
+      "en_t": "/ˈkreɪzi/",
+      "ru": "сумасшедший",
+      "ee": "hullumeelne"
+    },
+    {
+      "en": "flirt",
+      "en_t": "/flɜːrt/",
+      "ru": "флиртовать",
+      "ee": "flirtima",
+      "ee_da": "flirtida",
+      "ee_mina": "flirtin",
+      "ee_past_mina": "flirtisin",
+      "ee_past_tema": "flirtis",
+      "ee_past_neg": "ei flirtinud"
+    },
+    {
+      "en": "date",
+      "en_t": "/deɪt/",
+      "ru": "свидание; встречаться",
+      "ee": "deitima",
+      "ee_da": "deitida",
+      "ee_mina": "deitin",
+      "ee_past_mina": "deitisin",
+      "ee_past_tema": "deitis",
+      "ee_past_neg": "ei deitinud"
+    },
+    {
+      "en": "swipe",
+      "en_t": "/swaɪp/",
+      "ru": "провести пальцем (в приложении)",
+      "ee": "pühkima",
+      "ee_da": "pühkida",
+      "ee_mina": "pühin",
+      "ee_past_mina": "pühkisin",
+      "ee_past_tema": "pühkis",
+      "ee_past_neg": "ei pühkinud"
+    },
+    {
+      "en": "hangout",
+      "en_t": "/ˈhæŋ aʊt/",
+      "ru": "тусоваться, проводить время",
+      "ee": "hängima",
+      "ee_da": "hängida",
+      "ee_mina": "hängin",
+      "ee_past_mina": "hängisin",
+      "ee_past_tema": "hängis",
+      "ee_past_neg": "ei hänginud"
+    },
+    {
+      "en": "ghost",
+      "en_t": "/ɡoʊst/",
+      "ru": "резко прекращать общение",
+      "ee": "ghostima",
+      "ee_da": "ghostida",
+      "ee_mina": "ghostin",
+      "ee_past_mina": "ghostisin",
+      "ee_past_tema": "ghostis",
+      "ee_past_neg": "ei ghostinud"
+    },
+    {
+      "en": "hook up with",
+      "en_t": "/hʊk ʌp wɪð/",
+      "ru": "замутить с кем-то",
+      "ee": "kellegagi magama",
+      "ee_da": "magada (kellegagi)",
+      "ee_mina": "magan (kellegagi)",
+      "ee_past_mina": "magasin (kellegagi)",
+      "ee_past_tema": "magas (kellegagi)",
+      "ee_past_neg": "ei maganud (kellegagi)"
+    },
+    {
+      "en": "match",
+      "en_t": "/mætʃ/",
+      "ru": "совпадение (в приложении)",
+      "ee": "mätš",
+      "ee_2": "mätši",
+      "ee_3": "mätši",
+      "ee_p": "mätšid",
+      "ee_p2": "mätšide",
+      "ee_p3": "mätše"
+    },
+    {
+      "en": "text",
+      "en_t": "/tɛkst/",
+      "ru": "написать сообщение",
+      "ee": "sõnumit saatma",
+      "ee_da": "sõnumit saata",
+      "ee_mina": "saadan sõnumi",
+      "ee_past_mina": "saatsin sõnumi",
+      "ee_past_tema": "saatis sõnumi",
+      "ee_past_neg": "ei saatnud sõnumit"
+    },
+    {
+      "en": "DM",
+      "en_t": "/diː ɛm/",
+      "ru": "личные сообщения",
+      "ee": "privaatteade",
+      "ee_2": "privaatteate",
+      "ee_3": "privaatteadet",
+      "ee_p": "privaatteated",
+      "ee_p2": "privaatteadete",
+      "ee_p3": "privaatteateid"
+    },
+    {
+      "en": "profile",
+      "en_t": "/ˈproʊfaɪl/",
+      "ru": "профиль (в соцсетях)",
+      "ee": "profiil",
+      "ee_2": "profiili",
+      "ee_3": "profiili",
+      "ee_p": "profiilid",
+      "ee_p2": "profiilide",
+      "ee_p3": "profiile"
+    },
+    {
+      "en": "traveller",
+      "en_t": "/ˈtrævələr/",
+      "ru": "путешественник",
+      "ee": "reisija",
+      "ee_2": "reisija",
+      "ee_3": "reisijat",
+      "ee_p": "reisijad",
+      "ee_p2": "reisijate",
+      "ee_p3": "reisijaid"
+    },
+    {
+      "en": "music",
+      "en_t": "/ˈmjuːzɪk/",
+      "ru": "музыка",
+      "ee": "muusika"
+    },
+    {
+      "en": "road",
+      "en_t": "/roʊd/",
+      "ru": "дорога",
+      "ee": "tee",
+      "ee_2": "tee",
+      "ee_3": "teed",
+      "ee_p": "teed",
+      "ee_p2": "teede",
+      "ee_p3": "teid"
+    },
+    {
+      "en": "sport",
+      "en_t": "/spɔːrt/",
+      "ru": "спорт",
+      "ee": "sport",
+      "ee_2": "spordi",
+      "ee_3": "sporti"
+    },
+    {
+      "en": "game",
+      "en_t": "/ɡeɪm/",
+      "ru": "игра",
+      "ee": "mäng",
+      "ee_2": "mängu",
+      "ee_3": "mängu",
+      "ee_p": "mängud",
+      "ee_p2": "mängude",
+      "ee_p3": "mänge"
+    },
+    {
+      "en": "film",
+      "en_t": "/fɪlm/",
+      "ru": "фильм",
+      "ee": "film",
+      "ee_2": "filmi",
+      "ee_3": "filmi",
+      "ee_p": "filmid",
+      "ee_p2": "filmide",
+      "ee_p3": "filme"
+    },
+    {
+      "en": "beauty",
+      "en_t": "/ˈbjuːti/",
+      "ru": "красота",
+      "ee": "ilu"
+    },
+    {
+      "en": "foodie",
+      "en_t": "/ˈfuːdi/",
+      "ru": "гурман",
+      "ee": "gurmaan",
+      "ee_2": "gurmaani",
+      "ee_3": "gurmaani",
+      "ee_p": "gurmaanid",
+      "ee_p2": "gurmaanide",
+      "ee_p3": "gurmaane"
+    },
+    {
+      "en": "rich",
+      "en_t": "/rɪtʃ/",
+      "ru": "богатый",
+      "ee": "rikas"
+    },
+    {
+      "en": "fashion",
+      "en_t": "/ˈfæʃn/",
+      "ru": "мода",
+      "ee": "mood",
+      "ee_2": "moe",
+      "ee_3": "moodi"
+    },
+    {
+      "en": "style",
+      "en_t": "/staɪl/",
+      "ru": "стиль",
+      "ee": "stiil",
+      "ee_2": "stiili",
+      "ee_3": "stiili",
+      "ee_p": "stiilid",
+      "ee_p2": "stiilide",
+      "ee_p3": "stiile"
+    },
+    {
+      "en": "tattoo",
+      "en_t": "/tæˈtuː/",
+      "ru": "татуировка",
+      "ee": "tätoveering",
+      "ee_2": "tätoveeringu",
+      "ee_3": "tätoveeringut",
+      "ee_p": "tätoveeringud",
+      "ee_p2": "tätoveeringute",
+      "ee_p3": "tätoveeringuid"
+    },
+    {
+      "en": "piercing",
+      "en_t": "/ˈpɪəsɪŋ/",
+      "ru": "пирсинг",
+      "ee": "piercing",
+      "ee_2": "piercingu",
+      "ee_3": "piercingut",
+      "ee_p": "piercingud",
+      "ee_p2": "piercingute",
+      "ee_p3": "piercinguid"
+    },
+    {
+      "en": "band",
+      "en_t": "/bænd/",
+      "ru": "группа",
+      "ee": "bänd",
+      "ee_2": "bändi",
+      "ee_3": "bändi",
+      "ee_p": "bändid",
+      "ee_p2": "bändide",
+      "ee_p3": "bände"
+    },
+    {
+      "en": "vegan",
+      "en_t": "/ˈvɛɡən/",
+      "ru": "веган",
+      "ee": "vegan",
+      "ee_2": "vegani",
+      "ee_3": "veganit",
+      "ee_p": "veganid",
+      "ee_p2": "veganite",
+      "ee_p3": "vegane"
+    },
+    {
+      "en": "meat",
+      "en_t": "/miːt/",
+      "ru": "мясо",
+      "ee": "liha"
+    },
+    {
+      "en": "dessert",
+      "en_t": "/dɪˈzɜːrt/",
+      "ru": "десерт",
+      "ee": "magustoit",
+      "ee_2": "magustoidu",
+      "ee_3": "magustoitu",
+      "ee_p": "magustoidud",
+      "ee_p2": "magustoitude",
+      "ee_p3": "magustoite"
+    },
+    {
+      "en": "coffee",
+      "en_t": "/ˈkɒfi/",
+      "ru": "кофе",
+      "ee": "kohv",
+      "ee_2": "kohvi",
+      "ee_3": "kohvi"
+    },
+    {
+      "en": "beer",
+      "en_t": "/bɪər/",
+      "ru": "пиво",
+      "ee": "õlu",
+      "ee_2": "õlle",
+      "ee_3": "õlut"
+    },
+    {
+      "en": "drama",
+      "en_t": "/ˈdrɑːmə/",
+      "ru": "драма",
+      "ee": "draama"
+    },
+    {
+      "en": "shot",
+      "en_t": "/ʃɒt/",
+      "ru": "шот",
+      "ee": "šott",
+      "ee_2": "šoti",
+      "ee_3": "šotti"
+    },
+    {
+      "en": "drunk",
+      "en_t": "/drʌŋk/",
+      "ru": "выпивший",
+      "ee": "purjus"
+    },
+    {
+      "en": "high",
+      "en_t": "/haɪ/",
+      "ru": "высокий (о состоянии)",
+      "ee": "pilves"
+    },
+    {
+      "en": "smoke",
+      "en_t": "/smoʊk/",
+      "ru": "курить",
+      "ee": "suitsetama",
+      "ee_da": "suitsetada",
+      "ee_mina": "suitsetan",
+      "ee_past_mina": "suitsetasin",
+      "ee_past_tema": "suitsetas",
+      "ee_past_neg": "ei suitsetanud"
+    },
+    {
+      "en": "road trip",
+      "en_t": "/roʊd trɪp/",
+      "ru": "автопутешествие",
+      "ee": "autoreis",
+      "ee_2": "autoreisi",
+      "ee_3": "autoreisi"
+    },
+    {
+      "en": "workout",
+      "en_t": "/ˈwɜːrkaʊt/",
+      "ru": "тренировка",
+      "ee": "treening",
+      "ee_2": "treeningu",
+      "ee_3": "treeningut"
+    },
+    {
+      "en": "cafe",
+      "en_t": "/kæˈfeɪ/",
+      "ru": "кафе",
+      "ee": "kohvik",
+      "ee_2": "kohviku",
+      "ee_3": "kohvikut",
+      "ee_p": "kohvikud",
+      "ee_p2": "kohvikute",
+      "ee_p3": "kohvikuid"
+    },
+    {
+      "en": "mood",
+      "en_t": "/muːd/",
+      "ru": "настроение",
+      "ee": "meeleolu",
+      "ee_2": "meeleolu",
+      "ee_3": "meeleolu"
+    },
+    {
+      "en": "laugh",
+      "en_t": "/læf/",
+      "ru": "смех",
+      "ee": "naerma",
+      "ee_da": "naerda",
+      "ee_mina": "naeran",
+      "ee_past_mina": "naersin",
+      "ee_past_tema": "naeris",
+      "ee_past_neg": "ei naernud"
+    },
+    {
+      "en": "joke",
+      "en_t": "/dʒoʊk/",
+      "ru": "шутка",
+      "ee": "nali",
+      "ee_2": "nalja",
+      "ee_3": "nalja",
+      "ee_p": "naljad",
+      "ee_p2": "nalde",
+      "ee_p3": "nalju"
+    },
+    {
+      "en": "sense",
+      "en_t": "/sɛns/",
+      "ru": "чувство",
+      "ee": "tunne",
+      "ee_2": "tunde",
+      "ee_3": "tunnet",
+      "ee_p": "tunded",
+      "ee_p2": "tunnete",
+      "ee_p3": "tundeid"
+    },
+    {
+      "en": "sarcastic",
+      "en_t": "/sɑːrˈkæstɪk/",
+      "ru": "саркастический",
+      "ee": "sarkastiline"
+    },
+    {
+      "en": "irony",
+      "en_t": "/ˈaɪrəni/",
+      "ru": "ирония",
+      "ee": "iroonia"
+    },
+    {
+      "en": "tease",
+      "en_t": "/tiːz/",
+      "ru": "дразнить",
+      "ee": "kiusama",
+      "ee_da": "kiusata",
+      "ee_mina": "kiusan",
+      "ee_past_mina": "kiusasin",
+      "ee_past_tema": "kiusas",
+      "ee_past_neg": "ei kiusanud"
+    },
+    {
+      "en": "fight",
+      "en_t": "/faɪt/",
+      "ru": "ссориться, драться",
+      "ee": "kaklema",
+      "ee_da": "kakelda",
+      "ee_mina": "kaklen",
+      "ee_past_mina": "kaklesin",
+      "ee_past_tema": "kakles",
+      "ee_past_neg": "ei kakelnud"
+    },
+    {
+      "en": "argue",
+      "en_t": "/ˈɑːrɡjuː/",
+      "ru": "спорить",
+      "ee": "vaidlema",
+      "ee_da": "vaielda",
+      "ee_mina": "vaidlen",
+      "ee_past_mina": "vaidlesin",
+      "ee_past_tema": "vaidles",
+      "ee_past_neg": "ei vaielnud"
+    },
+    {
+      "en": "lie",
+      "en_t": "/laɪ/",
+      "ru": "лгать",
+      "ee": "valetama",
+      "ee_da": "valetada",
+      "ee_mina": "valetan",
+      "ee_past_mina": "valetasin",
+      "ee_past_tema": "valetas",
+      "ee_past_neg": "ei valetanud"
+    },
+    {
+      "en": "ex",
+      "en_t": "/ɛks/",
+      "ru": "бывший",
+      "ee": "eks"
+    },
+    {
+      "en": "cheat",
+      "en_t": "/tʃiːt/",
+      "ru": "изменять",
+      "ee": "petma",
+      "ee_da": "petta",
+      "ee_mina": "petan",
+      "ee_past_mina": "petsin",
+      "ee_past_tema": "pettis",
+      "ee_past_neg": "ei petnud"
+    },
+    {
+      "en": "anniversary",
+      "en_t": "/ˌænɪˈvɜːrsəri/",
+      "ru": "годовщина",
+      "ee": "aastapäev",
+      "ee_2": "aastapäeva",
+      "ee_3": "aastapäeva",
+      "ee_p": "aastapäevad",
+      "ee_p2": "aastapäevade",
+      "ee_p3": "aastapäevi"
+    },
+    {
+      "en": "break up",
+      "en_t": "/breɪk ʌp/",
+      "ru": "расстаться",
+      "ee": "lahku minema",
+      "ee_da": "lahku minna",
+      "ee_mina": "lähen lahku",
+      "ee_past_mina": "läksin lahku",
+      "ee_past_tema": "läks lahku",
+      "ee_past_neg": "ei läinud lahku"
+    },
+    {
+      "en": "heartbreaking",
+      "en_t": "/ˈhɑːrtˌbreɪkɪŋ/",
+      "ru": "душераздирающий",
+      "ee": "südantlõhestav"
+    },
+    {
+      "en": "friends",
+      "en_t": "/frɛndz/",
+      "ru": "друзья",
+      "ee": "sõbrad"
+    },
+    {
+      "en": "relationship",
+      "en_t": "/rɪˈleɪʃnʃɪp/",
+      "ru": "отношения",
+      "ee": "suhe",
+      "ee_2": "suhte",
+      "ee_3": "suhet",
+      "ee_p": "suhted",
+      "ee_p2": "suhete",
+      "ee_p3": "suhteid"
+    },
+    {
+      "en": "single",
+      "en_t": "/ˈsɪŋɡl/",
+      "ru": "один, без пары",
+      "ee": "vallaline"
+    },
+    {
+      "en": "romantic",
+      "en_t": "/roʊˈmæntɪk/",
+      "ru": "романтический",
+      "ee": "romantiline"
+    },
+    {
+      "en": "weekend",
+      "en_t": "/ˌwiːkˈɛnd/",
+      "ru": "выходные",
+      "ee": "nädalavahetus",
+      "ee_2": "nädalavahetuse",
+      "ee_3": "nädalavahetust"
+    },
+    {
+      "en": "concert",
+      "en_t": "/ˈkɒnsɜːrt/",
+      "ru": "концерт",
+      "ee": "kontsert",
+      "ee_2": "kontserdi",
+      "ee_3": "kontserti",
+      "ee_p": "kontserdid",
+      "ee_p2": "kontsertide",
+      "ee_p3": "kontserte"
+    },
+    {
+      "en": "TV series",
+      "en_t": "/ˌtiːˈviː ˈsɪəriːz/",
+      "ru": "сериал",
+      "ee": "seriaal",
+      "ee_2": "seriaali",
+      "ee_3": "seriaali",
+      "ee_p": "seriaalid",
+      "ee_p2": "seriaalide",
+      "ee_p3": "seriaale"
+    },
+    {
+      "en": "children",
+      "en_t": "/ˈtʃɪldrən/",
+      "ru": "дети (в формальном общении)",
+      "ee": "lapsed"
+    },
+    {
+      "en": "friendship",
+      "en_t": "/ˈfrɛndʃɪp/",
+      "ru": "дружба",
+      "ee": "sõprus",
+      "ee_2": "sõpruse",
+      "ee_3": "sõprust"
+    },
+    {
+      "en": "married",
+      "en_t": "/ˈmærid/",
+      "ru": "замужем, женат",
+      "ee": "abielus"
+    },
+    {
+      "en": "kids",
+      "en_t": "/kɪdz/",
+      "ru": "дети (в неформальном общении)",
+      "ee": "lapsed"
+    },
+    {
+      "en": "cat",
+      "en_t": "/kæt/",
+      "ru": "кошка",
+      "ee": "kass",
+      "ee_2": "kassi",
+      "ee_3": "kassi",
+      "ee_p": "kassid",
+      "ee_p2": "kasside",
+      "ee_p3": "kasse"
+    },
+    {
+      "en": "dog",
+      "en_t": "/dɔːɡ/",
+      "ru": "собака",
+      "ee": "koer",
+      "ee_2": "koera",
+      "ee_3": "koera",
+      "ee_p": "koerad",
+      "ee_p2": "koerte",
+      "ee_p3": "koeri"
+    },
+    {
+      "en": "dancing",
+      "en_t": "/ˈdænsɪŋ/",
+      "ru": "танцы",
+      "ee": "tantsimine",
+      "ee_2": "tantsimise",
+      "ee_3": "tantsimist"
+    },
+    {
+      "en": "crush",
+      "en_t": "/krʌʃ/",
+      "ru": "влюбиться",
+      "ee": "armuma",
+      "ee_da": "armuda",
+      "ee_mina": "armun",
+      "ee_past_mina": "armusin",
+      "ee_past_tema": "armus",
+      "ee_past_neg": "ei armunud"
+    },
+    {
+      "en": "family",
+      "en_t": "/ˈfæmɪli/",
+      "ru": "семья",
+      "ee": "perekond",
+      "ee_2": "perekonna",
+      "ee_3": "perekonda",
+      "ee_p": "perekonnad",
+      "ee_p2": "perekondade",
+      "ee_p3": "perekondi"
+    },
+    {
+      "en": "early",
+      "en_t": "/ˈɜːrli/",
+      "ru": "ранний",
+      "ee": "varajane"
+    },
+    {
+      "en": "bed",
+      "en_t": "/bɛd/",
+      "ru": "кровать",
+      "ee": "voodi",
+      "ee_2": "voodi",
+      "ee_3": "voodit",
+      "ee_p": "voodid",
+      "ee_p2": "voodite",
+      "ee_p3": "voodeid"
+    },
+    {
+      "en": "apartment",
+      "en_t": "/əˈpɑːrtmənt/",
+      "ru": "квартира, апартаменты",
+      "ee": "korter",
+      "ee_2": "korteri",
+      "ee_3": "korterit",
+      "ee_p": "korterid",
+      "ee_p2": "korterite",
+      "ee_p3": "kortereid"
+    },
+    {
+      "en": "ride",
+      "en_t": "/raɪd/",
+      "ru": "поездка",
+      "ee": "sõit",
+      "ee_2": "sõidu",
+      "ee_3": "sõitu",
+      "ee_p": "sõidud",
+      "ee_p2": "sõitude",
+      "ee_p3": "sõite"
+    },
+    {
+      "en": "car",
+      "en_t": "/kɑːr/",
+      "ru": "автомобиль",
+      "ee": "auto",
+      "ee_2": "auto",
+      "ee_3": "autot",
+      "ee_p": "autod",
+      "ee_p2": "autode",
+      "ee_p3": "autosid"
+    },
+    {
+      "en": "bar",
+      "en_t": "/bɑːr/",
+      "ru": "бар",
+      "ee": "baar",
+      "ee_2": "baari",
+      "ee_3": "baari",
+      "ee_p": "baarid",
+      "ee_p2": "baaride",
+      "ee_p3": "baare"
+    },
+    {
+      "en": "park",
+      "en_t": "/pɑːrk/",
+      "ru": "парк",
+      "ee": "park",
+      "ee_2": "pargi",
+      "ee_3": "parki",
+      "ee_p": "pargid",
+      "ee_p2": "parkide",
+      "ee_p3": "parke"
+    },
+    {
+      "en": "fiancé",
+      "en_t": "/fiˈɒnseɪ/",
+      "ru": "жених",
+      "ee": "kihlatu",
+      "ee_2": "kihlatu",
+      "ee_3": "kihlatut",
+      "ee_p": "kihlatud",
+      "ee_p2": "kihlatute",
+      "ee_p3": "kihlatuid"
+    },
+    {
+      "en": "dump",
+      "en_t": "/dʌmp/",
+      "ru": "бросить",
+      "ee": "maha jätma",
+      "ee_da": "maha jätta",
+      "ee_mina": "jätan maha",
+      "ee_past_mina": "jätsin maha",
+      "ee_past_tema": "jäi maha",
+      "ee_past_neg": "ei jätnud maha"
+    },
+    {
+      "en": "spouse",
+      "en_t": "/spaʊs/",
+      "ru": "супруг",
+      "ee": "abikaasa",
+      "ee_2": "abikaasa",
+      "ee_3": "abikaasat",
+      "ee_p": "abikaasad",
+      "ee_p2": "abikaasade",
+      "ee_p3": "abikaasasid"
+    },
+    {
+      "en": "sight",
+      "en_t": "/saɪt/",
+      "ru": "взгляд",
+      "ee": "pilk",
+      "ee_2": "pilgu",
+      "ee_3": "pilku",
+      "ee_p": "pilgud",
+      "ee_p2": "pilkude",
+      "ee_p3": "pilke"
+    },
+    {
+      "en": "boyfriend",
+      "en_t": "/ˈbɔɪfrɛnd/",
+      "ru": "бойфренд",
+      "ee": "poiss-sõber",
+      "ee_2": "poiss-sõbra",
+      "ee_3": "poiss-sõpra",
+      "ee_p": "poiss-sõbrad",
+      "ee_p2": "poiss-sõprade",
+      "ee_p3": "poiss-sõpru"
+    },
+    {
+      "en": "girlfriend",
+      "en_t": "/ˈɡɜːrlfrɛnd/",
+      "ru": "подруга, любимая девушка",
+      "ee": "tüdruksõber",
+      "ee_2": "tüdruksõbra",
+      "ee_3": "tüdruksõpra",
+      "ee_p": "tüdruksõbrad",
+      "ee_p2": "tüdruksõprade",
+      "ee_p3": "tüdruksõpru"
+    },
+    {
+      "en": "dinner",
+      "en_t": "/ˈdɪnər/",
+      "ru": "ужин",
+      "ee": "õhtusöök",
+      "ee_2": "õhtusöögi",
+      "ee_3": "õhtusööki"
+    },
+    {
+      "en": "partner",
+      "en_t": "/ˈpɑːrtnər/",
+      "ru": "партнёр",
+      "ee": "partner",
+      "ee_2": "partneri",
+      "ee_3": "partnerit",
+      "ee_p": "partnerid",
+      "ee_p2": "partnerite",
+      "ee_p3": "partnereid"
+    },
+    {
+      "en": "gift",
+      "en_t": "/ɡɪft/",
+      "ru": "подарок",
+      "ee": "kingitus",
+      "ee_2": "kingituse",
+      "ee_3": "kingitust",
+      "ee_p": "kingitused",
+      "ee_p2": "kingituste",
+      "ee_p3": "kingitusi"
+    },
+    {
+      "en": "wine",
+      "en_t": "/waɪn/",
+      "ru": "вино",
+      "ee": "vein",
+      "ee_2": "veini",
+      "ee_3": "veini"
+    },
+    {
+      "en": "chat",
+      "en_t": "/tʃæt/",
+      "ru": "беседовать",
+      "ee": "vestlema",
+      "ee_da": "vestelda",
+      "ee_mina": "vestlen",
+      "ee_past_mina": "vestlesin",
+      "ee_past_tema": "vestles",
+      "ee_past_neg": "ei vestelnud"
+    },
+    {
+      "en": "shy",
+      "en_t": "/ʃaɪ/",
+      "ru": "застенчивый",
+      "ee": "häbelik"
+    },
+    {
+      "en": "nervous",
+      "en_t": "/ˈnɜːrvəs/",
+      "ru": "нервный",
+      "ee": "närviline"
+    },
+    {
+      "en": "couple",
+      "en_t": "/ˈkʌpl/",
+      "ru": "пара",
+      "ee": "paar",
+      "ee_2": "paari",
+      "ee_3": "paari",
+      "ee_p": "paarid",
+      "ee_p2": "paaride",
+      "ee_p3": "paare"
+    },
+    {
+      "en": "passionate",
+      "en_t": "/ˈpæʃənət/",
+      "ru": "страстный",
+      "ee": "kirglik"
+    },
+    {
+      "en": "gaze",
+      "en_t": "/ɡeɪz/",
+      "ru": "взгляд",
+      "ee": "pilk",
+      "ee_2": "pilgu",
+      "ee_3": "pilku"
+    },
+    {
+      "en": "unforgettable",
+      "en_t": "/ˌʌnfəˈɡɛtəbl/",
+      "ru": "незабываемый",
+      "ee": "unustamatu"
+    },
+    {
+      "en": "forget",
+      "en_t": "/fəˈɡɛt/",
+      "ru": "забывать",
+      "ee": "unustama",
+      "ee_da": "unustada",
+      "ee_mina": "unustan",
+      "ee_past_mina": "unustasin",
+      "ee_past_tema": "unustas",
+      "ee_past_neg": "ei unustanud"
+    },
+    {
+      "en": "forgive",
+      "en_t": "/fəˈɡɪv/",
+      "ru": "прощать",
+      "ee": "andestama",
+      "ee_da": "andestada",
+      "ee_mina": "andestan",
+      "ee_past_mina": "andestasin",
+      "ee_past_tema": "andestas",
+      "ee_past_neg": "ei andestanud"
+    },
+    {
+      "en": "hug",
+      "en_t": "/hʌɡ/",
+      "ru": "обнимать",
+      "ee": "kallistama",
+      "ee_da": "kallistada",
+      "ee_mina": "kallistan",
+      "ee_past_mina": "kallistasin",
+      "ee_past_tema": "kallistas",
+      "ee_past_neg": "ei kallistanud"
+    },
+    {
+      "en": "special",
+      "en_t": "/ˈspɛʃl/",
+      "ru": "особенный",
+      "ee": "eriline"
+    },
+    {
+      "en": "sparkle",
+      "en_t": "/ˈspɑːrkl/",
+      "ru": "искра",
+      "ee": "säde",
+      "ee_2": "sädeme",
+      "ee_3": "sädet",
+      "ee_p": "sädemed",
+      "ee_p2": "sädemete",
+      "ee_p3": "sädemid"
+    },
+    {
+      "en": "bond",
+      "en_t": "/bɒnd/",
+      "ru": "связь",
+      "ee": "side",
+      "ee_2": "sideme",
+      "ee_3": "sidet",
+      "ee_p": "sidemed",
+      "ee_p2": "sidemete",
+      "ee_p3": "sidemeid"
+    },
+    {
+      "en": "podcast",
+      "en_t": "/ˈpɒdkɑːst/",
+      "ru": "подкаст",
+      "ee": "taskuhääling",
+      "ee_2": "taskuhäälingu",
+      "ee_3": "taskuhäälingut"
+    },
+    {
+      "en": "pastime",
+      "en_t": "/ˈpæstaɪm/",
+      "ru": "времяпрепровождение",
+      "ee": "ajaviide",
+      "ee_2": "ajaviite",
+      "ee_3": "ajaviidet",
+      "ee_p": "ajaviited",
+      "ee_p2": "ajaviidete",
+      "ee_p3": "ajaviiteid"
+    },
+    {
+      "en": "baking",
+      "en_t": "/ˈbeɪkɪŋ/",
+      "ru": "выпечка",
+      "ee": "küpsetamine",
+      "ee_2": "küpsetamise",
+      "ee_3": "küpsetamist"
+    },
+    {
+      "en": "cooking",
+      "en_t": "/ˈkʊkɪŋ/",
+      "ru": "готовка",
+      "ee": "kokkamine",
+      "ee_2": "kokkamise",
+      "ee_3": "kokkamist"
+    },
+    {
+      "en": "yoga",
+      "en_t": "/ˈjoʊɡə/",
+      "ru": "йога",
+      "ee": "jooga"
+    },
+    {
+      "en": "fitness",
+      "en_t": "/ˈfɪtnəs/",
+      "ru": "фитнес",
+      "ee": "fitness"
+    },
+    {
+      "en": "meditation",
+      "en_t": "/ˌmɛdɪˈteɪʃn/",
+      "ru": "медитация",
+      "ee": "meditatsioon",
+      "ee_2": "meditatsiooni",
+      "ee_3": "meditatsiooni"
+    },
+    {
+      "en": "feeling",
+      "en_t": "/ˈfiːlɪŋ/",
+      "ru": "чувство",
+      "ee": "tunne",
+      "ee_2": "tunde",
+      "ee_3": "tunnet"
+    },
+    {
+      "en": "jealous",
+      "en_t": "/ˈdʒɛləs/",
+      "ru": "ревнивый",
+      "ee": "armukade"
+    },
+    {
+      "en": "divorce",
+      "en_t": "/dɪˈvɔːrs/",
+      "ru": "развод",
+      "ee": "lahutus",
+      "ee_2": "lahutuse",
+      "ee_3": "lahutust"
+    },
+    {
+      "en": "soulmate",
+      "en_t": "/ˈsoʊlmeɪt/",
+      "ru": "родственная душа",
+      "ee": "hingesugulane",
+      "ee_2": "hingesugulase",
+      "ee_3": "hingesugulast",
+      "ee_p": "hingesugulased",
+      "ee_p2": "hingesugulaste",
+      "ee_p3": "hingesugulasi"
+    },
+    {
+      "en": "tolerance",
+      "en_t": "/ˈtɒlərəns/",
+      "ru": "терпимость",
+      "ee": "tolerantsus",
+      "ee_2": "tolerantsuse",
+      "ee_3": "tolerantsust"
+    },
+    {
+      "en": "reunion",
+      "en_t": "/riːˈjuːniən/",
+      "ru": "воссоединение",
+      "ee": "taaskohtumine",
+      "ee_2": "taaskohtumise",
+      "ee_3": "taaskohtumist"
+    },
+    {
+      "en": "cuddle",
+      "en_t": "/ˈkʌdl/",
+      "ru": "обнимать",
+      "ee": "kallistama",
+      "ee_da": "kallistada",
+      "ee_mina": "kallistan",
+      "ee_past_mina": "kallistasin",
+      "ee_past_tema": "kallistas",
+      "ee_past_neg": "ei kallistanud"
+    },
+    {
+      "en": "intimacy",
+      "en_t": "/ˈɪntɪməsi/",
+      "ru": "близость",
+      "ee": "intiimsus",
+      "ee_2": "intiimsuse",
+      "ee_3": "intiimsust",
+      "ee_p": "intiimsused",
+      "ee_p2": "intiimsuste",
+      "ee_p3": "intiimsusi"
+    },
+    {
+      "en": "sensual",
+      "en_t": "/ˈsɛnʃuəl/",
+      "ru": "чувственный",
+      "ee": "sensuaalne"
+    },
+    {
+      "en": "affection",
+      "en_t": "/əˈfɛkʃn/",
+      "ru": "привязанность",
+      "ee": "kiindumus",
+      "ee_2": "kiindumuse",
+      "ee_3": "kiindumust",
+      "ee_p": "kiindumused",
+      "ee_p2": "kiindumuste",
+      "ee_p3": "kiindumusi"
+    },
+    {
+      "en": "embrace",
+      "en_t": "/ɪmˈbreɪs/",
+      "ru": "объятие",
+      "ee": "embus",
+      "ee_2": "embuse",
+      "ee_3": "embust",
+      "ee_p": "embused",
+      "ee_p2": "embuste",
+      "ee_p3": "embusi"
+    },
+    {
+      "en": "one-night stand",
+      "en_t": "/ˌwʌn ˈnaɪt stænd/",
+      "ru": "секс на одну ночь",
+      "ee": "üheöösuhe"
+    },
+    {
+      "en": "pleasure",
+      "en_t": "/ˈplɛʒər/",
+      "ru": "удовольствие",
+      "ee": "nauding",
+      "ee_2": "naudingu",
+      "ee_3": "naudingut",
+      "ee_p": "naudingud",
+      "ee_p2": "naudingute",
+      "ee_p3": "naudinguid"
+    },
+    {
+      "en": "connection",
+      "en_t": "/kəˈnɛkʃn/",
+      "ru": "связь",
+      "ee": "side",
+      "ee_2": "sideme",
+      "ee_3": "sidet",
+      "ee_p": "sidemed",
+      "ee_p2": "sidemete",
+      "ee_p3": "sidemeid"
+    },
+    {
+      "en": "chemistry",
+      "en_t": "/ˈkɛmɪstri/",
+      "ru": "химия, физическая совместимость",
+      "ee": "keemia",
+      "ee_2": "keemia",
+      "ee_3": "keemiat",
+      "ee_p": "keemiad",
+      "ee_p2": "keemiate",
+      "ee_p3": "keemiaid"
+    },
+    {
+      "en": "passion",
+      "en_t": "/ˈpæʃn/",
+      "ru": "страсть",
+      "ee": "kirg",
+      "ee_2": "kire",
+      "ee_3": "kirge",
+      "ee_p": "kired",
+      "ee_p2": "kirgede",
+      "ee_p3": "kirgi"
+    },
+    {
+      "en": "desire",
+      "en_t": "/dɪˈzaɪər/",
+      "ru": "желание",
+      "ee": "soov",
+      "ee_2": "soovi",
+      "ee_3": "soovi",
+      "ee_p": "soovid",
+      "ee_p2": "soovide",
+      "ee_p3": "soove"
+    },
+    {
+      "en": "monogamy",
+      "en_t": "/məˈnɒɡəmi/",
+      "ru": "моногамия",
+      "ee": "monogaamia",
+      "ee_2": "monogaamia",
+      "ee_3": "monogaamiat",
+      "ee_p": "monogaamiad",
+      "ee_p2": "monogaamiate",
+      "ee_p3": "monogaamiaid"
+    },
+    {
+      "en": "polyamory",
+      "en_t": "/ˌpɒliˈæməri/",
+      "ru": "полиамория",
+      "ee": "polüamooria",
+      "ee_2": "polüamooria",
+      "ee_3": "polüamooriat",
+      "ee_p": "polüamooriad",
+      "ee_p2": "polüamooriate",
+      "ee_p3": "polüamooriaid"
+    },
+    {
+      "en": "erotic",
+      "en_t": "/ɪˈrɒtɪk/",
+      "ru": "эротический",
+      "ee": "erootiline"
+    },
+    {
+      "en": "fantasy",
+      "en_t": "/ˈfæntəsi/",
+      "ru": "фантазия",
+      "ee": "fantaasia",
+      "ee_2": "fantaasia",
+      "ee_3": "fantaasiat",
+      "ee_p": "fantaasiad",
+      "ee_p2": "fantaasiate",
+      "ee_p3": "fantaasiaid"
+    },
+    {
+      "en": "kink",
+      "en_t": "/kɪŋk/",
+      "ru": "кинк",
+      "ee": "seksuaalne kiiks"
+    },
+    {
+      "en": "experimentation",
+      "en_t": "/ɪkˌspɛrɪˌmɛnˈteɪʃn/",
+      "ru": "эксперименты",
+      "ee": "eksperimenteerimine",
+      "ee_2": "eksperimenteerimise",
+      "ee_3": "eksperimenteerimist"
+    },
+    {
+      "en": "threesome",
+      "en_t": "/ˈθriːsəm/",
+      "ru": "секс втроём",
+      "ee": "seks kolmekesi"
+    },
+    {
+      "en": "trust",
+      "en_t": "/trʌst/",
+      "ru": "доверие",
+      "ee": "usaldus",
+      "ee_2": "usalduse",
+      "ee_3": "usaldust",
+      "ee_p": "usaldused",
+      "ee_p2": "usalduste",
+      "ee_p3": "usaldusi"
+    },
+    {
+      "en": "safety",
+      "en_t": "/ˈseɪfti/",
+      "ru": "безопасность",
+      "ee": "ohutus",
+      "ee_2": "ohutuse",
+      "ee_3": "ohutust"
+    },
+    {
+      "en": "contraception",
+      "en_t": "/ˌkɒntrəˈsɛpʃn/",
+      "ru": "контрацепция",
+      "ee": "kontratseptsioon",
+      "ee_2": "kontratseptsiooni",
+      "ee_3": "kontratseptsiooni",
+      "ee_p": "kontratseptsioonid",
+      "ee_p2": "kontratseptsioonide",
+      "ee_p3": "kontratseptsioone"
+    },
+    {
+      "en": "foreplay",
+      "en_t": "/ˈfɔːrpleɪ/",
+      "ru": "прелюдия",
+      "ee": "eelmäng",
+      "ee_2": "eelmängu",
+      "ee_3": "eelmängu",
+      "ee_p": "eelmängud",
+      "ee_p2": "eelmängude",
+      "ee_p3": "eelmänge"
+    },
+    {
+      "en": "caress",
+      "en_t": "/kəˈrɛs/",
+      "ru": "ласкать",
+      "ee": "hellitama",
+      "ee_da": "hellitada",
+      "ee_mina": "hellitan",
+      "ee_past_mina": "hellitasin",
+      "ee_past_tema": "hellitas",
+      "ee_past_neg": "ei hellitanud"
+    },
+    {
+      "en": "kiss",
+      "en_t": "/kɪs/",
+      "ru": "целовать",
+      "ee": "suudlema",
+      "ee_da": "suudelda",
+      "ee_mina": "suudlen",
+      "ee_past_mina": "suudlesin",
+      "ee_past_tema": "suudles",
+      "ee_past_neg": "ei suudelnud"
+    },
+    {
+      "en": "touch",
+      "en_t": "/tʌtʃ/",
+      "ru": "прикасаться",
+      "ee": "puudutama",
+      "ee_da": "puudutada",
+      "ee_mina": "puudutan",
+      "ee_past_mina": "puudutasin",
+      "ee_past_tema": "puudutas",
+      "ee_past_neg": "ei puudutanud"
+    },
+    {
+      "en": "horny",
+      "en_t": "/ˈhɔːrni/",
+      "ru": "возбуждённый",
+      "ee": "erutunud"
+    },
+    {
+      "en": "privacy",
+      "en_t": "/ˈpraɪvəsi/",
+      "ru": "уединение",
+      "ee": "privaatsus",
+      "ee_2": "privaatsuse",
+      "ee_3": "privaatsust"
+    },
+    {
+      "en": "orgasm",
+      "en_t": "/ˈɔːrɡæzəm/",
+      "ru": "оргазм",
+      "ee": "orgasm",
+      "ee_2": "orgasmi",
+      "ee_3": "orgasmi",
+      "ee_p": "orgasmid",
+      "ee_p2": "orgasmide",
+      "ee_p3": "orgasme"
+    },
+    {
+      "en": "satisfaction",
+      "en_t": "/ˌsætɪsˈfækʃn/",
+      "ru": "удовлетворение",
+      "ee": "rahulolu"
+    },
+    {
+      "en": "climax",
+      "en_t": "/ˈklaɪmæks/",
+      "ru": "кульминация",
+      "ee": "kulminatsioon",
+      "ee_2": "kulminatsiooni",
+      "ee_3": "kulminatsiooni",
+      "ee_p": "kulminatsioonid",
+      "ee_p2": "kulminatsioonide",
+      "ee_p3": "kulminatsioone"
+    },
+    {
+      "en": "taboo",
+      "en_t": "/təˈbuː/",
+      "ru": "табу",
+      "ee": "tabu",
+      "ee_2": "tabu",
+      "ee_3": "tabu",
+      "ee_p": "tabud",
+      "ee_p2": "tabude",
+      "ee_p3": "tabusid"
+    },
+    {
+      "en": "fetish",
+      "en_t": "/ˈfɛtɪʃ/",
+      "ru": "фетиш",
+      "ee": "fetiš",
+      "ee_2": "fetiši",
+      "ee_3": "fetišit",
+      "ee_p": "fetišid",
+      "ee_p2": "fetišite",
+      "ee_p3": "fetišeid"
+    },
+    {
+      "en": "lover",
+      "en_t": "/ˈlʌvər/",
+      "ru": "любовник, возлюбленный",
+      "ee": "armuke",
+      "ee_2": "armukese",
+      "ee_3": "armukest",
+      "ee_p": "armukesed",
+      "ee_p2": "armukeste",
+      "ee_p3": "armukesi"
+    },
+    {
+      "en": "imagination",
+      "en_t": "/ɪˌmædʒɪˈneɪʃn/",
+      "ru": "воображение",
+      "ee": "kujutlusvõime",
+      "ee_2": "kujutlusvõime",
+      "ee_3": "kujutlusvõimet",
+      "ee_p": "kujutlusvõimed",
+      "ee_p2": "kujutlusvõimete",
+      "ee_p3": "kujutlusvõimeid"
+    },
+    {
+      "en": "husband",
+      "en_t": "/ˈhʌzbənd/",
+      "ru": "муж",
+      "ee": "mees",
+      "ee_2": "mehe",
+      "ee_3": "meest",
+      "ee_p": "mehed",
+      "ee_p2": "meeste",
+      "ee_p3": "mehi"
+    },
+    {
+      "en": "wife",
+      "en_t": "/waɪf/",
+      "ru": "жена",
+      "ee": "naine",
+      "ee_2": "naise",
+      "ee_3": "naist",
+      "ee_p": "naised",
+      "ee_p2": "naiste",
+      "ee_p3": "naisi"
+    },
+    {
+      "en": "tenderness",
+      "en_t": "/ˈtɛndərnəs/",
+      "ru": "нежность",
+      "ee": "hellus",
+      "ee_2": "helluse",
+      "ee_3": "hellust"
+    },
+    {
+      "en": "lust",
+      "en_t": "/lʌst/",
+      "ru": "похоть",
+      "ee": "iha",
+      "ee_2": "iha",
+      "ee_3": "iha",
+      "ee_p": "ihad",
+      "ee_p2": "ihade",
+      "ee_p3": "ihasid"
+    },
+    {
+      "en": "exploration",
+      "en_t": "/ˌɛkspəˈreɪʃn/",
+      "ru": "исследование",
+      "ee": "uurimine",
+      "ee_2": "uurimise",
+      "ee_3": "uurimist",
+      "ee_p": "uurimised",
+      "ee_p2": "uurimiste",
+      "ee_p3": "uurimisi"
+    },
+    {
+      "en": "consent",
+      "en_t": "/kənˈsɛnt/",
+      "ru": "согласие",
+      "ee": "nõusolek",
+      "ee_2": "nõusoleku",
+      "ee_3": "nõusolekut",
+      "ee_p": "nõusolekud",
+      "ee_p2": "nõusolekute",
+      "ee_p3": "nõusolekuid"
+    },
+    {
+      "en": "boundaries",
+      "en_t": "/ˈbaʊndəriz/",
+      "ru": "границы",
+      "ee": "piirid",
+      "ee_p2": "piiride",
+      "ee_p3": "piire"
+    },
+    {
+      "en": "communication",
+      "en_t": "/kəˌmjuːnɪˈkeɪʃn/",
+      "ru": "коммуникация",
+      "ee": "suhtlus",
+      "ee_2": "suhtluse",
+      "ee_3": "suhtlust"
+    },
+    {
+      "en": "respect",
+      "en_t": "/rɪˈspɛkt/",
+      "ru": "уважение",
+      "ee": "austus",
+      "ee_2": "austuse",
+      "ee_3": "austust"
+    },
+    {
+      "en": "discretion",
+      "en_t": "/dɪsˈkrɛʃn/",
+      "ru": "такт, осторожность",
+      "ee": "diskreetsus",
+      "ee_2": "diskreetsuse",
+      "ee_3": "diskreetsust"
+    },
+    {
+      "en": "spontaneity",
+      "en_t": "/ˌspɒntəˈneɪɪti/",
+      "ru": "спонтанность",
+      "ee": "spontaansus",
+      "ee_2": "spontaansuse",
+      "ee_3": "spontaansust"
+    },
+    {
+      "en": "excitement",
+      "en_t": "/ɪkˈsaɪtmənt/",
+      "ru": "возбуждение",
+      "ee": "erutus",
+      "ee_2": "erutuse",
+      "ee_3": "erutust"
+    },
+    {
+      "en": "thrill",
+      "en_t": "/θrɪl/",
+      "ru": "острые ощущения",
+      "ee": "põnevus",
+      "ee_2": "põnevuse",
+      "ee_3": "põnevust"
+    },
+    {
+      "en": "playful",
+      "en_t": "/ˈpleɪfl/",
+      "ru": "игривый",
+      "ee": "mänguline"
+    },
+    {
+      "en": "fun",
+      "en_t": "/fʌn/",
+      "ru": "веселье",
+      "ee": "lõbu"
+    },
+    {
+      "en": "seduction",
+      "en_t": "/sɪˈdʌkʃn/",
+      "ru": "соблазнение",
+      "ee": "võrgutamine",
+      "ee_2": "võrgutamise",
+      "ee_3": "võrgutamist"
+    },
+    {
+      "en": "courtship",
+      "en_t": "/ˈkɔːrtʃɪp/",
+      "ru": "ухаживания",
+      "ee": "kurameerimine",
+      "ee_2": "kurameerimise",
+      "ee_3": "kurameerimist"
+    },
+    {
+      "en": "afterglow",
+      "en_t": "/ˈæftərˌɡloʊ/",
+      "ru": "посторгазменное состояние",
+      "ee": "pärastseksi heaolutunne"
+    },
+    {
+      "en": "fulfilment",
+      "en_t": "/fʊlˈfɪlmənt/",
+      "ru": "реализованность",
+      "ee": "täitumus",
+      "ee_2": "täitumuse",
+      "ee_3": "täitumust"
+    },
+    {
+      "en": "release",
+      "en_t": "/rɪˈliːs/",
+      "ru": "разрядка, выпуск",
+      "ee": "vabastus",
+      "ee_2": "vabastuse",
+      "ee_3": "vabastust"
+    },
+    {
+      "en": "response",
+      "en_t": "/rɪˈspɒns/",
+      "ru": "реакция, ответ",
+      "ee": "reaktsioon",
+      "ee_2": "reaktsiooni",
+      "ee_3": "reaktsiooni"
+    },
+    {
+      "en": "sensitivity",
+      "en_t": "/ˌsɛnsəˈtɪvɪti/",
+      "ru": "чувствительность",
+      "ee": "tundlikkus",
+      "ee_2": "tundlikkuse",
+      "ee_3": "tundlikkust"
+    },
+    {
+      "en": "arousal",
+      "en_t": "/əˈraʊzl/",
+      "ru": "возбуждение",
+      "ee": "erutus",
+      "ee_2": "erutuse",
+      "ee_3": "erutust"
+    },
+    {
+      "en": "stimulation",
+      "en_t": "/ˌstɪmjuˈleɪʃn/",
+      "ru": "стимуляция",
+      "ee": "stimulatsioon",
+      "ee_2": "stimulatsiooni",
+      "ee_3": "stimulatsiooni"
+    },
+    {
+      "en": "libido",
+      "en_t": "/lɪˈbiːdoʊ/",
+      "ru": "либидо",
+      "ee": "libiido",
+      "ee_2": "libiido",
+      "ee_3": "libiidot"
+    },
+    {
+      "en": "drive",
+      "en_t": "/draɪv/",
+      "ru": "влечение",
+      "ee": "tung",
+      "ee_2": "tungi",
+      "ee_3": "tungi",
+      "ee_p": "tungid",
+      "ee_p2": "tungide",
+      "ee_p3": "tunge"
+    },
+    {
+      "en": "energy",
+      "en_t": "/ˈɛnərdʒi/",
+      "ru": "энергия",
+      "ee": "energia",
+      "ee_2": "energia",
+      "ee_3": "energiat"
+    },
+    {
+      "en": "vitality",
+      "en_t": "/vaɪˈtælɪti/",
+      "ru": "живость, энергия",
+      "ee": "elujõud",
+      "ee_2": "elujõu",
+      "ee_3": "elujõudu"
+    },
+    {
+      "en": "fertility",
+      "en_t": "/fərˈtɪləti/",
+      "ru": "фертильность",
+      "ee": "viljakus",
+      "ee_2": "viljakuse",
+      "ee_3": "viljakust"
+    },
+    {
+      "en": "pregnancy",
+      "en_t": "/ˈprɛgnənsi/",
+      "ru": "беременность",
+      "ee": "rasedus",
+      "ee_2": "raseduse",
+      "ee_3": "rasedust"
+    },
+    {
+      "en": "protection",
+      "en_t": "/prəˈtɛkʃn/",
+      "ru": "защита",
+      "ee": "kaitse",
+      "ee_2": "kaitse",
+      "ee_3": "kaitset",
+      "ee_p": "kaitsed",
+      "ee_p2": "kaitsete",
+      "ee_p3": "kaitseid"
+    },
+    {
+      "en": "wellness",
+      "en_t": "/ˈwɛlnəs/",
+      "ru": "хорошее самочувствие",
+      "ee": "heaolu",
+      "ee_2": "heaolu",
+      "ee_3": "heaolu"
+    },
+    {
+      "en": "anatomy",
+      "en_t": "/əˈnætəmi/",
+      "ru": "анатомия",
+      "ee": "anatoomia",
+      "ee_2": "anatoomia",
+      "ee_3": "anatoomiat"
+    },
+    {
+      "en": "genitals",
+      "en_t": "/ˈdʒɛnɪtlz/",
+      "ru": "гениталии",
+      "ee": "suguelundid",
+      "ee_p2": "suguelundite",
+      "ee_p3": "suguelunde"
+    },
+    {
+      "en": "reproduction",
+      "en_t": "/ˌriːprəˈdʌkʃn/",
+      "ru": "размножение",
+      "ee": "paljunemine",
+      "ee_2": "paljunemise",
+      "ee_3": "paljunemist"
+    },
+    {
+      "en": "gender",
+      "en_t": "/ˈdʒɛndər/",
+      "ru": "гендер",
+      "ee": "sugu",
+      "ee_2": "soo",
+      "ee_3": "sugu",
+      "ee_p": "sugud",
+      "ee_p2": "sugude",
+      "ee_p3": "sugusid"
+    },
+    {
+      "en": "orientation",
+      "en_t": "/ˌɔːriɛnˈteɪʃn/",
+      "ru": "ориентация",
+      "ee": "orientatsioon",
+      "ee_2": "orientatsiooni",
+      "ee_3": "orientatsiooni"
+    },
+    {
+      "en": "identity",
+      "en_t": "/aɪˈdɛntəti/",
+      "ru": "идентичность",
+      "ee": "identiteet",
+      "ee_2": "identiteedi",
+      "ee_3": "identiteeti"
+    },
+    {
+      "en": "expression",
+      "en_t": "/ɪkˈsprɛʃn/",
+      "ru": "выражение",
+      "ee": "väljendus",
+      "ee_2": "väljenduse",
+      "ee_3": "väljendust",
+      "ee_p": "väljendused",
+      "ee_p2": "väljenduste",
+      "ee_p3": "väljendusi"
+    },
+    {
+      "en": "lifestyle",
+      "en_t": "/ˈlaɪfstaɪl/",
+      "ru": "стиль жизни",
+      "ee": "elustiil",
+      "ee_2": "elustiili",
+      "ee_3": "elustiili",
+      "ee_p": "elustiilid",
+      "ee_p2": "elustiilide",
+      "ee_p3": "elustiile"
+    },
+    {
+      "en": "community",
+      "en_t": "/kəˈmjuːnəti/",
+      "ru": "сообщество",
+      "ee": "kogukond",
+      "ee_2": "kogukonna",
+      "ee_3": "kogukonda",
+      "ee_p": "kogukonnad",
+      "ee_p2": "kogukondade",
+      "ee_p3": "kogukondi"
+    },
+    {
+      "en": "commitment",
+      "en_t": "/kəˈmɪtmənt/",
+      "ru": "обязательство",
+      "ee": "kohustus",
+      "ee_2": "kohustuse",
+      "ee_3": "kohustust",
+      "ee_p": "kohustused",
+      "ee_p2": "kohustuste",
+      "ee_p3": "kohustusi"
+    },
+    {
+      "en": "marriage",
+      "en_t": "/ˈmærɪdʒ/",
+      "ru": "брак",
+      "ee": "abielu",
+      "ee_2": "abielu",
+      "ee_3": "abielu",
+      "ee_p": "abielud",
+      "ee_p2": "abielude",
+      "ee_p3": "abielusid"
+    },
+    {
+      "en": "romance",
+      "en_t": "/roʊˈmæns/",
+      "ru": "роман, романтика",
+      "ee": "romantika",
+      "ee_2": "romantika",
+      "ee_3": "romantikat"
+    },
+    {
+      "en": "infatuation",
+      "en_t": "/ɪnˌfætʃuˈeɪʃn/",
+      "ru": "влечение",
+      "ee": "armumine",
+      "ee_2": "armumise",
+      "ee_3": "armumist"
+    },
+    {
+      "en": "rejection",
+      "en_t": "/rɪˈdʒɛkʃn/",
+      "ru": "отказ",
+      "ee": "tagasilükkamine",
+      "ee_2": "tagasilükkamise",
+      "ee_3": "tagasilükkamist"
+    },
+    {
+      "en": "salary",
+      "en_t": "/ˈsæləri/",
+      "ru": "зарплата",
+      "ee": "palk",
+      "ee_2": "palga",
+      "ee_3": "palka",
+      "ee_p": "palgad",
+      "ee_p2": "palkade",
+      "ee_p3": "palku"
+    },
+    {
+      "en": "profit",
+      "en_t": "/ˈprɒfɪt/",
+      "ru": "прибыль",
+      "ee": "kasum",
+      "ee_2": "kasumi",
+      "ee_3": "kasumit",
+      "ee_p": "kasumid",
+      "ee_p2": "kasumite",
+      "ee_p3": "kasumeid"
+    },
+    {
+      "en": "task",
+      "en_t": "/tɑːsk/",
+      "ru": "задача",
+      "ee": "ülesanne",
+      "ee_2": "ülesande",
+      "ee_3": "ülesannet",
+      "ee_p": "ülesanded",
+      "ee_p2": "ülesannete",
+      "ee_p3": "ülesandeid"
+    },
+    {
+      "en": "project",
+      "en_t": "/ˈprɒdʒekt/",
+      "ru": "проект",
+      "ee": "projekt",
+      "ee_2": "projekti",
+      "ee_3": "projekti",
+      "ee_p": "projektid",
+      "ee_p2": "projektide",
+      "ee_p3": "projekte"
+    },
+    {
+      "en": "deadline",
+      "en_t": "/ˈdɛdlaɪn/",
+      "ru": "срок выполнения, дедлайн",
+      "ee": "tähtaeg",
+      "ee_2": "tähtaja",
+      "ee_3": "tähtaega",
+      "ee_p": "tähtajad",
+      "ee_p2": "tähtaegade",
+      "ee_p3": "tähtaegu"
+    },
+    {
+      "en": "schedule",
+      "en_t": "/ˈʃedjuːl/",
+      "ru": "график",
+      "ee": "graafik",
+      "ee_2": "graafiku",
+      "ee_3": "graafikut",
+      "ee_p": "graafikud",
+      "ee_p2": "graafikute",
+      "ee_p3": "graafikuid"
+    },
+    {
+      "en": "skill",
+      "en_t": "/skɪl/",
+      "ru": "навык",
+      "ee": "oskus",
+      "ee_2": "oskuse",
+      "ee_3": "oskust",
+      "ee_p": "oskused",
+      "ee_p2": "oskuste",
+      "ee_p3": "oskusi"
+    },
+    {
+      "en": "remote",
+      "en_t": "/rɪˈmoʊt/",
+      "ru": "удаленный",
+      "ee": "kauge"
+    },
+    {
+      "en": "goal",
+      "en_t": "/ɡoʊl/",
+      "ru": "цель",
+      "ee": "eesmärk",
+      "ee_2": "eesmärgi",
+      "ee_3": "eesmärki",
+      "ee_p": "eesmärgid",
+      "ee_p2": "eesmärkide",
+      "ee_p3": "eesmärke"
+    },
+    {
+      "en": "success",
+      "en_t": "/səkˈsɛs/",
+      "ru": "успех",
+      "ee": "edu"
+    },
+    {
+      "en": "investment",
+      "en_t": "/ɪnˈvɛstmənt/",
+      "ru": "инвестиция",
+      "ee": "investeering",
+      "ee_2": "investeeringu",
+      "ee_3": "investeeringut",
+      "ee_p": "investeeringud",
+      "ee_p2": "investeeringute",
+      "ee_p3": "investeeringuid"
+    },
+    {
+      "en": "sale",
+      "en_t": "/seɪl/",
+      "ru": "продажа",
+      "ee": "müük",
+      "ee_2": "müügi",
+      "ee_3": "müüki",
+      "ee_p": "müügid",
+      "ee_p2": "müükide",
+      "ee_p3": "müüke"
+    },
+    {
+      "en": "purchase",
+      "en_t": "/ˈpɜːtʃəs/",
+      "ru": "покупка",
+      "ee": "ost",
+      "ee_2": "ostu",
+      "ee_3": "ostu",
+      "ee_p": "ostud",
+      "ee_p2": "ostude",
+      "ee_p3": "oste"
+    },
+    {
+      "en": "stock",
+      "en_t": "/stɒk/",
+      "ru": "акции",
+      "ee": "aktsia",
+      "ee_2": "aktsia",
+      "ee_3": "aktsiat",
+      "ee_p": "aktsiad",
+      "ee_p2": "aktsiate",
+      "ee_p3": "aktsiaid"
+    },
+    {
+      "en": "growth",
+      "en_t": "/ɡroʊθ/",
+      "ru": "рост",
+      "ee": "kasv",
+      "ee_2": "kasvu",
+      "ee_3": "kasvu",
+      "ee_p": "kasvud",
+      "ee_p2": "kasvude",
+      "ee_p3": "kasve"
+    },
+    {
+      "en": "IRL",
+      "en_t": "/aɪ ɑːr ˈɛl/",
+      "ru": "в реальной жизни",
+      "ee": "päriselus"
+    },
+    {
+      "en": "yeet",
+      "en_t": "/jiːt/",
+      "ru": "кидать (сленг)",
+      "ee": "viskama",
+      "ee_da": "visata",
+      "ee_mina": "viskan",
+      "ee_past_mina": "viskasin",
+      "ee_past_tema": "viskas",
+      "ee_past_neg": "ei visanud"
+    },
+    {
+      "en": "bae",
+      "en_t": "/beɪ/",
+      "ru": "короткая версия слова baby",
+      "ee": "kallim",
+      "ee_2": "kallima",
+      "ee_3": "kallimat",
+      "ee_p": "kallimad",
+      "ee_p2": "kallimate",
+      "ee_p3": "kallimaid"
+    },
+    {
+      "en": "swag",
+      "en_t": "/swæɡ/",
+      "ru": "очень классный (сленг)",
+      "ee": "äge"
+    },
+    {
+      "en": "basic",
+      "en_t": "/ˈbeɪsɪk/",
+      "ru": "обычный, неоригинальный",
+      "ee": "tavaline"
+    },
+    {
+      "en": "slay",
+      "en_t": "/sleɪ/",
+      "ru": "отлично справляться с чем-то",
+      "ee": "hakkama saama",
+      "ee_da": "hakkama saada",
+      "ee_mina": "saan hakkama",
+      "ee_past_mina": "sain hakkama",
+      "ee_past_tema": "sai hakkama",
+      "ee_past_neg": "ei saanud hakkama"
+    },
+    {
+      "en": "extra",
+      "en_t": "/ˈɛkstrə/",
+      "ru": "чрезмерный",
+      "ee": "liialdatud"
+    },
+    {
+      "en": "damn",
+      "en_t": "/dæm/",
+      "ru": "черт! (межд.)",
+      "ee": "kurat!"
+    },
+    {
+      "en": "LOL",
+      "en_t": "/lɒl/ or /ˈɛl oʊ ˈɛl/",
+      "ru": "смеяться в голос",
+      "ee": "naeran kõva häälega"
+    },
+    {
+      "en": "cancel",
+      "en_t": "/ˈkænsəl/",
+      "ru": "«отменять», переставать поддерживать кого-то",
+      "ee": "tühistama",
+      "ee_da": "tühistada",
+      "ee_mina": "tühistan",
+      "ee_past_mina": "tühistasin",
+      "ee_past_tema": "tühistas",
+      "ee_past_neg": "ei tühistanud"
+    },
+    {
+      "en": "facepalm",
+      "en_t": "/ˈfeɪspɑːm/",
+      "ru": "фейспалм, он же рука-лицо",
+      "ee": "facepalm",
+      "ee_2": "facepalmi",
+      "ee_3": "facepalmi",
+      "ee_p": "facepalmid",
+      "ee_p2": "facepalmide",
+      "ee_p3": "facepalme"
+    },
+    {
+      "en": "noob",
+      "en_t": "/nuːb/",
+      "ru": "новичок",
+      "ee": "algaja",
+      "ee_2": "algaja",
+      "ee_3": "algajat",
+      "ee_p": "algajad",
+      "ee_p2": "algajate",
+      "ee_p3": "algajaid"
+    },
+    {
+      "en": "epic",
+      "en_t": "/ˈɛpɪk/",
+      "ru": "легендарный, лучший",
+      "ee": "eepiline"
+    },
+    {
+      "en": "fail",
+      "en_t": "/feɪl/",
+      "ru": "провалиться",
+      "ee": "ebaõnnestuma",
+      "ee_da": "ebaõnnestuda",
+      "ee_mina": "ebaõnnestun",
+      "ee_past_mina": "ebaõnnestusin",
+      "ee_past_tema": "ebaõnnestus",
+      "ee_past_neg": "ei ebaõnnestunud"
+    },
+    {
+      "en": "ROFL",
+      "en_t": "/ˈrɒfəl/",
+      "ru": "смеяться до слёз",
+      "ee": "naeran pisarateni"
+    },
+    {
+      "en": "TBH",
+      "en_t": "/tiː biː eɪtʃ/",
+      "ru": "честно говоря",
+      "ee": "ausalt öeldes"
+    },
+    {
+      "en": "BRB",
+      "en_t": "/biː ɑːr biː/",
+      "ru": "скоро вернусь",
+      "ee": "kohe tulen tagasi"
+    },
+    {
+      "en": "IMO/IMHO",
+      "en_t": "/aɪ ˈɛm oʊ/ /aɪ ˈɛm eɪtʃ oʊ/",
+      "ru": "по моему (скромному) мнению",
+      "ee": "minu (alandliku) arvates"
+    },
+    {
+      "en": "kudos",
+      "en_t": "/ˈkjuːdɒs/",
+      "ru": "браво, респект",
+      "ee": "kiitus",
+      "ee_2": "kiituse",
+      "ee_3": "kiitust",
+      "ee_p": "kiitused",
+      "ee_p2": "kiituste",
+      "ee_p3": "kiitusi"
+    },
+    {
+      "en": "NSFW",
+      "en_t": "/ɛn ɛs ɛf ˈdʌbljuː/",
+      "ru": "что-то, достойное цензуры (не для работы)",
+      "ee": "töökohale mittesobiv"
+    },
+    {
+      "en": "viral",
+      "en_t": "/ˈvaɪrəl/",
+      "ru": "популярный, вирусный",
+      "ee": "viraalne"
+    },
+    {
+      "en": "selfie",
+      "en_t": "/ˈsɛlfi/",
+      "ru": "селфи",
+      "ee": "selfi",
+      "ee_2": "selfi",
+      "ee_3": "selfit",
+      "ee_p": "selfid",
+      "ee_p2": "selfide",
+      "ee_p3": "selfisid"
+    },
+    {
+      "en": "gig",
+      "en_t": "/ɡɪɡ/",
+      "ru": "концерт",
+      "ee": "kontsert",
+      "ee_2": "kontserdi",
+      "ee_3": "kontserti",
+      "ee_p": "kontserdid",
+      "ee_p2": "kontsertide",
+      "ee_p3": "kontserte"
+    },
+    {
+      "en": "earworm",
+      "en_t": "/ˈɪəwɜːm/",
+      "ru": "навязчивая мелодия",
+      "ee": "kõrvususs",
+      "ee_2": "kõrvusussi",
+      "ee_3": "kõrvusussi",
+      "ee_p": "kõrvusussid",
+      "ee_p2": "kõrvususside",
+      "ee_p3": "kõrvususse"
+    },
+    {
+      "en": "lame",
+      "en_t": "/leɪm/",
+      "ru": "скучный, плохой",
+      "ee": "nõme"
+    },
+    {
+      "en": "gross",
+      "en_t": "/ɡroʊs/",
+      "ru": "отвратительно",
+      "ee": "jälk"
+    },
+    {
+      "en": "ASAP",
+      "en_t": "/eɪ ɛs eɪ piː/",
+      "ru": "как можно скорее",
+      "ee": "nii kiiresti kui võimalik"
+    },
+    {
+      "en": "OMG",
+      "en_t": "/oʊ ɛm dʒiː/",
+      "ru": "о боже",
+      "ee": "oh mu jumal"
+    },
+    {
+      "en": "ETA",
+      "en_t": "/iː tiː eɪ/",
+      "ru": "примерное время прибытия",
+      "ee": "eeldatav saabumisaeg"
+    },
+    {
+      "en": "BTW",
+      "en_t": "/biː tiː ˈdʌbljuː/",
+      "ru": "кстати",
+      "ee": "muide"
+    },
+    { "en": "feed", "en_t": "/fiːd/", "ru": "лента (новостей)", "ee": "uudisvoog", "ee_2": "uudisvoo", "ee_3": "uudisvoogu", "ee_p": "uudisvood", "ee_p2": "uudisvoogude", "ee_p3": "uudisvooge" },
+    { "en": "like", "en_t": "/laɪk/", "ru": "лайк", "ee": "laik", "ee_2": "laigi", "ee_3": "laiki", "ee_p": "laigid", "ee_p2": "laikide", "ee_p3": "laike" },
+    { "en": "comment", "en_t": "/ˈkɒment/", "ru": "комментарий", "ee": "kommentaar", "ee_2": "kommentaari", "ee_3": "kommentaari", "ee_p": "kommentaarid", "ee_p2": "kommentaaride", "ee_p3": "kommentaare" },
+    { "en": "post", "en_t": "/poʊst/", "ru": "пост, выкладывать пост", "ee": "postitus", "ee_2": "postituse", "ee_3": "postitust", "ee_p": "postitused", "ee_p2": "postituste", "ee_p3": "postitusi" },
+    { "en": "share", "en_t": "/ʃeə(r)/", "ru": "делиться в соцсетях", "ee": "jagama", "ee_da": "jagada", "ee_mina": "jagan", "ee_past_mina": "jagasin", "ee_past_tema": "jagas", "ee_past_neg": "ei jaganud" },
+    { "en": "follow", "en_t": "/ˈfɒləʊ/", "ru": "подписаться, отслеживать", "ee": "jälgima", "ee_da": "jälgida", "ee_mina": "jälgin", "ee_past_mina": "jälgisin", "ee_past_tema": "jälgis", "ee_past_neg": "ei jälginud" },
+    { "en": "unfollow", "en_t": "/ʌnˈfɒləʊ/", "ru": "отписаться", "ee": "jälgimise lõpetama", "ee_da": "jälgimist lõpetada", "ee_mina": "lõpetan jälgimise", "ee_past_mina": "lõpetasin jälgimise", "ee_past_tema": "lõpetas jälgimise", "ee_past_neg": "ei lõpetanud jälgimist" },
+    { "en": "bio", "en_t": "/ˈbaɪoʊ/", "ru": "биография в шапке профиля", "ee": "biograafia", "ee_2": "biograafia", "ee_3": "biograafiat", "ee_p": "biograafiad", "ee_p2": "biograafiate", "ee_p3": "biograafiaid" },
+    { "en": "hashtag", "en_t": "/ˈhæʃtæɡ/", "ru": "хештег", "ee": "räsimärk", "ee_2": "räsimärgi", "ee_3": "räsimärki", "ee_p": "räsimärgid", "ee_p2": "räsimärkide", "ee_p3": "räsimärke" },
+    { "en": "tag", "en_t": "/tæɡ/", "ru": "тег", "ee": "silt", "ee_2": "sildi", "ee_3": "silti", "ee_p": "sildid", "ee_p2": "siltide", "ee_p3": "silte" },
+    { "en": "filter", "en_t": "/ˈfɪltə(r)/", "ru": "фильтр", "ee": "filter", "ee_2": "filtri", "ee_3": "filtrit", "ee_p": "filtrid", "ee_p2": "filtrite", "ee_p3": "filtreid" },
+    { "en": "caption", "en_t": "/ˈkæpʃn/", "ru": "подпись", "ee": "pealdis", "ee_2": "pealdise", "ee_3": "pealdist", "ee_p": "pealdised", "ee_p2": "pealdise", "ee_p3": "pealdiseid" },
+    { "en": "reels", "en_t": "/riːlz/", "ru": "рилс", "ee": "reels (lühivideo)", "ee_2": "reelsi", "ee_3": "reelsi", "ee_p": "reelsid", "ee_p2": "reelside", "ee_p3": "reelse" },
+    { "en": "algorithm", "en_t": "/ˈælɡərɪðəm/", "ru": "алгоритм", "ee": "algoritm", "ee_2": "algoritmi", "ee_3": "algoritmi", "ee_p": "algoritmid", "ee_p2": "algoritmide", "ee_p3": "algoritme" },
+    { "en": "engagement", "en_t": "/ɪnˈɡeɪdʒmənt/", "ru": "вовлечение (в соцсетях)", "ee": "kaasatus", "ee_2": "kaasatuse", "ee_3": "kaasatust" },
+    { "en": "follower", "en_t": "/ˈfɒləʊə(r)/", "ru": "подписчик", "ee": "jälgija", "ee_2": "jälgija", "ee_3": "jälgijat", "ee_p": "jälgijad", "ee_p2": "jälgijate", "ee_p3": "jälgijaid" },
+    { "en": "creator", "en_t": "/kriːˈeɪtə(r)/", "ru": "креатор", "ee": "sisulooja", "ee_2": "sisulooja", "ee_3": "sisuloojat", "ee_p": "sisuloojad", "ee_p2": "sisuloojate", "ee_p3": "sisuloojaid" },
+    { "en": "shout-out", "en_t": "/ˈʃaʊt aʊt/", "ru": "публичная благодарность", "ee": "avalik tänu" },
+    { "en": "repost", "en_t": "/ˌriːˈpoʊst/", "ru": "репост", "ee": "repostima", "ee_da": "repostida", "ee_mina": "repostin", "ee_past_mina": "repostisin", "ee_past_tema": "repostis", "ee_past_neg": "ei repostinud" },
+    { "en": "trend", "en_t": "/trɛnd/", "ru": "тренд", "ee": "trend", "ee_2": "trendi", "ee_3": "trendi", "ee_p": "trendide", "ee_p2": "trendide", "ee_p3": "trende" },
+    { "en": "theme", "en_t": "/θiːm/", "ru": "тема", "ee": "teema", "ee_2": "teema", "ee_3": "teemat", "ee_p": "teemad", "ee_p2": "teemade", "ee_p3": "teemasid" },
+    { "en": "brand", "en_t": "/brænd/", "ru": "бренд", "ee": "bränd", "ee_2": "brändi", "ee_3": "brändi", "ee_p": "brändid", "ee_p2": "brändide", "ee_p3": "brände" },
+    { "en": "highlights", "en_t": "/ˈhaɪlaɪts/", "ru": "хайлайты (закреплённые сторис)", "ee": "esiletõstetud lood" },
+    { "en": "archive", "en_t": "/ˈɑːkaɪv/", "ru": "архив", "ee": "arhiiv", "ee_2": "arhiivi", "ee_3": "arhiivi", "ee_p": "arhiivid", "ee_p2": "arhiivide", "ee_p3": "arhiive" },
+    { "en": "vlog", "en_t": "/vlɒɡ/", "ru": "влог, видеоблог", "ee": "vlogi", "ee_2": "vlogi", "ee_3": "vlogi", "ee_p": "vlogid", "ee_p2": "vlogide", "ee_p3": "vloge" },
+    { "en": "blogger", "en_t": "/ˈblɒɡə(r)/", "ru": "блогер", "ee": "blogija", "ee_2": "blogija", "ee_3": "blogijat", "ee_p": "blogijad", "ee_p2": "blogijate", "ee_p3": "blogijaid" },
+    { "en": "fashion", "en_t": "/ˈfæʃn/", "ru": "мода", "ee": "mood", "ee_2": "moe", "ee_3": "moodi" },
+    { "en": "promo", "en_t": "/ˈprəʊməʊ/", "ru": "промо", "ee": "promo" },
+    { "en": "affiliate", "en_t": "/əˈfɪliət/", "ru": "партнёр", "ee": "partner", "ee_2": "partneri", "ee_3": "partnerit", "ee_p": "partnerid", "ee_p2": "partnerite", "ee_p3": "partnereid" },
+    { "en": "ad (advertisement)", "en_t": "/æd/", "ru": "реклама", "ee": "reklaam", "ee_2": "reklaami", "ee_3": "reklaami", "ee_p": "reklaamid", "ee_p2": "reklaamide", "ee_p3": "reklaame" },
+    { "en": "sponsored", "en_t": "/ˈspɒnsəd/", "ru": "спонсируемый", "ee": "sponsoreeritud" },
+    { "en": "emoji", "en_t": "/ɪˈmoʊdʒi/", "ru": "эмодзи", "ee": "emodži", "ee_p": "emodžid", "ee_p2": "emodžide", "ee_p3": "emodžeid" },
+    { "en": "clickbait", "en_t": "/ˈklɪkbeɪt/", "ru": "кликбейт", "ee": "klikipeibutus", "ee_2": "klikipeibutuse", "ee_3": "klikipeibutust" },
+    { "en": "link", "en_t": "/lɪŋk/", "ru": "ссылка", "ee": "link", "ee_2": "lingi", "ee_3": "linki", "ee_p": "lingid", "ee_p2": "linkide", "ee_p3": "linke" },
+    { "en": "geotag", "en_t": "/ˈdʒiːəʊtæɡ/", "ru": "геометка", "ee": "geosilt", "ee_2": "geosildi", "ee_3": "geosilti", "ee_p": "geosildid", "ee_p2": "geosiltide", "ee_p3": "geosilte" },
+    { "en": "location", "en_t": "/ləʊˈkeɪʃn/", "ru": "местоположение", "ee": "asukoht", "ee_2": "asukoha", "ee_3": "asukohta", "ee_p": "asukohad", "ee_p2": "asukohade", "ee_p3": "asukohti" },
+    { "en": "notification", "en_t": "/ˌnəʊtɪfɪˈkeɪʃn/", "ru": "уведомление", "ee": "teavitus", "ee_2": "teavituse", "ee_3": "teavitust", "ee_p": "teavitused", "ee_p2": "teavituste", "ee_p3": "teavitusi" },
+    { "en": "verified", "en_t": "/ˈvɛrɪfaɪd/", "ru": "проверенный", "ee": "kinnitatud" },
+    { "en": "icon", "en_t": "/ˈaɪkɒn/", "ru": "иконка", "ee": "ikoon", "ee_2": "ikooni", "ee_3": "ikooni", "ee_p": "ikoonid", "ee_p2": "ikoonide", "ee_p3": "ikoone" },
+    { "en": "collaboration", "en_t": "/kəˌlæbəˈreɪʃn/", "ru": "коллаборация", "ee": "koostöö", "ee_2": "koostöö", "ee_3": "koostööd" },
+    { "en": "challenge", "en_t": "/ˈtʃæləndʒ/", "ru": "челлендж", "ee": "väljakutse", "ee_2": "väljakutse", "ee_3": "väljakutset", "ee_p": "väljakutsed", "ee_p2": "väljakutsete", "ee_p3": "väljakutseid" },
+    { "en": "tutorial", "en_t": "/tjuːˈtɔːriəl/", "ru": "обучающий контент", "ee": "juhend", "ee_2": "juhendi", "ee_3": "juhendit", "ee_p": "juhendid", "ee_p2": "juhendite", "ee_p3": "juhendeid" },
+    { "en": "review", "en_t": "/rɪˈvjuː/", "ru": "обзор", "ee": "arvustus", "ee_2": "arvustuse", "ee_3": "arvustust", "ee_p": "arvustused", "ee_p2": "arvustuste", "ee_p3": "arvustusi" },
+    { "en": "unboxing", "en_t": "/ʌnˈbɒksɪŋ/", "ru": "распаковка", "ee": "lahtipakkimine", "ee_2": "lahtipakkimise", "ee_3": "lahtipakkimist" },
+    { "en": "giveaway", "en_t": "/ˈɡɪvəweɪ/", "ru": "конкурс с призами", "ee": "kingiloos", "ee_2": "kingiloosi", "ee_3": "kingiloosi", "ee_p": "kingiloosid", "ee_p2": "kingilooside", "ee_p3": "kingiloose" },
+    { "en": "contest", "en_t": "/ˈkɒntɛst/", "ru": "конкурс", "ee": "konkurss", "ee_2": "konkursi", "ee_3": "konkurssi", "ee_p": "konskursid", "ee_p2": "konkursside", "ee_p3": "konkursse" },
+    { "en": "FOMO (fear of missing out)", "en_t": "/ˈfəʊməʊ/", "ru": "чувство, что что-то пропустишь", "ee": "FOMO (millestki ilmajäämise hirm)" },
+    { "en": "BFF (best friends forever)", "en_t": "/biː ɛf ɛf/", "ru": "лучший друг навеки", "ee": "parim sõber igaveseks" },
+    { "en": "live", "en_t": "/laɪv/", "ru": "прямой эфир", "ee": "otseülekanne", "ee_2": "otseülekande", "ee_3": "otseülekannet", "ee_p": "otseülekanded", "ee_p2": "otseülekannete", "ee_p3": "otseülekandeid" },
+    { "en": "shopping", "en_t": "/ˈʃɒpɪŋ/", "ru": "шоппинг", "ee": "ostlemine", "ee_2": "ostlemise", "ee_3": "ostlemist" },
+    { "en": "discovery", "en_t": "/dɪˈskʌvəri/", "ru": "открытие", "ee": "avastus", "ee_2": "avastuse", "ee_3": "avastust", "ee_p": "avastused", "ee_p2": "avastuste", "ee_p3": "avastusi" },
+    { "en": "niche", "en_t": "/niːʃ/", "ru": "ниша", "ee": "nišš", "ee_2": "niši", "ee_3": "nišši", "ee_p": "nišid", "ee_p2": "niššide", "ee_p3": "nišše" },
+    { "en": "connect", "en_t": "/kəˈnɛkt/", "ru": "связываться", "ee": "ühendama", "ee_da": "ühendada", "ee_mina": "ühendan", "ee_past_mina": "ühendasin", "ee_past_tema": "ühendas", "ee_past_neg": "ei ühendanud" },
+    { "en": "inspire", "en_t": "/ɪnˈspaɪə(r)/", "ru": "вдохновляться/вдохновлять", "ee": "inspireerima", "ee_da": "inspireerida", "ee_mina": "inspireerin", "ee_past_mina": "inspireerisin", "ee_past_tema": "inspireeris", "ee_past_neg": "ei inspireerinud" },
+    { "en": "culture", "en_t": "/ˈkʌltʃə(r)/", "ru": "культура", "ee": "kultuur", "ee_2": "kultuuri", "ee_3": "kultuuri", "ee_p": "kultuurid", "ee_p2": "kultuuride", "ee_p3": "kultuure" },
+    { "en": "creativity", "en_t": "/ˌkriːeɪˈtɪvɪti/", "ru": "креативность", "ee": "loovus", "ee_2": "loovuse", "ee_3": "loovust" },
+    { "en": "authenticity", "en_t": "/ɔːˌθɛnˈtɪsɪti/", "ru": "аутентичность", "ee": "autentsus", "ee_2": "autentsuse", "ee_3": "autentsust" },
+    { "en": "visuals", "en_t": "/ˈvɪʒuəlz/", "ru": "визуальные эффекты", "ee": "visuaalid", "ee_p2": "visuaalide", "ee_p3": "visuaale" },
+    { "en": "portfolio", "en_t": "/pɔːtˈfəʊliəʊ/", "ru": "портфолио", "ee": "portfoolio", "ee_2": "portfoolio", "ee_3": "portfooliot", "ee_p": "portfooliod", "ee_p2": "portfooliote", "ee_p3": "portfoolioid" },
+    { "en": "technology", "en_t": "/tɛkˈnɒlədʒi/", "ru": "технологии", "ee": "tehnoloogia", "ee_2": "tehnoloogia", "ee_3": "tehnoloogiat", "ee_p": "tehnoloogiad", "ee_p2": "tehnoloogiate", "ee_p3": "tehnoloogiaid" },
+    { "en": "online", "en_t": "/ˈɒnlaɪn/", "ru": "онлайн", "ee": "veebis" },
+    { "en": "app", "en_t": "/æp/", "ru": "приложение", "ee": "rakendus", "ee_2": "rakenduse", "ee_3": "rakendust", "ee_p": "rakendused", "ee_p2": "rakenduste", "ee_p3": "rakendusi" },
+    { "en": "search", "en_t": "/sɜːrtʃ/", "ru": "поиск", "ee": "otsing", "ee_2": "otsingu", "ee_3": "otsingut", "ee_p": "otsingud", "ee_p2": "otsingute", "ee_p3": "otsinguid" },
+    { "en": "spill", "en_t": "/spɪl/", "ru": "проливать", "ee": "maha kallama", "ee_da": "maha kallata", "ee_mina": "kallan maha", "ee_past_mina": "kallasin maha", "ee_past_tema": "kallas maha", "ee_past_neg": "ei kallanud maha" },
+    { "en": "should", "en_t": "/ʃʊd/", "ru": "следует", "ee": "pidama (peaks)", "ee_da": "pidada", "ee_mina": "peaksin", "ee_past_mina": "pidin", "ee_past_tema": "pidi", "ee_past_neg": "ei pidanud" },
+    { "en": "say", "en_t": "/seɪ/", "ru": "сказать", "ee": "ütlema", "ee_da": "öelda", "ee_mina": "ütlen", "ee_past_mina": "ütlesin", "ee_past_tema": "ütles", "ee_past_neg": "ei öelnud" },
+    { "en": "believe", "en_t": "/bɪˈliːv/", "ru": "верить", "ee": "uskuma", "ee_da": "uskuda", "ee_mina": "usun", "ee_past_mina": "uskusin", "ee_past_tema": "uskus", "ee_past_neg": "ei uskunud" },
+    { "en": "make", "en_t": "/meɪk/", "ru": "делать", "ee": "tegema", "ee_da": "teha", "ee_mina": "teen", "ee_past_mina": "tegin", "ee_past_tema": "tegi", "ee_past_neg": "ei teinud" },
+    { "en": "tell", "en_t": "/tɛl/", "ru": "рассказывать", "ee": "rääkima", "ee_da": "rääkida", "ee_mina": "räägin", "ee_past_mina": "rääkisin", "ee_past_tema": "rääkis", "ee_past_neg": "ei rääkinud" },
+    { "en": "give", "en_t": "/ɡɪv/", "ru": "давать", "ee": "andma", "ee_da": "anda", "ee_mina": "annan", "ee_past_mina": "andsin", "ee_past_tema": "andis", "ee_past_neg": "ei andnud" },
+    { "en": "get", "en_t": "/ɡɛt/", "ru": "получать", "ee": "saama", "ee_da": "saada", "ee_mina": "saan", "ee_past_mina": "sain", "ee_past_tema": "sai", "ee_past_neg": "ei saanud" },
+    { "en": "know", "en_t": "/noʊ/", "ru": "знать", "ee": "teadma", "ee_da": "teada", "ee_mina": "tean", "ee_past_mina": "teadsin", "ee_past_tema": "teadis", "ee_past_neg": "ei teadnud" },
+    { "en": "find", "en_t": "/faɪnd/", "ru": "находить", "ee": "leidma", "ee_da": "leida", "ee_mina": "leian", "ee_past_mina": "leidsin", "ee_past_tema": "leidis", "ee_past_neg": "ei leidnud" },
+    { "en": "hope", "en_t": "/hoʊp/", "ru": "надеяться", "ee": "lootma", "ee_da": "loota", "ee_mina": "loodan", "ee_past_mina": "lootsin", "ee_past_tema": "lootis", "ee_past_neg": "ei lootnud" },
+    { "en": "kill", "en_t": "/kɪl/", "ru": "убивать", "ee": "tapma", "ee_da": "tappa", "ee_mina": "tapan", "ee_past_mina": "tapsin", "ee_past_tema": "tappis", "ee_past_neg": "ei tapnud" },
+    { "en": "look", "en_t": "/lʊk/", "ru": "смотреть, выглядеть", "ee": "vaatama", "ee_da": "vaadata", "ee_mina": "vaatan", "ee_past_mina": "vaatasin", "ee_past_tema": "vaatas", "ee_past_neg": "ei vaadanud" },
+    { "en": "like", "en_t": "/laɪk/", "ru": "нравиться", "ee": "meeldima", "ee_da": "meeldida", "ee_mina": "mulle meeldib", "ee_past_mina": "mulle meeldis", "ee_past_tema": "meeldis", "ee_past_neg": "ei meeldinud" },
+    { "en": "worry", "en_t": "/ˈwʌri/", "ru": "беспокоиться", "ee": "muretsema", "ee_da": "muretseda", "ee_mina": "muretsen", "ee_past_mina": "muretsesin", "ee_past_tema": "muretses", "ee_past_neg": "ei muretsenud" },
+    { "en": "listen", "en_t": "/ˈlɪsən/", "ru": "слушать", "ee": "kuulama", "ee_da": "kuulata", "ee_mina": "kuulan", "ee_past_mina": "kuulasin", "ee_past_tema": "kuulas", "ee_past_neg": "ei kuulanud" },
+    { "en": "use", "en_t": "/juːz/", "ru": "использовать", "ee": "kasutama", "ee_da": "kasutada", "ee_mina": "kasutan", "ee_past_mina": "kasutasin", "ee_past_tema": "kasutas", "ee_past_neg": "ei kasutanud" },
+    { "en": "change", "en_t": "/tʃeɪndʒ/", "ru": "менять", "ee": "muutma", "ee_da": "muuta", "ee_mina": "muudan", "ee_past_mina": "muutsin", "ee_past_tema": "muutis", "ee_past_neg": "ei muutnud" },
+    { "en": "try", "en_t": "/traɪ/", "ru": "пытаться, пробовать", "ee": "proovima", "ee_da": "proovida", "ee_mina": "proovin", "ee_past_mina": "proovisin", "ee_past_tema": "proovis", "ee_past_neg": "ei proovinud" },
+    { "en": "want", "en_t": "/wɒnt/", "ru": "хотеть", "ee": "tahtma", "ee_da": "tahta", "ee_mina": "tahan", "ee_past_mina": "tahtsin", "ee_past_tema": "tahtis", "ee_past_neg": "ei tahtnud" },
+    { "en": "sound", "en_t": "/saʊnd/", "ru": "звучать", "ee": "kõlama", "ee_da": "kõlada", "ee_mina": "kõlan", "ee_past_mina": "kõlasin", "ee_past_tema": "kõlas", "ee_past_neg": "ei kõlanud" },
+    { "en": "let", "en_t": "/lɛt/", "ru": "позволять", "ee": "lubama", "ee_da": "lubada", "ee_mina": "luban", "ee_past_mina": "lubasin", "ee_past_tema": "lubas", "ee_past_neg": "ei lubanud" },
+    { "en": "run", "en_t": "/rʌn/", "ru": "бежать", "ee": "jooksma", "ee_da": "joosta", "ee_mina": "jooksen", "ee_past_mina": "jooksin", "ee_past_tema": "jooksis", "ee_past_neg": "ei jooksnud" },
+    { "en": "go", "en_t": "/ɡoʊ/", "ru": "идти", "ee": "minema", "ee_da": "minna", "ee_mina": "lähen", "ee_past_mina": "läksin", "ee_past_tema": "läks", "ee_past_neg": "ei läinud" },
+    { "en": "cost", "en_t": "/kɒst/", "ru": "стоить", "ee": "maksma", "ee_da": "maksta", "ee_mina": "maksab", "ee_past_mina": "maksis", "ee_past_tema": "maksis", "ee_past_neg": "ei maksnud" },
+    { "en": "take", "en_t": "/teɪk/", "ru": "брать", "ee": "võtma", "ee_da": "võtta", "ee_mina": "võtan", "ee_past_mina": "võtsin", "ee_past_tema": "võttis", "ee_past_neg": "ei võtnud" },
+    { "en": "think", "en_t": "/θɪŋk/", "ru": "думать", "ee": "mõtlema", "ee_da": "mõelda", "ee_mina": "mõtlen", "ee_past_mina": "mõtlesin", "ee_past_tema": "mõtles", "ee_past_neg": "ei mõelnud" },
+    { "en": "stay", "en_t": "/steɪ/", "ru": "оставаться", "ee": "jääma", "ee_da": "jääda", "ee_mina": "jään", "ee_past_mina": "jäin", "ee_past_tema": "jäi", "ee_past_neg": "ei jäänud" },
+    { "en": "lose", "en_t": "/luːz/", "ru": "терять", "ee": "kaotama", "ee_da": "kaotada", "ee_mina": "kaotan", "ee_past_mina": "kaotasin", "ee_past_tema": "kaotas", "ee_past_neg": "ei kaotanud" },
+    { "en": "support", "en_t": "/səˈpɔːrt/", "ru": "поддерживать", "ee": "toetama", "ee_da": "toetada", "ee_mina": "toetan", "ee_past_mina": "toetasin", "ee_past_tema": "toetas", "ee_past_neg": "ei toetanud" },
+    { "en": "prefer", "en_t": "/prɪˈfɜːr/", "ru": "предпочитать", "ee": "eelistama", "ee_da": "eelistada", "ee_mina": "eelistan", "ee_past_mina": "eelistasin", "ee_past_tema": "eelistas", "ee_past_neg": "ei eelistanud" },
+    { "en": "talk", "en_t": "/tɔːk/", "ru": "разговаривать", "ee": "rääkima", "ee_da": "rääkida", "ee_mina": "räägin", "ee_past_mina": "rääkisin", "ee_past_tema": "rääkis", "ee_past_neg": "ei rääkinud" },
+    { "en": "ask", "en_t": "/æsk/", "ru": "спрашивать", "ee": "küsima", "ee_da": "küsida", "ee_mina": "küsin", "ee_past_mina": "küsisin", "ee_past_tema": "küsis", "ee_past_neg": "ei küsinud" },
+    { "en": "answer", "en_t": "/ˈænsər/", "ru": "отвечать", "ee": "vastama", "ee_da": "vastata", "ee_mina": "vastan", "ee_past_mina": "vastasin", "ee_past_tema": "vastas", "ee_past_neg": "ei vastanud" },
+    { "en": "start", "en_t": "/stɑːrt/", "ru": "начинать", "ee": "alustama", "ee_da": "alustada", "ee_mina": "alustan", "ee_past_mina": "alustasin", "ee_past_tema": "alustas", "ee_past_neg": "ei alustanud" },
+    { "en": "eat", "en_t": "/iːt/", "ru": "есть", "ee": "sööma", "ee_da": "süüa", "ee_mina": "söön", "ee_past_mina": "sõin", "ee_past_tema": "sõi", "ee_past_neg": "ei söönud" },
+    { "en": "join", "en_t": "/dʒɔɪn/", "ru": "присоединяться", "ee": "liituma", "ee_da": "liituda", "ee_mina": "liitun", "ee_past_mina": "liitusin", "ee_past_tema": "liitus", "ee_past_neg": "ei liitunud" },
+    { "en": "see", "en_t": "/siː/", "ru": "смотреть, видеть", "ee": "nägema", "ee_da": "näha", "ee_mina": "näen", "ee_past_mina": "nägin", "ee_past_tema": "nägi", "ee_past_neg": "ei näinud" },
+    { "en": "love", "en_t": "/lʌv/", "ru": "любить", "ee": "armastama", "ee_da": "armastada", "ee_mina": "armastan", "ee_past_mina": "armastasin", "ee_past_tema": "armastas", "ee_past_neg": "ei armastanud" },
+    { "en": "remain", "en_t": "/rɪˈmeɪn/", "ru": "оставаться", "ee": "jääma", "ee_da": "jääda", "ee_mina": "jään", "ee_past_mina": "jäin", "ee_past_tema": "jäi", "ee_past_neg": "ei jäänud" },
+    { "en": "put", "en_t": "/pʊt/", "ru": "класть, помещать", "ee": "panema", "ee_da": "panna", "ee_mina": "panen", "ee_past_mina": "panin", "ee_past_tema": "pani", "ee_past_neg": "ei pannud" },
+    { "en": "reach", "en_t": "/riːtʃ/", "ru": "достигать", "ee": "jõudma", "ee_da": "jõuda", "ee_mina": "jõuan", "ee_past_mina": "jõudsin", "ee_past_tema": "jõudis", "ee_past_neg": "ei jõudnud" },
+    { "en": "cut", "en_t": "/kʌt/", "ru": "резать", "ee": "lõikama", "ee_da": "lõigata", "ee_mina": "lõikan", "ee_past_mina": "lõikasin", "ee_past_tema": "lõikas", "ee_past_neg": "ei lõiganud" },
+    { "en": "fall", "en_t": "/fɔːl/", "ru": "падать", "ee": "kukkuma", "ee_da": "kukkuda", "ee_mina": "kukun", "ee_past_mina": "kukkusin", "ee_past_tema": "kukkus", "ee_past_neg": "ei kukkunud" },
+    { "en": "wait", "en_t": "/weɪt/", "ru": "ждать", "ee": "ootama", "ee_da": "oodata", "ee_mina": "ootan", "ee_past_mina": "ootasin", "ee_past_tema": "ootas", "ee_past_neg": "ei oodanud" },
+    { "en": "write", "en_t": "/raɪt/", "ru": "писать", "ee": "kirjutama", "ee_da": "kirjutada", "ee_mina": "kirjutan", "ee_past_mina": "kirjutasin", "ee_past_tema": "kirjutas", "ee_past_neg": "ei kirjutanud" },
+    { "en": "bring", "en_t": "/brɪŋ/", "ru": "приносить", "ee": "tooma", "ee_da": "tuua", "ee_mina": "toon", "ee_past_mina": "tõin", "ee_past_tema": "tõi", "ee_past_neg": "ei toonud" },
+    { "en": "realize", "en_t": "/ˈriːəlaɪz/", "ru": "понимать, осознавать", "ee": "aru saama", "ee_da": "aru saada", "ee_mina": "saan aru", "ee_past_mina": "sain aru", "ee_past_tema": "sai aru", "ee_past_neg": "ei saanud aru" },
+    { "en": "involve", "en_t": "/ɪnˈvɒlv/", "ru": "вовлекать", "ee": "kaasama", "ee_da": "kaasata", "ee_mina": "kaasan", "ee_past_mina": "kaasasin", "ee_past_tema": "kaasas", "ee_past_neg": "ei kaasanud" },
+    { "en": "reduce", "en_t": "/rɪˈdjuːs/", "ru": "сокращать", "ee": "vähendama", "ee_da": "vähendada", "ee_mina": "vähendan", "ee_past_mina": "vähendasin", "ee_past_tema": "vähendas", "ee_past_neg": "ei vähendanud" },
+    { "en": "concern", "en_t": "/kənˈsɜːrn/", "ru": "беспокоиться", "ee": "muretsema", "ee_da": "muretseda", "ee_mina": "muretsen", "ee_past_mina": "muretsesin", "ee_past_tema": "muretses", "ee_past_neg": "ei muretsenud" },
+    { "en": "fly", "en_t": "/flaɪ/", "ru": "летать", "ee": "lendama", "ee_da": "lennata", "ee_mina": "lendan", "ee_past_mina": "lendasin", "ee_past_tema": "lendas", "ee_past_neg": "ei lennanud" },
+    { "en": "worry", "en_t": "/ˈwɜːri/", "ru": "переживать", "ee": "muretsema", "ee_da": "muretseda", "ee_mina": "muretsen", "ee_past_mina": "muretsesin", "ee_past_tema": "muretses", "ee_past_neg": "ei muretsenud" },
+    { "en": "manage", "en_t": "/ˈmænɪdʒ/", "ru": "управлять, справляться", "ee": "hakkama saama", "ee_da": "hakkama saada", "ee_mina": "saan hakkama", "ee_past_mina": "sain hakkama", "ee_past_tema": "sai hakkama", "ee_past_neg": "ei saanud hakkama" },
+    { "en": "apply", "en_t": "/əˈplaɪ/", "ru": "обращаться (подать заявку)", "ee": "pöörduma", "ee_da": "pöörduda", "ee_mina": "pöördun", "ee_past_mina": "pöördusin", "ee_past_tema": "pöördus", "ee_past_neg": "ei pöördunud" },
+    { "en": "spend", "en_t": "/spɛnd/", "ru": "проводить, тратить", "ee": "kulutama", "ee_da": "kulutada", "ee_mina": "kulutan", "ee_past_mina": "kulutasin", "ee_past_tema": "kulutas", "ee_past_neg": "ei kulutanud" },
+    { "en": "keep", "en_t": "/kiːp/", "ru": "хранить", "ee": "hoidma", "ee_da": "hoida", "ee_mina": "hoian", "ee_past_mina": "hoidsin", "ee_past_tema": "hoidis", "ee_past_neg": "ei hoidnud" },
+    { "en": "smell", "en_t": "/smɛl/", "ru": "пахнуть, нюхать", "ee": "lõhnama", "ee_da": "lõhnata", "ee_mina": "lõhnan", "ee_past_mina": "lõhnasin", "ee_past_tema": "lõhnas", "ee_past_neg": "ei lõhnanud" },
+    { "en": "begin", "en_t": "/bɪˈɡɪn/", "ru": "начинать", "ee": "alustama", "ee_da": "alustada", "ee_mina": "alustan", "ee_past_mina": "alustasin", "ee_past_tema": "alustas", "ee_past_neg": "ei alustanud" },
+    { "en": "enjoy", "en_t": "/ɪnˈdʒɔɪ/", "ru": "получать удовольствие", "ee": "nautima", "ee_da": "nautida", "ee_mina": "naudin", "ee_past_mina": "nautisin", "ee_past_tema": "nautis", "ee_past_neg": "ei nautinud" },
+    { "en": "pretend", "en_t": "/prɪˈtɛnd/", "ru": "притворяться", "ee": "teesklema", "ee_da": "teeselda", "ee_mina": "teesklen", "ee_past_mina": "teesklesin", "ee_past_tema": "teeskles", "ee_past_neg": "ei teeselnud" },
+    { "en": "stop", "en_t": "/stɒp/", "ru": "останавливаться", "ee": "peatuma", "ee_da": "peatuda", "ee_mina": "peatun", "ee_past_mina": "peatusin", "ee_past_tema": "peatus", "ee_past_neg": "ei peatunud" },
+    { "en": "build", "en_t": "/bɪld/", "ru": "строить", "ee": "ehitama", "ee_da": "ehitada", "ee_mina": "ehitan", "ee_past_mina": "ehitasin", "ee_past_tema": "ehitas", "ee_past_neg": "ei ehitanud" },
+    { "en": "meet", "en_t": "/miːt/", "ru": "встречаться", "ee": "kohtuma", "ee_da": "kohtuda", "ee_mina": "kohtun", "ee_past_mina": "kohtusin", "ee_past_tema": "kohtus", "ee_past_neg": "ei kohtunud" },
+    { "en": "stand", "en_t": "/stænd/", "ru": "стоять", "ee": "seisma", "ee_da": "seista", "ee_mina": "seisan", "ee_past_mina": "seisin", "ee_past_tema": "seisis", "ee_past_neg": "ei seisnud" },
+    { "en": "continue", "en_t": "/kənˈtɪnjuː/", "ru": "продолжать", "ee": "jätkama", "ee_da": "jätkata", "ee_mina": "jätkan", "ee_past_mina": "jätkasin", "ee_past_tema": "jätkas", "ee_past_neg": "ei jätkanud" },
+    { "en": "buy", "en_t": "/baɪ/", "ru": "покупать", "ee": "ostma", "ee_da": "osta", "ee_mina": "ostan", "ee_past_mina": "ostsin", "ee_past_tema": "ostis", "ee_past_neg": "ei ostnud" },
+    { "en": "walk", "en_t": "/wɔːk/", "ru": "гулять", "ee": "kõndima", "ee_da": "kõndida", "ee_mina": "kõnnin", "ee_past_mina": "kõndisin", "ee_past_tema": "kõndis", "ee_past_neg": "ei kõndinud" },
+    { "en": "open", "en_t": "/ˈəʊpən/", "ru": "открывать", "ee": "avama", "ee_da": "avada", "ee_mina": "avan", "ee_past_mina": "avasin", "ee_past_tema": "avas", "ee_past_neg": "ei avanud" },
+    { "en": "offer", "en_t": "/ˈɒfə(r)/", "ru": "предлагать", "ee": "pakkuma", "ee_da": "pakkuda", "ee_mina": "pakun", "ee_past_mina": "pakkusin", "ee_past_tema": "pakkus", "ee_past_neg": "ei pakkunud" },
+    { "en": "imagine", "en_t": "/ɪˈmædʒɪn/", "ru": "воображать", "ee": "ette kujutama", "ee_da": "ette kujutada", "ee_mina": "kujutan ette", "ee_past_mina": "kujutasin ette", "ee_past_tema": "kujutas ette", "ee_past_neg": "ei kujutanud ette" },
+    { "en": "send", "en_t": "/sɛnd/", "ru": "отправлять", "ee": "saatma", "ee_da": "saata", "ee_mina": "saadan", "ee_past_mina": "saatsin", "ee_past_tema": "saatis", "ee_past_neg": "ei saatnud" },
+    { "en": "die", "en_t": "/daɪ/", "ru": "умирать", "ee": "surema", "ee_da": "surra", "ee_mina": "suren", "ee_past_mina": "surin", "ee_past_tema": "suri", "ee_past_neg": "ei surnud" },
+    { "en": "serve", "en_t": "/sɜːrv/", "ru": "служить", "ee": "teenima", "ee_da": "teenida", "ee_mina": "teenin", "ee_past_mina": "teenisin", "ee_past_tema": "teenis", "ee_past_neg": "ei teeninud" },
+    { "en": "appear", "en_t": "/əˈpɪə(r)/", "ru": "появляться", "ee": "ilmuma", "ee_da": "ilmuda", "ee_mina": "ilmun", "ee_past_mina": "ilmu­sin", "ee_past_tema": "ilmus", "ee_past_neg": "ei ilmunud" },
+    { "en": "return", "en_t": "/rɪˈtɜːn/", "ru": "возвращаться", "ee": "naasma", "ee_da": "naasta", "ee_mina": "naasen", "ee_past_mina": "naasesin", "ee_past_tema": "naasis", "ee_past_neg": "ei naasnud" },
+    { "en": "consider", "en_t": "/kənˈsɪdə(r)/", "ru": "учитывать", "ee": "kaaluma", "ee_da": "kaaluda", "ee_mina": "kaalun", "ee_past_mina": "kaalusin", "ee_past_tema": "kaalus", "ee_past_neg": "ei kaalunud" },
+    { "en": "remember", "en_t": "/rɪˈmembə(r)/", "ru": "помнить", "ee": "mäletama", "ee_da": "mäletada", "ee_mina": "mäletan", "ee_past_mina": "mäletasin", "ee_past_tema": "mäletas", "ee_past_neg": "ei mäletanud" },
+    { "en": "win", "en_t": "/wɪn/", "ru": "побеждать", "ee": "võitma", "ee_da": "võita", "ee_mina": "võidan", "ee_past_mina": "võitsin", "ee_past_tema": "võitis", "ee_past_neg": "ei võitnud" },
+    { "en": "read", "en_t": "/riːd/", "ru": "читать", "ee": "lugema", "ee_da": "lugeda", "ee_mina": "loen", "ee_past_mina": "lugesin", "ee_past_tema": "luges", "ee_past_neg": "ei lugenud" },
+    { "en": "expect", "en_t": "/ɪkˈspɛkt/", "ru": "ожидать", "ee": "ootama", "ee_da": "oodata", "ee_mina": "ootan", "ee_past_mina": "ootasin", "ee_past_tema": "ootas", "ee_past_neg": "ei oodanud" },
+    { "en": "break", "en_t": "/breɪk/", "ru": "прерывать, ломать", "ee": "lõhkuma", "ee_da": "lõhkuda", "ee_mina": "lõhun", "ee_past_mina": "lõhkusin", "ee_past_tema": "lõhkus", "ee_past_neg": "ei lõhkunud" },
+    { "en": "grow", "en_t": "/ɡroʊ/", "ru": "расти", "ee": "kasvama", "ee_da": "kasvada", "ee_mina": "kasvan", "ee_past_mina": "kasvasin", "ee_past_tema": "kasvas", "ee_past_neg": "ei kasvanud" },
+    { "en": "add", "en_t": "/æd/", "ru": "добавлять", "ee": "lisama", "ee_da": "lisada", "ee_mina": "lisan", "ee_past_mina": "lisasin", "ee_past_tema": "lisas", "ee_past_neg": "ei lisanud" },
+    { "en": "allow", "en_t": "/əˈlaʊ/", "ru": "позволять", "ee": "lubama", "ee_da": "lubada", "ee_mina": "luban", "ee_past_mina": "lubasin", "ee_past_tema": "lubas", "ee_past_neg": "ei lubanud" },
+    { "en": "speak", "en_t": "/spiːk/", "ru": "говорить", "ee": "rääkima", "ee_da": "rääkida", "ee_mina": "räägin", "ee_past_mina": "rääkisin", "ee_past_tema": "rääkis", "ee_past_neg": "ei rääkinud" },
+    { "en": "create", "en_t": "/kriːˈeɪt/", "ru": "создавать", "ee": "looma", "ee_da": "luua", "ee_mina": "loon", "ee_past_mina": "lõin", "ee_past_tema": "lõi", "ee_past_neg": "ei loonud" },
+    { "en": "avoid", "en_t": "/əˈvɔɪd/", "ru": "избегать", "ee": "vältima", "ee_da": "vältida", "ee_mina": "väldin", "ee_past_mina": "vältisin", "ee_past_tema": "vältis", "ee_past_neg": "ei vältinud" },
+    { "en": "sleep", "en_t": "/sliːp/", "ru": "спать", "ee": "magama", "ee_da": "magada", "ee_mina": "magan", "ee_past_mina": "magasin", "ee_past_tema": "magas", "ee_past_neg": "ei maganud" },
+    { "en": "understand", "en_t": "/ˌʌndəˈstænd/", "ru": "понимать", "ee": "aru saama", "ee_da": "aru saada", "ee_mina": "saan aru", "ee_past_mina": "sain aru", "ee_past_tema": "sai aru", "ee_past_neg": "ei saanud aru" },
+    { "en": "lead", "en_t": "/liːd/", "ru": "вести, руководить", "ee": "juhtima", "ee_da": "juhtida", "ee_mina": "juhin", "ee_past_mina": "juhtisin", "ee_past_tema": "juhtis", "ee_past_neg": "ei juhtinud" },
+    { "en": "learn", "en_t": "/lɜːrn/", "ru": "учить, запоминать", "ee": "õppima", "ee_da": "õppida", "ee_mina": "õpin", "ee_past_mina": "õppisin", "ee_past_tema": "õppis", "ee_past_neg": "ei õppinud" },
+    { "en": "set", "en_t": "/sɛt/", "ru": "устанавливать", "ee": "seadma", "ee_da": "seada", "ee_mina": "sean", "ee_past_mina": "seadsin", "ee_past_tema": "seadis", "ee_past_neg": "ei seadnud" },
+    { "en": "include", "en_t": "/ɪnˈkluːd/", "ru": "включать", "ee": "sisaldama", "ee_da": "sisaldada", "ee_mina": "sisaldan", "ee_past_mina": "sisaldasin", "ee_past_tema": "sisaldas", "ee_past_neg": "ei sisaldanud" },
+    { "en": "pay", "en_t": "/peɪ/", "ru": "платить", "ee": "maksma", "ee_da": "maksta", "ee_mina": "maks­an", "ee_past_mina": "maksin", "ee_past_tema": "maksis", "ee_past_neg": "ei maksnud" },
+    { "en": "feel", "en_t": "/fiːl/", "ru": "чувствовать", "ee": "tundma", "ee_da": "tunda", "ee_mina": "tunnen", "ee_past_mina": "tundsin", "ee_past_tema": "tundis", "ee_past_neg": "ei tundnud" },
+    { "en": "happen", "en_t": "/ˈhæpən/", "ru": "происходить", "ee": "juhtuma", "ee_da": "juhtuda", "ee_mina": "juhtun", "ee_past_mina": "juhtusin", "ee_past_tema": "juhtus", "ee_past_neg": "ei juhtunud" },
+    { "en": "sit", "en_t": "/sɪt/", "ru": "сидеть", "ee": "istuma", "ee_da": "istuda", "ee_mina": "istun", "ee_past_mina": "istusin", "ee_past_tema": "istus", "ee_past_neg": "ei istunud" },
+    { "en": "provide", "en_t": "/prəˈvaɪd/", "ru": "предоставлять", "ee": "varustama", "ee_da": "varustada", "ee_mina": "varustan", "ee_past_mina": "varustasin", "ee_past_tema": "varustas", "ee_past_neg": "ei varustanud" },
+    { "en": "must", "en_t": "/mʌst/", "ru": "быть обязанным", "ee": "pidama", "ee_da": "pidada", "ee_mina": "pean", "ee_past_mina": "pidin", "ee_past_tema": "pidi", "ee_past_neg": "ei pidanud" },
+    { "en": "hold", "en_t": "/hoʊld/", "ru": "держать", "ee": "hoidma", "ee_da": "hoida", "ee_mina": "hoian", "ee_past_mina": "hoidsin", "ee_past_tema": "hoidis", "ee_past_neg": "ei hoidnud" },
+    { "en": "live", "en_t": "/lɪv/", "ru": "жить", "ee": "elama", "ee_da": "elada", "ee_mina": "elan", "ee_past_mina": "elasin", "ee_past_tema": "elas", "ee_past_neg": "ei elanud" },
+    { "en": "play", "en_t": "/pleɪ/", "ru": "играть", "ee": "mängima", "ee_da": "mängida", "ee_mina": "mängin", "ee_past_mina": "mängisin", "ee_past_tema": "mängis", "ee_past_neg": "ei mänginud" },
+    { "en": "leave", "en_t": "/liːv/", "ru": "покидать, оставлять", "ee": "lahkuma", "ee_da": "lahkuda", "ee_mina": "lahkun", "ee_past_mina": "lahkusin", "ee_past_tema": "lahkus", "ee_past_neg": "ei lahkunud" },
+    { "en": "seem", "en_t": "/siːm/", "ru": "казаться", "ee": "tunduma", "ee_da": "tunduda", "ee_mina": "tundun", "ee_past_mina": "tundusin", "ee_past_tema": "tundus", "ee_past_neg": "ei tundunud" },
+    { "en": "hear", "en_t": "/hɪər/", "ru": "слышать", "ee": "kuulma", "ee_da": "kuulda", "ee_mina": "kuulen", "ee_past_mina": "kuulsin", "ee_past_tema": "kuulis", "ee_past_neg": "ei kuulnud" },
+    { "en": "care", "en_t": "/kɛər/", "ru": "заботиться", "ee": "hoolima", "ee_da": "hoolida", "ee_mina": "hoolin", "ee_past_mina": "hoolisin", "ee_past_tema": "hoolis", "ee_past_neg": "ei hoolinud" },
+    { "en": "show", "en_t": "/ʃoʊ/", "ru": "показывать", "ee": "näitama", "ee_da": "näidata", "ee_mina": "näitan", "ee_past_mina": "näitasin", "ee_past_tema": "näitas", "ee_past_neg": "ei näidanud" },
+    { "en": "turn", "en_t": "/tɜːrn/", "ru": "поворачивать", "ee": "pöörama", "ee_da": "pöörata", "ee_mina": "pööran", "ee_past_mina": "pöörasin", "ee_past_tema": "pööras", "ee_past_neg": "ei pööranud" },
+    { "en": "help", "en_t": "/hɛlp/", "ru": "помогать", "ee": "aitama", "ee_da": "aidata", "ee_mina": "aitan", "ee_past_mina": "aitasin", "ee_past_tema": "aitas", "ee_past_neg": "ei aidanud" },
+    { "en": "mean", "en_t": "/miːn/", "ru": "иметь в виду", "ee": "silmas pidama", "ee_da": "silmas pidada", "ee_mina": "pean silmas", "ee_past_mina": "pidasin silmas", "ee_past_tema": "pidas silmas", "ee_past_neg": "ei pidanud silmas" },
+    { "en": "become", "en_t": "/bɪˈkʌm/", "ru": "становиться", "ee": "saama", "ee_da": "saada", "ee_mina": "saan", "ee_past_mina": "sain", "ee_past_tema": "sai", "ee_past_neg": "ei saanud" },
+    { "en": "need", "en_t": "/niːd/", "ru": "нуждаться", "ee": "vajama", "ee_da": "vajada", "ee_mina": "vajan", "ee_past_mina": "vajasin", "ee_past_tema": "vajas", "ee_past_neg": "ei vajanud" },
+    { "en": "call", "en_t": "/kɔːl/", "ru": "звать", "ee": "kutsuma", "ee_da": "kutsuda", "ee_mina": "kutsun", "ee_past_mina": "kutsusin", "ee_past_tema": "kutsus", "ee_past_neg": "ei kutsunud" },
+    { "en": "may", "en_t": "/meɪ/", "ru": "мочь (разрешение)", "ee": "tohtima", "ee_da": "tohtida", "ee_mina": "tohin", "ee_past_mina": "tohtisin", "ee_past_tema": "tohtis", "ee_past_neg": "ei tohtinud" },
+    { "en": "study", "en_t": "/ˈstʌdi/", "ru": "изучать", "ee": "uurima", "ee_da": "uurida", "ee_mina": "uurin", "ee_past_mina": "uurisin", "ee_past_tema": "uuris", "ee_past_neg": "ei uurinud" },
+    { "en": "behave", "en_t": "/bɪˈheɪv/", "ru": "вести себя", "ee": "käituma", "ee_da": "käituda", "ee_mina": "käitun", "ee_past_mina": "käitusin", "ee_past_tema": "käitus", "ee_past_neg": "ei käitunud" },
+    { "en": "suggest", "en_t": "/səˈdʒɛst/", "ru": "предлагать", "ee": "soovitama", "ee_da": "soovitada", "ee_mina": "soovitan", "ee_past_mina": "soovitasin", "ee_past_tema": "soovitas", "ee_past_neg": "ei soovitanud" }
+  ]
+}
