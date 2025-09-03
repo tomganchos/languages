@@ -1,0 +1,65 @@
+{
+  "lesson": "B1 7",
+  "date": "2024-12-30",
+  "language": "ee",
+  "words": [
+    { "en": "review", "ru": "обзор; рецензия", "ee": "arvustus", "ee_2": "arvustuse", "ee_3": "arvustust", "ee_p": "arvustused", "ee_p2": "arvustuste", "ee_p3": "arvustusi" },
+    { "en": "just in case", "ru": "на всякий случай", "ee": "igaks juhuks" },
+    { "en": "Do you check the per-kilo and per-liter price?", "ru": "Ты смотришь цену за килограмм и литр?", "ee": "Kas sa vaatad kilo-ja liitrihinda?" },
+    { "en": "shoe store", "ru": "магазин обуви", "ee": "kingapood", "ee_2": "kingapoe", "ee_3": "kingapoodi", "ee_p": "kingapoed", "ee_p2": "kingapoodide", "ee_p3": "kingapoode" },
+    { "en": "fabric store", "ru": "магазин тканей", "ee": "kangapood", "ee_2": "kangapoe", "ee_3": "kangapoodi", "ee_p": "kangapoed", "ee_p2": "kangapoodide", "ee_p3": "kangapoode" },
+    { "en": "office supplies store", "ru": "магазин канцтоваров", "ee": "kontoritarvete pood" },
+    { "en": "household goods store", "ru": "магазин товаров для дома", "ee": "majapidamistarvete pood" },
+
+    { "en": "I’m going to the grocery store to buy fruit", "ru": "Я иду в продуктовый магазин за фруктами", "ee": "Ma lähen toidupoodi puuvilju ostma" },
+    { "en": "I go to the grocery store every week to buy fruit", "ru": "Я каждую неделю хожу в магазин за фруктами", "ee": "Ma käin iga nädal toidupoes puuvilju ostmas" },
+    { "en": "I buy fruit from the grocery store", "ru": "Я покупаю фрукты в продуктовом магазине", "ee": "Ostan puuvilju toidupoest" },
+
+    { "en": "bouquet; bunch", "ru": "букет; пучок", "ee": "kimp", "ee_2": "kimbu", "ee_3": "kimpu", "ee_p": "kimbud", "ee_p2": "kimpude", "ee_p3": "kimpe" },
+    { "en": "fruit", "ru": "фрукт", "ee": "puuvili", "ee_2": "puuvilja", "ee_3": "puuvilja", "ee_p": "puuviljad", "ee_p2": "puuviljade", "ee_p3": "puuvilju" },
+    { "en": "vegetable (garden produce)", "ru": "овощ", "ee": "aedvili", "ee_2": "aedvilja", "ee_3": "aedvilja", "ee_p": "aedviljad", "ee_p2": "aedviljade", "ee_p3": "aedvilju" },
+    { "en": "vegetable", "ru": "овощ", "ee": "köögivili", "ee_2": "köögivilja", "ee_3": "köögivilja", "ee_p": "köögiviljad", "ee_p2": "köögiviljade", "ee_p3": "köögivilju" },
+
+    { "en": "the fridge is broken and the tap is busted", "ru": "холодильник сломан, кран тоже сломан", "ee": "Külmik rikkis ja kraan katki" },
+
+    { "en": "silver", "ru": "серебро", "ee": "hõbe", "ee_2": "hõbeda", "ee_3": "hõbedat" },
+    { "en": "janitor; windshield wiper", "ru": "дворник; стеклоочиститель", "ee": "kojamees", "ee_2": "kojamehe", "ee_3": "kojameest", "ee_p": "kojamehed", "ee_p2": "kojameeste", "ee_p3": "kojamehi" },
+    { "en": "chewing gum (part.)", "ru": "жвачки (парт.)", "ee": "Nätsu" },
+    { "en": "thread", "ru": "нить", "ee": "niit", "ee_2": "niidi", "ee_3": "niiti", "ee_p": "niidid", "ee_p2": "niitide", "ee_p3": "niite" },
+    { "en": "needle", "ru": "игла", "ee": "nõel", "ee_2": "nõela", "ee_3": "nõela", "ee_p": "nõelad", "ee_p2": "nõelte", "ee_p3": "nõelu" },
+    { "en": "wallpaper (part.)", "ru": "обоев (парт.)", "ee": "Tapeeti" },
+
+    { "en": "decent suit", "ru": "приличный костюм", "ee": "korralik kostüüm" },
+    { "en": "right size (sg/pl)", "ru": "подходящий по размеру (ед./мн.)", "ee": "paras ja parajad" },
+    { "en": "What will you put on your body, feet, head and hands?", "ru": "Что ты наденешь на тело, ноги, голову и руки?", "ee": "Mille sa selga, jalga, pähe ja kätte paned?" },
+    { "en": "girl; young woman", "ru": "девушка", "ee": "neiu", "ee_2": "neiu", "ee_3": "neidu", "ee_p": "neiud", "ee_p2": "neidude", "ee_p3": "neiusid" },
+
+    { "en": "What will you put on? I’ll put on a dark T-shirt and comfy sneakers", "ru": "Что ты наденешь? Я надену тёмную футболку и удобные кеды", "ee": "Mille sa selga paned? Ma panen selga tumeda t-särgi ja panen jalga mugavad tennised" },
+    { "en": "none; not any (part.)", "ru": "никаких; ни одного (парт.)", "ee": "Ühtegi" },
+    { "en": "baseball cap", "ru": "кепка с козырьком", "ee": "nokkmüts", "ee_2": "nokkmütsi", "ee_3": "nokkmütsi", "ee_p": "nokkmütsid", "ee_p2": "nokkmütside", "ee_p3": "nokkmütse" },
+    { "en": "hoodie", "ru": "толстовка с капюшоном", "ee": "kapuutsiga kampsun" },
+    { "en": "reuse; recycling", "ru": "повторное использование; переработка", "ee": "taaskasutus", "ee_2": "taaskasutuse", "ee_3": "taaskasutust" },
+    { "en": "surroundings; vicinity", "ru": "окрестности; окружение", "ee": "ümbrus", "ee_2": "ümbruse", "ee_3": "ümbrust" },
+
+    { "en": "Delete 3 photos on the phone", "ru": "Удалите 3 фото в телефоне", "ee": "Kustuta telefonis 3 pilti" },
+    { "en": "scissors", "ru": "ножницы", "ee": "käärid", "ee_p": "käärid", "ee_p2": "kääride", "ee_p3": "kääre" },
+    { "en": "tent", "ru": "палатка", "ee": "telk", "ee_2": "telgi", "ee_3": "telki", "ee_p": "telgid", "ee_p2": "telkide", "ee_p3": "telke" },
+    { "en": "wall paint", "ru": "краска для стен", "ee": "seinavärv", "ee_2": "seinavärvi", "ee_3": "seinavärvi", "ee_p": "seinavärvid", "ee_p2": "seinavärvide", "ee_p3": "seinavärve" },
+    { "en": "consumer", "ru": "потребитель", "ee": "tarbija", "ee_2": "tarbija", "ee_3": "tarbijat", "ee_p": "tarbijad", "ee_p2": "tarbijate", "ee_p3": "tarbijaid" },
+    { "en": "second-hand store", "ru": "комиссионный/секонд-хенд", "ee": "teise ringi pood" },
+
+    { "en": "Do you still have the receipt?", "ru": "Квитанция/чек сохранился?", "ee": "Kas kviitung on alles?" },
+    { "en": "He/She earns 6 euros per hour", "ru": "Он/она зарабатывает 6 евро в час", "ee": "Ta teenib 6 eurot tunnis" },
+    { "en": "I was speeding", "ru": "Я превысил(а) скорость", "ee": "Ma ületasin kiirust" },
+    { "en": "experienced athlete", "ru": "опытный спортсмен", "ee": "kogenud sportlane" },
+
+    { "en": "king", "ru": "король", "ee": "kuningas", "ee_2": "kuninga", "ee_3": "kuningat", "ee_p": "kuningad", "ee_p2": "kuningate", "ee_p3": "kuningaid" },
+    { "en": "queen", "ru": "королева", "ee": "kuninganna", "ee_2": "kuninganna", "ee_3": "kuningannat", "ee_p": "kuningannad", "ee_p2": "kuningannade", "ee_p3": "kuningannasid" },
+    { "en": "hat (brimmed)", "ru": "шляпа", "ee": "kübar", "ee_2": "kübara", "ee_3": "kübarat", "ee_p": "kübarad", "ee_p2": "kübarate", "ee_p3": "kübaraid" },
+    { "en": "gladly; willingly", "ru": "с удовольствием; охотно", "ee": "meelsasti" },
+
+    { "en": "to donate", "ru": "жертвовать; донатить", "ee": "annetama", "ee_da": "annetada", "ee_mina": "annetan", "ee_past_mina": "annetasin", "ee_past_tema": "annetas", "ee_past_neg": "ei annetanud" },
+    { "en": "to sell off (sell something away)", "ru": "распродать; продать", "ee": "maha müüma", "ee_da": "maha müüa", "ee_mina": "müün maha", "ee_past_mina": "müüsin maha", "ee_past_tema": "müüs maha", "ee_past_neg": "ei müünud maha" },
+    { "en": "to believe", "ru": "верить", "ee": "uskuma", "ee_da": "uskuda", "ee_mina": "usun", "ee_past_mina": "uskusin", "ee_past_tema": "uskus", "ee_past_neg": "ei uskunud" }
+  ]
+}

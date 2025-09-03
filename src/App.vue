@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <Header @settingsClicked="showSettings = !showSettings"/>
+    <div v-if="user">{{ user }}</div>
     <main v-if="allLoaded">
       <RouterView v-if="!showSettings"
                   :data="dataToComponent"
@@ -34,6 +35,7 @@ export default {
     return {
       showSettings: false,
       allLoaded: false,
+      user: ''
     }
   },
   computed: {
@@ -79,6 +81,14 @@ export default {
       console.log('all loaded')
       this.allLoaded = true
     })
+  },
+  mounted() {
+    const webApp = window.Telegram?.WebApp;
+    if (webApp) {
+      webApp.ready();
+      this.tg = webApp;
+      this.user = webApp.initDataUnsafe?.user;
+    }
   },
   watch: {
     currentRoute () {
