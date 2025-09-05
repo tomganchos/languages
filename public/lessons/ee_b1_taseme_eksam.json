@@ -1,0 +1,538 @@
+{
+  "lesson": "B1 taseme eksam",
+  "date": "2025-09-05",
+  "language": "ee",
+  "words": [
+    {
+      "en": "listening comprehension",
+      "ru": "понимание на слух",
+      "ee": "kuuldu mõistmist"
+    },
+    {
+      "en": "reading comprehension",
+      "ru": "понимание прочитанного",
+      "ee": "loetu mõistmist"
+    },
+    {
+      "en": "citizenship",
+      "ru": "гражданство",
+      "ee": "kodakondsus",
+      "ee_2": "kodakondsuse",
+      "ee_3": "kodakondsust",
+      "ee_p": "kodakondsused",
+      "ee_p2": "kodakondsuste",
+      "ee_p3": "kodakondsusi"
+    },
+    {
+      "en": "applicant",
+      "ru": "заявитель",
+      "ee": "taotleja",
+      "ee_2": "taotleja",
+      "ee_3": "taotlejat",
+      "ee_p": "taotlejad",
+      "ee_p2": "taotlejate",
+      "ee_p3": "taotlejaid"
+    },
+    {
+      "en": "newcomer; one who comes",
+      "ru": "прибывший; новичок",
+      "ee": "tulija",
+      "ee_2": "tulija",
+      "ee_3": "tulijat",
+      "ee_p": "tulijad",
+      "ee_p2": "tulijate",
+      "ee_p3": "tulijaid"
+    },
+    {
+      "en": "oral part",
+      "ru": "устная часть",
+      "ee": "suuline osa"
+    },
+    {
+      "en": "please take into account",
+      "ru": "просим учесть",
+      "ee": "palume arvestada"
+    },
+    {
+      "en": "exception",
+      "ru": "исключение",
+      "ee": "erand",
+      "ee_2": "erandi",
+      "ee_3": "erandit",
+      "ee_p": "erandid",
+      "ee_p2": "erandite",
+      "ee_p3": "erandeid"
+    },
+    {
+      "en": "standpoint; position",
+      "ru": "точка зрения; позиция",
+      "ee": "seisukoht",
+      "ee_2": "seisukoha",
+      "ee_3": "seisukohta",
+      "ee_p": "seisukohad",
+      "ee_p2": "seisukohtade",
+      "ee_p3": "seisukohti"
+    },
+    {
+      "en": "story; talk",
+      "ru": "рассказ; речь",
+      "ee": "jutt",
+      "ee_2": "jutu",
+      "ee_3": "juttu",
+      "ee_p": "jutud",
+      "ee_p2": "juttude",
+      "ee_p3": "jutte"
+    },
+    {
+      "en": "questionnaire",
+      "ru": "анкета; вопросник",
+      "ee": "küsimustik",
+      "ee_2": "küsimustiku",
+      "ee_3": "küsimustikku",
+      "ee_p": "küsimustikud",
+      "ee_p2": "küsimustike",
+      "ee_p3": "küsimustikke"
+    },
+    {
+      "en": "working conditions",
+      "ru": "условия труда",
+      "ee": "töötingimused"
+    },
+    {
+      "en": "service; serving",
+      "ru": "обслуживание",
+      "ee": "teenindamine",
+      "ee_2": "teenindamise",
+      "ee_3": "teenindamist"
+    },
+    {
+      "en": "condition; term",
+      "ru": "условие",
+      "ee": "tingimus",
+      "ee_2": "tingimuse",
+      "ee_3": "tingimust",
+      "ee_p": "tingimused",
+      "ee_p2": "tingimuste",
+      "ee_p3": "tingimusi"
+    },
+    {
+      "en": "character; nature",
+      "ru": "характер",
+      "ee": "iseloom",
+      "ee_2": "iseloomu",
+      "ee_3": "iseloomu"
+    },
+    {
+      "en": "towards; in the direction of",
+      "ru": "в направлении",
+      "ee": "suunas"
+    },
+    {
+      "en": "up",
+      "ru": "вверх",
+      "ee": "üles"
+    },
+    {
+      "en": "down",
+      "ru": "вниз",
+      "ee": "alla"
+    },
+    {
+      "en": "leg; foot",
+      "ru": "нога; ступня",
+      "ee": "jalg",
+      "ee_2": "jala",
+      "ee_3": "jalga",
+      "ee_p": "jalad",
+      "ee_p2": "jalgade",
+      "ee_p3": "jalgu"
+    },
+    {
+      "en": "hand",
+      "ru": "рука",
+      "ee": "käsi",
+      "ee_2": "käe",
+      "ee_3": "kätt",
+      "ee_p": "käed",
+      "ee_p2": "käte",
+      "ee_p3": "käsi"
+    },
+    {
+      "en": "face",
+      "ru": "лицо",
+      "ee": "nägu",
+      "ee_2": "näo",
+      "ee_3": "nägu",
+      "ee_p": "näod",
+      "ee_p2": "nägude",
+      "ee_p3": "nägusid"
+    },
+    {
+      "en": "intended; meant",
+      "ru": "предназначенный",
+      "ee": "mõeldud"
+    },
+    {
+      "en": "kitchen utensil; piece of cookware",
+      "ru": "кухонная утварь (предмет)",
+      "ee": "kööginõu",
+      "ee_2": "kööginõu",
+      "ee_3": "kööginõud",
+      "ee_p": "kööginõud",
+      "ee_p2": "kööginõude",
+      "ee_p3": "kööginõusid"
+    },
+    {
+      "en": "the fair is free for visitors",
+      "ru": "ярмарка бесплатна для посетителей",
+      "ee": "mess on külastajatele ilma rahata"
+    },
+    {
+      "en": "At the fair you can get info about the best cooking school",
+      "ru": "На ярмарке можно получить информацию о лучшей кулинарной школе",
+      "ee": "Messil saab infot parima kokakooli kohta"
+    },
+    {
+      "en": "when do you usually have vacation?",
+      "ru": "когда у вас обычно отпуск?",
+      "ee": "millal teil tavaliselt puhkus on?"
+    },
+    {
+      "en": "sight; attraction",
+      "ru": "достопримечательность",
+      "ee": "vaatamisväärsus",
+      "ee_2": "vaatamisväärsuse",
+      "ee_3": "vaatamisväärsust"
+    },
+    {
+      "en": "swimming hall; pool (facility)",
+      "ru": "бассейн (здание)",
+      "ee": "ujula",
+      "ee_2": "ujula",
+      "ee_3": "ujulat",
+      "ee_p": "ujulad",
+      "ee_p2": "ujulate",
+      "ee_p3": "ujulaid"
+    },
+    {
+      "en": "institution",
+      "ru": "учреждение",
+      "ee": "asutus",
+      "ee_2": "asutuse",
+      "ee_3": "asutust",
+      "ee_p": "asutused",
+      "ee_p2": "asutuste",
+      "ee_p3": "asutusi"
+    },
+    {
+      "en": "above all; primarily",
+      "ru": "прежде всего",
+      "ee": "eelkõige"
+    },
+    {
+      "en": "sunscreen",
+      "ru": "крем от солнца",
+      "ee": "päikesekreem",
+      "ee_2": "päikesekreemi",
+      "ee_3": "päikesekreemi"
+    },
+    {
+      "en": "photo camera",
+      "ru": "фотоаппарат",
+      "ee": "fotoaparaat",
+      "ee_2": "fotoaparaadi",
+      "ee_3": "fotoaparaati"
+    },
+    {
+      "en": "flip-flops",
+      "ru": "шлёпанцы",
+      "ee": "plätud"
+    },
+    {
+      "en": "brimmed hat",
+      "ru": "шляпа",
+      "ee": "kübar",
+      "ee_2": "kübara",
+      "ee_3": "kübarat",
+      "ee_p": "kübarad",
+      "ee_p2": "kübarate",
+      "ee_p3": "kübaraid"
+    },
+    {
+      "en": "swimwear",
+      "ru": "купальная одежда",
+      "ee": "ujumisriided"
+    },
+    {
+      "en": "first-aid cabinet",
+      "ru": "аптечный шкаф",
+      "ee": "esmaabikapp",
+      "ee_2": "esmaabikapi",
+      "ee_3": "esmaabikappi",
+      "ee_p": "esmaabikapid",
+      "ee_p2": "esmaabikappide",
+      "ee_p3": "esmaabikappe"
+    },
+    {
+      "en": "buffet; snack bar",
+      "ru": "буфет",
+      "ee": "puhvet",
+      "ee_2": "puhveti",
+      "ee_3": "puhvetit"
+    },
+    {
+      "en": "one answer option remains (unused)",
+      "ru": "один вариант ответа остаётся (лишним)",
+      "ee": "üks vastusevariant jääb üle"
+    },
+    {
+      "en": "event",
+      "ru": "мероприятие; событие",
+      "ee": "üritus",
+      "ee_2": "ürituse",
+      "ee_3": "üritust",
+      "ee_p": "üritused",
+      "ee_p2": "ürituste",
+      "ee_p3": "üritusi"
+    },
+    {
+      "en": "equal",
+      "ru": "равный",
+      "ee": "võrdne"
+    },
+    {
+      "en": "middle-aged",
+      "ru": "средних лет",
+      "ee": "keskealine"
+    },
+    {
+      "en": "accidental; random",
+      "ru": "случайный",
+      "ee": "juhuslik"
+    },
+    {
+      "en": "confidence; sense of security",
+      "ru": "уверенность; чувство безопасности",
+      "ee": "kindlustunne",
+      "ee_2": "kindlustunde",
+      "ee_3": "kindlustunnet"
+    },
+    {
+      "en": "road conditions",
+      "ru": "дорожные условия",
+      "ee": "teeolud"
+    },
+    {
+      "en": "accident; misfortune",
+      "ru": "несчастный случай; авария",
+      "ee": "õnnetus",
+      "ee_2": "õnnetuse",
+      "ee_3": "õnnetust",
+      "ee_p": "õnnetused",
+      "ee_p2": "õnnetuste",
+      "ee_p3": "õnnetusi"
+    },
+    {
+      "en": "travel discount",
+      "ru": "льгота на проезд",
+      "ee": "sõidusoodustus",
+      "ee_2": "sõidusoodustuse",
+      "ee_3": "sõidusoodustust",
+      "ee_p": "sõidusoodustused",
+      "ee_p2": "sõidusoodustuste",
+      "ee_p3": "sõidusoodustusi"
+    },
+    {
+      "en": "appearance",
+      "ru": "внешность",
+      "ee": "välimus",
+      "ee_2": "välimuse",
+      "ee_3": "välimust"
+    },
+    {
+      "en": "gender; sex",
+      "ru": "пол",
+      "ee": "soo",
+      "ee_2": "soo",
+      "ee_3": "sood",
+      "ee_p": "sood",
+      "ee_p2": "soode",
+      "ee_p3": "soid"
+    },
+    {
+      "en": "to pick berries",
+      "ru": "собирать ягоды",
+      "ee": "marju korjama"
+    },
+    {
+      "en": "to leave; depart",
+      "ru": "уходить; уезжать",
+      "ee": "lahkuma",
+      "ee_da": "lahkuda",
+      "ee_mina": "lahkun",
+      "ee_past_mina": "lahkusin",
+      "ee_past_tema": "lahkus",
+      "ee_past_neg": "ei lahkunud"
+    },
+    {
+      "en": "to evaluate; assess",
+      "ru": "оценивать",
+      "ee": "hindama",
+      "ee_da": "hinnata",
+      "ee_mina": "hindan",
+      "ee_past_mina": "hinnasin",
+      "ee_past_tema": "hinnas",
+      "ee_past_neg": "ei hinnanud"
+    },
+    {
+      "en": "to justify; give reasons",
+      "ru": "обосновывать",
+      "ee": "põhjendama",
+      "ee_da": "põhjendada",
+      "ee_mina": "põhjendan",
+      "ee_past_mina": "põhjendasin",
+      "ee_past_tema": "põhjendas",
+      "ee_past_neg": "ei põhjendanud"
+    },
+    {
+      "en": "to explain; clarify",
+      "ru": "объяснять",
+      "ee": "selgitama",
+      "ee_da": "selgitada",
+      "ee_mina": "selgitan",
+      "ee_past_mina": "selgitasin",
+      "ee_past_tema": "selgitas",
+      "ee_past_neg": "ei selgitanud"
+    },
+    {
+      "en": "to understand",
+      "ru": "понимать",
+      "ee": "mõistma",
+      "ee_da": "mõista",
+      "ee_mina": "mõistan",
+      "ee_past_mina": "mõistsin",
+      "ee_past_tema": "mõistis",
+      "ee_past_neg": "ei mõistnud"
+    },
+    {
+      "en": "to fill; complete",
+      "ru": "заполнять; выполнять",
+      "ee": "täitma",
+      "ee_da": "täita",
+      "ee_mina": "täidan",
+      "ee_past_mina": "täitsin",
+      "ee_past_tema": "täitis",
+      "ee_past_neg": "ei täitnud"
+    },
+    {
+      "en": "to discuss",
+      "ru": "обсуждать",
+      "ee": "arutama",
+      "ee_da": "arutada",
+      "ee_mina": "arutan",
+      "ee_past_mina": "arutasin",
+      "ee_past_tema": "arutas",
+      "ee_past_neg": "ei arutanud"
+    },
+    {
+      "en": "to print out",
+      "ru": "распечатать",
+      "ee": "ära trükkima",
+      "ee_da": "ära trükkida",
+      "ee_mina": "trükkin ära",
+      "ee_past_mina": "trükkisin ära",
+      "ee_past_tema": "trükkis ära",
+      "ee_past_neg": "ei trükkinud ära"
+    },
+    {
+      "en": "to allow; to promise",
+      "ru": "разрешать; обещать",
+      "ee": "lubama",
+      "ee_da": "lubada",
+      "ee_mina": "luban",
+      "ee_past_mina": "lubasin",
+      "ee_past_tema": "lubas",
+      "ee_past_neg": "ei lubanud"
+    },
+    {
+      "en": "application; statement",
+      "ru": "заявление",
+      "ee": "avaldus",
+      "ee_2": "avalduse",
+      "ee_3": "avaldust",
+      "ee_p": "avaldused",
+      "ee_p2": "avalduste",
+      "ee_p3": "avaldusi"
+    },
+    {
+      "en": "need; necessity",
+      "ru": "потребность; необходимость",
+      "ee": "vajadus",
+      "ee_2": "vajaduse",
+      "ee_3": "vajadust",
+      "ee_p": "vajadused",
+      "ee_p2": "vajaduste",
+      "ee_p3": "vajadusi"
+    },
+    {
+      "en": "to hike; trek",
+      "ru": "ходить в поход",
+      "ee": "matkama",
+      "ee_da": "matkata",
+      "ee_mina": "matkan",
+      "ee_past_mina": "matkasin",
+      "ee_past_tema": "matkas",
+      "ee_past_neg": "ei matkanud"
+    },
+    {
+      "en": "to pack",
+      "ru": "паковать",
+      "ee": "pakkima",
+      "ee_da": "pakkida",
+      "ee_mina": "pakin",
+      "ee_past_mina": "pakkisin",
+      "ee_past_tema": "pakkis",
+      "ee_past_neg": "ei pakkinud"
+    },
+    {
+      "en": "to fall",
+      "ru": "падать",
+      "ee": "kukkuma",
+      "ee_da": "kukkuda",
+      "ee_mina": "kukun",
+      "ee_past_mina": "kukkusin",
+      "ee_past_tema": "kukkus",
+      "ee_past_neg": "ei kukkunud"
+    },
+    {
+      "en": "to research; investigate",
+      "ru": "исследовать; изучать",
+      "ee": "uurima",
+      "ee_da": "uurida",
+      "ee_mina": "uurin",
+      "ee_past_mina": "uurisin",
+      "ee_past_tema": "uuris",
+      "ee_past_neg": "ei uurinud"
+    },
+    {
+      "en": "to reduce; decrease",
+      "ru": "уменьшать",
+      "ee": "vähendama",
+      "ee_da": "vähendada",
+      "ee_mina": "vähendan",
+      "ee_past_mina": "vähendasin",
+      "ee_past_tema": "vähendas",
+      "ee_past_neg": "ei vähendanud"
+    },
+    {
+      "en": "to preserve; retain",
+      "ru": "сохранять",
+      "ee": "säilitama",
+      "ee_da": "säilitada",
+      "ee_mina": "säilitan",
+      "ee_past_mina": "säilitasin",
+      "ee_past_tema": "säilitas",
+      "ee_past_neg": "ei säilitanud"
+    }
+  ]
+}
