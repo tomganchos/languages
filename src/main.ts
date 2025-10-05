@@ -9,3 +9,11 @@ import App from './App.vue'
 const pinia = createPinia()
 
 createApp(App).use(router).use(pinia).mount('#app')
+
+// PWA: Register service worker (works in dev + build with Vite base)
+if ('serviceWorker' in navigator) {
+  const swUrl = new URL('./sw.js', window.location.origin).toString();
+  window.addEventListener('load', () => {
+    navigator.serviceWorker.register(swUrl).catch(console.error);
+  });
+}
