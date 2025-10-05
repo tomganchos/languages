@@ -13,8 +13,9 @@ createApp(App).use(router).use(pinia).mount('#app')
 // PWA: Register service worker (works in dev + build with Vite base)
 if ('serviceWorker' in navigator) {
     window.addEventListener('load', () => {
-        navigator.serviceWorker
-            .register(`${import.meta.env.BASE_URL}sw.js`)
-            .catch(console.error);
+        navigator.serviceWorker.register(
+            `${import.meta.env.BASE_URL}sw.js`,
+            { scope: import.meta.env.BASE_URL }
+        ).catch(console.error);
     });
 }
